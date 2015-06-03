@@ -1,0 +1,2562 @@
+{
+ "id": "/m/07c5kt",
+ "property": {
+  "/award/award_nominated_work/award_nominations": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Razzie Award for Worst Supporting Actor - David Thewlis - Basic Instinct 2 - 2006 - leogrant - Award Nomination",
+     "lang": "en",
+     "id": "/m/09dvjyl",
+     "creator": "/user/marivie",
+     "timestamp": "2010-02-08T02:43:17.000Z",
+     "property": {
+      "/award/award_nomination/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Razzie Award for Worst Supporting Actor",
+         "lang": "en",
+         "id": "/m/04ljl_l",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_nomination/award_nominee": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "David Thewlis",
+         "lang": "en",
+         "id": "/m/03jj93",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_nomination/nominated_for": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Basic Instinct 2",
+         "lang": "en",
+         "id": "/m/06bd5j",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/award/award_nomination/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2006",
+         "lang": "",
+         "value": "2006",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "leogrant",
+         "lang": "en",
+         "id": "/m/08hd06m",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Nomination",
+         "lang": "en",
+         "id": "/award/award_nomination",
+         "creator": "/user/leogrant",
+         "timestamp": "2009-12-13T23:00:20.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Satellite Award for Best DVD Extra - 2006 - wnacional - Award Nomination",
+     "lang": "en",
+     "id": "/m/0n5k_6p",
+     "creator": "/user/wnacional",
+     "timestamp": "2012-10-15T02:58:37.000Z",
+     "property": {
+      "/award/award_nomination/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Satellite Award for Best DVD Extra",
+         "lang": "en",
+         "id": "/m/0ghwfzj",
+         "creator": "/user/wnacional",
+         "timestamp": "2012-10-15T02:58:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_nomination/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2006",
+         "lang": "",
+         "value": "2006",
+         "creator": "/user/wnacional",
+         "timestamp": "2012-10-15T02:58:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "wnacional",
+         "lang": "en",
+         "id": "/m/0h74ynk",
+         "creator": "/user/wnacional",
+         "timestamp": "2012-10-15T02:58:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Nomination",
+         "lang": "en",
+         "id": "/award/award_nomination",
+         "creator": "/user/wnacional",
+         "timestamp": "2012-10-15T02:58:37.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The Omen: 666",
+     "lang": "en",
+     "value": "The Omen: 666",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:17:45.000Z"
+    },
+    {
+     "text": "Omen 666",
+     "lang": "en",
+     "value": "Omen 666",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:32:12.000Z"
+    },
+    {
+     "text": "Omen",
+     "lang": "en",
+     "value": "Omen",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:32:12.000Z"
+    },
+    {
+     "text": "The Omen 666",
+     "lang": "en",
+     "value": "The Omen 666",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:32:12.000Z"
+    }
+   ],
+   "count": 5.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "The Omen (also known as The Omen: 666) is a 2006 remake of Richard Donner's The Omen of 1976 and...",
+     "lang": "en",
+     "id": "/m/07c5k_",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T09:56:21.007Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/2425302",
+         "lang": "",
+         "value": "http://wp/en/2425302",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T09:56:21.007Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "The Omen (also known as The Omen: 666) is a 2006 remake of Richard Donner's The Omen of 1976 and...",
+         "lang": "en",
+         "value": "The Omen (also known as The Omen: 666) is a 2006 remake of Richard Donner's The Omen of 1976 and a part of The Omen series. Directed by John Moore and written by David Seltzer, the film stars Liev Schreiber, Julia Stiles and Seamus Davey-Fitzpatrick. It was released worldwide on June 6, 2006.\nRobert Thorn (Liev Schreiber), an American diplomat stationed in Italy, is told that his son died soon after birth. To spare the anguish of his still unconscious wife, Katherine (Julia Stiles), Robert accepts the suggestion of the hospital's Catholic priest, Father Spiletto (Giovanni Lombardo Radice) to secretly adopt another newborn whose mother died in childbirth. Robert and Katherine raise the boy as their own and name him Damien.\nRobert's career ascends over the course of the next five years. He is named Deputy Ambassador to the United Kingdom, and after the ambassador dies in a bizarre accident, becomes Ambassador and settles into a large estate just outside London. However, disturbing events start to revolve around Damien (Seamus Davey-Fitzpatrick), the most prominent being his nanny hanging herself at his birthday party, driven to do so by a large black dog (a black German",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T09:56:21.007Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T09:56:21.007Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T09:56:21.007Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The Omen is a 2006 remake of Richard Donner's The Omen. Directed by John Moore and written by...",
+     "lang": "en",
+     "value": "The Omen is a 2006 remake of Richard Donner's The Omen. Directed by John Moore and written by David Seltzer, the film stars Julia Stiles, Liev Schreiber, and Mia Farrow. It was released worldwide on June 6, 2006.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/The_Omen_(2006_film)"
+     }
+    }
+   ],
+   "count": 15.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Horror",
+     "lang": "en",
+     "id": ""
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Film",
+     "lang": "en",
+     "id": "/film/film"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=2425302",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=2425302",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T09:56:21.006Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=1518874",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=1518874",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T08:27:01.001Z"
+    },
+    {
+     "text": "http://bg.wikipedia.org/wiki/index.html?curid=98223",
+     "lang": "",
+     "value": "http://bg.wikipedia.org/wiki/index.html?curid=98223",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T10:44:51.001Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=643720",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=643720",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T00:44:05.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=772352",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=772352",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T03:56:18.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=2793641",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=2793641",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T05:33:14.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=852937",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=852937",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T22:51:41.001Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/¥ª©`¥á¥ó_(2006Äê¤ÎÓ³»­)",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/¥ª©`¥á¥ó_(2006Äê¤ÎÓ³»­)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T12:53:42.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/The_Omen_(2006)",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/The_Omen_(2006)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T21:17:45.000Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/§°§Þ§Ö§ß_(§æ§Ú§Ý§î§Þ,_2006)",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/§°§Þ§Ö§ß_(§æ§Ú§Ý§î§Þ,_2006)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T23:23:00.001Z"
+    }
+   ],
+   "count": 50.0
+  },
+  "/film/film/cinematography": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Jonathan Sela",
+     "lang": "en",
+     "id": "/m/0k6100",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/costume_design_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George L. Little",
+     "lang": "en",
+     "id": "/m/05svfb_",
+     "creator": "/user/akeko",
+     "timestamp": "2010-04-11T12:54:10.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/country": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-05T20:23:15.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/directed_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "John Moore",
+     "lang": "en",
+     "id": "/m/0brd0c",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:33.005Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/distributors": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "20th Century Fox - mw_template_bot - Film-Film distributor relationship",
+     "lang": "en",
+     "id": "/m/059r3xp",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-12T22:58:53.000Z",
+     "property": {
+      "/film/film_film_distributor_relationship/distributor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "20th Century Fox",
+         "lang": "en",
+         "id": "/m/016tt2",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-01-12T22:58:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mw_template_bot",
+         "lang": "en",
+         "id": "/m/059qh_f",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-01-12T22:58:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film-Film distributor relationship",
+         "lang": "en",
+         "id": "/film/film_film_distributor_relationship",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-01-12T22:58:53.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/edited_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Dan Zimmerman",
+     "lang": "en",
+     "id": "/m/0c1rr2j",
+     "creator": "/user/alden",
+     "timestamp": "2010-06-23T00:40:39.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/estimated_budget": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "25000000.0 - United States Dollar - supergmackenz - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0h17r9k",
+     "creator": "/user/supergmackenz",
+     "timestamp": "2011-08-11T22:05:32.001Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "25000000.0",
+         "lang": "en",
+         "value": 2.5E7,
+         "creator": "/user/supergmackenz",
+         "timestamp": "2011-08-11T22:05:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/supergmackenz",
+         "timestamp": "2011-08-11T22:05:32.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "supergmackenz",
+         "lang": "en",
+         "id": "/m/0h16_t8",
+         "creator": "/user/supergmackenz",
+         "timestamp": "2011-08-11T22:05:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/supergmackenz",
+         "timestamp": "2011-08-11T22:05:32.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/executive_produced_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Jeffrey Stott",
+     "lang": "en",
+     "id": "/m/0k49r6",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:29:13.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/film_art_direction_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Kate?ina Kopicov¨¢",
+     "lang": "en",
+     "id": "/m/0gj3hmm",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:30:56.000Z"
+    },
+    {
+     "text": "Laura Pozzaglio",
+     "lang": "en",
+     "id": "/m/0h5v9vq",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:30:56.000Z"
+    },
+    {
+     "text": "Martin Kurel",
+     "lang": "en",
+     "id": "/m/0chz159",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:30:56.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/film/film/film_casting_director": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Susie Figgis",
+     "lang": "en",
+     "id": "/m/0982w_z",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:29:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/film_production_design_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Patrick Lumb",
+     "lang": "en",
+     "id": "/m/09f3cx2",
+     "creator": "/user/carolah",
+     "timestamp": "2011-02-17T19:02:15.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/film_set_decoration_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Paki Smith",
+     "lang": "en",
+     "id": "/m/0bbc759",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:31:21.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/genre": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Horror",
+     "lang": "en",
+     "id": "/m/03npn",
+     "creator": "/user/merge_bot",
+     "timestamp": "2009-06-05T09:03:32.001Z"
+    },
+    {
+     "text": "Supernatural",
+     "lang": "en",
+     "id": "/m/0fdjb",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2009-10-21T03:25:43.000Z"
+    },
+    {
+     "text": "Cult film",
+     "lang": "en",
+     "id": "/m/01q03",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-08-31T02:46:00.001Z"
+    },
+    {
+     "text": "Demonic child",
+     "lang": "en",
+     "id": "/m/0g9psvk",
+     "creator": "/user/gmackenz",
+     "timestamp": "2011-02-08T21:36:13.000Z"
+    },
+    {
+     "text": "Thriller",
+     "lang": "en",
+     "id": "/m/01jfsb",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:26:02.000Z"
+    }
+   ],
+   "count": 5.0
+  },
+  "/film/film/initial_release_date": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-06-06",
+     "lang": "",
+     "value": "2006-06-06",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/language": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "English Language",
+     "lang": "en",
+     "id": "/m/02h40lc",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T23:01:46.001Z"
+    },
+    {
+     "text": "Italian Language",
+     "lang": "en",
+     "id": "/m/02bjrlw",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-09-30T09:25:48.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/film/film/metacritic_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "omen",
+     "lang": "",
+     "value": "omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2010-04-08T22:12:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/music": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Marco Beltrami",
+     "lang": "en",
+     "id": "/m/0b6yp2",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T23:01:46.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/netflix_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "70044884",
+     "lang": "",
+     "value": "70044884",
+     "creator": "/user/netflixbot",
+     "timestamp": "2008-08-13T00:52:44.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/produced_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Glenn Williamson",
+     "lang": "en",
+     "id": "/m/0jzhcz",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.002Z"
+    },
+    {
+     "text": "John Moore",
+     "lang": "en",
+     "id": "/m/0brd0c",
+     "creator": "/user/tfmorris",
+     "timestamp": "2010-04-20T07:53:59.002Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/film/film/rating": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "R (USA)",
+     "lang": "en",
+     "id": "/m/0kprd8",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-07-15T20:26:05.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/release_date_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Theatrical - United States of America - 2006-06-06 - mdlaquian - Film regional release date",
+     "lang": "en",
+     "id": "/m/0jsp07y",
+     "creator": "/user/mdlaquian",
+     "timestamp": "2012-05-16T08:14:52.000Z",
+     "property": {
+      "/film/film_regional_release_date/film_release_distribution_medium": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Theatrical",
+         "lang": "en",
+         "id": "/m/03w5s2s",
+         "creator": "/user/mdlaquian",
+         "timestamp": "2012-05-16T08:14:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/film_regional_release_date/film_release_region": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/mdlaquian",
+         "timestamp": "2012-05-16T08:14:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/film_regional_release_date/release_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2006-06-06",
+         "lang": "",
+         "value": "2006-06-06",
+         "creator": "/user/mdlaquian",
+         "timestamp": "2012-05-16T08:14:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mdlaquian",
+         "lang": "en",
+         "id": "/m/0gtmcv_",
+         "creator": "/user/mdlaquian",
+         "timestamp": "2012-05-16T08:14:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film regional release date",
+         "lang": "en",
+         "id": "/film/film_regional_release_date",
+         "creator": "/user/mdlaquian",
+         "timestamp": "2012-05-16T08:14:52.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/rottentomatoes_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "omen",
+     "lang": "",
+     "value": "omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-08T08:40:25.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/runtime": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "110.0 - Freebase Data Team - Film cut",
+     "lang": "en",
+     "id": "/m/0k611d",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.002Z",
+     "property": {
+      "/film/film_cut/runtime": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "110.0",
+         "lang": "en",
+         "value": 110.0,
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film cut",
+         "lang": "en",
+         "id": "/film/film_cut",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "109.0 - hal - Film cut",
+     "lang": "en",
+     "id": "/m/0glbbbp",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-26T00:42:56.000Z",
+     "property": {
+      "/film/film_cut/runtime": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "109.0",
+         "lang": "en",
+         "value": 109.0,
+         "creator": "/user/emariemoura",
+         "timestamp": "2011-11-28T14:58:49.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "hal",
+         "lang": "en",
+         "id": "/m/0gl75b3",
+         "creator": "/user/hal",
+         "timestamp": "2011-04-26T00:42:56.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film cut",
+         "lang": "en",
+         "id": "/film/film_cut",
+         "creator": "/user/hal",
+         "timestamp": "2011-04-26T00:42:56.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "105.0 - emariemoura - Film cut",
+     "lang": "en",
+     "id": "/m/0hhwrwl",
+     "creator": "/user/emariemoura",
+     "timestamp": "2011-11-28T14:58:49.000Z",
+     "property": {
+      "/film/film_cut/runtime": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "105.0",
+         "lang": "en",
+         "value": 105.0,
+         "creator": "/user/emariemoura",
+         "timestamp": "2011-11-28T14:58:49.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "emariemoura",
+         "lang": "en",
+         "id": "/m/0gtmdcs",
+         "creator": "/user/emariemoura",
+         "timestamp": "2011-11-28T14:58:49.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film cut",
+         "lang": "en",
+         "id": "/film/film_cut",
+         "creator": "/user/emariemoura",
+         "timestamp": "2011-11-28T14:58:49.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 3.0
+  },
+  "/film/film/soundtrack": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Omen",
+     "lang": "en",
+     "id": "/m/03xxgjx",
+     "creator": "/user/sgrancioso",
+     "timestamp": "2012-06-13T03:16:44.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/starring": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Liev Schreiber - Robert Thorn - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k610c",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:33.005Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Liev Schreiber",
+         "lang": "en",
+         "id": "/m/0prfz",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Robert Thorn",
+         "lang": "en",
+         "id": "/m/05h9v7w",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.005Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Julia Stiles - Katherine Thorn - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k610j",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:33.006Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Julia Stiles",
+         "lang": "en",
+         "id": "/m/02jtjz",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Katherine Thorn",
+         "lang": "en",
+         "id": "/m/05h9v7n",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:33.005Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Seamus Davey-Fitzpatrick - Damien Thorn - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k610p",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.000Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Seamus Davey-Fitzpatrick",
+         "lang": "en",
+         "id": "/m/0dcshy",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Damien Thorn",
+         "lang": "en",
+         "id": "/m/09s4pt",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Pete Postlethwaite - Father Brennan - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k610v",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.000Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Pete Postlethwaite",
+         "lang": "en",
+         "id": "/m/018swb",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Father Brennan",
+         "lang": "en",
+         "id": "/m/05h9vdj",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Mia Farrow - Mrs. Baylock - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k610_",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.001Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Mia Farrow",
+         "lang": "en",
+         "id": "/m/01cpqk",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Mrs. Baylock",
+         "lang": "en",
+         "id": "/m/043rq8n",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "David Thewlis - Keith Jennings - Freebase Data Team - Film performance",
+     "lang": "en",
+     "id": "/m/0k6114",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.001Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "David Thewlis",
+         "lang": "en",
+         "id": "/m/03jj93",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Keith Jennings",
+         "lang": "en",
+         "id": "/m/05h9vds",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-11-30T19:50:34.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Tomas Wooler - Damien Thorn - 2 Years Old - gmackenz - Film performance",
+     "lang": "en",
+     "id": "/m/05h9v78",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:03:04.001Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Tomas Wooler",
+         "lang": "en",
+         "id": "/m/05h9v7d",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Damien Thorn",
+         "lang": "en",
+         "id": "/m/09s4pt",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character_note": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "2 Years Old",
+         "lang": "en",
+         "value": "2 Years Old",
+         "creator": "/user/emariemoura",
+         "timestamp": "2011-09-30T09:28:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:03:04.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Michael Gambon - Carl Bugenhagen - gmackenz - Film performance",
+     "lang": "en",
+     "id": "/m/05h9vgc",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:10:10.000Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Michael Gambon",
+         "lang": "en",
+         "id": "/m/015rkw",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Carl Bugenhagen",
+         "lang": "en",
+         "id": "/m/05h9vd8",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Giovanni Lombardo Radice - Father Spiletto - gmackenz - Film performance",
+     "lang": "en",
+     "id": "/m/05h9vgk",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:10:10.001Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Giovanni Lombardo Radice",
+         "lang": "en",
+         "id": "/m/0bn0hc",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Father Spiletto",
+         "lang": "en",
+         "id": "/m/05h9vf5",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:10:10.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Nikki Amuka-Bird - Dr. Becker - gmackenz - Film performance",
+     "lang": "en",
+     "id": "/m/05h9vk_",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:13:16.001Z",
+     "property": {
+      "/film/performance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Nikki Amuka-Bird",
+         "lang": "en",
+         "id": "/m/03hk226",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:13:16.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/film/performance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dr. Becker",
+         "lang": "en",
+         "id": "/m/05h9vj2",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:13:16.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:13:16.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Film performance",
+         "lang": "en",
+         "id": "/film/performance",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-02-25T00:13:16.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 13.0
+  },
+  "/film/film/tagline": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "6 + 6 + 06",
+     "lang": "en",
+     "value": "6 + 6 + 06",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:00:03.000Z"
+    },
+    {
+     "text": "His Day Will Come",
+     "lang": "en",
+     "value": "His Day Will Come",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:00:03.000Z"
+    },
+    {
+     "text": "\"Here is wisdom. Let him that hath understanding count the number of the beast; for it is the...",
+     "lang": "en",
+     "value": "\"Here is wisdom. Let him that hath understanding count the number of the beast; for it is the number of a man; and his number is 666.\"- The book of revelations 13:18",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:00:03.000Z"
+    },
+    {
+     "text": "The prophecy is clear. The signs are unmistakable. On the 6th day of the 6th month in the year...",
+     "lang": "en",
+     "value": "The prophecy is clear. The signs are unmistakable. On the 6th day of the 6th month in the year 2006 his day will come.",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:00:03.000Z"
+    },
+    {
+     "text": "From the eternal sea he rises. Creating armies on either shore. Turning man against his brother...",
+     "lang": "en",
+     "value": "From the eternal sea he rises. Creating armies on either shore. Turning man against his brother. Until man exists no more.",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-25T00:00:03.000Z"
+    }
+   ],
+   "count": 5.0
+  },
+  "/film/film/traileraddict_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "the-omen",
+     "lang": "",
+     "value": "the-omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-18T09:34:01.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film/written_by": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "David Seltzer",
+     "lang": "en",
+     "id": "/m/09pc4l",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:34.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/media_common/adaptation/adapted_from": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Omen",
+     "lang": "en",
+     "id": "/m/019k65",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-24T23:46:39.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/media_common/netflix_title/netflix_genres": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Satanic Stories",
+     "lang": "en",
+     "id": "/m/0cq23bp",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-08-31T06:47:58.000Z"
+    },
+    {
+     "text": "Cult Horror",
+     "lang": "en",
+     "id": "/m/0cq22zw",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-08-31T07:08:52.000Z"
+    },
+    {
+     "text": "Horror",
+     "lang": "en",
+     "id": "/m/03npn",
+     "creator": "/user/merge_bot",
+     "timestamp": "2011-06-15T22:26:50.001Z"
+    },
+    {
+     "text": "Horror Movies",
+     "lang": "en",
+     "id": "/m/0gw5nj4",
+     "creator": "/user/netflixbot",
+     "timestamp": "2011-06-20T11:46:34.000Z"
+    },
+    {
+     "text": "Cult Horror Movies",
+     "lang": "en",
+     "id": "/m/0gw5q2t",
+     "creator": "/user/netflixbot",
+     "timestamp": "2011-06-20T11:46:34.000Z"
+    },
+    {
+     "text": "Supernatural Horror",
+     "lang": "en",
+     "id": "/m/0cq22q5",
+     "creator": "/user/merge_bot",
+     "timestamp": "2011-12-27T19:09:15.000Z"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T09:56:21.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/2425302",
+     "lang": "",
+     "value": "/wikipedia/en_id/2425302",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T09:56:21.006Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Omen_$00282006_film$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Omen_$00282006_film$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T09:56:21.007Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Omen_666",
+     "lang": "",
+     "value": "/wikipedia/en/The_Omen_666",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-25T01:55:28.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Omen_666",
+     "lang": "",
+     "value": "/wikipedia/en/Omen_666",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-25T03:03:01.001Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Omen_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Omen_$00282006$0029",
+     "creator": "/user/tristan",
+     "timestamp": "2007-04-11T01:37:35.000Z"
+    },
+    {
+     "text": "/authority/imdb/title/tt0466909",
+     "lang": "",
+     "value": "/authority/imdb/title/tt0466909",
+     "creator": "/user/imdb_bot",
+     "timestamp": "2008-07-10T20:33:18.003Z"
+    },
+    {
+     "text": "/authority/netflix/movie/70044884",
+     "lang": "",
+     "value": "/authority/netflix/movie/70044884",
+     "creator": "/user/netflixbot",
+     "timestamp": "2008-08-13T00:52:44.000Z"
+    },
+    {
+     "text": "/en/the_omen_2006",
+     "lang": "",
+     "value": "/en/the_omen_2006",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-12T00:41:20.000Z"
+    },
+    {
+     "text": "/source/rottentomatoes/movie/omen",
+     "lang": "",
+     "value": "/source/rottentomatoes/movie/omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-08T08:40:25.001Z"
+    },
+    {
+     "text": "/source/traileraddict/movie/the-omen",
+     "lang": "",
+     "value": "/source/traileraddict/movie/the-omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-18T09:34:01.001Z"
+    },
+    {
+     "text": "/source/traileraddict/embed/1035",
+     "lang": "",
+     "value": "/source/traileraddict/embed/1035",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-18T09:35:25.000Z"
+    },
+    {
+     "text": "/source/entertainmentweekly/mediaproduct/MovieTheOmenMovie2006",
+     "lang": "",
+     "value": "/source/entertainmentweekly/mediaproduct/MovieTheOmenMovie2006",
+     "creator": "/user/linkbot",
+     "timestamp": "2009-11-27T09:26:09.000Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/009f-5552",
+     "lang": "",
+     "value": "/user/avh/ellerdale/009f-5552",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-19T08:17:39.002Z"
+    },
+    {
+     "text": "/source/metacritic/movie/omen",
+     "lang": "",
+     "value": "/source/metacritic/movie/omen",
+     "creator": "/user/linkbot",
+     "timestamp": "2010-04-08T22:12:35.000Z"
+    },
+    {
+     "text": "/authority/netflix/api/http$003A$002F$002Fapi$002Enetflix$002Ecom$002Fcatalog$002Ftitles$002Fmovies$002F70044884",
+     "lang": "",
+     "value": "/authority/netflix/api/http$003A$002F$002Fapi$002Enetflix$002Ecom$002Fcatalog$002Ftitles$002Fmovies$002F70044884",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-07-15T20:41:00.000Z"
+    },
+    {
+     "text": "/authority/netflix/tiny/BVURQ",
+     "lang": "",
+     "value": "/authority/netflix/tiny/BVURQ",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-07-15T20:59:39.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/1518874",
+     "lang": "",
+     "value": "/wikipedia/de_id/1518874",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T08:27:01.001Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/98223",
+     "lang": "",
+     "value": "/wikipedia/bg_id/98223",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T10:44:51.001Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$043E$043B$0438$0447$0431$0430$0442$0430_666",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$043E$043B$0438$0447$0431$0430$0442$0430_666",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T22:31:31.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/643720",
+     "lang": "",
+     "value": "/wikipedia/ru_id/643720",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T00:44:05.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Das_Omen_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/de/Das_Omen_$00282006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T03:56:18.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/772352",
+     "lang": "",
+     "value": "/wikipedia/ja_id/772352",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T03:56:18.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/2793641",
+     "lang": "",
+     "value": "/wikipedia/pt_id/2793641",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T05:33:14.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/852937",
+     "lang": "",
+     "value": "/wikipedia/it_id/852937",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T22:51:41.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Omen_-_Il_presagio",
+     "lang": "",
+     "value": "/wikipedia/it/Omen_-_Il_presagio",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T07:42:14.001Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30AA$30FC$30E1$30F3_$00282006$5E74$306E$6620$753B$0029",
+     "lang": "",
+     "value": "/wikipedia/ja/$30AA$30FC$30E1$30F3_$00282006$5E74$306E$6620$753B$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T02:15:55.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041E$043C$0435$043D_$0028$0444$0438$043B$044C$043C$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/ru/$041E$043C$0435$043D_$0028$0444$0438$043B$044C$043C$002C_2006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T01:18:09.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/The_Omen_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/The_Omen_$00282006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:51:12.000Z"
+    },
+    {
+     "text": "/source/clicker/film/the-omen",
+     "lang": "",
+     "value": "/source/clicker/film/the-omen",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-12-17T22:25:31.000Z"
+    },
+    {
+     "text": "/source/nate/cinema_id/35676",
+     "lang": "",
+     "value": "/source/nate/cinema_id/35676",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/source/cineseoul/cinemaid/35676",
+     "lang": "",
+     "value": "/source/cineseoul/cinemaid/35676",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/source/daum/movieid/41500",
+     "lang": "",
+     "value": "/source/daum/movieid/41500",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/source/movist/mid/38803",
+     "lang": "",
+     "value": "/source/movist/mid/38803",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/source/maxmovie/m_id/M000035186",
+     "lang": "",
+     "value": "/source/maxmovie/m_id/M000035186",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/source/cine21/movie/18926",
+     "lang": "",
+     "value": "/source/cine21/movie/18926",
+     "creator": "/user/hal",
+     "timestamp": "2011-04-20T02:10:12.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30AA$30FC$30E1$30F3_$00282006$5E74$306E$6620$753B$0029",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30AA$30FC$30E1$30F3_$00282006$5E74$306E$6620$753B$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T12:53:42.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/The_Omen_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/pt_title/The_Omen_$00282006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T21:17:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$041E$043C$0435$043D_$0028$0444$0438$043B$044C$043C$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$041E$043C$0435$043D_$0028$0444$0438$043B$044C$043C$002C_2006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T23:23:00.001Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$041F$043E$043B$0438$0447$0431$0430$0442$0430_666",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$041F$043E$043B$0438$0447$0431$0430$0442$0430_666",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T07:45:27.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Das_Omen_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/Das_Omen_$00282006$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T18:08:04.001Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Omen_-_Il_presagio",
+     "lang": "",
+     "value": "/wikipedia/it_title/Omen_-_Il_presagio",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T19:22:59.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/The_Omen_$00282006_film$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/The_Omen_$00282006_film$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T10:50:24.001Z"
+    },
+    {
+     "text": "/source/allocine/ca/film/61640",
+     "lang": "",
+     "value": "/source/allocine/ca/film/61640",
+     "creator": "/user/jon",
+     "timestamp": "2011-08-09T22:45:27.000Z"
+    },
+    {
+     "text": "/source/beyazperde/filmler/61640",
+     "lang": "",
+     "value": "/source/beyazperde/filmler/61640",
+     "creator": "/user/jon",
+     "timestamp": "2011-08-15T19:16:55.001Z"
+    },
+    {
+     "text": "/source/screenrush/films/61640",
+     "lang": "",
+     "value": "/source/screenrush/films/61640",
+     "creator": "/user/jon",
+     "timestamp": "2011-10-27T23:04:05.000Z"
+    },
+    {
+     "text": "/source/allocine/fr/film/61640",
+     "lang": "",
+     "value": "/source/allocine/fr/film/61640",
+     "creator": "/user/jon",
+     "timestamp": "2012-03-28T22:16:37.000Z"
+    },
+    {
+     "text": "/source/filmstarts/kritiken/39194-Das-Omen",
+     "lang": "",
+     "value": "/source/filmstarts/kritiken/39194-Das-Omen",
+     "creator": "/user/jon",
+     "timestamp": "2012-03-29T01:15:36.000Z"
+    },
+    {
+     "text": "/base/ranker/rankerurlname/the-omen$002F2211351",
+     "lang": "",
+     "value": "/base/ranker/rankerurlname/the-omen$002F2211351",
+     "creator": "/user/ravi_ranker",
+     "timestamp": "2012-12-02T13:36:59.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Omen_$0028film_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Omen_$0028film_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:30:12.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Omen_$2013_Il_presagio",
+     "lang": "",
+     "value": "/wikipedia/it/Omen_$2013_Il_presagio",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:30:47.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/2190210",
+     "lang": "",
+     "value": "/wikipedia/pl_id/2190210",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:11.000Z"
+    },
+    {
+     "text": "/wikipedia/es/La_profec$00EDa_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/es/La_profec$00EDa_$00282006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:17.000Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/$00D3men_$0028film$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/hu_title/$00D3men_$0028film$002C_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:44.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Omen_il_presagio",
+     "lang": "",
+     "value": "/wikipedia/it/Omen_il_presagio",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:56.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/The_Omen_666",
+     "lang": "",
+     "value": "/wikipedia/nl/The_Omen_666",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:58.000Z"
+    },
+    {
+     "text": "/wikipedia/pl/Omen_$0028film_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/pl/Omen_$0028film_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:31:59.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/La_Mal$00E9diction_$0028film$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/La_Mal$00E9diction_$0028film$002C_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:00.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/1476010",
+     "lang": "",
+     "value": "/wikipedia/es_id/1476010",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:05.000Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/The_Omen_666",
+     "lang": "",
+     "value": "/wikipedia/nl_title/The_Omen_666",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:17.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/La_Mal$00E9diction_$0028film$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/La_Mal$00E9diction_$0028film$002C_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:23.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Das_Omen_666",
+     "lang": "",
+     "value": "/wikipedia/de/Das_Omen_666",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:31.000Z"
+    },
+    {
+     "text": "/wikipedia/es/La_profec$00EDa_$0028pel$00EDcula_de_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/es/La_profec$00EDa_$0028pel$00EDcula_de_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:50.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/The_Omen_$0028vuoden_2006_elokuva$0029",
+     "lang": "",
+     "value": "/wikipedia/fi_title/The_Omen_$0028vuoden_2006_elokuva$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:32:54.000Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/612007",
+     "lang": "",
+     "value": "/wikipedia/nl_id/612007",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:33:27.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/666$002C_la_malediction",
+     "lang": "",
+     "value": "/wikipedia/fr/666$002C_la_malediction",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:33:34.000Z"
+    },
+    {
+     "text": "/wikipedia/es_title/La_profec$00EDa_$0028pel$00EDcula_de_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/es_title/La_profec$00EDa_$0028pel$00EDcula_de_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:33:37.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/692002",
+     "lang": "",
+     "value": "/wikipedia/fi_id/692002",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:33:40.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/842000",
+     "lang": "",
+     "value": "/wikipedia/fr_id/842000",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:33:47.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30AA$30FC$30E1$30F3666",
+     "lang": "",
+     "value": "/wikipedia/ja/$30AA$30FC$30E1$30F3666",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:34:20.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/666$002C_la_mal$00E9diction",
+     "lang": "",
+     "value": "/wikipedia/fr/666$002C_la_mal$00E9diction",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:34:30.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/The_Omen_$0028vuoden_2006_elokuva$0029",
+     "lang": "",
+     "value": "/wikipedia/fi/The_Omen_$0028vuoden_2006_elokuva$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:34:44.000Z"
+    },
+    {
+     "text": "/wikipedia/es/La_profecia_$00282006$0029",
+     "lang": "",
+     "value": "/wikipedia/es/La_profecia_$00282006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:34:45.000Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/113044",
+     "lang": "",
+     "value": "/wikipedia/hu_id/113044",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:34:49.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041E$043C$0435$043D_666",
+     "lang": "",
+     "value": "/wikipedia/ru/$041E$043C$0435$043D_666",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:35:10.000Z"
+    },
+    {
+     "text": "/wikipedia/hu/$00D3men_$0028film$002C_2006$0029",
+     "lang": "",
+     "value": "/wikipedia/hu/$00D3men_$0028film$002C_2006$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:35:28.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/666$002C_La_Mal$00E9diction",
+     "lang": "",
+     "value": "/wikipedia/fr/666$002C_La_Mal$00E9diction",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T19:36:01.000Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/44710",
+     "lang": "",
+     "value": "/wikipedia/uk_id/44710",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:57:45.005Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041E$043C$0435$043D",
+     "lang": "",
+     "value": "/wikipedia/uk/$041E$043C$0435$043D",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:57:53.006Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041E$043C$0435$043D_$0028$0444$0456$043B$044C$043C$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$041E$043C$0435$043D_$0028$0444$0456$043B$044C$043C$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:58:02.005Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$041E$043C$0435$043D_$0028$0444$0456$043B$044C$043C$0029",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$041E$043C$0435$043D_$0028$0444$0456$043B$044C$043C$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:58:04.007Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C624$BA58_$00282006$B144_$C601$D654$0029",
+     "lang": "",
+     "value": "/wikipedia/ko/$C624$BA58_$00282006$B144_$C601$D654$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-04T18:31:06.011Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$C624$BA58_$00282006$B144_$C601$D654$0029",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$C624$BA58_$00282006$B144_$C601$D654$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-04T18:33:56.007Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/995000",
+     "lang": "",
+     "value": "/wikipedia/ko_id/995000",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-04T18:34:18.002Z"
+    },
+    {
+     "text": "/source/showtimes/intl/movie/0xe8dff97e21383564",
+     "lang": "",
+     "value": "/source/showtimes/intl/movie/0xe8dff97e21383564",
+     "creator": "/user/smart_cookie",
+     "timestamp": "2013-10-08T19:20:32.000Z"
+    }
+   ],
+   "count": 84.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/07c5kt",
+     "lang": "",
+     "value": "/m/07c5kt"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The Omen",
+     "lang": "en",
+     "value": "The Omen",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T09:56:21.007Z"
+    }
+   ],
+   "count": 16.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Film",
+     "lang": "en",
+     "id": "/film/film",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-11-30T19:50:33.004Z"
+    },
+    {
+     "text": "Adaptation",
+     "lang": "en",
+     "id": "/media_common/adaptation",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-02-24T23:46:40.000Z"
+    },
+    {
+     "text": "Award-Nominated Work",
+     "lang": "en",
+     "id": "/award/award_nominated_work",
+     "creator": "/user/marivie",
+     "timestamp": "2010-02-08T02:43:17.000Z"
+    },
+    {
+     "text": "Netflix Title",
+     "lang": "en",
+     "id": "/media_common/netflix_title",
+     "creator": "/user/netflixbot",
+     "timestamp": "2010-08-31T19:15:59.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 5.0
+  },
+  "/common/topic/notable_properties": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Initial release date",
+     "lang": "en",
+     "id": "/film/film/initial_release_date"
+    },
+    {
+     "text": "Directed by",
+     "lang": "en",
+     "id": "/film/film/directed_by"
+    },
+    {
+     "text": "Rated",
+     "lang": "en",
+     "id": "/film/film/rating"
+    },
+    {
+     "text": "Runtime",
+     "lang": "en",
+     "id": "/film/film/runtime"
+    },
+    {
+     "text": "Estimated budget",
+     "lang": "en",
+     "id": "/film/film/estimated_budget"
+    },
+    {
+     "text": "Estimated budget",
+     "lang": "en",
+     "id": "/film/film/estimated_budget"
+    },
+    {
+     "text": "Produced by",
+     "lang": "en",
+     "id": "/film/film/produced_by"
+    },
+    {
+     "text": "Screenplay by",
+     "lang": "en",
+     "id": "/film/film/written_by"
+    }
+   ],
+   "count": 8.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000759639",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000759639"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-23T09:56:21.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-23T09:56:21.006Z",
+     "lang": "en",
+     "value": "2006-10-23T09:56:21.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

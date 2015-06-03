@@ -1,0 +1,1037 @@
+{
+ "id": "/m/07jmsb",
+ "property": {
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Smile was a British Sunday morning children's programme created by production company Darrall...",
+     "lang": "en",
+     "id": "/m/07jmsh",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T10:33:25.004Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/2506611",
+         "lang": "",
+         "value": "http://wp/en/2506611",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T10:33:25.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Smile was a British Sunday morning children's programme created by production company Darrall...",
+         "lang": "en",
+         "value": "Smile was a British Sunday morning children's programme created by production company Darrall Macqueen Ltd for CBBC. It first aired in 2002 and was originally shown on the CBBC Channel. It was moved to BBC Two to make way for Dick and Dom in da Bungalow. Although Dick and Dom finished in 2006, Smile never moved back to the CBBC Channel. The final programme was broadcast on 26 August 2007, from 7:30 until 10:00 on BBC Two.\nPrimarily a children's magazine programme featuring celebrity guests, Smile also encouraged audience participation through competitions and games. It won an Indie Award for its interactivity, going on later to win two Children's BAFTAs.\nA number of cartoons and other programme acquisitions have been transmitted during Smile on a rotational basis. Principally these included: Arthur, Batfink, BB3B, Even Stevens, Jakers, Legend of the Dragon and The Likeaballs.\nWhen the show first aired in 2002, it was likened to Saturday morning TV on a Sunday, except without an audience. It had celebrity guests, interviews, performances, games and 'built in' CBBC shows and cartoons.It had a very different feel with Fearne, Reggie and DJ Devstar however once they left the shows",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T10:33:25.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T10:33:25.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T10:33:25.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Smile was a British Sunday morning children's programme created by production company Darrall...",
+     "lang": "en",
+     "value": "Smile was a British Sunday morning children's programme created by production company Darrall Macqueen Ltd for CBBC. It first aired in 2002 and was originally shown on the CBBC Channel. It was moved to BBC Two to make way for Dick and Dom in da Bungalow. Although Dick and Dom finished in 2006, Smile never moved back to the CBBC Channel. The final programme was broadcast on 26 August 2007, from 7:30 until 10:00 on BBC Two.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Smile_(TV_series)"
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Children's television series",
+     "lang": "en",
+     "id": ""
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "TV Program",
+     "lang": "en",
+     "id": "/tv/tv_program"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=2506611",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=2506611",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T10:33:25.003Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Smile_(TV_series)",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Smile_(TV_series)",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T23:24:38.001Z"
+    },
+    {
+     "text": "http://www.tvrage.com/shows/id-11017",
+     "lang": "",
+     "value": "http://www.tvrage.com/shows/id-11017"
+    }
+   ],
+   "count": 3.0
+  },
+  "/common/topic/topical_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.bbc.co.uk/cbbc/smile",
+     "lang": "",
+     "value": "http://www.bbc.co.uk/cbbc/smile",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-31T21:39:27.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/air_date_of_final_episode": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2007-08-26",
+     "lang": "",
+     "value": "2007-08-26",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T23:32:47.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/air_date_of_first_episode": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2002-09-01",
+     "lang": "",
+     "value": "2002-09-01",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T23:32:47.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/country_of_origin": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United Kingdom",
+     "lang": "en",
+     "id": "/m/07ssc",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-12-05T09:25:52.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/currently_in_production": {
+   "valuetype": "bool",
+   "values": [
+    {
+     "text": "True",
+     "lang": "en",
+     "value": true,
+     "creator": "/user/tvrage",
+     "timestamp": "2010-04-24T02:06:59.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/episode_running_time": {
+   "valuetype": "int",
+   "values": [
+    {
+     "text": "150",
+     "lang": "en",
+     "value": 150.0,
+     "creator": "/user/tvrage",
+     "timestamp": "2010-04-24T01:00:07.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/episodes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Show 1",
+     "lang": "en",
+     "id": "/m/06x2y61",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:55.001Z"
+    },
+    {
+     "text": "Show 2",
+     "lang": "en",
+     "id": "/m/06x2y6c",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:56.000Z"
+    },
+    {
+     "text": "Show 3",
+     "lang": "en",
+     "id": "/m/06x2y6p",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:56.001Z"
+    },
+    {
+     "text": "Show 4",
+     "lang": "en",
+     "id": "/m/06x2y6_",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:56.002Z"
+    },
+    {
+     "text": "Show 5",
+     "lang": "en",
+     "id": "/m/06x2y79",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:57.000Z"
+    },
+    {
+     "text": "Show 6",
+     "lang": "en",
+     "id": "/m/06x2y7m",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:57.001Z"
+    },
+    {
+     "text": "Show 7",
+     "lang": "en",
+     "id": "/m/06x2y7y",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:58.000Z"
+    },
+    {
+     "text": "Show 8",
+     "lang": "en",
+     "id": "/m/06x2y87",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:58.001Z"
+    },
+    {
+     "text": "Show 9",
+     "lang": "en",
+     "id": "/m/06x2y8k",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:58.002Z"
+    },
+    {
+     "text": "Show 10",
+     "lang": "en",
+     "id": "/m/06x2y8w",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:59.000Z"
+    }
+   ],
+   "count": 279.0
+  },
+  "/tv/tv_program/genre": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Children's television series",
+     "lang": "en",
+     "id": "/m/0pr6f",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-06T11:59:34.004Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/languages": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "English Language",
+     "lang": "en",
+     "id": "/m/02h40lc",
+     "creator": "/user/ovguide",
+     "timestamp": "2013-02-07T13:43:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/original_network": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "British Broadcasting Corporation - mw_template_bot - TV Program Duration At Network",
+     "lang": "en",
+     "id": "/m/04m3y8x",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-09T05:33:43.000Z",
+     "property": {
+      "/tv/tv_network_duration/network": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "British Broadcasting Corporation",
+         "lang": "en",
+         "id": "/m/0g5lhl7",
+         "creator": "/user/lycel",
+         "timestamp": "2013-02-12T18:43:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mw_template_bot",
+         "lang": "en",
+         "id": "/m/04lqyxt",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-10-09T05:33:43.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Program Duration At Network",
+         "lang": "en",
+         "id": "/tv/tv_network_duration",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-10-09T05:33:43.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/regular_cast": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Rochelle Wiseman - tvrage - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0bnj4rz",
+     "creator": "/user/tvrage",
+     "timestamp": "2010-04-26T08:58:07.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Rochelle Wiseman",
+         "lang": "en",
+         "id": "/m/04my2wy",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-04-26T08:37:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tvrage",
+         "lang": "en",
+         "id": "/m/0bnfpkf",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-04-26T08:21:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-04-26T08:21:32.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Reggie Yates - tvrage - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0bvwhj2",
+     "creator": "/user/tvrage",
+     "timestamp": "2010-05-17T23:31:57.001Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Reggie Yates",
+         "lang": "en",
+         "id": "/m/0698sq",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T19:13:37.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tvrage",
+         "lang": "en",
+         "id": "/m/0bvtvh8",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T17:15:15.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T17:15:15.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Fearne Cotton - tvrage - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0bvwxgt",
+     "creator": "/user/tvrage",
+     "timestamp": "2010-05-18T02:12:51.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Fearne Cotton",
+         "lang": "en",
+         "id": "/m/045ndf",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T23:32:59.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tvrage",
+         "lang": "en",
+         "id": "/m/0bvtvh8",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T17:35:25.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T17:35:25.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Barney Harwood - tvrage - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0bvzz5z",
+     "creator": "/user/tvrage",
+     "timestamp": "2010-05-18T02:28:03.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Barney Harwood",
+         "lang": "en",
+         "id": "/m/08r1zp",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T22:35:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tvrage",
+         "lang": "en",
+         "id": "/m/0bvtvh8",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T20:12:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T20:12:53.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Kirsten O'Brien - tvrage - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0bvyvfd",
+     "creator": "/user/tvrage",
+     "timestamp": "2010-05-18T02:54:14.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Kirsten O'Brien",
+         "lang": "en",
+         "id": "/m/0b1klj",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T19:12:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tvrage",
+         "lang": "en",
+         "id": "/m/0bvtvh8",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-17T19:12:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/tvrage",
+         "timestamp": "2010-05-18T00:15:21.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 5.0
+  },
+  "/tv/tv_program/regular_personal_appearances": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Fearne Cotton - Freebase Data Team - TV regular personal appearance",
+     "lang": "en",
+     "id": "/m/062ty8h",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-05-26T20:57:13.000Z",
+     "property": {
+      "/tv/tv_regular_personal_appearance/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Fearne Cotton",
+         "lang": "en",
+         "id": "/m/045ndf",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-05-26T20:57:13.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/062t791",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-05-26T20:57:13.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV regular personal appearance",
+         "lang": "en",
+         "id": "/tv/tv_regular_personal_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-05-26T20:57:13.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Barney Harwood - Freebase Data Team - TV regular personal appearance",
+     "lang": "en",
+     "id": "/m/09l3hb6",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-01-05T06:11:19.004Z",
+     "property": {
+      "/tv/tv_regular_personal_appearance/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Barney Harwood",
+         "lang": "en",
+         "id": "/m/08r1zp",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/09l2fw7",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV regular personal appearance",
+         "lang": "en",
+         "id": "/tv/tv_regular_personal_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Reggie Yates - Freebase Data Team - TV regular personal appearance",
+     "lang": "en",
+     "id": "/m/09l3hb1",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-01-05T06:11:19.004Z",
+     "property": {
+      "/tv/tv_regular_personal_appearance/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Reggie Yates",
+         "lang": "en",
+         "id": "/m/0698sq",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/09l2fw7",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV regular personal appearance",
+         "lang": "en",
+         "id": "/tv/tv_regular_personal_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:19.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Kirsten O'Brien - Freebase Data Team - TV regular personal appearance",
+     "lang": "en",
+     "id": "/m/09l3hbd",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-01-05T06:11:20.000Z",
+     "property": {
+      "/tv/tv_regular_personal_appearance/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Kirsten O'Brien",
+         "lang": "en",
+         "id": "/m/0b1klj",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/09l2fw7",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV regular personal appearance",
+         "lang": "en",
+         "id": "/tv/tv_regular_personal_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2010-01-05T06:11:20.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 4.0
+  },
+  "/tv/tv_program/seasons": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Smile - Season 1",
+     "lang": "en",
+     "id": "/m/06x2y5v",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:54:55.000Z"
+    },
+    {
+     "text": "Smile - Season 2",
+     "lang": "en",
+     "id": "/m/06x2ynf",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:55:15.000Z"
+    },
+    {
+     "text": "Smile - Season 3",
+     "lang": "en",
+     "id": "/m/06x2z4k",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:55:36.000Z"
+    },
+    {
+     "text": "Smile - Season 4",
+     "lang": "en",
+     "id": "/m/06x2zpf",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:56:00.000Z"
+    },
+    {
+     "text": "Smile - Season 5",
+     "lang": "en",
+     "id": "/m/06x2_60",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:56:29.000Z"
+    },
+    {
+     "text": "Smile - Season 6",
+     "lang": "en",
+     "id": "/m/06x2_pl",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-31T05:56:50.001Z"
+    }
+   ],
+   "count": 6.0
+  },
+  "/tv/tv_program/tvrage_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "11017",
+     "lang": "",
+     "value": "11017",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-07T07:11:47.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T10:33:25.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/2506611",
+     "lang": "",
+     "value": "/wikipedia/en_id/2506611",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T10:33:25.003Z"
+    },
+    {
+     "text": "/wikipedia/en/Smile_$0028TV_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Smile_$0028TV_series$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T10:33:25.004Z"
+    },
+    {
+     "text": "/authority/tvrage/series_numeric/11017",
+     "lang": "",
+     "value": "/authority/tvrage/series_numeric/11017",
+     "creator": "/user/tvrage",
+     "timestamp": "2009-07-07T07:11:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Smile_$0028TV_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/Smile_$0028TV_series$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T23:24:38.001Z"
+    }
+   ],
+   "count": 4.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/07jmsb",
+     "lang": "",
+     "value": "/m/07jmsb"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Smile",
+     "lang": "en",
+     "value": "Smile",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T10:33:25.004Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "TV Program",
+     "lang": "en",
+     "id": "/tv/tv_program",
+     "creator": "/user/jg",
+     "timestamp": "2007-01-21T05:47:08.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/notable_properties": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Original network",
+     "lang": "en",
+     "id": "/tv/tv_program/original_network"
+    },
+    {
+     "text": "Air date of first episode",
+     "lang": "en",
+     "id": "/tv/tv_program/air_date_of_first_episode"
+    },
+    {
+     "text": "Air date of final episode",
+     "lang": "en",
+     "id": "/tv/tv_program/air_date_of_final_episode"
+    },
+    {
+     "text": "Original episode running time",
+     "lang": "en",
+     "id": "/tv/tv_program/episode_running_time"
+    }
+   ],
+   "count": 4.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000784f0a",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000784f0a"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-23T10:33:25.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-23T10:33:25.003Z",
+     "lang": "en",
+     "value": "2006-10-23T10:33:25.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

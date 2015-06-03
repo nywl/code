@@ -1,0 +1,1453 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>G.I. Joe - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=G.I._Joe&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=G.I._Joe&amp;action=edit" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/G.I._Joe" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"G.I._Joe","wgTitle":"G.I. Joe","wgCurRevisionId":577796628,"wgRevisionId":577796628,"wgArticleId":28713688,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2008","All articles needing additional references","Articles that may contain original research from March 2011","All articles that may contain original research","All articles with unsourced statements","Articles with unsourced statements from February 2013","Articles with unsourced statements from November 2010","Articles with unsourced statements from January 2011","Articles with unsourced statements from June 2009","1964 introductions","Action figures","G.I. Joe","Playscale figures","1960s toys","Hasbro brands","1970s toys","1980s toys","1990s toys","2000s toys","2010s toys"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"G.I._Joe","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":28713688,"title":"G.I. Joe","namespace":0,"categories":["1960s toys","1964 introductions","1970s toys","1980s toys","1990s toys","2000s toys","2010s toys","Action figures","All articles needing additional references","All articles that may contain original research","All articles with unsourced statements","Articles needing additional references from December 2008","Articles that may contain original research from March 2011","Articles with unsourced statements from February 2013","Articles with unsourced statements from January 2011","Articles with unsourced statements from June 2009","Articles with unsourced statements from November 2010","G.I. Joe","Hasbro brands","Playscale figures"],"permissionLevel":false},"wgWikibaseItemId":"Q1052347"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-G_I_Joe skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">G.I. Joe</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for verification</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=G.I._Joe&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2008)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=G.I._Joe&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:INCITE" title="Wikipedia:INCITE" class="mw-redirect">inline citations</a>. Statements consisting only of original research may be removed.</span> <small><i>(March 2011)</i></small></span></td>
+</tr>
+</table>
+<div class="dablink">For other uses, see <a href="/wiki/G.I._Joe_(disambiguation)" title="G.I. Joe (disambiguation)">G.I. Joe (disambiguation)</a>.</div>
+<table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="navbox-title" style="text-align:center;font-size:125%;font-weight:bold;">G.I. Joe</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:G.I._Joe_franchise_logo.png" class="image"><img alt="G.I. Joe franchise logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/G.I._Joe_franchise_logo.png/220px-G.I._Joe_franchise_logo.png" width="220" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/G.I._Joe_franchise_logo.png/330px-G.I._Joe_franchise_logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5e/G.I._Joe_franchise_logo.png 2x" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Creator</th>
+<td><a href="/wiki/Hasbro" title="Hasbro">Hasbro</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Original work</th>
+<td><a href="/wiki/G.I._Joe:_America%27s_movable_fighting_man" title="G.I. Joe: America's movable fighting man">America's movable fighting man</a></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-abovebelow" style="text-align:center;">Print publications</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Comics</th>
+<td><a href="/wiki/G.I._Joe_(comics)" title="G.I. Joe (comics)">G.I. Joe comics</a></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-abovebelow" style="text-align:center;">Films and television</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Films</th>
+<td><i><a href="/wiki/G.I._Joe:_The_Rise_of_Cobra" title="G.I. Joe: The Rise of Cobra">The Rise of Cobra</a></i><br />
+<i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">Retaliation</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Animated series</th>
+<td><i><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1985_TV_series)" title="G.I. Joe: A Real American Hero (1985 TV series)">1985 series</a></i><br />
+<i><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1989_TV_series)" title="G.I. Joe: A Real American Hero (1989 TV series)">1989 series</a></i><br />
+<i><a href="/wiki/G.I._Joe_Extreme" title="G.I. Joe Extreme">Extreme</a></i><br />
+<i><a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">Sigma 6</a></i><br />
+<i><a href="/wiki/G.I._Joe:_Resolute" title="G.I. Joe: Resolute">Resolute</a></i><br />
+<i><a href="/wiki/G.I._Joe:_Renegades" title="G.I. Joe: Renegades">Renegades</a></i></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-abovebelow" style="text-align:center;">Games</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Video games</th>
+<td><a href="/wiki/List_of_G.I._Joe_video_games" title="List of G.I. Joe video games">List of video games</a></td>
+</tr>
+<tr>
+<th colspan="2" class="navbox-abovebelow" style="text-align:center;">Miscellaneous</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Toys</th>
+<td><a href="/wiki/List_of_G.I._Joe_series" title="List of G.I. Joe series">List of toy series</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Related franchises</th>
+<td><a href="/wiki/Transformers" title="Transformers">Transformers</a><br />
+<a href="/wiki/Action_Force" title="Action Force">Action Force</a></td>
+</tr>
+</table>
+<p><b>G.I. Joe</b> is a line of action figures produced by the <a href="/wiki/Toy" title="Toy">toy</a> company <a href="/wiki/Hasbro" title="Hasbro">Hasbro</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The initial product offering represented four of the branches of the <a href="/wiki/U.S._armed_forces" title="U.S. armed forces" class="mw-redirect">U.S. armed forces</a> with the Action Soldier (<a href="/wiki/U.S._Army" title="U.S. Army" class="mw-redirect">U.S. Army</a>), Action Sailor (<a href="/wiki/U.S._Navy" title="U.S. Navy" class="mw-redirect">U.S. Navy</a>), Action Pilot (<a href="/wiki/USAF" title="USAF" class="mw-redirect">USAF</a>), Action Marine (<a href="/wiki/USMC" title="USMC" class="mw-redirect">USMC</a>) and later on, the Action Nurse. The term <a href="/wiki/G.I._(military)" title="G.I. (military)">G.I.</a> stands, in popular usage, for Government Issued<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and after the First World War became a generic term for U.S. soldiers. The origin of the term dates to World War I, when much of the equipment issued to U.S. soldiers was stamped "G.I.", meaning that it was made from <a href="/wiki/Galvanized_iron" title="Galvanized iron" class="mw-redirect">galvanized iron</a>.<sup id="cite_ref-Rawson_4-0" class="reference"><a href="#cite_note-Rawson-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-wordorig_6-0" class="reference"><a href="#cite_note-wordorig-6"><span>[</span>6<span>]</span></a></sup> The development of G.I. Joe led to the coining of the term "<a href="/wiki/Action_figure" title="Action figure">action figure</a>". G.I. Joe's appeal to children has made it an American icon among toys.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2013)">citation needed</span></a></i>]</sup></p>
+<p>The G.I. Joe trademark has been used by Hasbro to title two different toy lines. The original 12-inch line that began in 1964 centered on realistic action figures. In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, this line was licensed to <a href="/wiki/Palitoy" title="Palitoy">Palitoy</a> and known as <a href="/wiki/Action_Man" title="Action Man">Action Man</a>. In 1982, the line was relaunched in a 3?-inch scale complete with vehicles, playsets, and a complex background story involving an ongoing struggle between the <a href="/wiki/G.I._Joe_Team" title="G.I. Joe Team">G.I. Joe Team</a> and the evil <a href="/wiki/Cobra_Command" title="Cobra Command">Cobra Command</a> which seeks to take over the Free World through terrorism. As the American line evolved into the <a href="/wiki/Real_American_Hero" title="Real American Hero" class="mw-redirect">Real American Hero</a> series, Action Man also changed, by using the same molds and being renamed as <a href="/wiki/Action_Force" title="Action Force">Action Force</a>. Although the members of the G.I. Joe team are not <a href="/wiki/Superheroes" title="Superheroes" class="mw-redirect">superheroes</a>, they all had expertise in areas such as martial arts, weapons and explosives.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>G.I. Joe was inducted into the <a href="/wiki/National_Toy_Hall_of_Fame" title="National Toy Hall of Fame">National Toy Hall of Fame</a> at <a href="/wiki/The_Strong" title="The Strong">The Strong</a> in <a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester, New York</a>, in 2003.</p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_of_the_12_in._figures"><span class="tocnumber">1</span> <span class="toctext">History of the 12 in. figures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#America.27s_movable_fighting_man_.281964.E2.80.931969.29"><span class="tocnumber">1.1</span> <span class="toctext">America's movable fighting man (1964每1969)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adventure_Team_.281970.E2.80.931976.29"><span class="tocnumber">1.2</span> <span class="toctext">Adventure Team (1970每1976)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#International_G.I._Joe_licensees"><span class="tocnumber">1.3</span> <span class="toctext">International G.I. Joe licensees</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History_of_the_3.75.22_figures"><span class="tocnumber">2</span> <span class="toctext">History of the 3.75" figures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#A_Real_American_Hero_.281982.E2.80.931994.29"><span class="tocnumber">2.1</span> <span class="toctext">A Real American Hero (1982每1994)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Stars_.26_Stripes_Forever_.E2.80.93_TRU_Exclusives_.281997.E2.80.931998.29"><span class="tocnumber">2.2</span> <span class="toctext">Stars &amp; Stripes Forever 每 TRU Exclusives (1997每1998)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#A_Real_American_Hero_Collection_.282000.E2.80.932002.29"><span class="tocnumber">2.3</span> <span class="toctext">A Real American Hero Collection (2000每2002)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#G.I._Joe_vs_Cobra_.282002.E2.80.932005.29"><span class="tocnumber">2.4</span> <span class="toctext">G.I. Joe vs Cobra (2002每2005)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Direct_to_Consumer_.28DTC.29_.282005.E2.80.932006.29"><span class="tocnumber">2.5</span> <span class="toctext">Direct to Consumer (DTC) (2005每2006)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#25th_Anniversary_.282007.E2.80.932009.29"><span class="tocnumber">2.6</span> <span class="toctext">25th Anniversary (2007每2009)</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#The_Rise_of_Cobra_.282009.29"><span class="tocnumber">2.7</span> <span class="toctext">The Rise of Cobra (2009)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#The_Pursuit_of_Cobra_.282010.E2.80.932011.29"><span class="tocnumber">2.8</span> <span class="toctext">The Pursuit of Cobra (2010每2011)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#30th_Anniversary_.282011.E2.80.932012.29"><span class="tocnumber">2.9</span> <span class="toctext">30th Anniversary (2011每2012)</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Retaliation_.282013.29"><span class="tocnumber">2.10</span> <span class="toctext">Retaliation (2013)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Return_of_the_12-inch_G.I._Joe_.281991.E2.80.932005.29"><span class="tocnumber">3</span> <span class="toctext">Return of the 12-inch G.I. Joe (1991每2005)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Hall_of_Fame_.281992.E2.80.931994.29"><span class="tocnumber">3.1</span> <span class="toctext">Hall of Fame (1992每1994)</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Classic_Collection_.281995.E2.80.932004.29"><span class="tocnumber">3.2</span> <span class="toctext">Classic Collection (1995每2004)</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Masterpiece_.281996.E2.80.931997.29"><span class="tocnumber">3.3</span> <span class="toctext">Masterpiece (1996每1997)</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Timeless_Collection_.281998.E2.80.932003.29"><span class="tocnumber">3.4</span> <span class="toctext">Timeless Collection (1998每2003)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Other_licensees"><span class="tocnumber">4</span> <span class="toctext">Other licensees</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Super_Joe_.281977.E2.80.931978.29"><span class="tocnumber">4.1</span> <span class="toctext">Super Joe (1977每1978)</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Short-lived_lines_.281994.E2.80.931997.29"><span class="tocnumber">4.2</span> <span class="toctext">Short-lived lines (1994每1997)</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Sigma_6_.282005.E2.80.932007.29"><span class="tocnumber">4.3</span> <span class="toctext">Sigma 6 (2005每2007)</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Sideshow_Collectibles_.282009.E2.80.93present.29"><span class="tocnumber">4.4</span> <span class="toctext">Sideshow Collectibles (2009每present)</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Real_people_honored_with_G.I._Joe_figures"><span class="tocnumber">4.5</span> <span class="toctext">Real people honored with <i>G.I. Joe</i> figures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Other_media"><span class="tocnumber">5</span> <span class="toctext">Other media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Comics"><span class="tocnumber">5.1</span> <span class="toctext">Comics</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Cartoon"><span class="tocnumber">5.2</span> <span class="toctext">Cartoon</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Film"><span class="tocnumber">5.3</span> <span class="toctext">Film</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Video_games"><span class="tocnumber">5.4</span> <span class="toctext">Video games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-35"><a href="#Official_sites"><span class="tocnumber">8.1</span> <span class="toctext">Official sites</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History_of_the_12_in._figures">History of the 12 in. figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=1" title="Edit section: History of the 12 in. figures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:GIJoe_OriginalLineup.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/24/GIJoe_OriginalLineup.jpg/250px-GIJoe_OriginalLineup.jpg" width="250" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/24/GIJoe_OriginalLineup.jpg/375px-GIJoe_OriginalLineup.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/24/GIJoe_OriginalLineup.jpg/500px-GIJoe_OriginalLineup.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GIJoe_OriginalLineup.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Original G.I. Joe lineup.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="America.27s_movable_fighting_man_.281964.E2.80.931969.29">America's movable fighting man (1964每1969)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=2" title="Edit section: America's movable fighting man (1964每1969)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_America%27s_movable_fighting_man" title="G.I. Joe: America's movable fighting man">G.I. Joe: America's movable fighting man</a></div>
+<p>The conventional marketing wisdom of the early 1960s was that boys would not play with dolls, thus the word "doll" was never used by Hasbro or anyone involved in the development or marketing of G.I. Joe. "Action figure" was the only acceptable term, and has since become the generic description for any poseable doll intended for boys. "America's movable fighting man" is a registered trademark of Hasbro, and was prominently displayed on every boxed figure package.</p>
+<p>The Hasbro prototypes were originally named "Rocky" (marine/soldier) "Skip" (sailor) and "Ace" (pilot), before the more universal name G.I. Joe was adopted. One of the prototypes would later sell in a <a href="/wiki/Heritage_Auctions" title="Heritage Auctions">Heritage</a> auction in 2003 for $200,001.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Aside from the obvious trademarking on the right buttock, other aspects of the figure were copyrighted features that allowed Hasbro to successfully pursue cases against producers of cheap imitations, since the human figure itself cannot be copyrighted or trademarked. The scar on the right cheek was one; another, unintentional at first, was the <a href="/wiki/G.I._Joe:_America%27s_movable_fighting_man#Trademarks_and_Copyrights" title="G.I. Joe: America's movable fighting man">placement of the right thumbnail on the underside of the thumb</a>. Early trademarking, with "G.I. Joe?", was used through some point in 1965; the markings changed once G.I. Joe was a registered trademark; "G.I. Joe?" now appears on the first line. Subsequently, the stamped trademarking was altered after the patent was granted (in late 1966), and assigned a number; 3,277,602. Figures with this marking would have entered the retail market during 1967.</p>
+<h3><span class="mw-headline" id="Adventure_Team_.281970.E2.80.931976.29">Adventure Team (1970每1976)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=3" title="Edit section: Adventure Team (1970每1976)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_Adventure_Team" title="G.I. Joe Adventure Team">G.I. Joe Adventure Team</a></div>
+<p>By the late 1960s, in the wake of the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>, Hasbro sought to downplay the war theme that had initially defined "G.I. Joe". The line became known as "The Adventures of G.I. Joe". In 1970, Hasbro settled on the name "Adventure Team". Highlights of the line included:</p>
+<ul>
+<li>To coincide with the new direction, "Life-Like" flocked hair and beard, an innovation developed in England by <a href="/wiki/Palitoy" title="Palitoy">Palitoy</a> for their licensed version of Joe, <a href="/wiki/Action_Man" title="Action Man">Action Man</a>, is introduced in 1970. A retooled African American Adventurer was also introduced, which came in two versions as did the others in the series, bearded or shaven.<sup id="cite_ref-Thelife_9-0" class="reference"><a href="#cite_note-Thelife-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>In 1974, named after the increasingly popular martial art, Hasbro introduced "Kung-Fu Grip" to the G.I. Joe line. This was another innovation that had been developed in the UK for Action Man. The hands were molded in a softer plastic that allowed the fingers to grip objects in a more lifelike fashion.</li>
+<li>In 1976, G.I. Joe was given eagle eye vision; a movable eye mechanism to allow the toy to appear to be looking around when a lever in the back of the head was moved. This would be the last major innovation for the original line of 12-inch figures.</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:MikePower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d2/MikePower.jpg/150px-MikePower.jpg" width="150" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d2/MikePower.jpg/225px-MikePower.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/d2/MikePower.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MikePower.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Mike Power, Atomic Man</div>
+</div>
+</div>
+<dl>
+<dt>A shift in play patterns</dt>
+</dl>
+<p>For its first ten years, G.I. Joe was a generic soldier/adventurer with only the slightest hints of a team concept existing. In 1975, after a failed bid to purchase the toy rights to the <a href="/wiki/Six_Million_Dollar_Man" title="Six Million Dollar Man" class="mw-redirect">Six Million Dollar Man</a>, Hasbro issued a bionic warrior figure named "Mike Power, Atomic Man", which sold over one million units. Also added to the Adventure Team was a super-hero, "Bullet Man", and the character gained recurring enemies, called "The Intruders 每 Strongmen from Another World".<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup> Comics included with figures at the time featured "Eagle Eye" Joe, Atomic Man, and Bullet Man operating together. The Adventure Team was finally an actual team. The original 12-inch G.I. Joe line ended in America in 1976. At this time, Hasbro released a line of inexpensive, rotationally-molded mannequins in the G.I. Joe style called "The Defenders".</p>
+<h3><span class="mw-headline" id="International_G.I._Joe_licensees">International G.I. Joe licensees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=4" title="Edit section: International G.I. Joe licensees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main articles: <a href="/wiki/Action_Man" title="Action Man">Action Man</a> and <a href="/wiki/Action_Force" title="Action Force">Action Force</a></div>
+<p>From 1966 through 1984, Palitoy Ltd. produced a British version of the 12-inch G.I. Joe line, under the <a href="/wiki/Action_Man" title="Action Man">Action Man</a> name for the UK market. Initially, these were exactly the same designs as the American figures, and at first the same military theme which included figures from <a href="/wiki/World_War_II" title="World War II">World War II</a>. The line later expanded the line to include all men of action, like <a href="/wiki/Soccer" title="Soccer" class="mw-redirect">football</a> players and other sports figures. In the early 1980s, Palitoy responded to falling sales of Action Man by launching "Action Force", a new range of smaller military-themed figures in the style of the then-popular Star Wars line from Kenner. Later, when the U.S. Real American Hero line was released in the UK, they were released under the '<a href="/wiki/Action_Force" title="Action Force">Action Force</a>' title, since the term "G.I." is not in common use in Britain. The figures had the same appearance and code names as the American G.I. Joes, but their identities and histories were international rather than purely American or British. The range was later renamed G.I. Joe to bring it into line with international markets; however, the Action Man line retained its original name when it was revived in the early 1990s.</p>
+<p>The G.I. Joe line was also licensed to <a href="/wiki/Germany" title="Germany">Germany</a> under the Action Team name. In <a href="/wiki/Spain" title="Spain">Spain</a>, <a href="/wiki/Geyperman" title="Geyperman">Geyperman</a> was the Hasbro licensee, although the products were more based on Palitoy's line, down to the logo design. In France the name was Action Joe, in <a href="/wiki/Japan" title="Japan">Japan</a>, Takara and Tsukuda licensed the figures under the names "G.I. Joe" and "Combat Man". In Italy, Polistil licensed the figures under the Action Team name (same as they were called in Germany). In <a href="/wiki/Australia" title="Australia">Australia</a>, the line was released as "G.I. Joe" by Kenbrite; Palitoy also licensed their "ActionMan" line to TolToys, now Hasbro is producing G.I. Joe figures in Australia under the name "Falcon" and the 3?" figures under the name "Comandos em A??o". In <a href="/wiki/Brazil" title="Brazil">Brazil</a>, it was licensed to Brinquedos Estrela; the 12" line was called "Falcon" and the 3?" figures were called "Comandos em A??o" ("Action Commandos"). In <a href="/wiki/Argentina" title="Argentina">Argentina</a>, the G.I. Joe figures were licensed by Veri-li enterprises under the name "Joe Super Temerario", and "Los Temerarios". The G.I. Joe toy line was produced in <a href="/wiki/India" title="India">India</a> under the Funskool brand.</p>
+<h2><span class="mw-headline" id="History_of_the_3.75.22_figures">History of the 3.75" figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=5" title="Edit section: History of the 3.75&quot; figures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="A_Real_American_Hero_.281982.E2.80.931994.29">A Real American Hero (1982每1994)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=6" title="Edit section: A Real American Hero (1982每1994)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_A_Real_American_Hero" title="G.I. Joe: A Real American Hero">G.I. Joe: A Real American Hero</a></div>
+<p>The year 1982 saw the highly successful relaunch of the G.I. Joe product line in a smaller, 3?-inch scale, of the same type employed by the wildly popular <a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a> figures, but with many more points of articulation. The 1982 relaunch pioneered several tactics in toy marketing, combining traditional advertising with an <a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1985_TV_series)" title="G.I. Joe: A Real American Hero (1985 TV series)">animated television mini-series</a> and an <a href="/wiki/G.I._Joe:_A_Real_American_Hero_(Marvel_Comics)" title="G.I. Joe: A Real American Hero (Marvel Comics)">ongoing comic book</a>. The decision to use a smaller 3?-inch scale for the figures also made it possible for Hasbro to produce a variety of matching vehicles and playsets that further expanded the appeal and commercial potential of the line.</p>
+<p>G.I. Joe's increasing popularity supported an array of spin-off merchandising that included <a href="/wiki/Poster" title="Poster">posters</a>, <a href="/wiki/T-shirt" title="T-shirt">t-shirts</a>, <a href="/wiki/Video_game" title="Video game">video games</a>, <a href="/wiki/Board_game" title="Board game">board games</a>, and <a href="/wiki/Kite_flying" title="Kite flying" class="mw-redirect">kites</a>. In 1985, both <i><a href="/w/index.php?title=Toy_%26_Lamp&amp;action=edit&amp;redlink=1" class="new" title="Toy &amp; Lamp (page does not exist)">Toy &amp; Lamp</a></i> and <i><a href="/w/index.php?title=Hobby_World&amp;action=edit&amp;redlink=1" class="new" title="Hobby World (page does not exist)">Hobby World</a></i> magazines ranked <i>G.I. Joe</i> as the top-selling American toy.</p>
+<p>The 3?&#160;inch line was canceled at the end of 1994. This was also the 30th Anniversary of G.I. Joe and accordingly, Hasbro released a series of 12-inch and 3?&#160;inch figures based on the Original Action Team figures from 1964.</p>
+<h3><span class="mw-headline" id="Stars_.26_Stripes_Forever_.E2.80.93_TRU_Exclusives_.281997.E2.80.931998.29">Stars &amp; Stripes Forever 每 TRU Exclusives (1997每1998)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=7" title="Edit section: Stars &amp; Stripes Forever 每 TRU Exclusives (1997每1998)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A select assortment of figures from the "Real American Hero" line were released as Toys "R" Us exclusives to celebrate the 15th anniversary. A second assortment followed in 1998.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="A_Real_American_Hero_Collection_.282000.E2.80.932002.29">A Real American Hero Collection (2000每2002)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=8" title="Edit section: A Real American Hero Collection (2000每2002)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2000, Hasbro re-released a selection of 3?" G.I. Joe figures and vehicles. This line lasted until 2002. The figures were sold in packs of two and consisted of repainted versions of figures from the Real American Hero line. Some of these repainted figures were assigned new identities: for example, the Baroness figure was repainted and sold as a new character called <a href="/wiki/Chameleon_(G.I._Joe)" title="Chameleon (G.I. Joe)" class="mw-redirect">Chameleon</a>, described on the packaging as "the illegitimate half sister of Baroness".<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="G.I._Joe_vs_Cobra_.282002.E2.80.932005.29">G.I. Joe vs Cobra (2002每2005)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=9" title="Edit section: G.I. Joe vs Cobra (2002每2005)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_vs._Cobra" title="G.I. Joe vs. Cobra">G.I. Joe vs. Cobra</a></div>
+<p>Beginning in 2002, newly designed collections of 3?" G.I. Joe figures and vehicles were released. Each collection centered on a storyline or theme, such as "Spy Troops" and "Valor vs. Venom".<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<p>Direct-to-<a href="/wiki/DVD" title="DVD">DVD</a> features were animated for both the <a href="/wiki/G.I._Joe:_Spy_Troops" title="G.I. Joe: Spy Troops">G.I. Joe: Spy Troops</a> and <a href="/wiki/G.I._Joe:_Valor_vs._Venom" title="G.I. Joe: Valor vs. Venom">G.I. Joe: Valor vs. Venom</a> collections, as well as a new trading card game based on the G.I. Joe vs. Cobra storyline. Both the 12" and 3?" lines were put on hiatus prior to the release of the Sigma 6 line in 2005.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Direct_to_Consumer_.28DTC.29_.282005.E2.80.932006.29">Direct to Consumer (DTC) (2005每2006)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=10" title="Edit section: Direct to Consumer (DTC) (2005每2006)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 3?" line was reintroduced after a very brief hiatus via Hasbro's direct-to-consumer website HasbroToyShop.com and various online retailers. As a result of the line's success, some figures also became available at certain retailers, such as <a href="/wiki/Toys_%22R%22_Us" title="Toys &quot;R&quot; Us">Toys "R" Us</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="25th_Anniversary_.282007.E2.80.932009.29">25th Anniversary (2007每2009)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=11" title="Edit section: 25th Anniversary (2007每2009)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_A_Real_American_Hero_25th_Anniversary" title="G.I. Joe: A Real American Hero 25th Anniversary">G.I. Joe: A Real American Hero 25th Anniversary</a></div>
+<p>2007 marked the 25th anniversary of the "Real American Hero" line. To commemorate the event, Hasbro released a "25th Anniversary" collection of newly sculpted 4" figures (as opposed to the 3?" scale of the RAH line) based on classic and new designs of many of the line's best known and most popular characters. The 25th Anniversary figures replaced the classic O-ring construction with a swivel chest feature and increased points of articulation beyond the standard shoulder, elbow and knees to swivel wrists, ankles and double-hinged knees. The 25th anniversary figures also include "<a href="/wiki/Specialist_Trakker" title="Specialist Trakker" class="mw-redirect">Specialist Trakker</a>", otherwise known as Matt Trakker the leader of <a href="/wiki/M.A.S.K." title="M.A.S.K.">M.A.S.K.</a> <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Originally planned to consist of only two sets of five figures each (one G.I. Joe and one Cobra), the 25th Anniversary collection was well received by retailers and collectors and has since been expanded by Hasbro into a full-fledged toyline to run through 2009. The most recent releases in this line do not include the "25th Anniversary" branding, but in all other respects constitute a continuation of the 25th Anniversary collection. Other waves set to be released in 2009 include the <a href="/wiki/G.I._Joe:_Resolute" title="G.I. Joe: Resolute">Resolute</a> figures, which were introduced in wave 13, and had an animated feature premiere in April 2009.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<p>The "25th Anniversary" line was later canceled, in favor of releasing figures for the upcoming live action movie. The some of the planned figures from canceled waves, totaling 14 figures, were instead released as two 7-figure exclusive packs. Entitled "Defense and Attack of Cobra Island," each set contained figures from one opposing side<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup>. The canceled future waves included Night Force Falcon, the Python Patrol Trooper and Tele-Viper, and an Iron Klaw/Resolute Crimson Guard Trooper Comic Pack.</p>
+<h3><span class="mw-headline" id="The_Rise_of_Cobra_.282009.29">The Rise of Cobra (2009)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=12" title="Edit section: The Rise of Cobra (2009)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In July 2009, a series of figures based on the <i><a href="/wiki/G.I._Joe:_The_Rise_of_Cobra" title="G.I. Joe: The Rise of Cobra">G.I. Joe: The Rise of Cobra</a></i> movie was released in the United States and Australia. The Line was a mixture of the Rise of Cobra movie designs and some G.I. Joe vs Cobra designs and a some 25th Action figure molds and new molds.</p>
+<h3><span class="mw-headline" id="The_Pursuit_of_Cobra_.282010.E2.80.932011.29">The Pursuit of Cobra (2010每2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=13" title="Edit section: The Pursuit of Cobra (2010每2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, a new series of figures was released, based on four battlegrounds: Desert, City, Jungle and Arctic. The packaging was an update to the 25th Anniversary design, featuring cues to the vintage era as well as a modern look. Also, the figures had non-actor based heads.</p>
+<h3><span class="mw-headline" id="30th_Anniversary_.282011.E2.80.932012.29">30th Anniversary (2011每2012)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=14" title="Edit section: 30th Anniversary (2011每2012)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2011, a new series of figures has been released, including characters from both G.I. Joe: A Real American Hero and the <i><a href="/wiki/G.I._Joe:_Renegades" title="G.I. Joe: Renegades">G.I. Joe: Renegades</a></i> cartoon series. This series was continued through 2012.</p>
+<h3><span class="mw-headline" id="Retaliation_.282013.29">Retaliation (2013)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=15" title="Edit section: Retaliation (2013)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A series of figures based on the movie <i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">G.I. Joe: Retaliation</a></i> was confirmed by Hasbro in February 2012.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Despite the movie's release being moved from June 2012 to March 2013, the initial assortments of figures, vehicles, and role-play items were shipped to retailers, and appeared on store shelves in May 2012. A <i>Variety</i> article was published stating that the already released figures had been pulled from the shelves and recalled by Hasbro,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> although the companies official statement indicated that existing product would be sold through. New product shipments were halted by Hasbro, but existing Retaliation figures were available in Target, Wal-Mart, and Toys R Us as late as December 2012.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> The toyline was re-released in the United States in February 2013.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Return_of_the_12-inch_G.I._Joe_.281991.E2.80.932005.29">Return of the 12-inch G.I. Joe (1991每2005)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=16" title="Edit section: Return of the 12-inch G.I. Joe (1991每2005)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hasbro began releasing new 12-inch G.I. Joe figures in 1991. The first figure, <a href="/wiki/Duke_(G.I._Joe)" title="Duke (G.I. Joe)">Duke</a>, was marketed exclusively to <a href="/wiki/Target_Corporation" title="Target Corporation">Target</a> retail stores.<sup id="cite_ref-30thAnnPg129_15-0" class="reference"><a href="#cite_note-30thAnnPg129-15"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Hall_of_Fame_.281992.E2.80.931994.29">Hall of Fame (1992每1994)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=17" title="Edit section: Hall of Fame (1992每1994)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_Hall_of_Fame" title="G.I. Joe: Hall of Fame">G.I. Joe: Hall of Fame</a></div>
+<p>Based on the Real American Hero toyline, the Hall of Fame series featured Mission Gear Outfits, vehicles, and featured popular characters like Snake-Eyes, Stalker, Gung-Ho, Cobra Commander, Destro, and Storm Shadow among others.</p>
+<p>This was followed by an anniversary series based on the 1960s line〞and was followed by the Hall of Fame Limited Editions, also based on 60s releases.</p>
+<h3><span class="mw-headline" id="Classic_Collection_.281995.E2.80.932004.29">Classic Collection (1995每2004)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=18" title="Edit section: Classic Collection (1995每2004)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_Classic_Collection" title="G.I. Joe Classic Collection" class="mw-redirect">G.I. Joe Classic Collection</a></div>
+<p>G.I. Janes were introduced in a series called the Classic Collection, the first 12-inch female dolls in the G.I. Joe line-up since 1967; this doll was a <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> pilot. The Classic Collection hearkened back to the original all military theme of G.I. Joe with fairly realistic uniforms and gear. Soldiers from Australia, Britain, and other nations, as well as United States forces were featured. The line also presented an all-new articulated G.I. Joe figure that formed the basis of many offerings until the 12" line was discontinued in the new millennium.</p>
+<p>In 2000, a <i><a href="/wiki/Navajo_Nation" title="Navajo Nation">Navajo</a> <a href="/wiki/Codetalkers" title="Codetalkers" class="mw-redirect">Code Talker</a></i> was introduced, one of only two 12-inch G.I. Joe talking figures (until this time) since the 1970s.</p>
+<p>In 2001, G.I. Joe honored the events of the 1941 <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">attack on Pearl Harbor</a> by releasing a line of Pearl Harbor figures. In 2003 Hasbro announced the release of the 40th Anniversary G.I. Joe line. This line featured reproductions of the earliest G.I. Joe figures and accessories originally made in 1964.</p>
+<p>In November 2006 a reproduction Land Adventurer G.I. Joe figure was released as an exclusive to Hot Topic stores. The figure was a reproduction of the Land Adventurer with the Kung Fu Grip and came in the "Coffin" style box. A reproduction Talking Adventure Team Commander was also released in a limited run of 1,970 issues.</p>
+<h3><span class="mw-headline" id="Masterpiece_.281996.E2.80.931997.29">Masterpiece (1996每1997)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=19" title="Edit section: Masterpiece (1996每1997)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_Masterpiece_Edition" title="G.I. Joe: Masterpiece Edition">G.I. Joe: Masterpiece Edition</a></div>
+<p>In 1997, the original G.I. Joe figure returned via the G.I. Joe Masterpiece Edition, a unique book-and-figure product created by <a href="/wiki/Chronicle_Books" title="Chronicle Books">Chronicle Books</a> with assistance from Don Levine, former creative director of Hasbro Toys and the driving force behind the original Joe concept.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Timeless_Collection_.281998.E2.80.932003.29">Timeless Collection (1998每2003)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=20" title="Edit section: Timeless Collection (1998每2003)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_Timeless_Collection" title="G.I. Joe: Timeless Collection">G.I. Joe: Timeless Collection</a></div>
+<p>During the late 1990s Hasbro built on the renewed interest in authentic reproductions of G.I. Joe established by the Masterpiece Edition reproduction book/figure set; they bought the rights to the ME figure and released a range of store exclusive reproduction figure sets, with the character of the sixties G.I. Joe boxed sets.</p>
+<h2><span class="mw-headline" id="Other_licensees">Other licensees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=21" title="Edit section: Other licensees">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Super_Joe_.281977.E2.80.931978.29">Super Joe (1977每1978)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=22" title="Edit section: Super Joe (1977每1978)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1977, Hasbro released the Super Joe Adventure Team, and took the battle between good and evil to the stars. The figures were scaled down to 8?&#160;inches, similar in size to <a href="/wiki/Mego_Corporation" title="Mego Corporation">Mego</a>'s Superheroes line of action figures. The line was a hybrid of superhero and space action figures with new features incorporated such as battery powered back-pack lights and motorized accessories. The hero Super Joe characters, Super Joe Commander (Caucasian/African American) and Super Joe (Caucasian/African American) had a "One-Two Punch" that could be activated by pressing panels on the figure's back. The majority of these figures used Kung-Fu grip style plastic in the joints and hands. Unfortunately, with age, the material degrades, leaving even unopened figures missing limbs and hands.</p>
+<p>Unlike the original G.I. Joe collection, the Super Joe collection was developed from the start with a play-pattern of Good vs Evil. Super Joe Commander and the Adventure Team (Man of Action, and Adventurer) with their alien comrades "The Night Fighters," Luminos and The Shield, fight against the evil Gor, King of the Terrons, Terron, The Beast from Beyond, and his orange-eyed ally Darkon, the half-man half-monster.</p>
+<p>Super Joe was discontinued by the end of 1978. The same basic body molds were used later by a subsidiary of <a href="/wiki/Hasbro" title="Hasbro">Hasbro</a> to produce a line of action figures based on the TV series <i><a href="/wiki/Space_Academy" title="Space Academy">Space Academy</a>.</i></p>
+<h3><span class="mw-headline" id="Short-lived_lines_.281994.E2.80.931997.29">Short-lived lines (1994每1997)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=23" title="Edit section: Short-lived lines (1994每1997)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a follow-up to the Real American Hero toyline, <i><a href="/wiki/Sgt._Savage_and_his_Screaming_Eagles" title="Sgt. Savage and his Screaming Eagles">Sgt. Savage and his Screaming Eagles</a></i> figures debuted in late 1994. It was canceled after only two waves of figures were released, due to a combination of scarce marketing and, therefore, low sales.</p>
+<p>In 1995, <i><a href="/wiki/G.I._Joe_Extreme" title="G.I. Joe Extreme">G.I. Joe Extreme</a></i> figures were introduced by <a href="/wiki/Kenner_Toys" title="Kenner Toys" class="mw-redirect">Kenner Toys</a> (who had merged with Hasbro in late 1994, taking over their boys toys production). Along with the release of toys, G.I. Joe Extreme featured a comic book, published by <a href="/wiki/Dark_Horse_Comics" title="Dark Horse Comics">Dark Horse Comics</a>, and a Gunther-Wahl-produced cartoon series which ran for two seasons.</p>
+<h3><span class="mw-headline" id="Sigma_6_.282005.E2.80.932007.29">Sigma 6 (2005每2007)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=24" title="Edit section: Sigma 6 (2005每2007)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">G.I. Joe: Sigma 6</a></div>
+<p>2005 saw the introduction of a new line called <i><a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">G.I. Joe: Sigma 6</a></i>, consisting initially of an 8" scale selection of action figures distinguished by their extensive articulation and accessories. Sigma 6 combined entirely new characters with already familiar characters from the 3?" "Real American Hero" line. Its release was accompanied by a television series produced by the <a href="/wiki/Anime" title="Anime">Japanese animation</a> studio <a href="/wiki/GONZO" title="GONZO" class="mw-redirect">GONZO</a>, and a comic book mini-series published by Devil's Due. Hasbro also expanded the Sigma 6 line to include a 2?" scale selection of vehicles, play sets, and figurines with limited articulation.</p>
+<p>2007 saw the re-branding of the 8" line. The <i>Sigma Six</i> branding was dropped in the spring of 2007. Subsequent 8" figures were branded simply as "G.I. Joe" action figures and divided into differently packaged sub-groups such as <i>Combat Squad</i>, <i>Commandos</i>, and <i>Adventure Team</i>. The entire 8" product line was canceled by the end of 2007, although Hasbro considers the 8" figures a success and may revisit the scale in the future.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2009)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Sideshow_Collectibles_.282009.E2.80.93present.29">Sideshow Collectibles (2009每present)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=25" title="Edit section: Sideshow Collectibles (2009每present)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2009, <a href="/wiki/Sideshow_Collectibles" title="Sideshow Collectibles">Sideshow Collectibles</a> began releasing its own line of G.I. Joe figures under license from Hasbro. These highly-detailed figures offer new looks at key characters. In addition, Sideshow also created "Figure Environments", which were small diorama pieces intended to enhance the display of their figures.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> A line of figures was featured at Comic-Con 2012.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Real_people_honored_with_G.I._Joe_figures">Real people honored with <i>G.I. Joe</i> figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=26" title="Edit section: Real people honored with G.I. Joe figures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/List_of_real_people_honored_with_G.I._Joe_figures" title="List of real people honored with G.I. Joe figures" class="mw-redirect">List of real people honored with G.I. Joe figures</a></div>
+<p>The G.I. Joe brand has made <a href="/wiki/Promotion_(marketing)" title="Promotion (marketing)">promotional</a> action figures based on real-life persons, both military and civilian, that the company deems <i>Real American Heroes</i>.</p>
+<h2><span class="mw-headline" id="Other_media">Other media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=27" title="Edit section: Other media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Comics">Comics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=28" title="Edit section: Comics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_(comics)" title="G.I. Joe (comics)">G.I. Joe (comics)</a></div>
+<p>G.I. Joe originated from a comic strip in the 1940s called "Private Breger".<sup id="cite_ref-Thelife_9-1" class="reference"><a href="#cite_note-Thelife-9"><span>[</span>9<span>]</span></a></sup> G.I. Joe re-appeared in the 1980s as a promotional comic book, produced by <a href="/wiki/Marvel_Comics" title="Marvel Comics">Marvel Comics</a>. The success of the main title lead Marvel Comics to produce a secondary title, <i>G.I. Joe: Special Missions</i> which lasted 28 issues. The main series released its final issue #155 in December 1994, coinciding with the end of the <i>Real American Hero</i> toy line.</p>
+<p>In July 2001, <a href="/wiki/Devil%27s_Due_Publishing" title="Devil's Due Publishing">Devil's Due Publishing</a> acquired the rights to <i>G.I. Joe</i> and released a four-issue limited series entitled <i>G.I. Joe: A Real American Hero (Reinstated)</i>. The new series picked up seven years after the end of the Marvel Comics series, and also used elements from the animated TV series. Strong sales led to <i>Reinstated</i> being upgraded to ongoing, and DDP also published other <i>G.I. Joe</i> titles outside the existing continuity. DDP's license with Hasbro expired in 2008 and was not renewed.</p>
+<p>In 2009, <a href="/wiki/IDW_Publishing" title="IDW Publishing">IDW Publishing</a> began to publish the series again. IDW's G.I. Joe series is a complete reboot of the property, ignoring the continuity from the Marvel and Devil's Due incarnations of the comic. However, the <i>G.I. Joe: A Real American Hero</i> series originally published by Marvel Comics in the 1980s and 1990s was revived as an ongoing series in May 2010 with a special #155 ? issue, and followed by #156 onwards in July 2010. The series directly picks up from the end of the Marvel Comics series and ignores the Devil's Due continuity completely.</p>
+<h3><span class="mw-headline" id="Cartoon">Cartoon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=29" title="Edit section: Cartoon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_(disambiguation)#Television" title="G.I. Joe (disambiguation)">G.I. Joe (disambiguation)#Television</a></div>
+<p>The premise of the <a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1985_TV_series)" title="G.I. Joe: A Real American Hero (1985 TV series)">1985 cartoon series</a> was "good vs. evil". The show's opening theme song included the narration: "G.I. Joe is the code name for America's daring, highly trained special mission force. Its purpose: to defend human freedom against <a href="/wiki/Cobra_Command" title="Cobra Command">Cobra</a>, a ruthless <a href="/wiki/Terrorism" title="Terrorism">terrorist</a> organization determined to rule the world."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The show featured physical fighting and high-tech weapons as a way to compensate for toned-down violence and lack of bullets in what was intended to be children's program. The show also featured <a href="/wiki/Public_service_announcement" title="Public service announcement">public service announcements</a> placed at the end of each show. These PSAs ended with the phrase: "Now you know, and knowing is half the battle."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> The series ran for a total of 95 episodes, from 1985 to 1986.</p>
+<p>The animated series was canceled after the release of <i><a href="/wiki/G.I._Joe:_The_Movie" title="G.I. Joe: The Movie">G.I. Joe: The Movie</a></i>, but made a significant return in 1989, with the animation company <a href="/wiki/DiC" title="DiC" class="mw-redirect">DiC</a> taking over where <a href="/wiki/Sunbow" title="Sunbow">Sunbow</a>/<a href="/wiki/Marvel_Animation" title="Marvel Animation">Marvel</a> left off. That year, DiC released a 5 part mini-series entitled "Operation: Dragonfire", in which the Joes faced off once again against Cobra as they tried to take control of an energy source known only as 'dragonfire.' In this mini-series, <a href="/wiki/Cobra_Commander" title="Cobra Commander">Cobra Commander</a> was also returned to a semi-human state by the energy itself while <a href="/wiki/Serpentor" title="Serpentor">Serpentor</a>, the Cobra emperor, was turned into an iguana by the dragonfire. <a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1989_TV_series)" title="G.I. Joe: A Real American Hero (1989 TV series)">The animated series</a> proved to be a bit of a success as DIC made 2 more seasons (1990每91); however, the series ended after 1991.</p>
+<p>Following the "Operation: Dragonfire" series was the "<a href="/wiki/G.I._Joe_Extreme" title="G.I. Joe Extreme">G.I. Joe Extreme</a>" series in 1995 created by <a href="/wiki/Sunbow_Productions" title="Sunbow Productions" class="mw-redirect">Sunbow Productions</a>. This new animated series was based upon the G.I. Joe Extreme toy line. This series was canceled after 2 seasons (1995每97), along with the toy line.</p>
+<p>G.I. Joe had no series on the air until its resurgence in the 2000's which accompanied a new interest in the Real American Hero toy line, and new lines including <i><a href="/wiki/Spy_Troops" title="Spy Troops" class="mw-redirect">Spy Troops</a></i> (2003), <i><a href="/wiki/Valor_vs._Venom" title="Valor vs. Venom" class="mw-redirect">Valor vs. Venom</a></i> (2004), and <i><a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">Sigma 6</a></i> (2005-2007). This short-lived series was followed by <i><a href="/wiki/G.I._Joe:_Resolute" title="G.I. Joe: Resolute">G.I. Joe: Resolute</a></i> (2008), which was originally released as mini webisodes, with the full series later broadcast on <a href="/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a>'s <a href="/wiki/Adult_Swim" title="Adult Swim">Adult Swim</a>. This new series was more realistic and contained graphic violence and dark themes, with Cobra portrayed as a serious threat, which was different from the original and preceding series. In 2010, <a href="/wiki/The_Hub_(TV_channel)" title="The Hub (TV channel)" class="mw-redirect">The Hub</a> launched <i><a href="/wiki/G.I._Joe:_Renegades" title="G.I. Joe: Renegades">G.I. Joe: Renegades</a></i>, in which the Joes became fugitives seeking to clear their names and Cobra worked towards world domination under the guise of a pharmaceutical company.</p>
+<h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=30" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/G.I._Joe_(disambiguation)#Films" title="G.I. Joe (disambiguation)">G.I. Joe (disambiguation)#Films</a></div>
+<p>Many movies have been made based upon G.I. Joe and the toy lines that developed from the action figure. The <i>G.I. Joe: Real American Hero</i> cartoon series was followed up by <i><a href="/wiki/G.I._Joe:_The_Movie" title="G.I. Joe: The Movie">G.I. Joe: The Movie</a></i>. The film had been released direct-to-video in 1987 because of the perceived box office failure of another animated movie 每 <i>The Transformers: The Movie</i>. Inspired by viewers' reaction to Optimus Prime's death, <i>G.I. Joe: The Movie</i> was re-dubbed, cutting out the death of one of the main characters, <a href="/wiki/Duke_(G.I._Joe)" title="Duke (G.I. Joe)">Duke</a>. Instead, he falls into a coma and recovers (unseen) at the movie's end. Also, the main villain, Cobra Commander, met his own demise when he was turned into a living snake by mutant spores created by a new enemy, Cobra-la.</p>
+<p>A direct to video animated series was created for the Sgt. Savage line, packaged with an exclusive Sgt. Savage figure in 1994. Next in the G.I. Joe based line of movies was the 2003 release of <i><a href="/wiki/G.I._Joe:_Spy_Troops" title="G.I. Joe: Spy Troops">Spy Troops: The Movie</a></i>, Hasbro's first computer animated feature which coincided with the release of its "Spy Troops" header line. Next followed <i><a href="/wiki/G.I._Joe:_Valor_vs._Venom" title="G.I. Joe: Valor vs. Venom">Valor vs. Venom</a></i> (2004), in response to sales from "Spy Troops". This was Hasbro's second commissioned feature using computer graphics to coincide with the line of the same name. By 2005, Hasbro had entered into an exclusive agreement with Paramount Pictures to have them distribute any future, features based on the "Real American Heroes" line, but by the time a third movie was to be created, this time called, <i>Attack of the BATS</i>, Hasbro's sales on the "Real American Heroes" line had once again slumped, and the project was scrapped.</p>
+<p>In 2009 <a href="/wiki/Stephen_Sommers" title="Stephen Sommers">Stephen Sommers</a> directed a big budget Hollywood live-action movie based on G.I. Joe. The first film in what is intended to be a franchise, is <i><a href="/wiki/G.I._Joe:_The_Rise_of_Cobra" title="G.I. Joe: The Rise of Cobra">G.I. Joe: The Rise of Cobra</a></i>, stars <a href="/wiki/Channing_Tatum" title="Channing Tatum">Channing Tatum</a> in the role of Duke, and <a href="/wiki/Joseph_Gordon-Levitt" title="Joseph Gordon-Levitt">Joseph Gordon-Levitt</a> in the role of <a href="/wiki/Cobra_Commander" title="Cobra Commander">Cobra Commander</a>. Tatum describes the film as being a cross between <a href="/wiki/X-Men" title="X-Men">X-Men</a>, <a href="/wiki/Transformers" title="Transformers">Transformers</a> and <a href="/wiki/Mission_Impossible" title="Mission Impossible" class="mw-redirect">Mission Impossible</a>, "It's a huge $170 million movie. It's just a big kid sort of driven film."<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> The movie showcased the main members of G.I. Joe and Cobra. While some characters held true to the cartoon adaptations, others differed markedly in significant respects. As well, the storyline gave a different foundation for the battle between G.I. Joe and Cobra. The movie is based in present time (however at the beginning of the movie it states "In the not too distant future") and shows glimpses of each character＊s history. In the movie, Cobra sets out to cause destruction using high tech weapons and sell them to ruthless terrorists. The G.I. Joe members join together to stop Cobra from becoming a global terrorist organization.</p>
+<p>To promote the film, <i><a href="/wiki/G.I._Joe:_The_Invasion_of_Cobra_Island" title="G.I. Joe: The Invasion of Cobra Island" class="mw-redirect">G.I. Joe: The Invasion of Cobra Island</a></i> was produced as a viral campaign. The short animated two-parter used stop motion and puppet animation utilizing Hasbro's toy line, and was produced by R.M. Productions Ltd.</p>
+<p>The sequel <i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">G.I. Joe: Retaliation</a></i> was scheduled to be released in June 2012 but was delayed until March 2013.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> In the film, the Joes are framed as traitors by <a href="/wiki/Zartan" title="Zartan">Zartan</a>, who is still impersonating the <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a>, and <a href="/wiki/Cobra_Commander" title="Cobra Commander">Cobra Commander</a> now has all the world leaders under <a href="/wiki/Cobra_Command" title="Cobra Command">Cobra</a>'s control, with their advanced warheads aimed at innocent populaces around the world. Outnumbered and out gunned, the Joes form a plan with the original G.I. Joe <a href="/wiki/General_Joseph_Colton" title="General Joseph Colton">General Joseph Colton</a> to overthrow the Cobra Commander and his allies Zartan, <a href="/wiki/Storm_Shadow_(G.I._Joe)" title="Storm Shadow (G.I. Joe)">Storm Shadow</a> and <a href="/wiki/Firefly_(G.I._Joe)" title="Firefly (G.I. Joe)">Firefly</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-04:24_PM_24-0" class="reference"><a href="#cite_note-04:24_PM-24"><span>[</span>24<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=31" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/List_of_G.I._Joe_video_games" title="List of G.I. Joe video games">List of G.I. Joe video games</a></div>
+<p>There were several <a href="/wiki/Video_game" title="Video game">video game</a> adaptations of G.I. Joe, including <i><a href="/wiki/G.I._Joe:_Cobra_Strike" title="G.I. Joe: Cobra Strike">G.I. Joe: Cobra Strike</a></i> by <a href="/wiki/Parker_Brothers" title="Parker Brothers">Parker Brothers</a> for the <a href="/wiki/Atari_2600" title="Atari 2600">Atari 2600</a> and <a href="/wiki/Intellivision" title="Intellivision">Intellivision</a> (1983), <i><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(video_game)" title="G.I. Joe: A Real American Hero (video game)">G.I. Joe: A Real American Hero</a></i> by <a href="/wiki/Epyx" title="Epyx">Epyx</a> for the <a href="/wiki/Apple_II" title="Apple II">Apple II</a> and the <a href="/wiki/Commodore_64" title="Commodore 64">Commodore 64</a> (1985), <i><a href="/wiki/Action_Force_(video_game)" title="Action Force (video game)">Action Force</a></i> by <a href="/wiki/Virgin_Interactive" title="Virgin Interactive">Virgin Games</a> for the <a href="/wiki/Commodore_64" title="Commodore 64">Commodore 64</a> (1987), a <i><a href="/wiki/G.I._Joe_(video_game)" title="G.I. Joe (video game)" class="mw-redirect">G.I. Joe</a></i> video game by <a href="/wiki/Taxan" title="Taxan">Taxan</a> for the <a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a> (1991), a <i><a href="/wiki/G.I._Joe_(arcade_game)" title="G.I. Joe (arcade game)">G.I. Joe</a></i> arcade game by <a href="/wiki/Konami" title="Konami">Konami</a> for <a href="/wiki/Arcade_game" title="Arcade game">arcades</a> (1992), and <i><a href="/wiki/G.I._Joe:_The_Atlantis_Factor" title="G.I. Joe: The Atlantis Factor">G.I. Joe: The Atlantis Factor</a></i> by <a href="/wiki/Capcom" title="Capcom">Capcom</a> for the <a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a> (1992).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> A new game for <a href="/wiki/Wii" title="Wii">Wii</a>, <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a>, <a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a>, <a href="/wiki/PlayStation_2" title="PlayStation 2">PlayStation 2</a>, <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PSP</a> and <a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a> was released to coincide with the new G.I. Joe film, <i>G.I. Joe: The Rise of Cobra</i>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=32" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Toy_Soldier.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Toy_Soldier.svg/7px-Toy_Soldier.svg.png" width="7" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Toy_Soldier.svg/11px-Toy_Soldier.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Toy_Soldier.svg/14px-Toy_Soldier.svg.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Toys" title="Portal:Toys">Toys portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/1:6_Scale_Modeling" title="1:6 Scale Modeling" class="mw-redirect">1:6 Scale Modeling</a>, a.k.a. Playscale Miniaturism</li>
+<li><a href="/wiki/Action_Figure" title="Action Figure" class="mw-redirect">Action Figure</a></li>
+<li><a href="/wiki/Action_Force" title="Action Force">Action Force</a></li>
+<li><a href="/wiki/Action_Man" title="Action Man">Action Man</a></li>
+<li><a href="/wiki/Eagle_Force" title="Eagle Force">Eagle Force</a></li>
+<li><a href="/wiki/List_of_G.I._Joe_series" title="List of G.I. Joe series">List of G.I. Joe series</a></li>
+<li><a href="/wiki/The_Story_of_G.I._Joe" title="The Story of G.I. Joe">The Story of G.I. Joe</a></li>
+<li><a href="/wiki/G.I._Joe%27s" title="G.I. Joe's">G.I. Joe's</a>, a former sports store unrelated to the series closed in 2009</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=33" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation news">Fletcher, Dan (2009-08-07). <a rel="nofollow" class="external text" href="http://www.time.com/time/nation/article/0,8599,1915120,00.html">"A BRIEF HISTORY OF G.I. Joe"</a>. <i>Time</i><span class="reference-accessdate">. Retrieved 2010-03-03</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.atitle=A+BRIEF+HISTORY+OF+G.I.+Joe&amp;rft.aufirst=Dan&amp;rft.au=Fletcher%2C+Dan&amp;rft.aulast=Fletcher&amp;rft.date=2009-08-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fnation%2Farticle%2F0%2C8599%2C1915120%2C00.html&amp;rft.jtitle=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation news">Wharton, David (1994-07-05). <a rel="nofollow" class="external text" href="http://articles.latimes.com/1994-07-05/news/ls-12135_1_gi-joe-consciousness">"Boys and Their Toys"</a>. The Los Angeles Times<span class="reference-accessdate">. Retrieved 2010-08-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.aufirst=David&amp;rft.aulast=Wharton&amp;rft.au=Wharton%2C+David&amp;rft.btitle=Boys+and+Their+Toys&amp;rft.date=1994-07-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1994-07-05%2Fnews%2Fls-12135_1_gi-joe-consciousness&amp;rft.pub=The+Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Antelopes, V: <i>The Official 20th Anniversary Salute to G.I. Joe</i>, page 21. Krause Publications, 1994.</span></li>
+<li id="cite_note-Rawson-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rawson_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.americanheritage.com/articles/magazine/ah/2006/2/2006_2_15.shtml">Hugh Rawson</a> "Why Do We Say "G.I.?,"" <i>American Heritage</i>, April/May 2006.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dictionary.reference.com/browse/GI">GI 每 Definitions from Dictionary.com</a>.</span></li>
+<li id="cite_note-wordorig-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-wordorig_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wordorigins.org/index.php/gi/">G.I. 每 Wordorigins.org</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation news">Truitt, Brian (2010-04-14). <a rel="nofollow" class="external text" href="http://www.usatoday.com/life/comics/2010-04-14-gi-joe_N.htm">"Larry Hama relaunches his '80s 'G.I. Joe 'series"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved 2010-09-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.atitle=Larry+Hama+relaunches+his+%2780s+%27G.I.+Joe+%27series&amp;rft.aufirst=Brian&amp;rft.aulast=Truitt&amp;rft.au=Truitt%2C+Brian&amp;rft.date=2010-04-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.usatoday.com%2Flife%2Fcomics%2F2010-04-14-gi-joe_N.htm&amp;rft.jtitle=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://comics.ha.com/common/view_item.php?Sale_No=807&amp;Lot_No=6484">"G.I. Joe 每 Original Prototype (Hasbro, 1964). Ten-HUT! Stand at attention for the five-star general of G.I. Joe collectibles. Th... Memorabilia: Miscellaneous"</a>. Comics.ha.com. 2003-07-18<span class="reference-accessdate">. Retrieved 2011-05-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=G.I.+Joe+%E2%80%93+Original+Prototype+%28Hasbro%2C+1964%29.+Ten-HUT%21+Stand+at+attention+for+the+five-star+general+of+G.I.+Joe+collectibles.+Th...+Memorabilia%3A+Miscellaneous&amp;rft.date=2003-07-18&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcomics.ha.com%2Fcommon%2Fview_item.php%3FSale_No%3D807%26Lot_No%3D6484&amp;rft.pub=Comics.ha.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thelife-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thelife_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thelife_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.chicagotribune.com/chi-gijoe-html,0,445585.htmlpage">"The life and time of G.I. Joe"</a>. <i>The Chicago Tribune</i><span class="reference-accessdate">. Retrieved 2010-08-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.atitle=The+life+and+time+of+G.I.+Joe&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fchi-gijoe-html%2C0%2C445585.htmlpage&amp;rft.jtitle=The+Chicago+Tribune&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hasbrotoyshop.com/ProductsByBrand.htm?BR=520&amp;ID=22594">"G.I. Joe Toys, Action Figures, Vehicles, and more at"</a>. Hasbrotoyshop.com<span class="reference-accessdate">. Retrieved 2011-05-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=G.I.+Joe+Toys%2C+Action+Figures%2C+Vehicles%2C+and+more+at&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hasbrotoyshop.com%2FProductsByBrand.htm%3FBR%3D520%26ID%3D22594&amp;rft.pub=Hasbrotoyshop.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">G.I. Joe Action Figure and Toy Collecting News - A Real American Hero (2012-02-03). <a rel="nofollow" class="external text" href="http://www.arealamericanhero.com/2012/02/hasbro-reveals-gi-joe-retaliation.html">"Hasbro Reveals G.I. Joe: Retaliation Lineup"</a><span class="reference-accessdate">. Retrieved 2012-05-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.au=G.I.+Joe+Action+Figure+and+Toy+Collecting+News+-+A+Real+American+Hero&amp;rft.aulast=G.I.+Joe+Action+Figure+and+Toy+Collecting+News+-+A+Real+American+Hero&amp;rft.btitle=Hasbro+Reveals+G.I.+Joe%3A+Retaliation+Lineup&amp;rft.date=2012-02-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.arealamericanhero.com%2F2012%2F02%2Fhasbro-reveals-gi-joe-retaliation.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">Marc Graser (2012-05-25). <a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1118054684">"Yanking G.I. Joe toys with retailers"</a><span class="reference-accessdate">. Retrieved 2012-08-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.aulast=Marc+Graser&amp;rft.au=Marc+Graser&amp;rft.btitle=Yanking+G.I.+Joe+toys+with+retailers&amp;rft.date=2012-05-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1118054684&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Ock0Ev6Eihk">"Target Toy Clearance Haul"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=Target+Toy+Clearance+Haul&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOck0Ev6Eihk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Hasbro.com. <a rel="nofollow" class="external text" href="http://www.hasbro.com/gijoe/en_US/">"GI JOE Retaliation: 2012 Movie Line"</a><span class="reference-accessdate">. Retrieved 2012-08-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.au=Hasbro.com&amp;rft.aulast=Hasbro.com&amp;rft.btitle=GI+JOE+Retaliation%3A+2012+Movie+Line&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hasbro.com%2Fgijoe%2Fen_US%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30thAnnPg129-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-30thAnnPg129_15-0">^</a></b></span> <span class="reference-text"><span class="citation book">Santelmo, Vincent (1994). <i>The Official 30th Anniversary Salute To G.I. Joe 1964每1994</i>. Krause Publications. p.&#160;129. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87341-301-6" title="Special:BookSources/0-87341-301-6">0-87341-301-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.aufirst=Vincent&amp;rft.aulast=Santelmo&amp;rft.au=Santelmo%2C+Vincent&amp;rft.btitle=The+Official+30th+Anniversary+Salute+To+G.I.+Joe+1964%E2%80%931994&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-87341-301-6&amp;rft.pages=129&amp;rft.pub=Krause+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.fullyarticulated.com/MEbehindscenes.html">"Behind the Scenes"</a>. Fullyarticulated.com<span class="reference-accessdate">. Retrieved 2011-05-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=Behind+the+Scenes&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fullyarticulated.com%2FMEbehindscenes.html&amp;rft.pub=Fullyarticulated.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sideshowtoy.com/listing.php?cat=G.I.%20Joe">http://www.sideshowtoy.com/listing.php?cat=G.I.%20Joe</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web">Nikole Zivalich (2012-07-25). <a rel="nofollow" class="external text" href="http://www.g4tv.com/thefeed/blog/post/726326/gi-joe-collectibles-from-sideshow-at-comic-con-2012/">"G.I. Joe Collectibles From Sideshow At Comic-Con 2012"</a><span class="reference-accessdate">. Retrieved 2012-08-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.aulast=Nikole+Zivalich&amp;rft.au=Nikole+Zivalich&amp;rft.btitle=G.I.+Joe+Collectibles+From+Sideshow+At+Comic-Con+2012&amp;rft.date=2012-07-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.g4tv.com%2Fthefeed%2Fblog%2Fpost%2F726326%2Fgi-joe-collectibles-from-sideshow-at-comic-con-2012%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.dvdtalk.com/reviews/41442/gi-joe-a-real-american-hero-season-two/">"G.I. Joe A Real American Hero: Season Two"</a>. <i>DVD Talk</i><span class="reference-accessdate">. Retrieved 2010-10-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.atitle=G.I.+Joe+A+Real+American+Hero%3A+Season+Two&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dvdtalk.com%2Freviews%2F41442%2Fgi-joe-a-real-american-hero-season-two%2F&amp;rft.jtitle=DVD+Talk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Posted: Aug 7, 2009 @ 03:13 PM (2009-08-07). <a rel="nofollow" class="external text" href="http://www.gametrailers.com/user-movie/all-gi-joe-psas/326701">"All 28 original G.I. Joe cartoon PSAs"</a>. Gametrailers.com<span class="reference-accessdate">. Retrieved 2011-05-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.aulast=Posted%3A+Aug+7%2C+2009+%40+03%3A13+PM&amp;rft.au=Posted%3A+Aug+7%2C+2009+%40+03%3A13+PM&amp;rft.btitle=All+28+original+G.I.+Joe+cartoon+PSAs&amp;rft.date=2009-08-07&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gametrailers.com%2Fuser-movie%2Fall-gi-joe-psas%2F326701&amp;rft.pub=Gametrailers.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://suicidegirls.com/interviews/Channing+Tatum%3A+Fighting/">"Channing Tatum: Fighting"</a>. <a href="/wiki/SuicideGirls.com" title="SuicideGirls.com" class="mw-redirect">SuicideGirls.com</a>. 24 April 2009<span class="reference-accessdate">. Retrieved 2009-04-24</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=Channing+Tatum%3A+Fighting&amp;rft.date=24+April+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fsuicidegirls.com%2Finterviews%2FChanning%2BTatum%253A%2BFighting%2F&amp;rft.pub=SuicideGirls.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-paramount-gi-joe-20120523,0,1480806.story">"Paramount delays 'G.I. Joe: Retaliation' release until 2013"</a>. www.latimes.com. 23 May 2012.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=Paramount+delays+%27G.I.+Joe%3A+Retaliation%27+release+until+2013&amp;rft.date=23+May+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fenvelope%2Fcotown%2Fla-et-ct-paramount-gi-joe-20120523%2C0%2C1480806.story&amp;rft.pub=www.latimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web">07:26 PM (2012-01-31). <a rel="nofollow" class="external text" href="http://www.hisstank.com/gi-joe-news/gi-joe-movie-2/mtv-grills-channing-tatum-about-his-death-in-gi-joe-retaliation-11024/">"MTV Grills Channing Tatum About His "Death" In GI Joe Retaliation - GI Joe News"</a>. Hisstank.com<span class="reference-accessdate">. Retrieved 2012-04-25</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.au=07%3A26+PM&amp;rft.aulast=07%3A26+PM&amp;rft.btitle=MTV+Grills+Channing+Tatum+About+His+%22Death%22+In+GI+Joe+Retaliation+-+GI+Joe+News&amp;rft.date=2012-01-31&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hisstank.com%2Fgi-joe-news%2Fgi-joe-movie-2%2Fmtv-grills-channing-tatum-about-his-death-in-gi-joe-retaliation-11024%2F&amp;rft.pub=Hisstank.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-04:24_PM-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-04:24_PM_24-0">^</a></b></span> <span class="reference-text"><span class="citation web">04:24 PM (2011-07-20). <a rel="nofollow" class="external text" href="http://www.hisstank.com/gi-joe-news/gi-joe-movie-2/arnold-vosloo-returns-as-zartan-in-gi-joe-ii-retaliation-10561/">"Arnold Vosloo Returns As Zartan In GI Joe II Retaliation - GI Joe News"</a>. Hisstank.com<span class="reference-accessdate">. Retrieved 2011-09-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.au=04%3A24+PM&amp;rft.aulast=04%3A24+PM&amp;rft.btitle=Arnold+Vosloo+Returns+As+Zartan+In+GI+Joe+II+Retaliation+-+GI+Joe+News&amp;rft.date=2011-07-20&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hisstank.com%2Fgi-joe-news%2Fgi-joe-movie-2%2Farnold-vosloo-returns-as-zartan-in-gi-joe-ii-retaliation-10561%2F&amp;rft.pub=Hisstank.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.yojoe.com/archive/games/">"Games"</a>. Yojoe.Com<span class="reference-accessdate">. Retrieved 2011-05-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG.I.+Joe&amp;rft.btitle=Games&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.yojoe.com%2Farchive%2Fgames%2F&amp;rft.pub=Yojoe.Com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=34" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.yojoe.com/">YoJoe.com - The Comprehensive G.I. Joe Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://greathistory.com/g-i-joe-and-the-action-figure.htm">G.I. Joe and the Action Figure</a></li>
+</ul>
+<h3><span class="mw-headline" id="Official_sites">Official sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G.I._Joe&amp;action=edit&amp;section=35" title="Edit section: Official sites">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.gijoe.com/">Official G.I. Joe Hasbro site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gijoeclub.com/">The Official G.I. Joe Collectors' Club〞Licensed by Hasbro</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gijoecon.com/">The Official G.I. Joe Collectors' Convention〞Licensed by Hasbro</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.canadianjoecon.com/">The Official Canadian G.I. Joe Convention-Approved by Hasbro Canada</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:G.I._Joe" title="Template:G.I. Joe"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:G.I._Joe" title="Template talk:G.I. Joe"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:G.I._Joe&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><i><strong class="selflink">G.I. Joe</strong></i></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";;"><span style="float:left;width:6em;">&#160;</span>
+<div style="font-size:110%;">Characters</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/G.I._Joe_Team" title="G.I. Joe Team">G.I. Joe Team</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/General_Joseph_Colton" title="General Joseph Colton">General Joseph Colton</a></li>
+<li><a href="/wiki/Ace_(G.I._Joe)" title="Ace (G.I. Joe)">Ace</a></li>
+<li><a href="/wiki/Airborne_(G.I._Joe)" title="Airborne (G.I. Joe)">Airborne</a></li>
+<li><a href="/wiki/Airtight_(G.I._Joe)" title="Airtight (G.I. Joe)">Airtight</a></li>
+<li><a href="/wiki/Alpine_(G.I._Joe)" title="Alpine (G.I. Joe)">Alpine</a></li>
+<li><a href="/wiki/Barbecue_(G.I._Joe)" title="Barbecue (G.I. Joe)">Barbecue</a></li>
+<li><a href="/wiki/Bazooka_(G.I._Joe)" title="Bazooka (G.I. Joe)">Bazooka</a></li>
+<li><a href="/wiki/Beach_Head_(G.I._Joe)" title="Beach Head (G.I. Joe)">Beach Head</a></li>
+<li><a href="/wiki/Blowtorch_(G.I._Joe)" title="Blowtorch (G.I. Joe)">Blowtorch</a></li>
+<li><a href="/wiki/Breaker_(G.I._Joe)" title="Breaker (G.I. Joe)">Breaker</a></li>
+<li><a href="/wiki/Chuckles_(G.I._Joe)" title="Chuckles (G.I. Joe)">Chuckles</a></li>
+<li><a href="/wiki/Claymore_(G.I._Joe)" title="Claymore (G.I. Joe)">Claymore</a></li>
+<li><a href="/wiki/Clutch_(G.I._Joe)" title="Clutch (G.I. Joe)">Clutch</a></li>
+<li><a href="/wiki/Cover_Girl_(G.I._Joe)" title="Cover Girl (G.I. Joe)">Cover Girl</a></li>
+<li><a href="/wiki/Crankcase_(G.I._Joe)" title="Crankcase (G.I. Joe)">Crankcase</a></li>
+<li><a href="/wiki/Crazylegs_(G.I._Joe)" title="Crazylegs (G.I. Joe)">Crazylegs</a></li>
+<li><a href="/wiki/Cross-Country_(G.I._Joe)" title="Cross-Country (G.I. Joe)">Cross-Country</a></li>
+<li><a href="/wiki/Cutter_(G.I._Joe)" title="Cutter (G.I. Joe)">Cutter</a></li>
+<li><a href="/wiki/Deep_Six_(G.I._Joe)" title="Deep Six (G.I. Joe)">Deep Six</a></li>
+<li><a href="/wiki/Dial_Tone_(G.I._Joe)" title="Dial Tone (G.I. Joe)">Dial-Tone</a></li>
+<li><a href="/wiki/Doc_(G.I._Joe)" title="Doc (G.I. Joe)">Doc</a></li>
+<li><a href="/wiki/Duke_(G.I._Joe)" title="Duke (G.I. Joe)">Duke</a></li>
+<li><a href="/wiki/Dusty_(G.I._Joe)" title="Dusty (G.I. Joe)">Dusty</a></li>
+<li><a href="/wiki/Flash_(G.I._Joe)" title="Flash (G.I. Joe)">Flash</a></li>
+<li><a href="/wiki/Flint_(G.I._Joe)" title="Flint (G.I. Joe)">Flint</a></li>
+<li><a href="/wiki/Footloose_(G.I._Joe)" title="Footloose (G.I. Joe)">Footloose</a></li>
+<li><a href="/wiki/Frostbite_(G.I._Joe)" title="Frostbite (G.I. Joe)">Frostbite</a></li>
+<li><a href="/wiki/General_Flagg" title="General Flagg">General Flagg</a></li>
+<li><a href="/wiki/Hawk_(G.I._Joe)" title="Hawk (G.I. Joe)">General Hawk</a></li>
+<li><a href="/wiki/Grand_Slam_(G.I._Joe)" title="Grand Slam (G.I. Joe)">Grand Slam</a></li>
+<li><a href="/wiki/Grunt_(G.I._Joe)" title="Grunt (G.I. Joe)">Grunt</a></li>
+<li><a href="/wiki/Gung-Ho_(G.I._Joe)" title="Gung-Ho (G.I. Joe)">Gung-Ho</a></li>
+<li><a href="/wiki/Heavy_Duty_(G.I._Joe)" title="Heavy Duty (G.I. Joe)">Heavy Duty</a></li>
+<li><a href="/wiki/Heavy_Metal_(G.I._Joe)" title="Heavy Metal (G.I. Joe)">Heavy Metal</a></li>
+<li><a href="/wiki/Iceberg_(G.I._Joe)" title="Iceberg (G.I. Joe)">Iceberg</a></li>
+<li><a href="/wiki/Jinx_(G.I._Joe)" title="Jinx (G.I. Joe)">Jinx</a></li>
+<li><a href="/wiki/Kamakura_(G.I._Joe)" title="Kamakura (G.I. Joe)">Kamakura</a></li>
+<li><a href="/wiki/Billy_Kessler" title="Billy Kessler">Billy Kessler</a></li>
+<li><a href="/wiki/Lady_Jaye" title="Lady Jaye">Lady Jaye</a></li>
+<li><a href="/wiki/Law_%26_Order_(G.I._Joe)" title="Law &amp; Order (G.I. Joe)">Law &amp; Order</a></li>
+<li><a href="/wiki/Leatherneck_(G.I._Joe)" title="Leatherneck (G.I. Joe)">Leatherneck</a></li>
+<li><a href="/wiki/Lifeline_(G.I._Joe)" title="Lifeline (G.I. Joe)">Lifeline</a></li>
+<li><a href="/wiki/Lift-Ticket_(G.I._Joe)" title="Lift-Ticket (G.I. Joe)">Lift-Ticket</a></li>
+<li><a href="/wiki/Long_Range_(G.I._Joe)" title="Long Range (G.I. Joe)">Long Range</a></li>
+<li><a href="/wiki/Low-Light_(G.I._Joe)" title="Low-Light (G.I. Joe)">Low-Light</a></li>
+<li><a href="/wiki/Lt._Falcon" title="Lt. Falcon">Lt. Falcon</a></li>
+<li><a href="/wiki/Mainframe_(G.I._Joe)" title="Mainframe (G.I. Joe)">Mainframe</a></li>
+<li><a href="/wiki/Mercer_(G.I._Joe)" title="Mercer (G.I. Joe)">Mercer</a></li>
+<li><a href="/wiki/Mutt_(G.I._Joe)" title="Mutt (G.I. Joe)">Mutt</a></li>
+<li><a href="/wiki/Outback_(G.I._Joe)" title="Outback (G.I. Joe)">Outback</a></li>
+<li><a href="/wiki/Psyche-Out" title="Psyche-Out">Psyche-Out</a></li>
+<li><a href="/wiki/Quick_Kick_(G.I._Joe)" title="Quick Kick (G.I. Joe)">Quick Kick</a></li>
+<li><a href="/wiki/Recondo_(G.I._Joe)" title="Recondo (G.I. Joe)">Recondo</a></li>
+<li><a href="/wiki/Rip_Cord_(G.I._Joe)" title="Rip Cord (G.I. Joe)">Rip Cord</a></li>
+<li><a href="/wiki/Roadblock_(G.I._Joe)" title="Roadblock (G.I. Joe)">Roadblock</a></li>
+<li><a href="/wiki/Rock_%27n_Roll_(G.I._Joe)" title="Rock 'n Roll (G.I. Joe)">Rock 'n Roll</a></li>
+<li><a href="/wiki/Scarlett_(G.I._Joe)" title="Scarlett (G.I. Joe)">Scarlett</a></li>
+<li><a href="/wiki/Sci-Fi_(G.I._Joe)" title="Sci-Fi (G.I. Joe)">Sci-Fi</a></li>
+<li><a href="/wiki/Sgt._Slaughter_(G.I._Joe)" title="Sgt. Slaughter (G.I. Joe)">Sgt. Slaughter</a></li>
+<li><a href="/wiki/Shipwreck_(G.I._Joe)" title="Shipwreck (G.I. Joe)">Shipwreck</a></li>
+<li><a href="/wiki/Shockwave_(G.I._Joe)" title="Shockwave (G.I. Joe)">Shockwave</a></li>
+<li><a href="/wiki/Short-Fuze_(G.I._Joe)" title="Short-Fuze (G.I. Joe)">Short-Fuze</a></li>
+<li><a href="/wiki/Slip_Stream_(G.I._Joe)" title="Slip Stream (G.I. Joe)">Slip Stream</a></li>
+<li><a href="/wiki/Snake_Eyes_(G.I._Joe)" title="Snake Eyes (G.I. Joe)">Snake Eyes</a></li>
+<li><a href="/wiki/Snow_Job_(G.I._Joe)" title="Snow Job (G.I. Joe)">Snow Job</a></li>
+<li><a href="/wiki/Spirit_(G.I._Joe)" title="Spirit (G.I. Joe)">Spirit</a></li>
+<li><a href="/wiki/Stalker_(G.I._Joe)" title="Stalker (G.I. Joe)">Stalker</a></li>
+<li><a href="/wiki/Steeler_(G.I._Joe)" title="Steeler (G.I. Joe)">Steeler</a></li>
+<li><a href="/wiki/Stone_(G.I._Joe)" title="Stone (G.I. Joe)">Stone</a></li>
+<li><a href="/wiki/Thunder_(G.I._Joe)" title="Thunder (G.I. Joe)">Thunder</a></li>
+<li><a href="/wiki/Torpedo_(G.I._Joe)" title="Torpedo (G.I. Joe)">Torpedo</a></li>
+<li><a href="/wiki/Tripwire_(G.I._Joe)" title="Tripwire (G.I. Joe)">Tripwire</a></li>
+<li><a href="/wiki/Tunnel_Rat_(G.I._Joe)" title="Tunnel Rat (G.I. Joe)">Tunnel Rat</a></li>
+<li><a href="/wiki/Wet_Suit_(G.I._Joe)" title="Wet Suit (G.I. Joe)">Wet Suit</a></li>
+<li><a href="/wiki/Wild_Bill_(G.I._Joe)" title="Wild Bill (G.I. Joe)">Wild Bill</a></li>
+<li><a href="/wiki/Zap_(G.I._Joe)" title="Zap (G.I. Joe)">Zap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Sub-Teams</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Battleforce_2000" title="Battleforce 2000">Battleforce 2000</a></li>
+<li><a href="/wiki/Ninja_Force" title="Ninja Force">Ninja Force</a></li>
+<li><a href="/wiki/Star_Brigade" title="Star Brigade">Star Brigade</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Troopers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Greenshirts_(G.I._Joe)" title="Greenshirts (G.I. Joe)">Greenshirts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Cobra_Command" title="Cobra Command">Cobra Command</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Cobra_Commander" title="Cobra Commander">Cobra Commander</a></li>
+<li><a href="/wiki/Destro" title="Destro">Destro</a></li>
+<li><a href="/wiki/Baroness_(G.I._Joe)" title="Baroness (G.I. Joe)">Baroness</a></li>
+<li><a href="/wiki/Copperhead_(G.I._Joe)" title="Copperhead (G.I. Joe)">Copperhead</a></li>
+<li><a href="/wiki/Croc_Master" title="Croc Master">Croc Master</a></li>
+<li><a href="/wiki/Doctor_Mindbender" title="Doctor Mindbender">Doctor Mindbender</a></li>
+<li><a href="/wiki/Doctor_Venom" title="Doctor Venom">Doctor Venom</a></li>
+<li><a href="/wiki/Firefly_(G.I._Joe)" title="Firefly (G.I. Joe)">Firefly</a></li>
+<li><a href="/wiki/Fred_VII" title="Fred VII">Fred VII</a></li>
+<li><a href="/wiki/Major_Bludd" title="Major Bludd">Major Bludd</a></li>
+<li><a href="/wiki/Overkill_(G.I._Joe)" title="Overkill (G.I. Joe)">Overkill</a></li>
+<li><a href="/wiki/Scrap-Iron" title="Scrap-Iron">Scrap-Iron</a></li>
+<li><a href="/wiki/Serpentor" title="Serpentor">Serpentor</a></li>
+<li><a href="/wiki/Slice_(G.I._Joe)" title="Slice (G.I. Joe)">Slice</a></li>
+<li><a href="/wiki/Storm_Shadow_(G.I._Joe)" title="Storm Shadow (G.I. Joe)">Storm Shadow</a></li>
+<li><a href="/wiki/Tomax_and_Xamot" title="Tomax and Xamot">Tomax and Xamot</a></li>
+<li><a href="/wiki/Wild_Weasel_(G.I._Joe)" title="Wild Weasel (G.I. Joe)">Wild Weasel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Troopers</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/B.A.T._(G.I._Joe)" title="B.A.T. (G.I. Joe)">B.A.T.s</a></li>
+<li><a href="/wiki/Cobra_Troopers" title="Cobra Troopers">Cobra Troopers</a></li>
+<li><a href="/wiki/Crimson_Guard" title="Crimson Guard">Crimson Guard</a></li>
+<li><a href="/wiki/Night_Creepers" title="Night Creepers">Night Creepers</a></li>
+<li><a href="/wiki/Python_Patrol" title="Python Patrol">Python Patrol</a></li>
+<li><a href="/wiki/Viper_(G.I._Joe)" title="Viper (G.I. Joe)">Vipers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Dreadnoks" title="Dreadnoks">Dreadnoks</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Zartan" title="Zartan">Zartan</a></li>
+<li><a href="/wiki/Zandar" title="Zandar">Zandar</a></li>
+<li><a href="/wiki/Zarana" title="Zarana">Zarana</a></li>
+<li><a href="/wiki/Buzzer_(G.I._Joe)" title="Buzzer (G.I. Joe)">Buzzer</a></li>
+<li><a href="/wiki/Gnawgahyde" title="Gnawgahyde">Gnawgahyde</a></li>
+<li><a href="/wiki/Monkeywrench_(G.I._Joe)" title="Monkeywrench (G.I. Joe)">Monkeywrench</a></li>
+<li><a href="/wiki/Ripper_(G.I._Joe)" title="Ripper (G.I. Joe)">Ripper</a></li>
+<li><a href="/wiki/Road_Pig" title="Road Pig">Road Pig</a></li>
+<li><a href="/wiki/Thrasher_(G.I._Joe)" title="Thrasher (G.I. Joe)">Thrasher</a></li>
+<li><a href="/wiki/Torch_(G.I._Joe)" title="Torch (G.I. Joe)">Torch</a></li>
+<li><a href="/wiki/Zanzibar_(G.I._Joe)" title="Zanzibar (G.I. Joe)">Zanzibar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Iron_Grenadiers" title="Iron Grenadiers">Iron Grenadiers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Metal-Head" title="Metal-Head">Metal-Head</a></li>
+<li><a href="/wiki/Voltar_(G.I._Joe)" title="Voltar (G.I. Joe)">Voltar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Oktober_Guard" title="Oktober Guard">Oktober Guard</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Red_Star_(G.I._Joe)" title="Red Star (G.I. Joe)">Red Star</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";;"><span style="float:left;width:6em;">&#160;</span>
+<div style="font-size:110%;">Media</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_G.I._Joe_series" title="List of G.I. Joe series">Toyline</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/G.I._Joe:_America%27s_movable_fighting_man" title="G.I. Joe: America's movable fighting man">America's movable fighting man</a></li>
+<li><a href="/wiki/G.I._Joe_Adventure_Team" title="G.I. Joe Adventure Team">Adventure Team</a></li>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero" title="G.I. Joe: A Real American Hero">A Real American Hero</a></li>
+<li><a href="/wiki/G.I._Joe:_Hall_of_Fame" title="G.I. Joe: Hall of Fame">Hall of Fame</a></li>
+<li><a href="/wiki/Sgt._Savage_and_his_Screaming_Eagles" title="Sgt. Savage and his Screaming Eagles">Sgt. Savage and his Screaming Eagles</a></li>
+<li><a href="/wiki/G.I._Joe:_Classic_Collection" title="G.I. Joe: Classic Collection">Classic Collection</a></li>
+<li><a href="/wiki/G.I._Joe:_Masterpiece_Edition" title="G.I. Joe: Masterpiece Edition">Masterpiece Edition</a></li>
+<li><a href="/wiki/G.I._Joe_Extreme" title="G.I. Joe Extreme">Extreme</a></li>
+<li><a href="/wiki/G.I._Joe:_Timeless_Collection" title="G.I. Joe: Timeless Collection">Timeless Collection</a></li>
+<li><a href="/wiki/G.I._Joe_vs._Cobra" title="G.I. Joe vs. Cobra">G.I. Joe vs. Cobra</a></li>
+<li><a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">Sigma 6</a></li>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero_25th_Anniversary" title="G.I. Joe: A Real American Hero 25th Anniversary">25th Anniversary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_vehicles" title="List of G.I. Joe: A Real American Hero vehicles">Vehicles</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/A.W.E._Striker" title="A.W.E. Striker">A.W.E. Striker</a></li>
+<li><a href="/wiki/Defiant_(G.I._Joe)" title="Defiant (G.I. Joe)">Defiant</a></li>
+<li><a href="/wiki/Rattler_(G.I._Joe)" title="Rattler (G.I. Joe)">Rattler</a></li>
+<li><a href="/wiki/Thunder_Machine" title="Thunder Machine">Thunder Machine</a></li>
+<li><a href="/wiki/USS_Flagg" title="USS Flagg">USS Flagg</a></li>
+<li><a href="/wiki/V.A.M.P._(G.I._Joe)" title="V.A.M.P. (G.I. Joe)">V.A.M.P.</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/G.I._Joe_(comics)" title="G.I. Joe (comics)">Comics</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(Marvel_Comics)" title="G.I. Joe: A Real American Hero (Marvel Comics)">Marvel Comics series</a></li>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(Devil%27s_Due)" title="G.I. Joe: A Real American Hero (Devil's Due)">Devil's Due series</a></li>
+<li><a href="/wiki/G.I._Joe_(IDW_Publishing)" title="G.I. Joe (IDW Publishing)">IDW Publishing series</a></li>
+<li><i><a href="/wiki/G.I._Joe:_America%27s_Elite" title="G.I. Joe: America's Elite">G.I. Joe: America's Elite</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Cobra" title="G.I. Joe: Cobra">G.I. Joe: Cobra</a></i></li>
+<li>"<a href="/wiki/World_War_III_(G.I._Joe)" title="World War III (G.I. Joe)">World War III</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Animated series</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/The_Cobra_Strikes" title="The Cobra Strikes">The Cobra Strikes</a>"</li>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1985_TV_series)" title="G.I. Joe: A Real American Hero (1985 TV series)">Sunbow series</a>
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_episodes" title="List of G.I. Joe: A Real American Hero episodes">episodes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(1989_TV_series)" title="G.I. Joe: A Real American Hero (1989 TV series)">DiC series</a>
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_episodes" title="List of G.I. Joe: A Real American Hero episodes">episodes</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/G.I._Joe_Extreme" title="G.I. Joe Extreme">Extreme</a></i>
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe_Extreme_episodes" title="List of G.I. Joe Extreme episodes">episodes</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/G.I._Joe:_Sigma_6" title="G.I. Joe: Sigma 6">Sigma 6</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Resolute" title="G.I. Joe: Resolute">Resolute</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Renegades" title="G.I. Joe: Renegades">Renegades</a></i>
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe:_Renegades_episodes" title="List of G.I. Joe: Renegades episodes">episodes</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Movies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Animated</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/G.I._Joe:_The_Movie" title="G.I. Joe: The Movie">G.I. Joe: The Movie</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Spy_Troops" title="G.I. Joe: Spy Troops">Spy Troops</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Valor_vs._Venom" title="G.I. Joe: Valor vs. Venom">Valor vs. Venom</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Ninja_Battles" title="G.I. Joe: Ninja Battles">Ninja Battles</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Live action</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/G.I._Joe:_The_Rise_of_Cobra" title="G.I. Joe: The Rise of Cobra">The Rise of Cobra</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">Retaliation</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_G.I._Joe_video_games" title="List of G.I. Joe video games">Video games</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/G.I._Joe:_Cobra_Strike" title="G.I. Joe: Cobra Strike">Cobra Strikes</a></i></li>
+<li><i><a href="/wiki/G.I._Joe:_A_Real_American_Hero_(video_game)" title="G.I. Joe: A Real American Hero (video game)">A Real American Hero</a></i></li>
+<li><i><a href="/wiki/Action_Force_(video_game)" title="Action Force (video game)"><i>Action Force</i></a></i></li>
+<li><a href="/wiki/G.I._Joe_(NES_video_game)" title="G.I. Joe (NES video game)"><i>G.I. Joe</i> NES video game</a></li>
+<li><i><a href="/wiki/G.I._Joe:_The_Atlantis_Factor" title="G.I. Joe: The Atlantis Factor">The Atlantis Factor</a></i></li>
+<li><a href="/wiki/G.I._Joe_(arcade_game)" title="G.I. Joe (arcade game)"><i>G.I. Joe</i> arcade game</a></li>
+<li><i><a href="/wiki/G.I._Joe:_The_Rise_of_Cobra_(video_game)" title="G.I. Joe: The Rise of Cobra (video game)">The Rise of Cobra</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Factions</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/G.I._Joe_Team" title="G.I. Joe Team">G.I. Joe Team</a></li>
+<li><a href="/wiki/Cobra-La" title="Cobra-La">Cobra-La</a></li>
+<li><a href="/wiki/Cobra_Command" title="Cobra Command">Cobra Command</a></li>
+<li><a href="/wiki/The_Coil" title="The Coil">The Coil</a></li>
+<li><a href="/wiki/Dreadnoks" title="Dreadnoks">Dreadnoks</a></li>
+<li><a href="/wiki/Iron_Grenadiers" title="Iron Grenadiers">Iron Grenadiers</a></li>
+<li><a href="/wiki/Oktober_Guard" title="Oktober Guard">Oktober Guard</a></li>
+<li><a href="/wiki/Red_Shadows" title="Red Shadows">Red Shadows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Lists</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters" title="List of G.I. Joe: A Real American Hero characters">Characters</a>
+<ul>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters_(A%E2%80%93C)" title="List of G.I. Joe: A Real American Hero characters (A每C)">A每C</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters_(D%E2%80%93G)" title="List of G.I. Joe: A Real American Hero characters (D每G)">D每G</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters_(H%E2%80%93L)" title="List of G.I. Joe: A Real American Hero characters (H每L)">H每L</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters_(M%E2%80%93R)" title="List of G.I. Joe: A Real American Hero characters (M每R)">M每R</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_characters_(S%E2%80%93Z)" title="List of G.I. Joe: A Real American Hero characters (S每Z)">S每Z</a></li>
+<li><a href="/wiki/List_of_Cobra_characters" title="List of Cobra characters">Cobra</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_G.I._Joe_series" title="List of G.I. Joe series">Toylines</a></li>
+<li><a href="/wiki/List_of_fictional_places_in_G.I._Joe" title="List of fictional places in G.I. Joe">Locations</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_playsets" title="List of G.I. Joe: A Real American Hero playsets">Playsets</a></li>
+<li><a href="/wiki/List_of_G.I._Joe_action_figures_modeled_after_real_persons" title="List of G.I. Joe action figures modeled after real persons">Real people</a></li>
+<li><a href="/wiki/List_of_G.I._Joe:_A_Real_American_Hero_vehicles" title="List of G.I. Joe: A Real American Hero vehicles">Vehicles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Related articles</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Action_Force" title="Action Force">Action Force</a></li>
+<li><a href="/wiki/Arashikage" title="Arashikage">Arashikage</a></li>
+<li><a href="/wiki/Brainwave_Scanner" title="Brainwave Scanner">Brainwave Scanner</a></li>
+<li><a href="/wiki/Cobra_Island" title="Cobra Island">Cobra Island</a></li>
+<li><a href="/wiki/Synthoid" title="Synthoid">Synthoid</a></li>
+<li><a href="/wiki/Terror_Drome" title="Terror Drome">Terror Drome</a></li>
+<li><a href="/wiki/The_Ballad_of_G.I._Joe" title="The Ballad of G.I. Joe">The Ballad of G.I. Joe</a></li>
+<li><a href="/wiki/The_Pit_(G.I._Joe)" title="The Pit (G.I. Joe)">The Pit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/24px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/32px-Symbol_book_class2.svg.png 2x" /> <a href="/wiki/Book:G.I._Joe" title="Book:G.I. Joe">Book:G.I. Joe</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Action_Force" title="Template:Action Force"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Action_Force" title="Template talk:Action Force"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Action_Force&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Action_Force" title="Action Force">Action Force</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Toyline</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Action_Force" title="Action Force">Action Force</a></li>
+<li><a href="/wiki/AF_(action_figures)" title="AF (action figures)">AF</a></li>
+<li><a href="/wiki/Action_Man" title="Action Man">Action Man</a></li>
+<li><strong class="selflink">G.I. Joe</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Comics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Battle_Picture_Weekly" title="Battle Picture Weekly">Battle Action Force</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Action Force Units</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Z_Force_(Action_Force)" title="Z Force (Action Force)">Z Force</a></li>
+<li><a href="/wiki/Q_Force" title="Q Force">Q Force</a></li>
+<li><a href="/wiki/Space_Force_(Action_Force)" title="Space Force (Action Force)">Space Force</a></li>
+<li><a href="/wiki/SAS_(Action_Force)" title="SAS (Action Force)">SAS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Action Force Villains</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Baron_Ironblood" title="Baron Ironblood">Baron Ironblood</a></li>
+<li><a href="/wiki/The_Black_Major" title="The Black Major">The Black Major</a></li>
+<li><a href="/wiki/Red_Laser" title="Red Laser">Red Laser</a></li>
+<li><a href="/wiki/Red_Jackal" title="Red Jackal">Red Jackal</a></li>
+<li><a href="/wiki/Cobra_Commander" title="Cobra Commander">Cobra Commander</a></li>
+<li><a href="/wiki/Destro" title="Destro">Destro</a></li>
+<li><a href="/wiki/Baroness_(G.I._Joe)" title="Baroness (G.I. Joe)">Baroness</a></li>
+<li><a href="/wiki/Zartan" title="Zartan">Zartan</a></li>
+<li><a href="/wiki/Storm_Shadow_(G.I._Joe)" title="Storm Shadow (G.I. Joe)">Storm Shadow</a></li>
+<li><a href="/wiki/Firefly_(G.I._Joe)" title="Firefly (G.I. Joe)">Firefly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Factions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Red_Shadows" title="Red Shadows">Red Shadows</a></li>
+<li><a href="/wiki/Cobra_Command" title="Cobra Command">Cobra</a></li>
+<li><a href="/wiki/G.I._Joe_Team" title="G.I. Joe Team">G.I. Joe Team</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Video Games</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Action_Force_(video_game)" title="Action Force (video game)">Action Force</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hasbro" title="Template:Hasbro"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hasbro" title="Template talk:Hasbro"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hasbro&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Hasbro" title="Hasbro">Hasbro</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Intellectual properties<br />
+currently managed<br />
+by Hasbro</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Hasbro_toys" title="List of Hasbro toys">Toys</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Action_Man:_1993%E2%80%932006" title="Action Man: 1993每2006">Action Man</a></li>
+<li><a href="/wiki/Baby_Alive" title="Baby Alive">Baby Alive</a></li>
+<li><a href="/wiki/Blythe_(doll)" title="Blythe (doll)">Blythe</a></li>
+<li><a href="/wiki/Easy-Bake_Oven" title="Easy-Bake Oven">Easy-Bake Oven</a></li>
+<li><a href="/wiki/Furby" title="Furby">Furby</a></li>
+<li><strong class="selflink">G.I. Joe</strong></li>
+<li><a href="/wiki/Glo_Worm" title="Glo Worm">Glo Worm</a></li>
+<li><a href="/wiki/Jem_(TV_series)" title="Jem (TV series)">Jem</a></li>
+<li><a href="/wiki/Koosh_ball" title="Koosh ball">Koosh</a></li>
+<li><a href="/wiki/Kre-O" title="Kre-O">Kre-O</a></li>
+<li><a href="/wiki/Lite-Brite" title="Lite-Brite">Lite-Brite</a></li>
+<li><a href="/wiki/Littlest_Pet_Shop" title="Littlest Pet Shop">Littlest Pet Shop</a></li>
+<li><a href="/wiki/Mighty_Muggs" title="Mighty Muggs">Mighty Muggs</a></li>
+<li><a href="/wiki/Mr._Potato_Head" title="Mr. Potato Head">Mr. Potato Head</a></li>
+<li><a href="/wiki/My_Little_Pony" title="My Little Pony">My Little Pony</a></li>
+<li><a href="/wiki/Nerf" title="Nerf">Nerf</a></li>
+<li><a href="/wiki/Play-Doh" title="Play-Doh">Play-Doh</a></li>
+<li><a href="/wiki/Pound_Puppies" title="Pound Puppies">Pound Puppies</a></li>
+<li><a href="/wiki/Rubik%27s_Cube" title="Rubik's Cube">Rubik's Cube</a></li>
+<li><a href="/wiki/Sit_%27n_Spin" title="Sit 'n Spin">Sit 'n Spin</a></li>
+<li><a href="/wiki/Spirograph" title="Spirograph">Spirograph</a></li>
+<li><a href="/wiki/Stickle_Bricks" title="Stickle Bricks">Stickle Bricks</a></li>
+<li><a href="/wiki/Super_Soaker" title="Super Soaker">Super Soaker</a></li>
+<li><a href="/wiki/Tinkertoy" title="Tinkertoy">Tinkertoy</a></li>
+<li><a href="/wiki/Tonka" title="Tonka">Tonka</a></li>
+<li><a href="/wiki/Transformers_(toy_line)" title="Transformers (toy line)">Transformers</a> (Owned by <a href="/wiki/Tomy" title="Tomy">Takara Tomy</a> in Japan)</li>
+<li><a href="/wiki/Weeble" title="Weeble">Weeble</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Hasbro_games" title="List of Hasbro games">Games</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Aggravation_(board_game)" title="Aggravation (board game)">Aggravation</a></li>
+<li><a href="/wiki/Axis_%26_Allies" title="Axis &amp; Allies">Axis &amp; Allies</a></li>
+<li><a href="/wiki/Barrel_of_Monkeys_(game)" title="Barrel of Monkeys (game)">Barrel of Monkeys</a></li>
+<li><a href="/wiki/Battleship_(game)" title="Battleship (game)">Battleship</a></li>
+<li><a href="/wiki/Boggle" title="Boggle">Boggle</a></li>
+<li><a href="/wiki/Bop_It" title="Bop It">Bop It</a></li>
+<li><a href="/wiki/Buckaroo_(game)" title="Buckaroo (game)" class="mw-redirect">Buckaroo</a></li>
+<li><a href="/wiki/Candy_Land" title="Candy Land">Candy Land</a></li>
+<li><a href="/wiki/Catch_Phrase_(game)" title="Catch Phrase (game)">Catch Phrase</a></li>
+<li><a href="/wiki/Snakes_and_Ladders" title="Snakes and Ladders">Chutes &amp; Ladders</a></li>
+<li><a href="/wiki/Cluedo" title="Cluedo">Cluedo/Clue</a></li>
+<li><a href="/wiki/Connect_Four" title="Connect Four">Connect 4</a></li>
+<li><a href="/wiki/Cootie_(game)" title="Cootie (game)">Cootie</a></li>
+<li><a href="/wiki/Cranium_(board_game)" title="Cranium (board game)">Cranium</a></li>
+<li><a href="/wiki/Crocodile_Dentist" title="Crocodile Dentist">Crocodile Dentist</a></li>
+<li><a href="/wiki/Designer%27s_World" title="Designer's World">Designer's World</a></li>
+<li><a href="/wiki/Duel_Masters" title="Duel Masters">Duel Masters</a></li>
+<li><a href="/wiki/Dungeons_%26_Dragons" title="Dungeons &amp; Dragons">Dungeons &amp; Dragons</a></li>
+<li><a href="/wiki/Elefun" title="Elefun">Elefun</a></li>
+<li><a href="/wiki/Gator_Golf" title="Gator Golf">Gator Golf</a></li>
+<li><a href="/wiki/Girl_Talk_(board_game)" title="Girl Talk (board game)">Girl Talk</a></li>
+<li><a href="/wiki/Guess_Who%3F" title="Guess Who?">Guess Who?</a></li>
+<li><a href="/wiki/Hi_Ho!_Cherry-O" title="Hi Ho! Cherry-O">Hi Ho! Cherry-O</a></li>
+<li><a href="/wiki/Hungry_Hungry_Hippos" title="Hungry Hungry Hippos">Hungry Hungry Hippos</a></li>
+<li><a href="/wiki/Jenga" title="Jenga">Jenga</a></li>
+<li><a href="/wiki/Lazer_Tag" title="Lazer Tag">Lazer Tag</a></li>
+<li><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></li>
+<li><a href="/wiki/Mall_Madness" title="Mall Madness">Mall Madness</a></li>
+<li><a href="/wiki/Concentration_(game)" title="Concentration (game)">Memory</a></li>
+<li><a href="/wiki/Milton_(game)" title="Milton (game)">Milton</a></li>
+<li><a href="/wiki/Monopoly_(game)" title="Monopoly (game)">Monopoly</a></li>
+<li><a href="/wiki/Mouse_Trap_(game)" title="Mouse Trap (game)">Mouse Trap</a></li>
+<li><a href="/wiki/Mystery_Date_(game)" title="Mystery Date (game)">Mystery Date</a></li>
+<li><a href="/wiki/Nerf_Blaster" title="Nerf Blaster">Nerf Blaster</a></li>
+<li><a href="/wiki/Operation_(game)" title="Operation (game)">Operation</a></li>
+<li><a href="/wiki/Ouija" title="Ouija">Ouija</a></li>
+<li><a href="/wiki/Parcheesi" title="Parcheesi">Parcheesi</a></li>
+<li><a href="/wiki/Perfection_(board_game)" title="Perfection (board game)">Perfection</a></li>
+<li><a href="/wiki/Pictionary" title="Pictionary">Pictionary</a></li>
+<li><a href="/wiki/Pit_(game)" title="Pit (game)">Pit</a></li>
+<li><a href="/wiki/Risk_(game)" title="Risk (game)">Risk</a></li>
+<li><a href="/wiki/Rook_(card_game)" title="Rook (card game)">Rook</a></li>
+<li><a href="/wiki/Scattergories" title="Scattergories">Scattergories</a></li>
+<li><a href="/wiki/Scrabble" title="Scrabble">Scrabble</a> (U.S. and Canada)</li>
+<li><a href="/wiki/Simon_(game)" title="Simon (game)">Simon</a></li>
+<li><a href="/wiki/Sorry!_(game)" title="Sorry! (game)">Sorry!</a></li>
+<li><a href="/wiki/Stratego" title="Stratego">Stratego</a></li>
+<li><a href="/wiki/Taboo_(game)" title="Taboo (game)">Taboo</a></li>
+<li><a href="/wiki/The_Game_of_Life" title="The Game of Life">The Game of Life</a></li>
+<li><a href="/wiki/Trivial_Pursuit" title="Trivial Pursuit">Trivial Pursuit</a></li>
+<li><a href="/wiki/Trouble_(board_game)" title="Trouble (board game)">Trouble</a></li>
+<li><a href="/wiki/Twister_(game)" title="Twister (game)">Twister</a></li>
+<li><a href="/wiki/Upwords" title="Upwords">Upwords</a></li>
+<li><a href="/wiki/Yahtzee" title="Yahtzee">Yahtzee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Distributed worldwide<br />
+by Hasbro</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Beyblade_(toy)" title="Beyblade (toy)">Beyblade</a> (except Japan and parts of Asia)</li>
+<li><a href="/wiki/CirKis" title="CirKis">CirKis</a> (except U.S., UK, France and Germany)</li>
+<li><a href="/wiki/FurReal_Friends" title="FurReal Friends">FurReal Friends</a> (except Japan)</li>
+<li><a href="/wiki/IDog" title="IDog">iDog</a> (except Japan)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Licensed products</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Are_You_Smarter_Than_a_5th_Grader%3F" title="Are You Smarter Than a 5th Grader?">Are You Smarter Than a 5th Grader?</a></li>
+<li><a href="/wiki/Disney_Consumer_Products" title="Disney Consumer Products">Disney</a>
+<ul>
+<li><a href="/wiki/Indiana_Jones_(franchise)" title="Indiana Jones (franchise)">Indiana Jones</a></li>
+<li><a href="/wiki/Marvel_Legends" title="Marvel Legends">Marvel Legends</a></li>
+<li><a href="/wiki/Marvel_Super_Hero_Squad" title="Marvel Super Hero Squad">Marvel Super Hero Squad</a></li>
+<li><a href="/wiki/Marvel_Universe_(toyline)" title="Marvel Universe (toyline)">Marvel Universe</a></li>
+<li><a href="/wiki/Spider-Man_Classics" title="Spider-Man Classics">Spider-Man Classics</a></li>
+<li><a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Idaten_Jump" title="Idaten Jump">Idaten Jump</a></li>
+<li><a href="/wiki/Jurassic_Park_(franchise)" title="Jurassic Park (franchise)">Jurassic Park</a></li>
+<li><a href="/wiki/Nickelodeon" title="Nickelodeon">Nickelodeon</a></li>
+<li><a href="/wiki/Strawberry_Shortcake" title="Strawberry Shortcake">Strawberry Shortcake</a></li>
+<li><a href="/wiki/Sid_the_Science_Kid" title="Sid the Science Kid">Sid the Science Kid</a></li>
+<li><a href="/wiki/The_Simpsons_(franchise)" title="The Simpsons (franchise)">The Simpsons</a></li>
+<li><a href="/wiki/Wolverine_and_the_X-Men_(toyline)" title="Wolverine and the X-Men (toyline)">Wolverine and the X-Men</a></li>
+<li><a href="/wiki/X-Men_Origins:_Wolverine_(toyline)" title="X-Men Origins: Wolverine (toyline)">X-Men Origins: Wolverine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Subsidiaries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hasbro_Studios" title="Hasbro Studios">Hasbro Studios</a></li>
+<li><a href="/wiki/Hub_Network" title="Hub Network">Hub Network</a> (50%)</li>
+<li><a href="/wiki/Wizards_of_the_Coast" title="Wizards of the Coast">Wizards of the Coast</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Divisions and brands</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Avalon_Hill" title="Avalon Hill">Avalon Hill</a> <small>(managed by Wizards of the Coast)</small></li>
+<li><a href="/wiki/Milton_Bradley_Company" title="Milton Bradley Company">Milton Bradley Company</a></li>
+<li><a href="/wiki/Nerf" title="Nerf">Nerf</a></li>
+<li><a href="/wiki/Parker_Brothers" title="Parker Brothers">Parker Brothers</a></li>
+<li><a href="/wiki/Playskool" title="Playskool">Playskool</a></li>
+<li><a href="/wiki/Tiger_Electronics" title="Tiger Electronics">Tiger Electronics</a></li>
+<li><a href="/wiki/Tonka" title="Tonka">Tonka</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 1.836 seconds
+Real time usage: 2.113 seconds
+Preprocessor visited node count: 7078/1000000
+Preprocessor generated node count: 21964/1500000
+Post坼expand include size: 281918/2048000 bytes
+Template argument size: 44014/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 15/500
+Lua time usage: 0.213s
+Lua memory usage: 2.88 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28713688-0!*!0!!en!4!* and timestamp 20131021090139
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=G.I._Joe&amp;oldid=577796628">http://en.wikipedia.org/w/index.php?title=G.I._Joe&amp;oldid=577796628</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1964_introductions" title="Category:1964 introductions">1964 introductions</a></li><li><a href="/wiki/Category:Action_figures" title="Category:Action figures">Action figures</a></li><li><a href="/wiki/Category:G.I._Joe" title="Category:G.I. Joe">G.I. Joe</a></li><li><a href="/wiki/Category:Playscale_figures" title="Category:Playscale figures">Playscale figures</a></li><li><a href="/wiki/Category:1960s_toys" title="Category:1960s toys">1960s toys</a></li><li><a href="/wiki/Category:Hasbro_brands" title="Category:Hasbro brands">Hasbro brands</a></li><li><a href="/wiki/Category:1970s_toys" title="Category:1970s toys">1970s toys</a></li><li><a href="/wiki/Category:1980s_toys" title="Category:1980s toys">1980s toys</a></li><li><a href="/wiki/Category:1990s_toys" title="Category:1990s toys">1990s toys</a></li><li><a href="/wiki/Category:2000s_toys" title="Category:2000s toys">2000s toys</a></li><li><a href="/wiki/Category:2010s_toys" title="Category:2010s toys">2010s toys</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2008" title="Category:Articles needing additional references from December 2008">Articles needing additional references from December 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_March_2011" title="Category:Articles that may contain original research from March 2011">Articles that may contain original research from March 2011</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">Articles with unsourced statements from February 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2009" title="Category:Articles with unsourced statements from June 2009">Articles with unsourced statements from June 2009</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=G.I.+Joe&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=G.I.+Joe" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/G.I._Joe"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:G.I._Joe"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/G.I._Joe" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=G.I._Joe&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=G.I._Joe&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content 每 the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/G.I._Joe" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/G.I._Joe" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=G.I._Joe&amp;oldid=577796628" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=G.I._Joe&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1052347" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=G.I._Joe&amp;id=577796628" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=G.I.+Joe">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=G.I.+Joe&amp;oldid=577796628&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=G.I._Joe&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%8A_%D8%A2%D9%8A_%D8%AC%D9%88" title="?? ?? ?? 每 Arabic" lang="ar" hreflang="ar">???????</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Catalan" lang="ca" hreflang="ca">Catal角</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/G.I._Joe_(Action-Figur)" title="G.I. Joe (Action-Figur) 每 German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Spanish" lang="es" hreflang="es">Espa?ol</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/G.I._%EC%A1%B0" title="G.I. ? 每 Korean" lang="ko" hreflang="ko">???</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%80.%E0%A4%86%E0%A4%88._%E0%A4%9C%E0%A5%8B" title="??.??. ?? 每 Hindi" lang="hi" hreflang="hi">??????</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Italian" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%92%27%D7%99.%D7%90%D7%99%D7%99._%D7%92%27%D7%95" title="?&amp;#039;?.???. ?&amp;#039;? 每 Hebrew" lang="he" hreflang="he">?????</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/G.I._Joe_(speelgoed)" title="G.I. Joe (speelgoed) 每 Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/G.I.%E3%82%B8%E3%83%A7%E3%83%BC" title="G.I.斥亦奈 每 Japanese" lang="ja" hreflang="ja">�梇擅Z</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Norwegian (bokm?l)" lang="no" hreflang="no">Norsk bokm?l</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Polish" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Portuguese" lang="pt" hreflang="pt">Portugu那s</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/G.I._Joe" title="G.I. Joe 每 Russian" lang="ru" hreflang="ru">妓批扼扼抗我抄</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Action_Force" title="Action Force 每 Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Action_Force" title="Action Force 每 Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B5%E0%B9%84%E0%B8%AD%E0%B9%82%E0%B8%88" title="?????? 每 Thai" lang="th" hreflang="th">???</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1052347#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2013 at 03:01.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/G.I._Joe" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1179 in 2.331 secs. -->
+	</body>
+</html>

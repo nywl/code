@@ -1,0 +1,2110 @@
+{
+ "id": "/m/025h5s",
+ "property": {
+  "/award/award_nominated_work/award_nominations": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "People's Choice Award for Favorite Movie Fan Following - Ringers - 2012 - racqztorres24 - Award Nomination",
+     "lang": "en",
+     "id": "/m/0nhk54h",
+     "creator": "/user/racqztorres24",
+     "timestamp": "2012-12-05T04:29:06.001Z",
+     "property": {
+      "/award/award_nomination/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "People's Choice Award for Favorite Movie Fan Following",
+         "lang": "en",
+         "id": "/m/0nhk30y",
+         "creator": "/user/racqztorres24",
+         "timestamp": "2012-12-05T04:29:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_nomination/notes_description": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Ringers",
+         "lang": "en",
+         "value": "Ringers",
+         "creator": "/user/racqztorres24",
+         "timestamp": "2012-12-05T04:29:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_nomination/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2012",
+         "lang": "",
+         "value": "2012",
+         "creator": "/user/racqztorres24",
+         "timestamp": "2012-12-05T04:29:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "racqztorres24",
+         "lang": "en",
+         "id": "/m/0hprry_",
+         "creator": "/user/racqztorres24",
+         "timestamp": "2012-12-05T04:29:06.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Nomination",
+         "lang": "en",
+         "id": "/award/award_nomination",
+         "creator": "/user/racqztorres24",
+         "timestamp": "2012-12-05T04:29:06.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/award/ranked_item/appears_in_ranked_lists": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Entertainment Weekly 100 New Movie Classics - 2 - 2008 - tfmorris - Ranking",
+     "lang": "en",
+     "id": "/m/0n9xyk7",
+     "creator": "/user/tfmorris",
+     "timestamp": "2012-11-01T22:00:22.000Z",
+     "property": {
+      "/award/ranking/list": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Entertainment Weekly 100 New Movie Classics",
+         "lang": "en",
+         "id": "/m/047m852",
+         "creator": "/user/tfmorris",
+         "timestamp": "2012-11-01T22:00:16.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/ranking/rank": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "2",
+         "lang": "en",
+         "value": 2.0,
+         "creator": "/user/tfmorris",
+         "timestamp": "2012-11-01T22:00:18.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/ranking/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/tfmorris",
+         "timestamp": "2012-11-01T22:00:18.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "tfmorris",
+         "lang": "en",
+         "id": "/m/03nbc6k",
+         "creator": "/user/tfmorris",
+         "timestamp": "2012-11-01T22:00:16.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ranking",
+         "lang": "en",
+         "id": "/award/ranking",
+         "creator": "/user/tfmorris",
+         "timestamp": "2012-11-01T22:00:16.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "The Lord of the Rings is an epic film trilogy consisting of three fantasy adventure films based...",
+     "lang": "en",
+     "id": "/m/025h5z",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T15:46:45.003Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/414113",
+         "lang": "",
+         "value": "http://wp/en/414113",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:46:45.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "The Lord of the Rings is an epic film trilogy consisting of three fantasy adventure films based...",
+         "lang": "en",
+         "value": "The Lord of the Rings is an epic film trilogy consisting of three fantasy adventure films based on the three-volume book of the same name by English author J. R. R. Tolkien. The films are, by subtitle, The Fellowship of the Ring (2001), The Two Towers (2002) and The Return of the King (2003).\nThe films were directed by Peter Jackson and distributed by New Line Cinema. Considered to be one of the biggest and most ambitious movie projects ever undertaken, with an overall budget of $285 million, the entire project took eight years, with the filming for all three films done simultaneously and entirely in Jackson's native New Zealand. Each film in the trilogy also had Special Extended Editions, released on DVD a year after the theatrical releases. While the films follow the book's general storyline, they do omit some of the plot elements from the novel and include some additions to and other deviations from the source material.\nSet in the fictional world of Middle-earth, the three films follow the hobbit Frodo Baggins (Elijah Wood) as he and a Fellowship embark on a quest to destroy the One Ring, and thus ensure the destruction of its maker, the Dark Lord Sauron. The Fellowship becomes",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:46:45.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:46:45.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:46:45.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The Lord of the Rings is a film series consisting of three epic fantasy adventure films adapted...",
+     "lang": "en",
+     "value": "The Lord of the Rings is a film series consisting of three epic fantasy adventure films adapted and directed by Peter Jackson and based on English author J. R. R. Tolkien's The Lord of the Rings. The films are, by subtitle, The Fellowship of the Ring, The Two Towers and The Return of the King. They were distributed by New Line Cinema.\nConsidered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million, the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country. Each film in the series also had special extended editions released on DVD a year after their respective theatrical releases. While the films follow the book's general storyline, they do omit some of the novel's plot elements and include some additions to and deviations from the source material.\nSet in the fictional world of Middle-earth, the three films follow the hobbit Frodo Baggins as he and a Fellowship embark on a quest to destroy the One Ring, and thus ensure the destruction of its maker, the Dark Lord Sauron. The Fellowship becomes divided and Frodo continues the quest together with his loyal companion Sam and the treacherous Gollum. Meanwhile, Aragorn, heir in exile to the throne of Gondor, and the wizard Gandalf unite and rally the Free Peoples of Middle-earth, who are ultimately victorious in the War of the Ring.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)"
+     }
+    }
+   ],
+   "count": 33.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "lotr-extended-blu-ray.jpg",
+     "lang": "en",
+     "id": "/m/0glyg_4",
+     "creator": "/user/jsigned",
+     "timestamp": "2011-05-05T15:27:06.000Z"
+    },
+    {
+     "text": "/m/0bdyf3j",
+     "lang": "",
+     "id": "/m/0bdyf3j",
+     "creator": "/user/jsigned",
+     "timestamp": "2010-03-29T13:40:41.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Film series",
+     "lang": "en",
+     "id": "/film/film_series"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Film series",
+     "lang": "en",
+     "id": "/film/film_series"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.lordoftherings.net/",
+     "lang": "",
+     "value": "http://www.lordoftherings.net/",
+     "creator": "/user/vanwang",
+     "timestamp": "2013-05-24T07:00:24.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=414113",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=414113",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:46:45.002Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=261457",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=261457",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T05:38:28.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=106998",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=106998",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T19:30:18.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=1311836",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=1311836",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T16:33:09.001Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=1869495",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=1869495",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T03:37:36.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=1564175",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=1564175",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T08:42:07.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=1160640",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=1160640",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:37:51.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/Il_Signore_degli_Anelli_(trilogia)",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/Il_Signore_degli_Anelli_(trilogia)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T14:56:19.001Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/Trilog¨ªa_cinematogr¨¢fica_de_El_Se?or_de_los_Anillos",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/Trilog¨ªa_cinematogr¨¢fica_de_El_Se?or_de_los_Anillos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T03:30:01.001Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/§£§Ý§Ñ§ã§ä§Ö§Ý§Ú§ß_§Ü§à§Ý§Ö§è_(§Ü§Ú§ß§à§ä§â§Ú§Ý§à§Ô§Ú§ñ)",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/§£§Ý§Ñ§ã§ä§Ö§Ý§Ú§ß_§Ü§à§Ý§Ö§è_(§Ü§Ú§ß§à§ä§â§Ú§Ý§à§Ô§Ú§ñ)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T15:56:27.000Z"
+    }
+   ],
+   "count": 68.0
+  },
+  "/exhibitions/exhibition_subject/exhibitions_created_about_this_subject": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Lord of the Rings Motion Picture Trilogy: The Exhibition",
+     "lang": "en",
+     "id": "/m/04zf21",
+     "creator": "/user/frankieroberto",
+     "timestamp": "2008-06-30T11:17:32.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film_series/films_in_series": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Lord of the Rings: The Fellowship of the Ring",
+     "lang": "en",
+     "id": "/m/017gl1",
+     "creator": "/user/gromul",
+     "timestamp": "2008-05-18T03:16:06.000Z"
+    },
+    {
+     "text": "The Lord of the Rings: The Two Towers",
+     "lang": "en",
+     "id": "/m/017gm7",
+     "creator": "/user/gromul",
+     "timestamp": "2008-05-18T03:14:02.000Z"
+    },
+    {
+     "text": "The Lord of the Rings: The Return of the King",
+     "lang": "en",
+     "id": "/m/017jd9",
+     "creator": "/user/gromul",
+     "timestamp": "2008-05-18T03:15:02.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:46:45.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/414113",
+     "lang": "",
+     "value": "/wikipedia/en_id/414113",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:46:45.002Z"
+    },
+    {
+     "text": "/en/the_lord_of_the_rings_film_trilogy",
+     "lang": "",
+     "value": "/en/the_lord_of_the_rings_film_trilogy",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2007-08-13T22:12:38.000Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0082-0595",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0082-0595",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-09T08:06:18.000Z"
+    },
+    {
+     "text": "/source/videosurf/18430",
+     "lang": "",
+     "value": "/source/videosurf/18430",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-05-26T20:18:48.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/261457",
+     "lang": "",
+     "value": "/wikipedia/ru_id/261457",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T05:38:28.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$043A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$043A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T14:33:49.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/106998",
+     "lang": "",
+     "value": "/wikipedia/fr_id/106998",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T19:30:18.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Der_Herr_der_Ringe_$0028Filmtrilogie$0029",
+     "lang": "",
+     "value": "/wikipedia/de/Der_Herr_der_Ringe_$0028Filmtrilogie$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T14:48:03.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/1311836",
+     "lang": "",
+     "value": "/wikipedia/es_id/1311836",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T16:33:09.001Z"
+    },
+    {
+     "text": "/wikipedia/de_id/1869495",
+     "lang": "",
+     "value": "/wikipedia/de_id/1869495",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T03:37:36.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T07:02:04.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/1564175",
+     "lang": "",
+     "value": "/wikipedia/pt_id/1564175",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T08:42:07.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/The_Lord_of_the_Rings_$0028trilogia_cinematogr$00E1fica$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/The_Lord_of_the_Rings_$0028trilogia_cinematogr$00E1fica$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T16:10:18.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Le_Seigneur_des_anneaux_$0028films_de_Peter_Jackson$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Le_Seigneur_des_anneaux_$0028films_de_Peter_Jackson$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T14:34:28.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/1160640",
+     "lang": "",
+     "value": "/wikipedia/it_id/1160640",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:37:51.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Il_Signore_degli_Anelli_$0028trilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Il_Signore_degli_Anelli_$0028trilogia$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:37:51.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Il_Signore_degli_Anelli_$0028trilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/it_title/Il_Signore_degli_Anelli_$0028trilogia$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T14:56:19.001Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Trilog$00EDa_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es_title/Trilog$00EDa_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T03:30:01.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$043A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$043A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T15:56:27.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Der_Herr_der_Ringe_$0028Filmtrilogie$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/Der_Herr_der_Ringe_$0028Filmtrilogie$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T23:55:54.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/The_Lord_of_the_Rings_$0028trilogia_cinematogr$00E1fica$0029",
+     "lang": "",
+     "value": "/wikipedia/pt_title/The_Lord_of_the_Rings_$0028trilogia_cinematogr$00E1fica$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T04:29:16.000Z"
+    },
+    {
+     "text": "/authority/netflix/api/http$003A$002F$002Fapi$002Enetflix$002Ecom$002Fcatalog$002Ftitles$002Fmovies$002F70024208",
+     "lang": "",
+     "value": "/authority/netflix/api/http$003A$002F$002Fapi$002Enetflix$002Ecom$002Fcatalog$002Ftitles$002Fmovies$002F70024208",
+     "creator": "/user/beijing_netflix_bot",
+     "timestamp": "2012-11-20T07:28:48.000Z"
+    },
+    {
+     "text": "/authority/netflix/tiny/BVP3w",
+     "lang": "",
+     "value": "/authority/netflix/tiny/BVP3w",
+     "creator": "/user/beijing_netflix_bot",
+     "timestamp": "2012-11-20T07:42:15.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Le_Seigneur_des_Anneaux_$0028films_de_Peter_Jackson$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Le_Seigneur_des_Anneaux_$0028films_de_Peter_Jackson$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:46:02.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$9B54$6212$7535$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$9B54$6212$7535$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:46:39.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_se$00F1or_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_se$00F1or_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:47:04.000Z"
+    },
+    {
+     "text": "/wikipedia/hi_title/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$0932$0949$091C$0940",
+     "lang": "",
+     "value": "/wikipedia/hi_title/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$0932$0949$091C$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:47:20.000Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$062B$0644$0627$062B$064A$0647$0029",
+     "lang": "",
+     "value": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$062B$0644$0627$062B$064A$0647$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:47:33.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9_$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9_$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:47:49.000Z"
+    },
+    {
+     "text": "/wikipedia/no/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/no/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:00.000Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/806041",
+     "lang": "",
+     "value": "/wikipedia/uk_id/806041",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:01.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematografica_de_El_senor_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematografica_de_El_senor_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:08.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_Senor_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_Senor_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:25.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/O_Senhor_dos_An$00E9is_$0028filme$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/O_Senhor_dos_An$00E9is_$0028filme$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:30.000Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/Y$00FCz$00FCklerin_Efendisi_$00FC$00E7lemesi",
+     "lang": "",
+     "value": "/wikipedia/tr_title/Y$00FCz$00FCklerin_Efendisi_$00FC$00E7lemesi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:33.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_senor_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematogr$00E1fica_de_El_senor_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:53.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Taru_sormusten_herrasta_$0028elokuvatrilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Taru_sormusten_herrasta_$0028elokuvatrilogia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:48:55.000Z"
+    },
+    {
+     "text": "/wikipedia/lt/$017Died$0173_valdovas_$0028filmas$0029",
+     "lang": "",
+     "value": "/wikipedia/lt/$017Died$0173_valdovas_$0028filmas$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:49:05.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Rosinha_villa",
+     "lang": "",
+     "value": "/wikipedia/pt/Rosinha_villa",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:49:15.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/Y$00FCz$00FCklerin_Efendisi_$00FC$00E7lemesi",
+     "lang": "",
+     "value": "/wikipedia/tr/Y$00FCz$00FCklerin_Efendisi_$00FC$00E7lemesi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:49:30.000Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$062B$0644$0627$062B$064A$0629$0029",
+     "lang": "",
+     "value": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$062B$0644$0627$062B$064A$0629$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:50:11.000Z"
+    },
+    {
+     "text": "/wikipedia/pl/W$0142adca_Pier$015Bcieni_$0028trylogia_filmowa$0029",
+     "lang": "",
+     "value": "/wikipedia/pl/W$0142adca_Pier$015Bcieni_$0028trylogia_filmowa$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:50:11.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA$003A_$05D0$05D7$05D5$05D5$05EA_$05D4$05D8$05D1$05E2$05EA_$0028$05E1$05E8$05D8$0029",
+     "lang": "",
+     "value": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA$003A_$05D0$05D7$05D5$05D5$05EA_$05D4$05D8$05D1$05E2$05EA_$0028$05E1$05E8$05D8$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:50:20.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Il_Signore_degli_Anelli_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Il_Signore_degli_Anelli_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:50:28.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_herre_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_herre_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:50:30.000Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$064A$0646$0645$0627$0029",
+     "lang": "",
+     "value": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$064A$0646$0645$0627$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:51:04.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_senor_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_senor_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:51:05.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/294164",
+     "lang": "",
+     "value": "/wikipedia/pl_id/294164",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:51:08.001Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/P$00E1n_prsten$016F_$0028filmov$00E1_trilogie$0029",
+     "lang": "",
+     "value": "/wikipedia/cs_title/P$00E1n_prsten$016F_$0028filmov$00E1_trilogie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:51:41.000Z"
+    },
+    {
+     "text": "/wikipedia/ro_id/360274",
+     "lang": "",
+     "value": "/wikipedia/ro_id/360274",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:02.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_Se$00F1or_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_Se$00F1or_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:09.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$9B54$6212$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$9B54$6212$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:14.001Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/64302",
+     "lang": "",
+     "value": "/wikipedia/tr_id/64302",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:26.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Taru_Sormusten_Herrasta_$0028elokuvatrilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/fi/Taru_Sormusten_Herrasta_$0028elokuvatrilogia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:31.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/The_Lord_of_the_Rings_$0028lo$1EA1t_phim$0029",
+     "lang": "",
+     "value": "/wikipedia/vi/The_Lord_of_the_Rings_$0028lo$1EA1t_phim$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:33.000Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/245582",
+     "lang": "",
+     "value": "/wikipedia/ko_id/245582",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:39.000Z"
+    },
+    {
+     "text": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:43.000Z"
+    },
+    {
+     "text": "/wikipedia/lt_id/12406",
+     "lang": "",
+     "value": "/wikipedia/lt_id/12406",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:50.000Z"
+    },
+    {
+     "text": "/wikipedia/da/Ringenes_Herre_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/da/Ringenes_Herre_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:52:52.000Z"
+    },
+    {
+     "text": "/wikipedia/sl/Gospodar_prstanov_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/sl/Gospodar_prstanov_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:09.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/St$0103p$00E2nul_Inelelor_$0028trilogie_cinematografic$0103$0029",
+     "lang": "",
+     "value": "/wikipedia/ro/St$0103p$00E2nul_Inelelor_$0028trilogie_cinematografic$0103$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:17.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/620834",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/620834",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:20.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$9B54$6212$7535$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$9B54$6212$7535$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:21.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/Ecranizarea_trilogiei_St$0103p$00E2nul_Inelelor",
+     "lang": "",
+     "value": "/wikipedia/ro/Ecranizarea_trilogiei_St$0103p$00E2nul_Inelelor",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:39.000Z"
+    },
+    {
+     "text": "/wikipedia/th/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/th/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:53:50.001Z"
+    },
+    {
+     "text": "/wikipedia/fi/Taru_sormusten_herrasta_$0028elokuvatrilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/fi/Taru_sormusten_herrasta_$0028elokuvatrilogia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:54:09.000Z"
+    },
+    {
+     "text": "/wikipedia/es/El_Se$00F1or_de_los_Anillos_$0028pel$00EDcula_de_Peter_Jackson$0029",
+     "lang": "",
+     "value": "/wikipedia/es/El_Se$00F1or_de_los_Anillos_$0028pel$00EDcula_de_Peter_Jackson$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:54:31.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_herre_$0028filmserie$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_herre_$0028filmserie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:54:40.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C",
+     "lang": "",
+     "value": "/wikipedia/th/$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:55:39.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_se$00F1or_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_se$00F1or_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:55:43.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$002C_2001-2003$0029",
+     "lang": "",
+     "value": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$002C_2001-2003$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:56:05.000Z"
+    },
+    {
+     "text": "/wikipedia/ar/$062B$0644$0627$062B$064A$0629_$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645",
+     "lang": "",
+     "value": "/wikipedia/ar/$062B$0644$0627$062B$064A$0629_$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:56:22.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematografica_de_El_se$00F1or_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematografica_de_El_se$00F1or_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:57:07.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_Herre-filmene",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_Herre-filmene",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:57:45.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematografica_de_El_Senor_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematografica_de_El_Senor_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:57:58.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/ru/$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446_$0028$043A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:09.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:14.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/P$00E1n_prsten$016F_$0028filmov$00E1_trilogie$0029",
+     "lang": "",
+     "value": "/wikipedia/cs/P$00E1n_prsten$016F_$0028filmov$00E1_trilogie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:24.000Z"
+    },
+    {
+     "text": "/wikipedia/no_id/299349",
+     "lang": "",
+     "value": "/wikipedia/no_id/299349",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:29.000Z"
+    },
+    {
+     "text": "/wikipedia/sl_title/Gospodar_prstanov_$0028filmska_trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/sl_title/Gospodar_prstanov_$0028filmska_trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:31.000Z"
+    },
+    {
+     "text": "/wikipedia/hr_title/Gospodar_prstenova_$0028filmska_trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/hr_title/Gospodar_prstenova_$0028filmska_trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:33.000Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/1338393",
+     "lang": "",
+     "value": "/wikipedia/vi_id/1338393",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:38.002Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_Herre_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_Herre_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:49.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Taru_sormusten_herrasta_-elokuvatrilogia",
+     "lang": "",
+     "value": "/wikipedia/fi/Taru_sormusten_herrasta_-elokuvatrilogia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:50.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Trilogin_om_H$00E4rskarringen_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/sv/Trilogin_om_H$00E4rskarringen_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:52.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA$003A_$05E9$05E0$05D9_$05D4$05E6$05E8$05D9$05D7$05D9$05DD_$0028$05E1$05E8$05D8$0029",
+     "lang": "",
+     "value": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA$003A_$05E9$05E0$05D9_$05D4$05E6$05E8$05D9$05D7$05D9$05DD_$0028$05E1$05E8$05D8$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:58:53.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_herre-filmene",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_herre-filmene",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:59:16.001Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$BC18$C9C0$C758_$C81C$C655_$C601$D654_$C0BC$BD80$C791",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$BC18$C9C0$C758_$C81C$C655_$C601$D654_$C0BC$BD80$C791",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:59:31.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematografica_de_El_Se$00F1or_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematografica_de_El_Se$00F1or_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:59:47.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/tr/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T00:59:59.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/620834",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/620834",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:04.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C601$D654_$C0BC$BD80$C791",
+     "lang": "",
+     "value": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C601$D654_$C0BC$BD80$C791",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:13.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_Herre_filmtriologien",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_Herre_filmtriologien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:21.000Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/The_Lord_of_the_Rings_$0028lo$1EA1t_phim$0029",
+     "lang": "",
+     "value": "/wikipedia/vi_title/The_Lord_of_the_Rings_$0028lo$1EA1t_phim$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:22.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F_$00AB$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446$00BB",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$0438$043D$043E$0442$0440$0438$043B$043E$0433$0438$044F_$00AB$0412$043B$0430$0441$0442$0435$043B$0438$043D_$041A$043E$043B$0435$0446$00BB",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:23.000Z"
+    },
+    {
+     "text": "/wikipedia/hr/Gospodar_prstenova_$0028filmska_trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/hr/Gospodar_prstenova_$0028filmska_trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:00:43.000Z"
+    },
+    {
+     "text": "/wikipedia/da_id/554418",
+     "lang": "",
+     "value": "/wikipedia/da_id/554418",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:01:32.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_senor_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_senor_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:01:36.000Z"
+    },
+    {
+     "text": "/wikipedia/hi/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$0932$0949$091C$0940",
+     "lang": "",
+     "value": "/wikipedia/hi/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$0932$0949$091C$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:01:57.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/P$00E1n_prsten$016F_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/cs/P$00E1n_prsten$016F_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:01:59.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:02:16.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/W$0142adca_Pier$015Bcieni_$0028trylogia_filmowa$0029",
+     "lang": "",
+     "value": "/wikipedia/pl_title/W$0142adca_Pier$015Bcieni_$0028trylogia_filmowa$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:02:38.000Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Ringenes_herre_$0028filmserie$0029",
+     "lang": "",
+     "value": "/wikipedia/no_title/Ringenes_herre_$0028filmserie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:02:52.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Il_signore_degli_anelli_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Il_signore_degli_anelli_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:03:41.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_Se$00F1or_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:03:53.000Z"
+    },
+    {
+     "text": "/wikipedia/th_id/138606",
+     "lang": "",
+     "value": "/wikipedia/th_id/138606",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:00.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/B$1ED9_ba_phim_The_Lord_of_the_Rings",
+     "lang": "",
+     "value": "/wikipedia/vi/B$1ED9_ba_phim_The_Lord_of_the_Rings",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:24.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/LOTR",
+     "lang": "",
+     "value": "/wikipedia/tr/LOTR",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:30.000Z"
+    },
+    {
+     "text": "/wikipedia/hi_id/186815",
+     "lang": "",
+     "value": "/wikipedia/hi_id/186815",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:31.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C",
+     "lang": "",
+     "value": "/wikipedia/th/$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:55.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:04:57.000Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA_$0028$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9$05DD$0029",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA_$0028$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9$05DD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:01.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$9B54$6212$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$9B54$6212$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:04.001Z"
+    },
+    {
+     "text": "/wikipedia/tr/Y$00FCz$00FCklerin_Efendisi_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/tr/Y$00FCz$00FCklerin_Efendisi_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:17.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/vi/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:18.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/330704",
+     "lang": "",
+     "value": "/wikipedia/sv_id/330704",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:40.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Rosinha_Villa",
+     "lang": "",
+     "value": "/wikipedia/pt/Rosinha_Villa",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:45.000Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$043F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$043F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:47.000Z"
+    },
+    {
+     "text": "/wikipedia/lt/$017Died$0173_valdovas_$0028trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/lt/$017Died$0173_valdovas_$0028trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:53.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_se$00F1or_de_los_anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_se$00F1or_de_los_anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:59.000Z"
+    },
+    {
+     "text": "/wikipedia/he_id/208696",
+     "lang": "",
+     "value": "/wikipedia/he_id/208696",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:05:59.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_Senor_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilog$00EDa_cinematografica_de_El_Senor_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:05.000Z"
+    },
+    {
+     "text": "/wikipedia/sl/Gospodar_prstanov_$0028filmska_trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/sl/Gospodar_prstanov_$0028filmska_trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:10.000Z"
+    },
+    {
+     "text": "/wikipedia/sl_id/37576",
+     "lang": "",
+     "value": "/wikipedia/sl_id/37576",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:17.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C601$D654_3$BD80$C791",
+     "lang": "",
+     "value": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C601$D654_3$BD80$C791",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:19.000Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$041F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$041F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:23.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Filmtriologien_Ringenes_herre",
+     "lang": "",
+     "value": "/wikipedia/no/Filmtriologien_Ringenes_herre",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:06:32.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA_$0028$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9$05DD$0029",
+     "lang": "",
+     "value": "/wikipedia/he/$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA_$0028$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E1$05E8$05D8$05D9$05DD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:07:08.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Herr-der-Ringe-Trilogie",
+     "lang": "",
+     "value": "/wikipedia/de/Herr-der-Ringe-Trilogie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:07:18.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_Senor_de_los_Anillos",
+     "lang": "",
+     "value": "/wikipedia/es/Trilogia_cinematogr$00E1fica_de_El_Senor_de_los_Anillos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:07:29.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Ringenes_herre-filmtrilogien",
+     "lang": "",
+     "value": "/wikipedia/no/Ringenes_herre-filmtrilogien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:07:40.000Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/171076",
+     "lang": "",
+     "value": "/wikipedia/cs_id/171076",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:07:47.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/O_Senhor_dos_An$00E9is_$0028trilogia$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/O_Senhor_dos_An$00E9is_$0028trilogia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:04.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C0BC$BD80$C791",
+     "lang": "",
+     "value": "/wikipedia/ko/$BC18$C9C0$C758_$C81C$C655_$C0BC$BD80$C791",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:11.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$9B54$6212$96FB$5F71$4E09$90E8$66F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:21.001Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/41498",
+     "lang": "",
+     "value": "/wikipedia/fi_id/41498",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:37.001Z"
+    },
+    {
+     "text": "/wikipedia/lt_title/$017Died$0173_valdovas_$0028trilogija$0029",
+     "lang": "",
+     "value": "/wikipedia/lt_title/$017Died$0173_valdovas_$0028trilogija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:39.000Z"
+    },
+    {
+     "text": "/wikipedia/hi/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$092F$094B$0932$0949$091C$0940",
+     "lang": "",
+     "value": "/wikipedia/hi/$0926_$0932$094B$0930$094D$0921_$0911$092B_$0926_$0930$093F$0902$0917$094D$0938_$092B$093F$0932$094D$092E_$091F$094D$0930$093F$092F$094B$0932$0949$091C$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:40.000Z"
+    },
+    {
+     "text": "/wikipedia/hr_id/255061",
+     "lang": "",
+     "value": "/wikipedia/hr_id/255061",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:41.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Taru_Sormusten_Herrasta_-elokuvatrilogia",
+     "lang": "",
+     "value": "/wikipedia/fi/Taru_Sormusten_Herrasta_-elokuvatrilogia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:08:41.000Z"
+    },
+    {
+     "text": "/wikipedia/da_title/Ringenes_Herre_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/da_title/Ringenes_Herre_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:09:00.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05D8$05E8$05D9$05DC$05D5$05D2$05D9$05D9$05EA_$05E9$05E8_$05D4$05D8$05D1$05E2$05D5$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2012-11-28T01:09:25.000Z"
+    },
+    {
+     "text": "/base/ranker/rankerurlname/the-lord-of-the-rings-film-trilogy$002F2204777",
+     "lang": "",
+     "value": "/base/ranker/rankerurlname/the-lord-of-the-rings-film-trilogy$002F2204777",
+     "creator": "/user/ravi_ranker",
+     "timestamp": "2012-12-02T13:35:06.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/The_Lord_of_the_Rings_$0028film_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/The_Lord_of_the_Rings_$0028film_series$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2013-01-04T14:04:30.000Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/988206",
+     "lang": "",
+     "value": "/wikipedia/hu_id/988206",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:46:48.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Filmtrilogin_om_H$00E4rskarringen",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Filmtrilogin_om_H$00E4rskarringen",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:46:49.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Lurtz",
+     "lang": "",
+     "value": "/wikipedia/fr/Lurtz",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:47:06.000Z"
+    },
+    {
+     "text": "/wikipedia/ro_title/St$0103p$00E2nul_Inelelor_$0028serie_de_filme$0029",
+     "lang": "",
+     "value": "/wikipedia/ro_title/St$0103p$00E2nul_Inelelor_$0028serie_de_filme$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:00.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Sagan_om_ringen_$0028filmserie$0029",
+     "lang": "",
+     "value": "/wikipedia/sv/Sagan_om_ringen_$0028filmserie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:09.000Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/A_Gy$0171r$0171k_Ura_$0028filmsorozat$0029",
+     "lang": "",
+     "value": "/wikipedia/hu_title/A_Gy$0171r$0171k_Ura_$0028filmsorozat$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:14.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Filmtrilogin_om_H$00E4rskarringen",
+     "lang": "",
+     "value": "/wikipedia/sv/Filmtrilogin_om_H$00E4rskarringen",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:14.000Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$043A$0456$043B$0435$0446$044C_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$0412$043E$043B$043E$0434$0430$0440_$043A$0456$043B$0435$0446$044C_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:21.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30ED$30FC$30C9$30FB$30AA$30D6$30FB$30B6$30FB$30EA$30F3$30B0$30B7$30EA$30FC$30BA",
+     "lang": "",
+     "value": "/wikipedia/ja/$30ED$30FC$30C9$30FB$30AA$30D6$30FB$30B6$30FB$30EA$30F3$30B0$30B7$30EA$30FC$30BA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:23.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30ED$30FC$30C9$30FB$30AA$30D6$30FB$30B6$30FB$30EA$30F3$30B0$30B7$30EA$30FC$30BA",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30ED$30FC$30C9$30FB$30AA$30D6$30FB$30B6$30FB$30EA$30F3$30B0$30B7$30EA$30FC$30BA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:31.001Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/2687181",
+     "lang": "",
+     "value": "/wikipedia/ja_id/2687181",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:33.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/St$0103p$00E2nul_Inelelor_$0028serie_de_filme$0029",
+     "lang": "",
+     "value": "/wikipedia/ro/St$0103p$00E2nul_Inelelor_$0028serie_de_filme$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:40.000Z"
+    },
+    {
+     "text": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_$0028filmsorozat$0029",
+     "lang": "",
+     "value": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_$0028filmsorozat$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:50.000Z"
+    },
+    {
+     "text": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_filmtril$00F3gia",
+     "lang": "",
+     "value": "/wikipedia/hu/A_Gy$0171r$0171k_Ura_filmtril$00F3gia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:48:57.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/ro/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:49:03.000Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$0412$043E$043B$043E$0434$0430$0440_$043F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$0412$043E$043B$043E$0434$0430$0440_$043F$0435$0440$0441$043D$0456$0432_$0028$043A$0456$043D$043E$0442$0440$0438$043B$043E$0433$0456$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:49:06.001Z"
+    },
+    {
+     "text": "/wikipedia/sv/Sagan_om_Ringen_$0028filmserie$0029",
+     "lang": "",
+     "value": "/wikipedia/sv/Sagan_om_Ringen_$0028filmserie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:50:28.000Z"
+    },
+    {
+     "text": "/wikipedia/lv/Gredzenu_pav$0113lnieks_$0028filmu_s$0113rija$0029",
+     "lang": "",
+     "value": "/wikipedia/lv/Gredzenu_pav$0113lnieks_$0028filmu_s$0113rija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-21T22:09:52.000Z"
+    },
+    {
+     "text": "/wikipedia/lv_title/Gredzenu_pav$0113lnieks_$0028filmu_s$0113rija$0029",
+     "lang": "",
+     "value": "/wikipedia/lv_title/Gredzenu_pav$0113lnieks_$0028filmu_s$0113rija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-21T22:19:19.001Z"
+    },
+    {
+     "text": "/wikipedia/lv_id/215540",
+     "lang": "",
+     "value": "/wikipedia/lv_id/215540",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-21T22:23:39.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/LOTR",
+     "lang": "",
+     "value": "/wikipedia/nl/LOTR",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:16.000Z"
+    },
+    {
+     "text": "/wikipedia/bg/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/bg/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:19.003Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/21801",
+     "lang": "",
+     "value": "/wikipedia/nl_id/21801",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:21.001Z"
+    },
+    {
+     "text": "/wikipedia/nl/Lotr",
+     "lang": "",
+     "value": "/wikipedia/nl/Lotr",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:21.003Z"
+    },
+    {
+     "text": "/wikipedia/lv/Gredzenu_pav$0113lnieks_$0028filmu_triolo$0123ija$0029",
+     "lang": "",
+     "value": "/wikipedia/lv/Gredzenu_pav$0113lnieks_$0028filmu_triolo$0123ija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:52.000Z"
+    },
+    {
+     "text": "/wikipedia/bg/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0444$0438$043B$043C$0029",
+     "lang": "",
+     "value": "/wikipedia/bg/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0444$0438$043B$043C$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:50:55.004Z"
+    },
+    {
+     "text": "/wikipedia/nl/Lord_of_the_ring",
+     "lang": "",
+     "value": "/wikipedia/nl/Lord_of_the_ring",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:51:18.000Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$0412$043B$0430$0441$0442$0435$043B$0438$043D$044A$0442_$043D$0430_$043F$0440$044A$0441$0442$0435$043D$0438$0442$0435_$0028$0442$0440$0438$043B$043E$0433$0438$044F$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:52:15.004Z"
+    },
+    {
+     "text": "/wikipedia/sk/P$00E1n_prste$0148ov_$0028filmov$00E1_tril$00F3gia$0029",
+     "lang": "",
+     "value": "/wikipedia/sk/P$00E1n_prste$0148ov_$0028filmov$00E1_tril$00F3gia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:52:22.001Z"
+    },
+    {
+     "text": "/wikipedia/nl/The_lord_of_the_rings",
+     "lang": "",
+     "value": "/wikipedia/nl/The_lord_of_the_rings",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:52:30.002Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/172245",
+     "lang": "",
+     "value": "/wikipedia/bg_id/172245",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:24.002Z"
+    },
+    {
+     "text": "/wikipedia/nl/The_Lord_of_the_Rings_$0028films$0029",
+     "lang": "",
+     "value": "/wikipedia/nl/The_Lord_of_the_Rings_$0028films$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:28.004Z"
+    },
+    {
+     "text": "/wikipedia/sk_title/P$00E1n_prste$0148ov_$0028filmov$00E1_tril$00F3gia$0029",
+     "lang": "",
+     "value": "/wikipedia/sk_title/P$00E1n_prste$0148ov_$0028filmov$00E1_tril$00F3gia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:29.001Z"
+    },
+    {
+     "text": "/wikipedia/fr/Le_Seigneur_des_anneaux_$0028s$00E9rie_de_films$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Le_Seigneur_des_anneaux_$0028s$00E9rie_de_films$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:55.001Z"
+    },
+    {
+     "text": "/wikipedia/sk_id/486007",
+     "lang": "",
+     "value": "/wikipedia/sk_id/486007",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:56.001Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/The_Lord_of_the_Rings_$0028films$0029",
+     "lang": "",
+     "value": "/wikipedia/nl_title/The_Lord_of_the_Rings_$0028films$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:53:58.004Z"
+    },
+    {
+     "text": "/wikipedia/nl/The_Lord_of_The_Rings",
+     "lang": "",
+     "value": "/wikipedia/nl/The_Lord_of_The_Rings",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:54:00.004Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Le_Seigneur_des_anneaux_$0028s$00E9rie_de_films$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Le_Seigneur_des_anneaux_$0028s$00E9rie_de_films$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T00:54:06.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_movie_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_movie_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:58:49.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_film_series",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_film_series",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:58:50.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_$0028film_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_$0028film_series$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:58:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:58:57.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_$0028film_trilogy$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_$0028film_trilogy$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:58:58.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Small_People_Throwing_A_Ring_Into_A_Volcano",
+     "lang": "",
+     "value": "/wikipedia/en/Small_People_Throwing_A_Ring_Into_A_Volcano",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:02.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_rings_movies",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_rings_movies",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:03.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_$0028film_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_$0028film_series$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:08.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_movie_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_movie_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:13.002Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_$0028movies$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_$0028movies$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:14.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:17.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_$0028film_trilogy$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_$0028film_trilogy$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-11T06:59:19.001Z"
+    },
+    {
+     "text": "/wikipedia/tr/The_Lord_of_the_Rings_$0028film_series$0029",
+     "lang": "",
+     "value": "/wikipedia/tr/The_Lord_of_the_Rings_$0028film_series$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-13T02:37:33.000Z"
+    },
+    {
+     "text": "/wikipedia/sk/Filmov$00E1_tril$00F3gia_P$00E1n_prste$0148ov",
+     "lang": "",
+     "value": "/wikipedia/sk/Filmov$00E1_tril$00F3gia_P$00E1n_prste$0148ov",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-04T00:00:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_Trilogy_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_Trilogy_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:34:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:34:47.001Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings$003A_The_Motion_Picture_Trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings$003A_The_Motion_Picture_Trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:34:49.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Cuts_and_alterations_from_the_book_in_The_Lord_of_the_Rings$003A_The_Return_of_the_King_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Cuts_and_alterations_from_the_book_in_The_Lord_of_the_Rings$003A_The_Return_of_the_King_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:34:49.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lord_of_the_Rings_$0028trilogy$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Lord_of_the_Rings_$0028trilogy$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:34:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_$0028movie$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_$0028movie$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:07.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_film_series",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_film_series",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:08.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lotr_movies",
+     "lang": "",
+     "value": "/wikipedia/en/Lotr_movies",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:10.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:12.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Cast_of_The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/Cast_of_The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:14.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Lordoftherings$002Enet",
+     "lang": "",
+     "value": "/wikipedia/en/Lordoftherings$002Enet",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:16.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_lord_of_the_rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/The_lord_of_the_rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:17.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_$0028films$0029",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_$0028films$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:19.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Lord_of_the_Rings_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/The_Lord_of_the_Rings_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-24T03:35:22.000Z"
+    },
+    {
+     "text": "/wikipedia/en/LOTR_film_trilogy",
+     "lang": "",
+     "value": "/wikipedia/en/LOTR_film_trilogy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-25T16:55:46.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Trilogie_cin$00E9matographique_du_Seigneur_des_anneaux",
+     "lang": "",
+     "value": "/wikipedia/fr/Trilogie_cin$00E9matographique_du_Seigneur_des_anneaux",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T22:04:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$0644$0633$0644$0629_$0623$0641$0644$0627$0645$0029",
+     "lang": "",
+     "value": "/wikipedia/ar/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$0644$0633$0644$0629_$0623$0641$0644$0627$0645$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-15T22:21:48.000Z"
+    },
+    {
+     "text": "/wikipedia/ar_title/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$0644$0633$0644$0629_$0623$0641$0644$0627$0645$0029",
+     "lang": "",
+     "value": "/wikipedia/ar_title/$0633$064A$062F_$0627$0644$062E$0648$0627$062A$0645_$0028$0633$0644$0633$0644$0629_$0623$0641$0644$0627$0645$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-15T22:27:51.000Z"
+    },
+    {
+     "text": "/wikipedia/ar_id/1743292",
+     "lang": "",
+     "value": "/wikipedia/ar_id/1743292",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-15T22:36:35.000Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0029",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T01:18:32.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E0A$0E38$0E14$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0029",
+     "lang": "",
+     "value": "/wikipedia/th/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E0A$0E38$0E14$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T01:31:13.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0029",
+     "lang": "",
+     "value": "/wikipedia/th/$0E40$0E14$0E2D$0E30$0E25$0E2D$0E23$0E4C$0E14$0E2D$0E2D$0E1F$0E40$0E14$0E2D$0E30$0E23$0E34$0E07$0E2A$0E4C_$0028$0E20$0E32$0E1E$0E22$0E19$0E15$0E23$0E4C$0E44$0E15$0E23$0E20$0E32$0E04$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T01:33:24.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Brent_McIntyre",
+     "lang": "",
+     "value": "/wikipedia/sv/Brent_McIntyre",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-10T17:02:22.000Z"
+    }
+   ],
+   "count": 219.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/025h5s",
+     "lang": "",
+     "value": "/m/025h5s"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The Lord of the Rings",
+     "lang": "en",
+     "value": "The Lord of the Rings",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-13T05:50:04.000Z"
+    }
+   ],
+   "count": 34.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Film series",
+     "lang": "en",
+     "id": "/film/film_series",
+     "creator": "/user/gromul",
+     "timestamp": "2008-05-18T03:14:02.000Z"
+    },
+    {
+     "text": "Exhibition subject",
+     "lang": "en",
+     "id": "/exhibitions/exhibition_subject",
+     "creator": "/user/frankieroberto",
+     "timestamp": "2008-06-30T11:17:32.000Z"
+    },
+    {
+     "text": "Pinball Machine Basis",
+     "lang": "en",
+     "id": "/base/pinball/pinball_machine_basis",
+     "creator": "/user/alexander",
+     "timestamp": "2008-08-09T08:55:21.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/pinball/topic",
+     "creator": "/user/mw_client_bot",
+     "timestamp": "2008-10-14T00:48:30.001Z"
+    },
+    {
+     "text": "Movies",
+     "lang": "en",
+     "id": "/base/rewards/movies",
+     "creator": "/user/atala",
+     "timestamp": "2012-06-18T16:01:23.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/rewards/topic",
+     "creator": "/user/atala",
+     "timestamp": "2012-06-18T16:01:23.000Z"
+    },
+    {
+     "text": "Ranked item",
+     "lang": "en",
+     "id": "/award/ranked_item",
+     "creator": "/user/tfmorris",
+     "timestamp": "2012-11-01T22:00:22.000Z"
+    },
+    {
+     "text": "Award-Nominated Work",
+     "lang": "en",
+     "id": "/award/award_nominated_work",
+     "creator": "/user/racqztorres24",
+     "timestamp": "2012-12-05T04:29:07.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 9.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000022bcb8",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000022bcb8"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T15:46:45.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T15:46:45.002Z",
+     "lang": "en",
+     "value": "2006-10-22T15:46:45.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

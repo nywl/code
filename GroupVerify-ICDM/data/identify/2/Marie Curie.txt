@@ -1,0 +1,5085 @@
+{
+ "id": "/m/053_d",
+ "property": {
+  "/award/award_winner/awards_won": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Nobel Prize in Physics - Pierre Curie - \"in recognition of the extraordinary services they have rendered by their joint researches on... - 1903 - enlil - Award Honor",
+     "lang": "en",
+     "id": "/m/02xlk2g",
+     "creator": "/user/enlil",
+     "timestamp": "2007-09-21T04:46:14.000Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Nobel Prize in Physics",
+         "lang": "en",
+         "id": "/m/0dt39",
+         "creator": "/user/enlil",
+         "timestamp": "2007-09-21T04:46:14.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/award_winner": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Pierre Curie",
+         "lang": "en",
+         "id": "/m/063wl",
+         "creator": "/user/jeff",
+         "timestamp": "2008-04-17T01:13:23.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/award/award_honor/honored_for": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/award/award_honor/notes_description": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "\"in recognition of the extraordinary services they have rendered by their joint researches on...",
+         "lang": "en",
+         "value": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel.\"",
+         "creator": "/user/cristinagrajo",
+         "timestamp": "2013-09-17T09:13:50.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1903",
+         "lang": "",
+         "value": "1903",
+         "creator": "/user/enlil",
+         "timestamp": "2007-09-21T04:46:14.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "enlil",
+         "lang": "en",
+         "id": "/m/02kdzmk",
+         "creator": "/user/enlil",
+         "timestamp": "2007-09-21T04:46:14.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/enlil",
+         "timestamp": "2007-09-21T04:46:14.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Nobel Prize in Chemistry - \"in recognition of her services to the advancement of chemistry by the discovery of the elements... - 1911 - mmcm - Award Honor",
+     "lang": "en",
+     "id": "/m/04j4xgt",
+     "creator": "/user/mmcm",
+     "timestamp": "2008-08-28T01:30:26.001Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Nobel Prize in Chemistry",
+         "lang": "en",
+         "id": "/m/05fmy",
+         "creator": "/user/mmcm",
+         "timestamp": "2008-08-28T01:30:24.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/honored_for": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/award/award_honor/notes_description": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "\"in recognition of her services to the advancement of chemistry by the discovery of the elements...",
+         "lang": "en",
+         "value": "\"in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element\"",
+         "creator": "/user/fayegalang",
+         "timestamp": "2013-09-17T08:17:44.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1911",
+         "lang": "",
+         "value": "1911",
+         "creator": "/user/mmcm",
+         "timestamp": "2008-08-28T01:30:25.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mmcm",
+         "lang": "en",
+         "id": "/m/04h_x8b",
+         "creator": "/user/mmcm",
+         "timestamp": "2008-08-28T01:30:24.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/mmcm",
+         "timestamp": "2008-08-28T01:30:24.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Davy Medal - Pierre Curie - 1903 - mw_template_bot - Award Honor",
+     "lang": "en",
+     "id": "/m/052b28w",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-12-23T20:42:28.002Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Davy Medal",
+         "lang": "en",
+         "id": "/m/08633j",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-12-23T20:42:28.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/award_winner": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Pierre Curie",
+         "lang": "en",
+         "id": "/m/063wl",
+         "creator": "/user/shjain",
+         "timestamp": "2013-10-17T04:41:36.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1903",
+         "lang": "",
+         "value": "1903",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mw_template_bot",
+         "lang": "en",
+         "id": "/m/052b103",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-12-23T20:42:28.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-12-23T20:42:28.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "John Scott Legacy Medal and Premium - 1921 - dsinclair - Award Honor",
+     "lang": "en",
+     "id": "/m/0gmlj10",
+     "creator": "/user/dsinclair",
+     "timestamp": "2011-05-20T20:11:45.000Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "John Scott Legacy Medal and Premium",
+         "lang": "en",
+         "id": "/m/047blg6",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:11:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1921",
+         "lang": "",
+         "value": "1921",
+         "creator": "/user/thadguidry",
+         "timestamp": "2012-12-03T22:40:43.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:11:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:11:45.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Elliott Cresson Medal - 1909 - dsinclair - Award Honor",
+     "lang": "en",
+     "id": "/m/0gmljn9",
+     "creator": "/user/dsinclair",
+     "timestamp": "2011-05-20T20:25:32.000Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Elliott Cresson Medal",
+         "lang": "en",
+         "id": "/m/06zkb6d",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1909",
+         "lang": "",
+         "value": "1909",
+         "creator": "/user/adonofrio",
+         "timestamp": "2013-05-13T07:58:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Matteucci Medal - Pierre Curie - 1904 - dsinclair - Award Honor",
+     "lang": "en",
+     "id": "/m/0gmljng",
+     "creator": "/user/dsinclair",
+     "timestamp": "2011-05-20T20:25:32.001Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Matteucci Medal",
+         "lang": "en",
+         "id": "/m/0h5vy3",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/award_winner": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Pierre Curie",
+         "lang": "en",
+         "id": "/m/063wl",
+         "creator": "/user/shjain",
+         "timestamp": "2013-10-17T04:42:10.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1904",
+         "lang": "",
+         "value": "1904",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-05-20T20:25:32.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Benjamin Franklin Medal - 1921 - adonofrio - Award Honor",
+     "lang": "en",
+     "id": "/m/0v2_tgj",
+     "creator": "/user/adonofrio",
+     "timestamp": "2013-05-13T08:01:36.000Z",
+     "property": {
+      "/award/award_honor/award": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Benjamin Franklin Medal",
+         "lang": "en",
+         "id": "/m/0hnf7hl",
+         "creator": "/user/adonofrio",
+         "timestamp": "2013-05-13T08:01:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/award_honor/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1921",
+         "lang": "",
+         "value": "1921",
+         "creator": "/user/adonofrio",
+         "timestamp": "2013-05-13T08:01:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "adonofrio",
+         "lang": "en",
+         "id": "/m/0l99rvg",
+         "creator": "/user/adonofrio",
+         "timestamp": "2013-05-13T08:01:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Award Honor",
+         "lang": "en",
+         "id": "/award/award_honor",
+         "creator": "/user/adonofrio",
+         "timestamp": "2013-05-13T08:01:36.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 7.0
+  },
+  "/book/author/openlibrary_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "OL58151A",
+     "lang": "",
+     "value": "OL58151A",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:00.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/book/author/works_written": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Correspondance",
+     "lang": "en",
+     "id": "/m/067md4f",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.000Z"
+    },
+    {
+     "text": "P?er Ki?u?ri",
+     "lang": "en",
+     "id": "/m/068hktq",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.001Z"
+    },
+    {
+     "text": "Korespondencja Marii Sk?odowskiej-Curie z uczonymi z Europy S?rodkowej i Wschodniej, 1904-1934",
+     "lang": "en",
+     "id": "/m/0690vfx",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.001Z"
+    },
+    {
+     "text": "Untersuchungen u?ber die radioaktiven substanzen",
+     "lang": "en",
+     "id": "/m/069j0lz",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.001Z"
+    },
+    {
+     "text": "Radio-active substances",
+     "lang": "en",
+     "id": "/m/068q0v4",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.001Z"
+    },
+    {
+     "text": "Rayons ¨¦mis par les compos¨¦s de l'uranium et du thorium",
+     "lang": "en",
+     "id": "/m/069nz_0",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.002Z"
+    },
+    {
+     "text": "L'isotopie et les ¨¦l¨¦ments isotopes",
+     "lang": "en",
+     "id": "/m/069tdnb",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.002Z"
+    },
+    {
+     "text": "Prace Marii Sk?odowskiej-Curie",
+     "lang": "en",
+     "id": "/m/06bmsfl",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.002Z"
+    },
+    {
+     "text": "Prace",
+     "lang": "en",
+     "id": "/m/06nxw95",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:02.000Z"
+    },
+    {
+     "text": "Recherches sur les substances radioactives",
+     "lang": "en",
+     "id": "/m/06cmcx3",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:02.000Z"
+    }
+   ],
+   "count": 23.0
+  },
+  "/chemistry/element_discoverer/discovered": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Polonium",
+     "lang": "en",
+     "id": "/m/025s7y9",
+     "creator": "/user/arielb",
+     "timestamp": "2009-05-18T18:28:08.000Z"
+    },
+    {
+     "text": "Radium",
+     "lang": "en",
+     "id": "/m/025scm7",
+     "creator": "/user/arielb",
+     "timestamp": "2009-05-18T18:45:56.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Maria Sklodowska-Curie",
+     "lang": "en",
+     "value": "Maria Sklodowska-Curie",
+     "creator": "/user/mw_extractor_bot",
+     "timestamp": "2007-08-07T16:54:27.002Z"
+    },
+    {
+     "text": "Madame Curie",
+     "lang": "en",
+     "value": "Madame Curie",
+     "creator": "/user/adonofrio",
+     "timestamp": "2013-05-08T15:15:54.000Z"
+    },
+    {
+     "text": "Marie Sk?odowska Curie",
+     "lang": "en",
+     "value": "Marie Sk?odowska Curie",
+     "creator": "/user/jplavoukos",
+     "timestamp": "2013-06-22T12:01:04.000Z"
+    },
+    {
+     "text": "Maria Sk?odowska",
+     "lang": "en",
+     "value": "Maria Sk?odowska",
+     "creator": "/user/jplavoukos",
+     "timestamp": "2013-06-22T12:01:36.000Z"
+    },
+    {
+     "text": "Maria Salomea Sk?odowska-Curie",
+     "lang": "en",
+     "value": "Maria Salomea Sk?odowska-Curie",
+     "creator": "/user/jplavoukos",
+     "timestamp": "2013-06-22T12:04:19.000Z"
+    }
+   ],
+   "count": 22.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Marie Sk?odowska-Curie (7 November 1867 ¨C 4 July 1934) was a French-Polish physicist and...",
+     "lang": "en",
+     "id": "/m/053_q",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:13:22.008Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/20408",
+         "lang": "",
+         "value": "http://wp/en/20408",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:13:22.008Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Marie Sk?odowska-Curie (7 November 1867 ¨C 4 July 1934) was a French-Polish physicist and...",
+         "lang": "en",
+         "value": "Marie Sk?odowska-Curie (7 November 1867 ¨C 4 July 1934) was a French-Polish physicist and chemist, famous for her pioneering research on radioactivity. She was the first person honored with two Nobel Prizes¡ªin physics and chemistry. She was the first female professor at the University of Paris, and in 1995 became the first woman to be entombed on her own merits in the Panth¨¦on in Paris.\nShe was born Maria Salomea Sk?odowska ([?marja sal??m?a skw??d?fska]) in Warsaw, in what was then the Kingdom of Poland. She studied at Warsaw's clandestine Floating University and began her practical scientific training in Warsaw. In 1891, aged 24, she followed her older sister Bronis?awa to study in Paris, where she earned her higher degrees and conducted her subsequent scientific work. She shared her 1903 Nobel Prize in Physics with her husband Pierre Curie and with the physicist Henri Becquerel. Her daughter Ir¨¨ne Joliot-Curie and son-in-law, Fr¨¦d¨¦ric Joliot-Curie, would similarly share a Nobel Prize. She was the sole winner of the 1911 Nobel Prize in Chemistry. Sk?odowska-Curie was the first woman to win a Nobel Prize, the only woman to date to win in two fields, and the only person to win in",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:13:22.008Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:13:22.008Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:13:22.008Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Marie Sk?odowska-Curie was a French-Polish physicist and chemist, famous for her pioneering...",
+     "lang": "en",
+     "value": "Marie Sk?odowska-Curie was a French-Polish physicist and chemist, famous for her pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the only woman to win in two fields, and the only person to win in multiple sciences. She was also the first female professor at the University of Paris, and in 1995 became the first woman to be entombed on her own merits in the Panth¨¦on in Paris.\nShe was born Maria Salomea Sk?odowska in Warsaw, in what was then the Kingdom of Poland, part of the Russian Empire. She studied at Warsaw's clandestine Floating University and began her practical scientific training in Warsaw. In 1891, aged 24, she followed her older sister Bronis?awa to study in Paris, where she earned her higher degrees and conducted her subsequent scientific work. She shared the 1903 Nobel Prize in Physics with her husband Pierre Curie and with physicist Henri Becquerel. She won the 1911 Nobel Prize in Chemistry.\nHer achievements included a theory of radioactivity, techniques for isolating radioactive isotopes, and the discovery of two elements, polonium and radium. Under her direction, the world's first studies were conducted into the treatment of neoplasms, using radioactive isotopes. She founded the Curie Institutes in Paris and in Warsaw, which remain major centres of medical research today. During World War I, she established the first military field radiological centres.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Marie_Curie"
+     }
+    }
+   ],
+   "count": 41.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Mariecurie",
+     "lang": "en",
+     "id": "/m/02fxy_s",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2008-03-14T01:38:03.001Z"
+    },
+    {
+     "text": "Marie Curie c1920",
+     "lang": "en",
+     "id": "/m/0g_ps23",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2011-08-01T19:52:05.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Physicist",
+     "lang": "en",
+     "id": ""
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Academic",
+     "lang": "en",
+     "id": "/education/academic"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.nndb.com/people/718/000029631/",
+     "lang": "",
+     "value": "http://www.nndb.com/people/718/000029631/",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-09-22T14:37:46.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=2935",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=2935",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T22:39:23.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=3356",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=3356",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T08:05:50.000Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=19140",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=19140",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:45:50.001Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=14062",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=14062",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T14:19:18.001Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=38432",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=38432",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T06:25:03.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=18002",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=18002",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T09:35:25.000Z"
+    },
+    {
+     "text": "http://bg.wikipedia.org/wiki/index.html?curid=10502",
+     "lang": "",
+     "value": "http://bg.wikipedia.org/wiki/index.html?curid=10502",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T21:09:35.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=4493780",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=4493780",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:15:01.000Z"
+    },
+    {
+     "text": "http://viaf.org/viaf/76353174/",
+     "lang": "",
+     "value": "http://viaf.org/viaf/76353174/",
+     "creator": "/user/hangy",
+     "timestamp": "2010-10-16T17:17:07.000Z"
+    }
+   ],
+   "count": 89.0
+  },
+  "/education/academic/advisees": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "¨®scar Moreno",
+     "lang": "en",
+     "id": "/m/04lg20g",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T19:44:03.000Z"
+    },
+    {
+     "text": "Marguerite Perey",
+     "lang": "en",
+     "id": "/m/01v4m_",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T19:44:03.000Z"
+    },
+    {
+     "text": "Andr¨¦-Louis Debierne",
+     "lang": "en",
+     "id": "/m/01m1m8",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-10-13T03:57:50.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/education/academic/advisors": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Antoine Henri Becquerel",
+     "lang": "en",
+     "id": "/m/0f20_",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T19:44:03.000Z"
+    },
+    {
+     "text": "Gabriel Lippmann",
+     "lang": "en",
+     "id": "/m/075z0r",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-06-12T07:26:00.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/film/film_subject/films": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Madame Curie",
+     "lang": "en",
+     "id": "/m/0kb9y",
+     "creator": "/user/arielb",
+     "timestamp": "2008-07-23T09:48:56.000Z"
+    },
+    {
+     "text": "Marie Curie, au-del¨¤ du mythe",
+     "lang": "en",
+     "id": "/m/0nh6b7j",
+     "creator": "/user/surabhia",
+     "timestamp": "2012-12-04T11:06:47.000Z"
+    },
+    {
+     "text": "Marie Curie: More Than Meets the Eye",
+     "lang": "en",
+     "id": "/m/0nhfyns",
+     "creator": "/user/surabhia",
+     "timestamp": "2012-12-05T02:49:03.001Z"
+    },
+    {
+     "text": "Les Palmes de M. Schutz",
+     "lang": "en",
+     "id": "/m/0b_zy29",
+     "creator": "/user/surabhia",
+     "timestamp": "2012-12-12T05:05:05.001Z"
+    }
+   ],
+   "count": 4.0
+  },
+  "/influence/influence_node/influenced": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Marguerite Appell",
+     "lang": "en",
+     "id": "/m/03glsjq",
+     "creator": "/user/lindenb",
+     "timestamp": "2008-01-07T17:40:59.000Z"
+    },
+    {
+     "text": "Henri Poincar¨¦",
+     "lang": "en",
+     "id": "/m/0d0df",
+     "creator": "/user/mikelove",
+     "timestamp": "2007-07-09T19:37:05.016Z"
+    },
+    {
+     "text": "Robert Abbe",
+     "lang": "en",
+     "id": "/m/02pj_d",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-07-18T01:31:34.000Z"
+    },
+    {
+     "text": "William Duane",
+     "lang": "en",
+     "id": "/m/03qn55d",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-07-19T06:19:09.000Z"
+    },
+    {
+     "text": "¨¦mile Henriot",
+     "lang": "en",
+     "id": "/m/0288679",
+     "creator": "/user/tfmorris",
+     "timestamp": "2012-05-26T17:39:28.002Z"
+    }
+   ],
+   "count": 5.0
+  },
+  "/organization/organization_founder/organizations_founded": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Curie Institute, Warsaw",
+     "lang": "en",
+     "id": "/m/059k7h",
+     "creator": "/user/fact_farm",
+     "timestamp": "2012-12-21T19:51:26.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/cause_of_death": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Aplastic anemia",
+     "lang": "en",
+     "id": "/m/01bw86",
+     "creator": "/user/faye",
+     "timestamp": "2007-03-13T01:22:14.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/date_of_death": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1934-07-04",
+     "lang": "",
+     "value": "1934-07-04",
+     "creator": "/user/chris2",
+     "timestamp": "2007-05-10T17:18:05.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/place_of_burial": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Panth¨¦on, Paris",
+     "lang": "en",
+     "id": "/m/0gsp5",
+     "creator": "/user/krsalis",
+     "timestamp": "2009-06-20T06:14:40.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/place_of_death": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Passy, Haute-Savoie",
+     "lang": "en",
+     "id": "/m/03ntzz5",
+     "creator": "/user/adonofrio",
+     "timestamp": "2013-05-08T15:38:13.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/children": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "¨¨ve Curie",
+     "lang": "en",
+     "id": "/m/037fn2",
+     "creator": "/user/chris2",
+     "timestamp": "2007-04-14T14:22:12.000Z"
+    },
+    {
+     "text": "Ir¨¨ne Joliot-Curie",
+     "lang": "en",
+     "id": "/m/0gspp",
+     "creator": "/user/chris2",
+     "timestamp": "2007-04-14T14:11:27.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/date_of_birth": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1867-11-07",
+     "lang": "",
+     "value": "1867-11-07",
+     "creator": "/user/chris2",
+     "timestamp": "2007-05-10T17:17:42.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/education": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Doctor of Science - 1903 - University of Paris - Physics - nanette - Education",
+     "lang": "en",
+     "id": "/m/0l4yv90",
+     "creator": "/user/nanette",
+     "timestamp": "2012-08-24T11:43:42.001Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Doctor of Science",
+         "lang": "en",
+         "id": "/m/027np7",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1903",
+         "lang": "",
+         "value": "1903",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/institution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "University of Paris",
+         "lang": "en",
+         "id": "/m/0lk0l",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/major_field_of_study": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Physics",
+         "lang": "en",
+         "id": "/m/05qjt",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/start_date": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_value"
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nanette",
+         "lang": "en",
+         "id": "/m/044fcvk",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Master of Science - 1894 - University of Paris - Mathematics - mgutierrezt - Education",
+     "lang": "en",
+     "id": "/m/0jvsbst",
+     "creator": "/user/mgutierrezt",
+     "timestamp": "2012-05-24T22:13:51.000Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Master of Science",
+         "lang": "en",
+         "id": "/m/03bwzr4",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1894",
+         "lang": "",
+         "value": "1894",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/institution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "University of Paris",
+         "lang": "en",
+         "id": "/m/0lk0l",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/major_field_of_study": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Mathematics",
+         "lang": "en",
+         "id": "/m/04rjg",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/start_date": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_value"
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mgutierrezt",
+         "lang": "en",
+         "id": "/m/02yxl2_",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Master of Science - 1893 - University of Paris - Physics - 1891 - Freebase Data Team - Education",
+     "lang": "en",
+     "id": "/m/03l813d",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T20:12:45.002Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Master of Science",
+         "lang": "en",
+         "id": "/m/03bwzr4",
+         "creator": "/user/nanette",
+         "timestamp": "2012-08-24T11:43:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1893",
+         "lang": "",
+         "value": "1893",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/institution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "University of Paris",
+         "lang": "en",
+         "id": "/m/0lk0l",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T20:12:45.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/major_field_of_study": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Physics",
+         "lang": "en",
+         "id": "/m/05qjt",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2012-05-24T22:13:51.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/start_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1891",
+         "lang": "",
+         "value": "1891",
+         "creator": "/user/akeko",
+         "timestamp": "2013-01-23T07:32:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/03jtjff",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T20:12:45.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T20:12:45.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 3.0
+  },
+  "/people/person/ethnicity": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Poles",
+     "lang": "en",
+     "id": "/m/01p7s6",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-07-18T01:08:31.000Z"
+    },
+    {
+     "text": "French people",
+     "lang": "en",
+     "id": "/m/03ts0c",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-02-05T10:36:13.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/gender": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Female",
+     "lang": "en",
+     "id": "/m/02zsn",
+     "creator": "/user/faye",
+     "timestamp": "2007-03-13T01:17:37.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/height_meters": {
+   "values": [],
+   "count": 0.0,
+   "status": "has_value"
+  },
+  "/people/person/nationality": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "France",
+     "lang": "en",
+     "id": "/m/0f8l9c",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-19T18:23:02.002Z"
+    },
+    {
+     "text": "Poland",
+     "lang": "en",
+     "id": "/m/05qhw",
+     "creator": "/user/mgutierrezt",
+     "timestamp": "2012-11-26T21:23:00.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/parents": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "W?adys?aw Sk?odowski",
+     "lang": "en",
+     "id": "/m/0k3p901",
+     "creator": "/user/vbarias",
+     "timestamp": "2012-07-11T06:46:55.000Z"
+    },
+    {
+     "text": "Bronis?awa Sk?odowska",
+     "lang": "en",
+     "id": "/m/0k3p907",
+     "creator": "/user/vbarias",
+     "timestamp": "2012-07-11T06:46:55.001Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/place_of_birth": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Warsaw",
+     "lang": "en",
+     "id": "/m/081m_",
+     "creator": "/user/faye",
+     "timestamp": "2007-03-13T01:18:53.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/places_lived": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Poland - Freebase Data Team - Place lived",
+     "lang": "en",
+     "id": "/m/0km_s72",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2012-08-09T16:26:46.000Z",
+     "property": {
+      "/people/place_lived/location": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Poland",
+         "lang": "en",
+         "id": "/m/05qhw",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-08-09T16:26:46.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0km_s4l",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-08-09T16:26:46.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Place lived",
+         "lang": "en",
+         "id": "/people/place_lived",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-08-09T16:26:46.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/profession": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Chemist",
+     "lang": "en",
+     "id": "/m/01pxg",
+     "creator": "/user/kgajos",
+     "timestamp": "2007-11-27T18:41:34.000Z"
+    },
+    {
+     "text": "Physicist",
+     "lang": "en",
+     "id": "/m/05snw",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-06T07:00:26.001Z"
+    },
+    {
+     "text": "Scientist",
+     "lang": "en",
+     "id": "/m/06q2q",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-01-18T06:05:20.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/people/person/quotations": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "\"Have no fear of perfection;  you'll never reach it.\"\"Nothing in life is to be feared; it is only to be understood.\"",
+     "lang": "en",
+     "id": "/m/0jvfz_7",
+     "creator": "/user/avishekb",
+     "timestamp": "2012-05-20T17:55:02.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/religion": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Agnosticism",
+     "lang": "en",
+     "id": "/m/0kq2",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-06T11:11:31.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/sibling_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Zofia Sk?odowska - vbarias - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0k3p971",
+     "creator": "/user/vbarias",
+     "timestamp": "2012-07-11T06:49:49.003Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Zofia Sk?odowska",
+         "lang": "en",
+         "id": "/m/0k3p972",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.003Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vbarias",
+         "lang": "en",
+         "id": "/m/0gtpccj",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Bronis?awa Sk?odowska - vbarias - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0k3p96r",
+     "creator": "/user/vbarias",
+     "timestamp": "2012-07-11T06:49:49.002Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Bronis?awa Sk?odowska",
+         "lang": "en",
+         "id": "/m/0k3p96s",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.002Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vbarias",
+         "lang": "en",
+         "id": "/m/0gtpccj",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:49.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Helena Sk?odowska - vbarias - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0k3p97c",
+     "creator": "/user/vbarias",
+     "timestamp": "2012-07-11T06:49:50.000Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Helena Sk?odowska",
+         "lang": "en",
+         "id": "/m/0k3p97d",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:50.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vbarias",
+         "lang": "en",
+         "id": "/m/0gtpccj",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:50.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/vbarias",
+         "timestamp": "2012-07-11T06:49:50.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "J¨®zef Sk?odowski - jplavoukos - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0w0y7b_",
+     "creator": "/user/jplavoukos",
+     "timestamp": "2013-06-22T12:22:23.001Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "J¨®zef Sk?odowski",
+         "lang": "en",
+         "id": "/m/0w0y7c1",
+         "creator": "/user/jplavoukos",
+         "timestamp": "2013-06-22T12:22:23.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jplavoukos",
+         "lang": "en",
+         "id": "/m/0v3xfl3",
+         "creator": "/user/jplavoukos",
+         "timestamp": "2013-06-22T12:22:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/jplavoukos",
+         "timestamp": "2013-06-22T12:22:23.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 4.0
+  },
+  "/people/person/spouse_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1895-07-26 - Sceaux - Pierre Curie - 1906-04-19 - Marriage - jonathaneng - Marriage",
+     "lang": "en",
+     "id": "/m/0hyg6c7",
+     "creator": "/user/jonathaneng",
+     "timestamp": "2012-01-10T02:59:46.004Z",
+     "property": {
+      "/people/marriage/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1895-07-26",
+         "lang": "",
+         "value": "1895-07-26",
+         "creator": "/user/akeko",
+         "timestamp": "2013-01-23T07:40:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/people/marriage/location_of_ceremony": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sceaux",
+         "lang": "en",
+         "id": "/m/05pqmb",
+         "creator": "/user/jplavoukos",
+         "timestamp": "2013-06-22T14:16:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/people/marriage/spouse": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Pierre Curie",
+         "lang": "en",
+         "id": "/m/063wl",
+         "creator": "/user/jonathaneng",
+         "timestamp": "2012-01-10T02:59:46.003Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/people/marriage/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1906-04-19",
+         "lang": "",
+         "value": "1906-04-19",
+         "creator": "/user/akeko",
+         "timestamp": "2013-01-23T07:40:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/people/marriage/type_of_union": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/m/04ztj",
+         "creator": "/user/jonathaneng",
+         "timestamp": "2012-01-10T02:59:46.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jonathaneng",
+         "lang": "en",
+         "id": "/m/0hybvjs",
+         "creator": "/user/jonathaneng",
+         "timestamp": "2012-01-10T02:59:46.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/people/marriage",
+         "creator": "/user/jonathaneng",
+         "timestamp": "2012-01-10T02:59:46.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/symbols/name_source/namesakes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Marie Curie Cancer Care",
+     "lang": "en",
+     "id": "/m/055h1v",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.000Z"
+    },
+    {
+     "text": "Marie Curie Actions",
+     "lang": "en",
+     "id": "/m/02qdmv5",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.000Z"
+    },
+    {
+     "text": "¨¦cole ¨¦l¨¦mentaire Marie-Curie",
+     "lang": "en",
+     "id": "/m/08z7g0",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.000Z"
+    },
+    {
+     "text": "Pierre-and-Marie-Curie University",
+     "lang": "en",
+     "id": "/m/0ckgyh",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.000Z"
+    },
+    {
+     "text": "Marie Curie",
+     "lang": "en",
+     "id": "/m/01859s4",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.001Z"
+    },
+    {
+     "text": "Marie Curie",
+     "lang": "en",
+     "id": "/m/05dvk_w",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-03T05:38:14.001Z"
+    },
+    {
+     "text": "Curium",
+     "lang": "en",
+     "id": "/m/025tkv0",
+     "creator": "/user/krsalis",
+     "timestamp": "2008-06-24T12:24:09.000Z"
+    },
+    {
+     "text": "7000 Curie",
+     "lang": "en",
+     "id": "/m/03y1b37",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-02-03T22:16:10.000Z"
+    },
+    {
+     "text": "French submarine Curie",
+     "lang": "en",
+     "id": "/m/02vntpc",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-06-03T00:46:19.000Z"
+    },
+    {
+     "text": "Curie Institute, Warsaw",
+     "lang": "en",
+     "id": "/m/059k7h",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-06-03T00:46:19.000Z"
+    }
+   ],
+   "count": 18.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/05vcdmh",
+     "creator": "/user/book_bot",
+     "timestamp": "2009-05-07T05:42:19.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/en/marie_curie",
+     "lang": "",
+     "value": "/en/marie_curie",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2007-08-13T06:07:03.000Z"
+    },
+    {
+     "text": "/authority/nndb/718$002F000029631",
+     "lang": "",
+     "value": "/authority/nndb/718$002F000029631",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-09-22T14:37:46.000Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0080-081e",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0080-081e",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-09T08:08:32.000Z"
+    },
+    {
+     "text": "/authority/openlibrary/author/OL58151A",
+     "lang": "",
+     "value": "/authority/openlibrary/author/OL58151A",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:00.000Z"
+    },
+    {
+     "text": "/source/videosurf/46348",
+     "lang": "",
+     "value": "/source/videosurf/46348",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-05-27T00:27:46.000Z"
+    },
+    {
+     "text": "/authority/us/gov/loc/na/n80155913",
+     "lang": "",
+     "value": "/authority/us/gov/loc/na/n80155913",
+     "creator": "/user/book_bot",
+     "timestamp": "2010-07-04T15:55:47.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-22T22:17:44.002Z"
+    },
+    {
+     "text": "/wikipedia/fr/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/fr/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T09:50:29.002Z"
+    },
+    {
+     "text": "/wikipedia/pt/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T18:09:54.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/2935",
+     "lang": "",
+     "value": "/wikipedia/it_id/2935",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T22:39:23.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T07:35:38.001Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30DE$30EA$30FB$30AD$30E5$30EA$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/$30DE$30EA$30FB$30AD$30E5$30EA$30FC",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T11:24:18.002Z"
+    },
+    {
+     "text": "/wikipedia/de_id/3356",
+     "lang": "",
+     "value": "/wikipedia/de_id/3356",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T08:05:50.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/19140",
+     "lang": "",
+     "value": "/wikipedia/ru_id/19140",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:45:50.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T14:17:47.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T11:39:42.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/14062",
+     "lang": "",
+     "value": "/wikipedia/pt_id/14062",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T14:19:18.001Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/38432",
+     "lang": "",
+     "value": "/wikipedia/ja_id/38432",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T06:25:03.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/18002",
+     "lang": "",
+     "value": "/wikipedia/es_id/18002",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T09:35:25.000Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/bg/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T15:42:16.001Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/10502",
+     "lang": "",
+     "value": "/wikipedia/bg_id/10502",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T21:09:35.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/4493780",
+     "lang": "",
+     "value": "/wikipedia/fr_id/4493780",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:15:01.000Z"
+    },
+    {
+     "text": "/user/hangy/viaf/76353174",
+     "lang": "",
+     "value": "/user/hangy/viaf/76353174",
+     "creator": "/user/hangy",
+     "timestamp": "2010-10-16T17:17:07.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/de_title/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T11:45:20.002Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/es_title/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T02:44:47.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T14:50:40.002Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T20:12:59.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/it_title/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T04:58:34.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30DE$30EA$30FB$30AD$30E5$30EA$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30DE$30EA$30FB$30AD$30E5$30EA$30FC",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T19:34:55.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Marie_Curie",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T21:34:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-25T06:19:58.001Z"
+    },
+    {
+     "text": "/base/ranker/rankerurlname/marie-curie$002F1521500",
+     "lang": "",
+     "value": "/base/ranker/rankerurlname/marie-curie$002F1521500",
+     "creator": "/user/ravi_ranker",
+     "timestamp": "2011-12-12T13:42:11.000Z"
+    },
+    {
+     "text": "/wikipedia/sk/Maria_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/sk/Maria_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:22.008Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$0430$0434$043E$0432$0441$043A$0430$044F$002C_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$0430$0434$043E$0432$0441$043A$0430$044F$002C_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:23.002Z"
+    },
+    {
+     "text": "/wikipedia/th/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/th/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:23.008Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30DE$30EA$30FC$30FB$30AD$30E5$30FC$30EA$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/$30DE$30EA$30FC$30FB$30AD$30E5$30FC$30EA$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:24.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/$D034$B9AC$BD80$C778",
+     "lang": "",
+     "value": "/wikipedia/ko/$D034$B9AC$BD80$C778",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:24.004Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/62358",
+     "lang": "",
+     "value": "/wikipedia/hu_id/62358",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:27.002Z"
+    },
+    {
+     "text": "/wikipedia/fr/Marie_Skodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fr/Marie_Skodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:29.000Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/7563",
+     "lang": "",
+     "value": "/wikipedia/vi_id/7563",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:29.007Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:30.003Z"
+    },
+    {
+     "text": "/wikipedia/sk/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/sk/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$5C45$91CC$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$5C45$91CC$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.008Z"
+    },
+    {
+     "text": "/wikipedia/lv/Marija_Sklodovska-Kir$012B",
+     "lang": "",
+     "value": "/wikipedia/lv/Marija_Sklodovska-Kir$012B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.009Z"
+    },
+    {
+     "text": "/wikipedia/no/Maria_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Maria_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.009Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.009Z"
+    },
+    {
+     "text": "/wikipedia/ms/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ms/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:31.010Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:32.003Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:32.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$5C45$79AE$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$5C45$79AE$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:32.006Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F$002C_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F$002C_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:32.009Z"
+    },
+    {
+     "text": "/wikipedia/pl/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/pl/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:33.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fi/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:34.000Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/24207",
+     "lang": "",
+     "value": "/wikipedia/fa_id/24207",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:35.001Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430_$041A$0438$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430_$041A$0438$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:35.007Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30AD$30E5$30FC$30EA$30FC$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/ja/$30AD$30E5$30FC$30EA$30FC$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:36.001Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/tr_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:36.002Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/vi_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:36.003Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041A$044E$0440$0456_$041C$0430$0440$0456$044F",
+     "lang": "",
+     "value": "/wikipedia/uk/$041A$044E$0440$0456_$041C$0430$0440$0456$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:36.003Z"
+    },
+    {
+     "text": "/wikipedia/da/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/da/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:37.003Z"
+    },
+    {
+     "text": "/wikipedia/no/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/no/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:37.004Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:38.002Z"
+    },
+    {
+     "text": "/wikipedia/ro_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ro_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:38.002Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/2697",
+     "lang": "",
+     "value": "/wikipedia/ko_id/2697",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:38.005Z"
+    },
+    {
+     "text": "/wikipedia/sl/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:38.006Z"
+    },
+    {
+     "text": "/wikipedia/sl_id/8210",
+     "lang": "",
+     "value": "/wikipedia/sl_id/8210",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F_$041C$002E",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F_$041C$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.004Z"
+    },
+    {
+     "text": "/wikipedia/he/$05DE$05E8$05D9_$05E7$05E8$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05DE$05E8$05D9_$05E7$05E8$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.004Z"
+    },
+    {
+     "text": "/wikipedia/vi/Ma-ri_Quy-ri",
+     "lang": "",
+     "value": "/wikipedia/vi/Ma-ri_Quy-ri",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Salome_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Salome_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.006Z"
+    },
+    {
+     "text": "/wikipedia/id/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/id/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.006Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.007Z"
+    },
+    {
+     "text": "/wikipedia/hi/$092E$0947$0930$0940_$0915$094D$092F$0941$0930$0940",
+     "lang": "",
+     "value": "/wikipedia/hi/$092E$0947$0930$0940_$0915$094D$092F$0941$0930$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.008Z"
+    },
+    {
+     "text": "/wikipedia/ro/Maria_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Maria_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:39.008Z"
+    },
+    {
+     "text": "/wikipedia/pl/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/pl/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:40.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:40.005Z"
+    },
+    {
+     "text": "/wikipedia/fi/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/fi/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:40.005Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438$002C_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:40.008Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:41.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:43.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/nl/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$739B$4E3D$4E9A$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$739B$4E3D$4E9A$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.006Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Curie-Sklodowsk$00E1",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Curie-Sklodowsk$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.006Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.007Z"
+    },
+    {
+     "text": "/wikipedia/ms_id/245374",
+     "lang": "",
+     "value": "/wikipedia/ms_id/245374",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.007Z"
+    },
+    {
+     "text": "/wikipedia/he/$05DE$05D0$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05DE$05D0$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.008Z"
+    },
+    {
+     "text": "/wikipedia/pl/Maria_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/pl/Maria_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.008Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$5C45$91CC$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$5C45$91CC$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:44.008Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:45.004Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/13205",
+     "lang": "",
+     "value": "/wikipedia/ca_id/13205",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:45.004Z"
+    },
+    {
+     "text": "/wikipedia/de/Marie_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/de/Marie_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:45.004Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041C$0430$0440$0438$044F_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430-$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/bg/$041C$0430$0440$0438$044F_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430-$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$739B$4E3D$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$739B$4E3D$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sklodovska",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sklodovska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.003Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041C$0430$0440$0438$044F_$0421$043A$043B$0430$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041C$0430$0440$0438$044F_$0421$043A$043B$0430$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.006Z"
+    },
+    {
+     "text": "/wikipedia/hr/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hr/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.006Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$B9C8$B9AC_$D034$B9AC",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$B9C8$B9AC_$D034$B9AC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:46.008Z"
+    },
+    {
+     "text": "/wikipedia/fi/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fi/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:47.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$746A$8389$4E9E$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$746A$8389$4E9E$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:47.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$739B$4E3D$4E9A$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$739B$4E3D$4E9A$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:47.002Z"
+    },
+    {
+     "text": "/wikipedia/ca/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/ca/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:47.002Z"
+    },
+    {
+     "text": "/wikipedia/da/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/da/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:47.002Z"
+    },
+    {
+     "text": "/wikipedia/hr/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hr/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:48.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05DE$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05DE$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:48.001Z"
+    },
+    {
+     "text": "/wikipedia/sr_id/12452",
+     "lang": "",
+     "value": "/wikipedia/sr_id/12452",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:48.003Z"
+    },
+    {
+     "text": "/wikipedia/hr/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hr/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:50.000Z"
+    },
+    {
+     "text": "/wikipedia/ms_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ms_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:50.001Z"
+    },
+    {
+     "text": "/wikipedia/ar_id/16622",
+     "lang": "",
+     "value": "/wikipedia/ar_id/16622",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:50.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$746A$9E97$00B7$5C45$79AE",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$746A$9E97$00B7$5C45$79AE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:50.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$739B$4E3D$4E9A$00B7$65AF$514B$6C83$591A$592B$65AF$5361-$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$739B$4E3D$4E9A$00B7$65AF$514B$6C83$591A$592B$65AF$5361-$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:50.004Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:51.001Z"
+    },
+    {
+     "text": "/wikipedia/sl/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:51.002Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$0645$0627$0631$06CC_$06A9$0648$0631$06CC",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$0645$0627$0631$06CC_$06A9$0648$0631$06CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:51.002Z"
+    },
+    {
+     "text": "/wikipedia/el/$039A$03B9$03BF$03C5$03C1$03AF_$039C$03B1$03C1$03AF$03B1",
+     "lang": "",
+     "value": "/wikipedia/el/$039A$03B9$03BF$03C5$03C1$03AF_$039C$03B1$03C1$03AF$03B1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:51.002Z"
+    },
+    {
+     "text": "/wikipedia/ro/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:52.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:52.006Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:52.006Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:53.005Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041C$0430$0440$0438$044F_$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041C$0430$0440$0438$044F_$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:53.007Z"
+    },
+    {
+     "text": "/wikipedia/hu/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/hu/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.000Z"
+    },
+    {
+     "text": "/wikipedia/el/$039C$03B1$03C1$03AF$03B1_$03A3$03BB$03BF$03C4$03CC$03C6$03C3$03BA$03B1",
+     "lang": "",
+     "value": "/wikipedia/el/$039C$03B1$03C1$03AF$03B1_$03A3$03BB$03BF$03C4$03CC$03C6$03C3$03BA$03B1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.000Z"
+    },
+    {
+     "text": "/wikipedia/lt/Marija_Sklodovska-Kiuri",
+     "lang": "",
+     "value": "/wikipedia/lt/Marija_Sklodovska-Kiuri",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.001Z"
+    },
+    {
+     "text": "/wikipedia/vi/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/vi/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.001Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.002Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.004Z"
+    },
+    {
+     "text": "/wikipedia/sk/Marie_Curiov$00E1",
+     "lang": "",
+     "value": "/wikipedia/sk/Marie_Curiov$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.004Z"
+    },
+    {
+     "text": "/wikipedia/lv_title/Marija_Sklodovska-Kir$012B",
+     "lang": "",
+     "value": "/wikipedia/lv_title/Marija_Sklodovska-Kir$012B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.004Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.007Z"
+    },
+    {
+     "text": "/wikipedia/sk_id/8314",
+     "lang": "",
+     "value": "/wikipedia/sk_id/8314",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.008Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B9C8$B9AC_$D034$B9AC",
+     "lang": "",
+     "value": "/wikipedia/ko/$B9C8$B9AC_$D034$B9AC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.009Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.010Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:54.010Z"
+    },
+    {
+     "text": "/wikipedia/pt/Maria_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Maria_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:55.002Z"
+    },
+    {
+     "text": "/wikipedia/sv/Curie$002C_Marie",
+     "lang": "",
+     "value": "/wikipedia/sv/Curie$002C_Marie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:55.004Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Skodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Skodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:55.007Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$041C$0430$0440$0456$044F_$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$041C$0430$0440$0456$044F_$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:55.010Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$739B$4E3D$5A05$00B7$65AF$514B$6D1B$591A$592B$65AF$5361-$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$739B$4E3D$5A05$00B7$65AF$514B$6D1B$591A$592B$65AF$5361-$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.001Z"
+    },
+    {
+     "text": "/wikipedia/fi/Manya_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/fi/Manya_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.002Z"
+    },
+    {
+     "text": "/wikipedia/cs/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/cs/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.003Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/10285",
+     "lang": "",
+     "value": "/wikipedia/nl_id/10285",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.004Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041C$0430$0440$0456$044F_$041A$044E$0440$0456",
+     "lang": "",
+     "value": "/wikipedia/uk/$041C$0430$0440$0456$044F_$041A$044E$0440$0456",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$06CC_$06A9$0648$0631$06CC",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$06CC_$06A9$0648$0631$06CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.004Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430",
+     "lang": "",
+     "value": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.004Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/nl_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:56.004Z"
+    },
+    {
+     "text": "/wikipedia/sl/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:57.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$739B$4E3D$4E9A$00B7$65AF$514B$6C83$591A$592B$65AF$5361-$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$739B$4E3D$4E9A$00B7$65AF$514B$6C83$591A$592B$65AF$5361-$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:59.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:34:59.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_y_Pierre_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_y_Pierre_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.002Z"
+    },
+    {
+     "text": "/wikipedia/vi/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/vi/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.005Z"
+    },
+    {
+     "text": "/wikipedia/id/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/id/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.008Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B9C8$B9AC$C544_$C2A4$CFFC$B3C4$D504$C2A4$CE74_$D034$B9AC",
+     "lang": "",
+     "value": "/wikipedia/ko/$B9C8$B9AC$C544_$C2A4$CFFC$B3C4$D504$C2A4$CE74_$D034$B9AC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.008Z"
+    },
+    {
+     "text": "/wikipedia/tr/Madam_curi",
+     "lang": "",
+     "value": "/wikipedia/tr/Madam_curi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.009Z"
+    },
+    {
+     "text": "/wikipedia/fr/Marie_Sklodovska",
+     "lang": "",
+     "value": "/wikipedia/fr/Marie_Sklodovska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:00.013Z"
+    },
+    {
+     "text": "/wikipedia/hi_id/12467",
+     "lang": "",
+     "value": "/wikipedia/hi_id/12467",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.000Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ca_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.000Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/25146",
+     "lang": "",
+     "value": "/wikipedia/tr_id/25146",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.000Z"
+    },
+    {
+     "text": "/wikipedia/lv/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/lv/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.003Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041A$044E$0440$0456-$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430_$041C$0430$0440$0456$044F",
+     "lang": "",
+     "value": "/wikipedia/uk/$041A$044E$0440$0456-$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430_$041C$0430$0440$0456$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.004Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$746A$8389$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$746A$8389$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.006Z"
+    },
+    {
+     "text": "/wikipedia/he/$05DE$05D0$05E8$05D9_$05E7$05E8$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05DE$05D0$05E8$05D9_$05E7$05E8$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.007Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:01.009Z"
+    },
+    {
+     "text": "/wikipedia/sk_title/Marie_Curiov$00E1",
+     "lang": "",
+     "value": "/wikipedia/sk_title/Marie_Curiov$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$739B$4E3D$5A05$00B7$65AF$514B$6D1B$591A$592B$65AF$5361-$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$739B$4E3D$5A05$00B7$65AF$514B$6D1B$591A$592B$65AF$5361-$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.002Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Salomea_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Salomea_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.003Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.003Z"
+    },
+    {
+     "text": "/wikipedia/hu/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hu/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:02.006Z"
+    },
+    {
+     "text": "/wikipedia/sk/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/sk/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:06.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/tr/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:06.002Z"
+    },
+    {
+     "text": "/wikipedia/sr/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/sr/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:06.002Z"
+    },
+    {
+     "text": "/wikipedia/cs/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/cs/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:06.002Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0645$062F$0627$0645_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/ar/$0645$062F$0627$0645_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/sr/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Currie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Currie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.001Z"
+    },
+    {
+     "text": "/wikipedia/sr/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sr/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.002Z"
+    },
+    {
+     "text": "/wikipedia/sv/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/sv/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.002Z"
+    },
+    {
+     "text": "/wikipedia/tr/Madam_k$00FCri",
+     "lang": "",
+     "value": "/wikipedia/tr/Madam_k$00FCri",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.003Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F_$041C$0430$0440$0438$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F_$041C$0430$0440$0438$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:07.007Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$739B$4E3D$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$739B$4E3D$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:08.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/Maria_sklodowska",
+     "lang": "",
+     "value": "/wikipedia/ca/Maria_sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:08.001Z"
+    },
+    {
+     "text": "/wikipedia/id/Marie_curie",
+     "lang": "",
+     "value": "/wikipedia/id/Marie_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:08.002Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:08.005Z"
+    },
+    {
+     "text": "/wikipedia/lt_id/4829",
+     "lang": "",
+     "value": "/wikipedia/lt_id/4829",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:08.009Z"
+    },
+    {
+     "text": "/wikipedia/fi/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/fi/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:09.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:09.005Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/3544",
+     "lang": "",
+     "value": "/wikipedia/pl_id/3544",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:09.006Z"
+    },
+    {
+     "text": "/wikipedia/he_id/600",
+     "lang": "",
+     "value": "/wikipedia/he_id/600",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:10.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$746A$8389$00B7$5C45$79AE",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$746A$8389$00B7$5C45$79AE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:10.002Z"
+    },
+    {
+     "text": "/wikipedia/sk/Marie_Curieov$00E1",
+     "lang": "",
+     "value": "/wikipedia/sk/Marie_Curieov$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:10.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$739B$4E3D$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$739B$4E3D$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:10.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Marja_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marja_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:10.010Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/cs_title/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:11.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:14.002Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:14.003Z"
+    },
+    {
+     "text": "/wikipedia/ro/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:14.004Z"
+    },
+    {
+     "text": "/wikipedia/pt/Marie_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Marie_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.005Z"
+    },
+    {
+     "text": "/wikipedia/da_id/41903",
+     "lang": "",
+     "value": "/wikipedia/da_id/41903",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.005Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438_$041C$002E",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438_$041C$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.006Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sklodowska$2013Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sklodowska$2013Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.007Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430-$041A$0438$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430-$041A$0438$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.007Z"
+    },
+    {
+     "text": "/wikipedia/pl/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/pl/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.009Z"
+    },
+    {
+     "text": "/wikipedia/da/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/da/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:15.009Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/45727",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/45727",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:17.000Z"
+    },
+    {
+     "text": "/wikipedia/th_id/4933",
+     "lang": "",
+     "value": "/wikipedia/th_id/4933",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:17.001Z"
+    },
+    {
+     "text": "/wikipedia/id_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/id_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:17.003Z"
+    },
+    {
+     "text": "/wikipedia/pt/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/pt/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:17.005Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/ar/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:17.006Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/hu_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Mar$00EDa_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Mar$00EDa_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.003Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/7128",
+     "lang": "",
+     "value": "/wikipedia/sv_id/7128",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.005Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041C$0430$0440$0438$044F_$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.006Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456_$041C$0430$0440$0456$044F",
+     "lang": "",
+     "value": "/wikipedia/uk/$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456_$041C$0430$0440$0456$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:18.007Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0645$0627$0631$064A_$0648$0628$064A$0627$0631_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/ar/$0645$0627$0631$064A_$0648$0628$064A$0627$0631_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:19.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041C$0430$0440$0438_$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041C$0430$0440$0438_$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:19.002Z"
+    },
+    {
+     "text": "/wikipedia/ro/Marie_curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Marie_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:20.000Z"
+    },
+    {
+     "text": "/wikipedia/sl_title/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sl_title/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.001Z"
+    },
+    {
+     "text": "/wikipedia/ro_id/10645",
+     "lang": "",
+     "value": "/wikipedia/ro_id/10645",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.002Z"
+    },
+    {
+     "text": "/wikipedia/pl/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/pl/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.005Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.006Z"
+    },
+    {
+     "text": "/wikipedia/no_id/621165",
+     "lang": "",
+     "value": "/wikipedia/no_id/621165",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.006Z"
+    },
+    {
+     "text": "/wikipedia/hu/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hu/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.006Z"
+    },
+    {
+     "text": "/wikipedia/da/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/da/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:21.007Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$746A$8389$4E9E$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$746A$8389$4E9E$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:22.000Z"
+    },
+    {
+     "text": "/wikipedia/hr_title/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/hr_title/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:22.003Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/24672",
+     "lang": "",
+     "value": "/wikipedia/uk_id/24672",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:22.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:22.005Z"
+    },
+    {
+     "text": "/wikipedia/lt/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/lt/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:23.001Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/18508",
+     "lang": "",
+     "value": "/wikipedia/fi_id/18508",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:23.002Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/no_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:23.003Z"
+    },
+    {
+     "text": "/wikipedia/sk/M$00E1ria_Curie",
+     "lang": "",
+     "value": "/wikipedia/sk/M$00E1ria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:23.006Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041C$0430$0440$0438$044F_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041C$0430$0440$0438$044F_$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:23.006Z"
+    },
+    {
+     "text": "/wikipedia/ar_title/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/ar_title/$0645$0627$0631$064A_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B9C8$B9AC$C544_$D034$B9AC",
+     "lang": "",
+     "value": "/wikipedia/ko/$B9C8$B9AC$C544_$D034$B9AC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.002Z"
+    },
+    {
+     "text": "/wikipedia/no/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.003Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E21$0E32$0E23$0E35_$0E01$0E39$0E23$0E35",
+     "lang": "",
+     "value": "/wikipedia/th/$0E21$0E32$0E23$0E35_$0E01$0E39$0E23$0E35",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.005Z"
+    },
+    {
+     "text": "/wikipedia/ro/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.006Z"
+    },
+    {
+     "text": "/wikipedia/tr/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/tr/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.007Z"
+    },
+    {
+     "text": "/wikipedia/lt_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/lt_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:24.008Z"
+    },
+    {
+     "text": "/wikipedia/fr/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/fr/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.000Z"
+    },
+    {
+     "text": "/wikipedia/th/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/th/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.004Z"
+    },
+    {
+     "text": "/wikipedia/el_id/47689",
+     "lang": "",
+     "value": "/wikipedia/el_id/47689",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.004Z"
+    },
+    {
+     "text": "/wikipedia/lv_id/3901",
+     "lang": "",
+     "value": "/wikipedia/lv_id/3901",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.004Z"
+    },
+    {
+     "text": "/wikipedia/id/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/id/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.005Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.006Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Curie-Sklodovsk$00E1",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Curie-Sklodovsk$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:25.007Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30AD$30E5$30EA$30FC$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/ja/$30AD$30E5$30EA$30FC$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:28.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$739B$4E3D$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$739B$4E3D$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:28.001Z"
+    },
+    {
+     "text": "/wikipedia/th/Madam_Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/th/Madam_Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:28.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:28.005Z"
+    },
+    {
+     "text": "/wikipedia/sk/M$00E1ria_Curie-Sk$0142odowsk$00E1",
+     "lang": "",
+     "value": "/wikipedia/sk/M$00E1ria_Curie-Sk$0142odowsk$00E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:28.005Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Marie_curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Marie_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.002Z"
+    },
+    {
+     "text": "/wikipedia/sk/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sk/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.004Z"
+    },
+    {
+     "text": "/wikipedia/lv/Marija_Kir$012B",
+     "lang": "",
+     "value": "/wikipedia/lv/Marija_Kir$012B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$06CC$0627_$0627$0633$06A9$0644$0648$062F$0648$0633$06A9$0627-$06A9$0648$0631$06CC",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$06CC$0627_$0627$0633$06A9$0644$0648$062F$0648$0633$06A9$0627-$06A9$0648$0631$06CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.010Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:30.010Z"
+    },
+    {
+     "text": "/wikipedia/tr/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/tr/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:31.006Z"
+    },
+    {
+     "text": "/wikipedia/cs/Marie_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/cs/Marie_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:31.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/45727",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/45727",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:31.009Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$5C45$79AE$592B$4EBA",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$5C45$79AE$592B$4EBA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.002Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F-$041A$044E$0440$0438$002C_$041C$0430$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.003Z"
+    },
+    {
+     "text": "/wikipedia/nl/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.003Z"
+    },
+    {
+     "text": "/wikipedia/sr_title/$041C$0430$0440$0438$0458$0430_$041A$0438$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/sr_title/$041C$0430$0440$0438$0458$0430_$041A$0438$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.004Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.006Z"
+    },
+    {
+     "text": "/wikipedia/pt/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:32.009Z"
+    },
+    {
+     "text": "/wikipedia/hi/$092E$0947$0930$0940_$0915$094D$092F$0942$0930$0940",
+     "lang": "",
+     "value": "/wikipedia/hi/$092E$0947$0930$0940_$0915$094D$092F$0942$0930$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:33.001Z"
+    },
+    {
+     "text": "/wikipedia/tr/Madam_curie",
+     "lang": "",
+     "value": "/wikipedia/tr/Madam_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.000Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041C$0430$0440$0456_$041A$044E$0440$0456",
+     "lang": "",
+     "value": "/wikipedia/uk/$041C$0430$0440$0456_$041A$044E$0440$0456",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.003Z"
+    },
+    {
+     "text": "/wikipedia/el_title/$039C$03B1$03C1$03AF$03B1_$039A$03B9$03BF$03C5$03C1$03AF",
+     "lang": "",
+     "value": "/wikipedia/el_title/$039C$03B1$03C1$03AF$03B1_$039A$03B9$03BF$03C5$03C1$03AF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.003Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "lang": "",
+     "value": "/wikipedia/ru/$041A$044E$0440$0438-$0421$043A$043B$043E$0434$043E$0432$0441$043A$0430$044F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.004Z"
+    },
+    {
+     "text": "/wikipedia/sk/Marya_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/sk/Marya_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.004Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E21$0E32$0E23$0E35_$0E04$0E39$0E23$0E35",
+     "lang": "",
+     "value": "/wikipedia/th/$0E21$0E32$0E23$0E35_$0E04$0E39$0E23$0E35",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Curie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Curie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.006Z"
+    },
+    {
+     "text": "/wikipedia/lt/Marija_Kiuri",
+     "lang": "",
+     "value": "/wikipedia/lt/Marija_Kiuri",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.008Z"
+    },
+    {
+     "text": "/wikipedia/hi_title/$092E$0947$0930$0940_$0915$094D$092F$0941$0930$0940",
+     "lang": "",
+     "value": "/wikipedia/hi_title/$092E$0947$0930$0940_$0915$094D$092F$0941$0930$0940",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:34.008Z"
+    },
+    {
+     "text": "/wikipedia/de/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:35.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E41$0E21$0E23$0E35_$0E04$0E39$0E23$0E35",
+     "lang": "",
+     "value": "/wikipedia/th/$0E41$0E21$0E23$0E35_$0E04$0E39$0E23$0E35",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:35.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:35.001Z"
+    },
+    {
+     "text": "/wikipedia/pt/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:35.002Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05DE$05D0$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05DE$05D0$05E8$05D9_$05E7$05D9$05E8$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:35.006Z"
+    },
+    {
+     "text": "/wikipedia/lv/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/lv/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:36.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Madame_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Madame_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.003Z"
+    },
+    {
+     "text": "/wikipedia/sl/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.003Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/7348",
+     "lang": "",
+     "value": "/wikipedia/cs_id/7348",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.004Z"
+    },
+    {
+     "text": "/wikipedia/fr/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fr/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$746A$8389$00B7$5C45$79AE",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$746A$8389$00B7$5C45$79AE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.006Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:37.008Z"
+    },
+    {
+     "text": "/wikipedia/sv/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sv/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:38.000Z"
+    },
+    {
+     "text": "/wikipedia/lv/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/lv/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:38.004Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Salome_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Salome_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:38.005Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:38.007Z"
+    },
+    {
+     "text": "/wikipedia/vi/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/vi/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:38.008Z"
+    },
+    {
+     "text": "/wikipedia/id_id/13155",
+     "lang": "",
+     "value": "/wikipedia/id_id/13155",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$D034$B9AC_$BD80$C778",
+     "lang": "",
+     "value": "/wikipedia/ko/$D034$B9AC_$BD80$C778",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/Mari_Quyri",
+     "lang": "",
+     "value": "/wikipedia/vi/Mari_Quyri",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.001Z"
+    },
+    {
+     "text": "/wikipedia/id/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/id/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.002Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E41$0E21$0E23$0E35$0E48_$0E04$0E39$0E23$0E35$0E48",
+     "lang": "",
+     "value": "/wikipedia/th/$0E41$0E21$0E23$0E35$0E48_$0E04$0E39$0E23$0E35$0E48",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.005Z"
+    },
+    {
+     "text": "/wikipedia/da_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/da_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.005Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$041A$0438$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/sr/$041C$0430$0440$0438$0458$0430_$041A$0438$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.008Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041C$0430$0440$0438_$041A$044E$0440$0438",
+     "lang": "",
+     "value": "/wikipedia/bg/$041C$0430$0440$0438_$041A$044E$0440$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.009Z"
+    },
+    {
+     "text": "/wikipedia/tr/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/tr/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.009Z"
+    },
+    {
+     "text": "/wikipedia/de/Mme$002E_Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Mme$002E_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.010Z"
+    },
+    {
+     "text": "/wikipedia/hr_id/22938",
+     "lang": "",
+     "value": "/wikipedia/hr_id/22938",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:39.010Z"
+    },
+    {
+     "text": "/wikipedia/el/$039C$03B1$03C1$03AF$03B1_$039A$03B9$03BF$03C5$03C1$03AF",
+     "lang": "",
+     "value": "/wikipedia/el/$039C$03B1$03C1$03AF$03B1_$039A$03B9$03BF$03C5$03C1$03AF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:40.002Z"
+    },
+    {
+     "text": "/wikipedia/da/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/da/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:40.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sk$0142odowska$2013Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sk$0142odowska$2013Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:41.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/sv/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:41.001Z"
+    },
+    {
+     "text": "/wikipedia/fi/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/fi/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:43.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Madame_Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Madame_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/no/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30DE$30EA$30FB$30AD$30E5$30FC$30EA$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/$30DE$30EA$30FB$30AD$30E5$30FC$30EA$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.002Z"
+    },
+    {
+     "text": "/wikipedia/sl/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.002Z"
+    },
+    {
+     "text": "/wikipedia/fi/Maria_Salome_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/fi/Maria_Salome_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.003Z"
+    },
+    {
+     "text": "/wikipedia/de/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$746A$9E97$00B7$5C45$79AE",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$746A$9E97$00B7$5C45$79AE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.009Z"
+    },
+    {
+     "text": "/wikipedia/da/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/da/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:45.010Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$746A$8389$00B7$5C45$91CC",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$746A$8389$00B7$5C45$91CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:46.004Z"
+    },
+    {
+     "text": "/wikipedia/ca/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/ca/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:46.009Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:47.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/Marie_curie",
+     "lang": "",
+     "value": "/wikipedia/tr/Marie_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:47.006Z"
+    },
+    {
+     "text": "/wikipedia/hr/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/hr/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:47.006Z"
+    },
+    {
+     "text": "/wikipedia/lt/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/lt/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:47.007Z"
+    },
+    {
+     "text": "/wikipedia/it/Marie_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Marie_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:47.009Z"
+    },
+    {
+     "text": "/wikipedia/pl/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/pl/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:48.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Madame_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Madame_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:48.006Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E21$0E32$0E23$0E35_$0E01$0E39$0E23$0E35",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E21$0E32$0E23$0E35_$0E01$0E39$0E23$0E35",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:48.008Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:53.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Maria_Salomea_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/nl/Maria_Salomea_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:53.002Z"
+    },
+    {
+     "text": "/wikipedia/nl/Marie_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/nl/Marie_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:53.004Z"
+    },
+    {
+     "text": "/wikipedia/fr/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fr/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:53.007Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Curie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Curie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:54.001Z"
+    },
+    {
+     "text": "/wikipedia/ro/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/ro/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:54.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:54.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:54.003Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30DE$30EA$30FC$30FB$30AD$30E5$30EA$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/$30DE$30EA$30FC$30FB$30AD$30E5$30EA$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:54.006Z"
+    },
+    {
+     "text": "/wikipedia/es/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/es/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:55.011Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041C$0430$0440$0456$044F_$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456",
+     "lang": "",
+     "value": "/wikipedia/uk/$041C$0430$0440$0456$044F_$0421$043A$043B$043E$0434$043E$0432$0441$044C$043A$0430-$041A$044E$0440$0456",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:56.007Z"
+    },
+    {
+     "text": "/wikipedia/pt/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/pt/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:35:56.009Z"
+    },
+    {
+     "text": "/wikipedia/hu/Madame_Curie",
+     "lang": "",
+     "value": "/wikipedia/hu/Madame_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:03.005Z"
+    },
+    {
+     "text": "/wikipedia/sv/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sv/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:04.003Z"
+    },
+    {
+     "text": "/wikipedia/el/$039C$03B1$03C1$03AF_$039A$03B9$03BF$03C5$03C1$03AF",
+     "lang": "",
+     "value": "/wikipedia/el/$039C$03B1$03C1$03AF_$039A$03B9$03BF$03C5$03C1$03AF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:04.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$06CC_$0627$0633$06A9$0644$0648_$062F$0648$0633$06A9$0627_$06A9$0648$0631$06CC",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$06CC_$0627$0633$06A9$0644$0648_$062F$0648$0633$06A9$0627_$06A9$0648$0631$06CC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:04.008Z"
+    },
+    {
+     "text": "/wikipedia/sl/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/sl/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:05.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Maria_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/it/Maria_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:05.006Z"
+    },
+    {
+     "text": "/wikipedia/fr/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/fr/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:08.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/de/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T07:36:09.007Z"
+    },
+    {
+     "text": "/wikipedia/et/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/et/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:48.000Z"
+    },
+    {
+     "text": "/wikipedia/et/Maria_Salomea_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/et/Maria_Salomea_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:49.008Z"
+    },
+    {
+     "text": "/wikipedia/et/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/et/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:51.001Z"
+    },
+    {
+     "text": "/wikipedia/et/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/et/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:53.003Z"
+    },
+    {
+     "text": "/wikipedia/tl/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/tl/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:55.005Z"
+    },
+    {
+     "text": "/wikipedia/tl_id/4969",
+     "lang": "",
+     "value": "/wikipedia/tl_id/4969",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:57.005Z"
+    },
+    {
+     "text": "/wikipedia/tl/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/tl/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:23:58.001Z"
+    },
+    {
+     "text": "/wikipedia/et/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/et/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:01.001Z"
+    },
+    {
+     "text": "/wikipedia/et_id/792",
+     "lang": "",
+     "value": "/wikipedia/et_id/792",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:01.003Z"
+    },
+    {
+     "text": "/wikipedia/tl/Maria_Salomea_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/tl/Maria_Salomea_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:03.006Z"
+    },
+    {
+     "text": "/wikipedia/tl/Maria_Salomea_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/tl/Maria_Salomea_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:05.001Z"
+    },
+    {
+     "text": "/wikipedia/tl_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/tl_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:10.001Z"
+    },
+    {
+     "text": "/wikipedia/et/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/et/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:15.006Z"
+    },
+    {
+     "text": "/wikipedia/tl/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/tl/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:17.002Z"
+    },
+    {
+     "text": "/wikipedia/et_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/et_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T18:24:25.008Z"
+    },
+    {
+     "text": "/authority/imdb/name/nm1792513",
+     "lang": "",
+     "value": "/authority/imdb/name/nm1792513",
+     "creator": "/user/adonofrio",
+     "timestamp": "2013-05-08T15:40:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:19:53.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Skoldowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Skoldowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:20:36.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Curies",
+     "lang": "",
+     "value": "/wikipedia/en/The_Curies",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:29:38.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sklodowska$2013Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sklodowska$2013Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:32:25.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Curie$0027s_birthplace",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Curie$0027s_birthplace",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:32:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Madam_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Madam_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:33:26.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Madame_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Madame_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:33:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:33:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:35:26.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sk$0142odowska$2013Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sk$0142odowska$2013Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:35:52.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sk$0142odowska$2013Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sk$0142odowska$2013Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:37:41.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Curie-Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Curie-Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:38:03.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sklodowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sklodowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:38:44.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:39:00.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Curie-Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Curie-Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:43:44.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Salomea_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Salomea_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:46:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:48:00.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Curie$002C_Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/en/Curie$002C_Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:49:03.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/en_title/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:49:51.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sk$0142odowska_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sk$0142odowska_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:50:04.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:50:26.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:51:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Currie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Currie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:51:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:51:56.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Curie$002C_Marie",
+     "lang": "",
+     "value": "/wikipedia/en/Curie$002C_Marie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:54:32.000Z"
+    },
+    {
+     "text": "/wikipedia/en_id/20408",
+     "lang": "",
+     "value": "/wikipedia/en_id/20408",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:55:03.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Marja_Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marja_Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:56:06.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Mary_curie",
+     "lang": "",
+     "value": "/wikipedia/en/Mary_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:57:31.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sklodowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sklodowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:58:01.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_curie",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T12:59:02.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sk$0142odowska",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sk$0142odowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T13:01:41.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sk$0142odowska-Curie",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sk$0142odowska-Curie",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T13:05:25.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/en/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T13:05:51.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Maria_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/en/Maria_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-21T13:13:43.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Marie_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/es/Marie_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-24T23:44:25.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Maria_Salomea_Sklodowska",
+     "lang": "",
+     "value": "/wikipedia/de/Maria_Salomea_Sklodowska",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-24T23:44:59.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Curie_$0028f$00F8dt_7$002E_november_1867$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Curie_$0028f$00F8dt_7$002E_november_1867$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-11T16:45:55.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Marie_Curie_$0028d$00F8d_4$002E_juli_1934$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Marie_Curie_$0028d$00F8d_4$002E_juli_1934$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-11T16:53:35.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$064A$0627_$0627$0633$0643$0644$0648$062F$0648$0633$0643$0627-$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$064A$0627_$0627$0633$0643$0644$0648$062F$0648$0633$0643$0627-$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-11T17:11:38.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0627$0631$064A_$0627$0633$0643$0644$0648_$062F$0648$0633$0643$0627_$0643$0648$0631$064A",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0627$0631$064A_$0627$0633$0643$0644$0648_$062F$0648$0633$0643$0627_$0643$0648$0631$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-11T17:47:57.000Z"
+    }
+   ],
+   "count": 410.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/053_d",
+     "lang": "",
+     "value": "/m/053_d"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Marie Curie",
+     "lang": "en",
+     "value": "Marie Curie",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:13:22.007Z"
+    }
+   ],
+   "count": 42.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Person",
+     "lang": "en",
+     "id": "/people/person",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-11-14T19:33:15.001Z"
+    },
+    {
+     "text": "Deceased Person",
+     "lang": "en",
+     "id": "/people/deceased_person",
+     "creator": "/user/crism",
+     "timestamp": "2007-03-28T05:39:14.003Z"
+    },
+    {
+     "text": "Influence Node",
+     "lang": "en",
+     "id": "/influence/influence_node",
+     "creator": "/user/mikelove",
+     "timestamp": "2007-07-09T19:29:55.029Z"
+    },
+    {
+     "text": "Award Winner",
+     "lang": "en",
+     "id": "/award/award_winner",
+     "creator": "/user/enlil",
+     "timestamp": "2007-09-21T04:46:14.001Z"
+    },
+    {
+     "text": "Name source",
+     "lang": "en",
+     "id": "/symbols/name_source",
+     "creator": "/user/krsalis",
+     "timestamp": "2008-06-24T12:24:09.000Z"
+    },
+    {
+     "text": "Film subject",
+     "lang": "en",
+     "id": "/film/film_subject",
+     "creator": "/user/arielb",
+     "timestamp": "2008-07-23T09:48:56.000Z"
+    },
+    {
+     "text": "NNDB Person",
+     "lang": "en",
+     "id": "/user/narphorium/people/nndb_person",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-09-22T14:37:46.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/user/skud/names/topic",
+     "creator": "/user/mw_client_bot",
+     "timestamp": "2008-10-13T23:04:25.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/user/narphorium/people/topic",
+     "creator": "/user/mw_client_bot",
+     "timestamp": "2008-10-14T01:05:46.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/modernbluestocking/topic",
+     "creator": "/user/miah",
+     "timestamp": "2008-11-04T23:39:01.000Z"
+    },
+    {
+     "text": "Literature Subject",
+     "lang": "en",
+     "id": "/book/book_subject",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T18:16:25.000Z"
+    },
+    {
+     "text": "Chemical Element Discoverer",
+     "lang": "en",
+     "id": "/chemistry/element_discoverer",
+     "creator": "/user/arielb",
+     "timestamp": "2009-05-18T18:28:08.000Z"
+    },
+    {
+     "text": "Academic",
+     "lang": "en",
+     "id": "/education/academic",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T19:44:03.001Z"
+    },
+    {
+     "text": "Nobel Prize Winner",
+     "lang": "en",
+     "id": "/base/nobelprizes/nobel_prize_winner",
+     "creator": "/user/carolah",
+     "timestamp": "2009-06-15T01:14:31.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/nobelprizes/topic",
+     "creator": "/user/carolah",
+     "timestamp": "2009-06-15T01:14:31.000Z"
+    },
+    {
+     "text": "First",
+     "lang": "en",
+     "id": "/base/firsts/first",
+     "creator": "/user/faye",
+     "timestamp": "2009-07-14T23:20:01.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/firsts/topic",
+     "creator": "/user/faye",
+     "timestamp": "2009-07-14T23:20:01.001Z"
+    },
+    {
+     "text": "Ontology Instance",
+     "lang": "en",
+     "id": "/base/ontologies/ontology_instance",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-10-01T08:09:11.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/women/topic",
+     "creator": "/user/faye",
+     "timestamp": "2009-12-10T23:06:25.000Z"
+    },
+    {
+     "text": "Author",
+     "lang": "en",
+     "id": "/book/author",
+     "creator": "/user/merge_bot",
+     "timestamp": "2010-02-15T06:24:01.000Z"
+    },
+    {
+     "text": "KWTopic",
+     "lang": "en",
+     "id": "/base/kwebbase/kwtopic",
+     "creator": "/user/miholc",
+     "timestamp": "2010-06-11T21:15:42.000Z"
+    },
+    {
+     "text": "Concept",
+     "lang": "en",
+     "id": "/base/tagit/concept",
+     "creator": "/user/arpim",
+     "timestamp": "2010-08-27T05:21:05.001Z"
+    },
+    {
+     "text": "Organization founder",
+     "lang": "en",
+     "id": "/organization/organization_founder",
+     "creator": "/user/fact_farm",
+     "timestamp": "2012-12-21T22:22:50.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 24.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000028fec",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000028fec"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "book_bot",
+     "lang": "",
+     "id": "/user/book_bot",
+     "timestamp": "2009-05-07T05:42:19.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-05-07T05:42:19.001Z",
+     "lang": "en",
+     "value": "2009-05-07T05:42:19.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

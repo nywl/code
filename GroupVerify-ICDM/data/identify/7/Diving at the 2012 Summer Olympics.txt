@@ -1,0 +1,1077 @@
+{
+ "id": "/m/05syrvl",
+ "property": {
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Diving at the 2012 Summer Olympics in London is scheduled to take place from 29 July to 11...",
+     "lang": "en",
+     "id": "/m/05syrvq",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.003Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/30185998",
+         "lang": "",
+         "value": "http://wp/en/30185998",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2011-01-14T02:06:52.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Diving at the 2012 Summer Olympics in London is scheduled to take place from 29 July to 11...",
+         "lang": "en",
+         "value": "Diving at the 2012 Summer Olympics in London is scheduled to take place from 29 July to 11 August 2012.\n136 athletes will compete in 3 metre springboard, synchronized 3 metre springboard, 10 metre platform, and synchronized 10 metre platform.\nFor individual diving the top twelve from the 2011 World Championships, the five continental champions and the eighteen semifinalists at the 2012 Diving World Cup will qualify a quota spot. For the pairs events the top three from the world championships, the top four from the world cup and the hosts qualify.",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2011-01-14T02:06:52.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/05sxc_2",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-04-21T08:58:31.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-04-21T08:58:31.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The diving competitions at the 2012 Olympic Games in London took place from 29 July to 11 August...",
+     "lang": "en",
+     "value": "The diving competitions at the 2012 Olympic Games in London took place from 29 July to 11 August at the Aquatics Centre within the Olympic Park. It was one of four aquatic sports at the Games, along with swimming, water polo and synchronised swimming.\nThe 2012 Games featured competitions in eight events: 3m springboard, synchronised 3m springboard, 10m platform, and synchronised 10m platform.\nThe diving featured 136 athletes representing 25 countries. All divers must be at least 14 years old on or by 31 December 2012.\nChina was the most successful nation, topping the medal table with six golds and ten in total.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Diving_at_the_2012_Summer_Olympics"
+     }
+    }
+   ],
+   "count": 28.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=30185998",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=30185998",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-01-14T02:06:52.001Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Diving_at_the_2012_Summer_Olympics",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Diving_at_the_2012_Summer_Olympics",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T07:30:40.001Z"
+    },
+    {
+     "text": "http://tr.wikipedia.org/wiki/2012_Yaz_Olimpiyatlar?'nda_atlama",
+     "lang": "",
+     "value": "http://tr.wikipedia.org/wiki/2012_Yaz_Olimpiyatlar?'nda_atlama",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:52.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=3712923",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=3712923",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:54.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=6203614",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=6203614",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:54.007Z"
+    },
+    {
+     "text": "http://zh.wikipedia.org/wiki/index.html?curid=1517949",
+     "lang": "",
+     "value": "http://zh.wikipedia.org/wiki/index.html?curid=1517949",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:02.001Z"
+    },
+    {
+     "text": "http://uk.wikipedia.org/wiki/Стрибки_у_воду_на_л?тн?х_Ол?мп?йських_?грах_2012",
+     "lang": "",
+     "value": "http://uk.wikipedia.org/wiki/Стрибки_у_воду_на_л?тн?х_Ол?мп?йських_?грах_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:03.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=4124821",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=4124821",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:05.003Z"
+    },
+    {
+     "text": "http://zh.wikipedia.org/zh-tw/2012年夏季奧林匹克運動會跳水比賽",
+     "lang": "",
+     "value": "http://zh.wikipedia.org/zh-tw/2012年夏季奧林匹克運動會跳水比賽",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:13.000Z"
+    },
+    {
+     "text": "http://nl.wikipedia.org/wiki/index.html?curid=2195599",
+     "lang": "",
+     "value": "http://nl.wikipedia.org/wiki/index.html?curid=2195599",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:14.001Z"
+    }
+   ],
+   "count": 55.0
+  },
+  "/time/event/end_date": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2012-08-11",
+     "lang": "",
+     "value": "2012-08-11",
+     "creator": "/user/krsalis",
+     "timestamp": "2012-03-13T23:21:47.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/time/event/included_in_event": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "2012 Summer Olympics",
+     "lang": "en",
+     "id": "/m/06sks6",
+     "creator": "/user/zeusi",
+     "timestamp": "2011-01-29T12:04:42.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/time/event/includes_event": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Diving at the 2012 Summer Olympics – Men's 3 metre springboard",
+     "lang": "en",
+     "id": "/m/0j44hcs",
+     "creator": "/user/krsalis",
+     "timestamp": "2012-03-13T23:21:14.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Men's 10 metre platform",
+     "lang": "en",
+     "id": "/m/0jt51fn",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T12:44:17.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Women's 10 metre platform",
+     "lang": "en",
+     "id": "/m/0jt4k24",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T12:55:31.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Women's 3 metre springboard",
+     "lang": "en",
+     "id": "/m/0jt1y6h",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T13:03:28.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Women's synchronized 10 metre platform",
+     "lang": "en",
+     "id": "/m/0jt3qz7",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T13:18:13.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Men's synchronized 3 metre springboard",
+     "lang": "en",
+     "id": "/m/0jt83m_",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T13:27:44.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Women's synchronized 3 metre springboard",
+     "lang": "en",
+     "id": "/m/0jt4yrj",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T13:38:44.000Z"
+    },
+    {
+     "text": "Diving at the 2012 Summer Olympics – Men's synchronized 10 metre platform",
+     "lang": "en",
+     "id": "/m/0jt26c8",
+     "creator": "/user/hmsaddul",
+     "timestamp": "2012-06-30T14:23:00.000Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/time/event/locations": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Aquatics Centre",
+     "lang": "en",
+     "id": "/m/06wg9f",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-08-16T01:51:08.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/time/event/start_date": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2012-07-29",
+     "lang": "",
+     "value": "2012-07-29",
+     "creator": "/user/krsalis",
+     "timestamp": "2012-03-13T23:21:36.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/05sxc_2",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en/Diving_at_the_2012_Summer_Olympics",
+     "lang": "",
+     "value": "/wikipedia/en/Diving_at_the_2012_Summer_Olympics",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.003Z"
+    },
+    {
+     "text": "/en/diving_at_the_2012_summer_olympics",
+     "lang": "",
+     "value": "/en/diving_at_the_2012_summer_olympics",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2010-05-27T20:19:28.000Z"
+    },
+    {
+     "text": "/wikipedia/en_id/30185998",
+     "lang": "",
+     "value": "/wikipedia/en_id/30185998",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-01-14T02:06:52.001Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Diving_at_the_2012_Summer_Olympics",
+     "lang": "",
+     "value": "/wikipedia/en_title/Diving_at_the_2012_Summer_Olympics",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T07:30:40.001Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/2012_Yaz_Olimpiyatlar$0131$0027nda_atlama",
+     "lang": "",
+     "value": "/wikipedia/tr_title/2012_Yaz_Olimpiyatlar$0131$0027nda_atlama",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:52.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Simhopp_vid_OS_2012",
+     "lang": "",
+     "value": "/wikipedia/sv/Simhopp_vid_OS_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:52.007Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/3712923",
+     "lang": "",
+     "value": "/wikipedia/pt_id/3712923",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:54.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/6203614",
+     "lang": "",
+     "value": "/wikipedia/fr_id/6203614",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:54.007Z"
+    },
+    {
+     "text": "/wikipedia/no/Stuping_under_Sommer-OL_2012",
+     "lang": "",
+     "value": "/wikipedia/no/Stuping_under_Sommer-OL_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:33:59.003Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E01$0E35$0E2C$0E32$0E01$0E23$0E30$0E42$0E14$0E14$0E19$0E49$0E33$0E43$0E19$0E42$0E2D$0E25$0E34$0E21$0E1B$0E34$0E01$0E24$0E14$0E39$0E23$0E49$0E2D$0E19_2012",
+     "lang": "",
+     "value": "/wikipedia/th/$0E01$0E35$0E2C$0E32$0E01$0E23$0E30$0E42$0E14$0E14$0E19$0E49$0E33$0E43$0E19$0E42$0E2D$0E25$0E34$0E21$0E1B$0E34$0E01$0E24$0E14$0E39$0E23$0E49$0E2D$0E19_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:00.006Z"
+    },
+    {
+     "text": "/wikipedia/fr/Plongeon_aux_Jeux_olympiques_de_2012",
+     "lang": "",
+     "value": "/wikipedia/fr/Plongeon_aux_Jeux_olympiques_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:02.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/1517949",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/1517949",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:02.001Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$0421$0442$0440$0438$0431$043A$0438_$0443_$0432$043E$0434$0443_$043D$0430_$043B$0456$0442$043D$0456$0445_$041E$043B$0456$043C$043F$0456$0439$0441$044C$043A$0438$0445_$0456$0433$0440$0430$0445_2012",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$0421$0442$0440$0438$0431$043A$0438_$0443_$0432$043E$0434$0443_$043D$0430_$043B$0456$0442$043D$0456$0445_$041E$043B$0456$043C$043F$0456$0439$0441$044C$043A$0438$0445_$0456$0433$0440$0430$0445_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:03.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/4124821",
+     "lang": "",
+     "value": "/wikipedia/it_id/4124821",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:05.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Tuffi_ai_Giochi_della_XXX_Olimpiade",
+     "lang": "",
+     "value": "/wikipedia/it/Tuffi_ai_Giochi_della_XXX_Olimpiade",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:05.004Z"
+    },
+    {
+     "text": "/wikipedia/pt/Saltos_ornamentais_nos_Jogos_Ol$00EDmpicos_de_Ver$00E3o_de_2012",
+     "lang": "",
+     "value": "/wikipedia/pt/Saltos_ornamentais_nos_Jogos_Ol$00EDmpicos_de_Ver$00E3o_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:09.001Z"
+    },
+    {
+     "text": "/wikipedia/pl/Skoki_do_wody_2012",
+     "lang": "",
+     "value": "/wikipedia/pl/Skoki_do_wody_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:09.007Z"
+    },
+    {
+     "text": "/wikipedia/fr/Plongeon_aux_Jeux_olympiques_d$0027$00E9t$00E9_de_2012",
+     "lang": "",
+     "value": "/wikipedia/fr/Plongeon_aux_Jeux_olympiques_d$0027$00E9t$00E9_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:11.001Z"
+    },
+    {
+     "text": "/wikipedia/ro/S$0103rituri_nata$021Bie_la_Jocurile_Olimpice_din_2012",
+     "lang": "",
+     "value": "/wikipedia/ro/S$0103rituri_nata$021Bie_la_Jocurile_Olimpice_din_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:11.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:13.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30ED$30F3$30C9$30F3$30AA$30EA$30F3$30D4$30C3$30AF_$00282012$5E74$0029_$306B$304A$3051$308B$98DB$8FBC$7AF6$6280",
+     "lang": "",
+     "value": "/wikipedia/ja/$30ED$30F3$30C9$30F3$30AA$30EA$30F3$30D4$30C3$30AF_$00282012$5E74$0029_$306B$304A$3051$308B$98DB$8FBC$7AF6$6280",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:13.005Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/2195599",
+     "lang": "",
+     "value": "/wikipedia/nl_id/2195599",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:14.001Z"
+    },
+    {
+     "text": "/wikipedia/sr_id/545361",
+     "lang": "",
+     "value": "/wikipedia/sr_id/545361",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:14.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/1517949",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/1517949",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:14.004Z"
+    },
+    {
+     "text": "/wikipedia/ro/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_din_2012",
+     "lang": "",
+     "value": "/wikipedia/ro/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_din_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:15.004Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Olympische_Sommerspiele_2012$002FWasserspringen",
+     "lang": "",
+     "value": "/wikipedia/de_title/Olympische_Sommerspiele_2012$002FWasserspringen",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:15.007Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Stuping_under_Sommer-OL_2012",
+     "lang": "",
+     "value": "/wikipedia/no_title/Stuping_under_Sommer-OL_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:16.000Z"
+    },
+    {
+     "text": "/wikipedia/lt/$0160uoliai_$012F_vanden$012F_2012_m$002E_vasaros_olimpin$0117se_$017Eaidyn$0117se",
+     "lang": "",
+     "value": "/wikipedia/lt/$0160uoliai_$012F_vanden$012F_2012_m$002E_vasaros_olimpin$0117se_$017Eaidyn$0117se",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:16.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Plongeon_aux_Jeux_olympiques_d$0027$00E9t$00E9_de_2012",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Plongeon_aux_Jeux_olympiques_d$0027$00E9t$00E9_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:17.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$041F$0440$044B$0436$043A$0438_$0432_$0432$043E$0434$0443_$043D$0430_$043B$0435$0442$043D$0438$0445_$041E$043B$0438$043C$043F$0438$0439$0441$043A$0438$0445_$0438$0433$0440$0430$0445_2012",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$041F$0440$044B$0436$043A$0438_$0432_$0432$043E$0434$0443_$043D$0430_$043B$0435$0442$043D$0438$0445_$041E$043B$0438$043C$043F$0438$0439$0441$043A$0438$0445_$0438$0433$0440$0430$0445_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:18.001Z"
+    },
+    {
+     "text": "/wikipedia/tr/2012_Yaz_Olimpiyatlar$0131$0027nda_atlama",
+     "lang": "",
+     "value": "/wikipedia/tr/2012_Yaz_Olimpiyatlar$0131$0027nda_atlama",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:22.003Z"
+    },
+    {
+     "text": "/wikipedia/de/Olympische_Sommerspiele_2012$002FWasserspringen",
+     "lang": "",
+     "value": "/wikipedia/de/Olympische_Sommerspiele_2012$002FWasserspringen",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:22.007Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:24.002Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/1541892",
+     "lang": "",
+     "value": "/wikipedia/sv_id/1541892",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:24.007Z"
+    },
+    {
+     "text": "/wikipedia/ro_title/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_de_var$0103_din_2012",
+     "lang": "",
+     "value": "/wikipedia/ro_title/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_de_var$0103_din_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:26.002Z"
+    },
+    {
+     "text": "/wikipedia/nl/Schoonspringen_op_de_Olympische_Zomerspelen_2012",
+     "lang": "",
+     "value": "/wikipedia/nl/Schoonspringen_op_de_Olympische_Zomerspelen_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:26.003Z"
+    },
+    {
+     "text": "/wikipedia/lv_title/Dai$013Cl$0113k$0161ana_2012$002E_gada_Vasaras_Olimpiskaj$0101s_sp$0113l$0113s",
+     "lang": "",
+     "value": "/wikipedia/lv_title/Dai$013Cl$0113k$0161ana_2012$002E_gada_Vasaras_Olimpiskaj$0101s_sp$0113l$0113s",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:27.005Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041F$0440$044B$0436$043A$0438_$0432_$0432$043E$0434$0443_$043D$0430_$043B$0435$0442$043D$0438$0445_$041E$043B$0438$043C$043F$0438$0439$0441$043A$0438$0445_$0438$0433$0440$0430$0445_2012",
+     "lang": "",
+     "value": "/wikipedia/ru/$041F$0440$044B$0436$043A$0438_$0432_$0432$043E$0434$0443_$043D$0430_$043B$0435$0442$043D$0438$0445_$041E$043B$0438$043C$043F$0438$0439$0441$043A$0438$0445_$0438$0433$0440$0430$0445_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:27.006Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/954383",
+     "lang": "",
+     "value": "/wikipedia/fi_id/954383",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:27.007Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/1011644",
+     "lang": "",
+     "value": "/wikipedia/ca_id/1011644",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:29.004Z"
+    },
+    {
+     "text": "/wikipedia/ca/Salts_als_Jocs_Ol$00EDmpics_d$0027estiu_de_2012",
+     "lang": "",
+     "value": "/wikipedia/ca/Salts_als_Jocs_Ol$00EDmpics_d$0027estiu_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:31.004Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:31.005Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/2630001",
+     "lang": "",
+     "value": "/wikipedia/pl_id/2630001",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:31.007Z"
+    },
+    {
+     "text": "/wikipedia/ro/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_de_var$0103_din_2012",
+     "lang": "",
+     "value": "/wikipedia/ro/S$0103rituri_$00EEn_ap$0103_la_Jocurile_Olimpice_de_var$0103_din_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:32.004Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/1490020",
+     "lang": "",
+     "value": "/wikipedia/tr_id/1490020",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:33.003Z"
+    },
+    {
+     "text": "/wikipedia/lv_id/167021",
+     "lang": "",
+     "value": "/wikipedia/lv_id/167021",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:34.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:34.005Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Tuffi_ai_Giochi_della_XXX_Olimpiade",
+     "lang": "",
+     "value": "/wikipedia/it_title/Tuffi_ai_Giochi_della_XXX_Olimpiade",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:35.004Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/Salts_als_Jocs_Ol$00EDmpics_d$0027estiu_de_2012",
+     "lang": "",
+     "value": "/wikipedia/ca_title/Salts_als_Jocs_Ol$00EDmpics_d$0027estiu_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:36.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:37.003Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Skoki_do_wody_na_Letnich_Igrzyskach_Olimpijskich_2012",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Skoki_do_wody_na_Letnich_Igrzyskach_Olimpijskich_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:37.005Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0421$0442$0440$0438$0431$043A$0438_$0443_$0432$043E$0434$0443_$043D$0430_$043B$0456$0442$043D$0456$0445_$041E$043B$0456$043C$043F$0456$0439$0441$044C$043A$0438$0445_$0456$0433$0440$0430$0445_2012",
+     "lang": "",
+     "value": "/wikipedia/uk/$0421$0442$0440$0438$0431$043A$0438_$0443_$0432$043E$0434$0443_$043D$0430_$043B$0456$0442$043D$0456$0445_$041E$043B$0456$043C$043F$0456$0439$0441$044C$043A$0438$0445_$0456$0433$0440$0430$0445_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:37.008Z"
+    },
+    {
+     "text": "/wikipedia/sv/Simhopp_vid_olympiska_sommarspelen_2012",
+     "lang": "",
+     "value": "/wikipedia/sv/Simhopp_vid_olympiska_sommarspelen_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.001Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Saltos_ornamentais_nos_Jogos_Ol$00EDmpicos_de_Ver$00E3o_de_2012",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Saltos_ornamentais_nos_Jogos_Ol$00EDmpicos_de_Ver$00E3o_de_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.002Z"
+    },
+    {
+     "text": "/wikipedia/ro_id/950513",
+     "lang": "",
+     "value": "/wikipedia/ro_id/950513",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.005Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/792925",
+     "lang": "",
+     "value": "/wikipedia/hu_id/792925",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.007Z"
+    },
+    {
+     "text": "/wikipedia/hr/Skokovi_u_vodu_na_OI_2012$002E",
+     "lang": "",
+     "value": "/wikipedia/hr/Skokovi_u_vodu_na_OI_2012$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.007Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Simhopp_vid_olympiska_sommarspelen_2012",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Simhopp_vid_olympiska_sommarspelen_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:38.008Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/Schoonspringen_op_de_Olympische_Zomerspelen_2012",
+     "lang": "",
+     "value": "/wikipedia/nl_title/Schoonspringen_op_de_Olympische_Zomerspelen_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:39.008Z"
+    },
+    {
+     "text": "/wikipedia/fi/Uimahypyt_kes$00E4olympialaisissa_2012",
+     "lang": "",
+     "value": "/wikipedia/fi/Uimahypyt_kes$00E4olympialaisissa_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:40.001Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0421$043A$043E$043A$043E$0432$0438_$0443_$0432$043E$0434$0443_$043D$0430_$041B$0435$0442$045A$0438$043C_$043E$043B$0438$043C$043F$0438$0458$0441$043A$0438$043C_$0438$0433$0440$0430$043C$0430_2012$002E",
+     "lang": "",
+     "value": "/wikipedia/sr/$0421$043A$043E$043A$043E$0432$0438_$0443_$0432$043E$0434$0443_$043D$0430_$041B$0435$0442$045A$0438$043C_$043E$043B$0438$043C$043F$0438$0458$0441$043A$0438$043C_$0438$0433$0440$0430$043C$0430_2012$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:40.006Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/2529350",
+     "lang": "",
+     "value": "/wikipedia/ru_id/2529350",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:41.000Z"
+    },
+    {
+     "text": "/wikipedia/hr_id/345524",
+     "lang": "",
+     "value": "/wikipedia/hr_id/345524",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:41.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC_$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC_$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_$06F2$06F0$06F1$06F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:42.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$064A$0631$062C$0647_$062F$0631_$0628$0627$0632$064A_$0647$0627$064A_$0627$0644$0645$067E$064A$0643_$062A$0627$0628$0633$062A$0627$0646$064A_$06F2$06F0$06F1$06F2",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$064A$0631$062C$0647_$062F$0631_$0628$0627$0632$064A_$0647$0627$064A_$0627$0644$0645$067E$064A$0643_$062A$0627$0628$0633$062A$0627$0646$064A_$06F2$06F0$06F1$06F2",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:42.000Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E01$0E35$0E2C$0E32$0E01$0E23$0E30$0E42$0E14$0E14$0E19$0E49$0E33$0E43$0E19$0E42$0E2D$0E25$0E34$0E21$0E1B$0E34$0E01$0E24$0E14$0E39$0E23$0E49$0E2D$0E19_2012",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E01$0E35$0E2C$0E32$0E01$0E23$0E30$0E42$0E14$0E14$0E19$0E49$0E33$0E43$0E19$0E42$0E2D$0E25$0E34$0E21$0E1B$0E34$0E01$0E24$0E14$0E39$0E23$0E49$0E2D$0E19_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:43.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/5934789",
+     "lang": "",
+     "value": "/wikipedia/de_id/5934789",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:43.006Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/2527165",
+     "lang": "",
+     "value": "/wikipedia/ja_id/2527165",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:44.001Z"
+    },
+    {
+     "text": "/wikipedia/sr_title/$0421$043A$043E$043A$043E$0432$0438_$0443_$0432$043E$0434$0443_$043D$0430_$041B$0435$0442$045A$0438$043C_$043E$043B$0438$043C$043F$0438$0458$0441$043A$0438$043C_$0438$0433$0440$0430$043C$0430_2012$002E",
+     "lang": "",
+     "value": "/wikipedia/sr_title/$0421$043A$043E$043A$043E$0432$0438_$0443_$0432$043E$0434$0443_$043D$0430_$041B$0435$0442$045A$0438$043C_$043E$043B$0438$043C$043F$0438$0458$0441$043A$0438$043C_$0438$0433$0440$0430$043C$0430_2012$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:44.003Z"
+    },
+    {
+     "text": "/wikipedia/no_id/872265",
+     "lang": "",
+     "value": "/wikipedia/no_id/872265",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:44.005Z"
+    },
+    {
+     "text": "/wikipedia/th_id/448126",
+     "lang": "",
+     "value": "/wikipedia/th_id/448126",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:45.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_2012",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC$200C$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:46.000Z"
+    },
+    {
+     "text": "/wikipedia/hu/M$0171ugr$00E1s_a_2012$002E_$00E9vi_ny$00E1ri_olimpiai_j$00E1t$00E9kokon",
+     "lang": "",
+     "value": "/wikipedia/hu/M$0171ugr$00E1s_a_2012$002E_$00E9vi_ny$00E1ri_olimpiai_j$00E1t$00E9kokon",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:46.001Z"
+    },
+    {
+     "text": "/wikipedia/sl_id/339336",
+     "lang": "",
+     "value": "/wikipedia/sl_id/339336",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:46.004Z"
+    },
+    {
+     "text": "/wikipedia/pl/Skoki_do_wody_na_Letnich_Igrzyskach_Olimpijskich_2012",
+     "lang": "",
+     "value": "/wikipedia/pl/Skoki_do_wody_na_Letnich_Igrzyskach_Olimpijskich_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:46.005Z"
+    },
+    {
+     "text": "/wikipedia/lt_title/$0160uoliai_$012F_vanden$012F_2012_m$002E_vasaros_olimpin$0117se_$017Eaidyn$0117se",
+     "lang": "",
+     "value": "/wikipedia/lt_title/$0160uoliai_$012F_vanden$012F_2012_m$002E_vasaros_olimpin$0117se_$017Eaidyn$0117se",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:47.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/2012$5E74$590F$5B63$5967$6797$5339$514B$904B$52D5$6703$8DF3$6C34$6BD4$8CFD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:47.000Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/1367335",
+     "lang": "",
+     "value": "/wikipedia/uk_id/1367335",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:47.001Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/M$0171ugr$00E1s_a_2012$002E_$00E9vi_ny$00E1ri_olimpiai_j$00E1t$00E9kokon",
+     "lang": "",
+     "value": "/wikipedia/hu_title/M$0171ugr$00E1s_a_2012$002E_$00E9vi_ny$00E1ri_olimpiai_j$00E1t$00E9kokon",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:47.006Z"
+    },
+    {
+     "text": "/wikipedia/lt_id/381601",
+     "lang": "",
+     "value": "/wikipedia/lt_id/381601",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:48.003Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Uimahypyt_kes$00E4olympialaisissa_2012",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Uimahypyt_kes$00E4olympialaisissa_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:48.006Z"
+    },
+    {
+     "text": "/wikipedia/sl/Skoki_v_vodo_na_Poletnih_olimpijskih_igrah_2012",
+     "lang": "",
+     "value": "/wikipedia/sl/Skoki_v_vodo_na_Poletnih_olimpijskih_igrah_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:49.002Z"
+    },
+    {
+     "text": "/wikipedia/hr_title/Skokovi_u_vodu_na_OI_2012$002E",
+     "lang": "",
+     "value": "/wikipedia/hr_title/Skokovi_u_vodu_na_OI_2012$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:49.005Z"
+    },
+    {
+     "text": "/wikipedia/sl_title/Skoki_v_vodo_na_Poletnih_olimpijskih_igrah_2012",
+     "lang": "",
+     "value": "/wikipedia/sl_title/Skoki_v_vodo_na_Poletnih_olimpijskih_igrah_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:49.007Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/1251119",
+     "lang": "",
+     "value": "/wikipedia/fa_id/1251119",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:50.003Z"
+    },
+    {
+     "text": "/wikipedia/lv/Dai$013Cl$0113k$0161ana_2012$002E_gada_Vasaras_Olimpiskaj$0101s_sp$0113l$0113s",
+     "lang": "",
+     "value": "/wikipedia/lv/Dai$013Cl$0113k$0161ana_2012$002E_gada_Vasaras_Olimpiskaj$0101s_sp$0113l$0113s",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:50.007Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30ED$30F3$30C9$30F3$30AA$30EA$30F3$30D4$30C3$30AF_$00282012$5E74$0029_$306B$304A$3051$308B$98DB$8FBC$7AF6$6280",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30ED$30F3$30C9$30F3$30AA$30EA$30F3$30D4$30C3$30AF_$00282012$5E74$0029_$306B$304A$3051$308B$98DB$8FBC$7AF6$6280",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:34:56.001Z"
+    },
+    {
+     "text": "/wikipedia/et/Vetteh$00FCpped_2012$002E_aasta_suveol$00FCmpiam$00E4ngudel",
+     "lang": "",
+     "value": "/wikipedia/et/Vetteh$00FCpped_2012$002E_aasta_suveol$00FCmpiam$00E4ngudel",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T06:35:35.000Z"
+    },
+    {
+     "text": "/wikipedia/et_title/Vetteh$00FCpped_2012$002E_aasta_suveol$00FCmpiam$00E4ngudel",
+     "lang": "",
+     "value": "/wikipedia/et_title/Vetteh$00FCpped_2012$002E_aasta_suveol$00FCmpiam$00E4ngudel",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T06:35:51.000Z"
+    },
+    {
+     "text": "/wikipedia/et_id/292060",
+     "lang": "",
+     "value": "/wikipedia/et_id/292060",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T06:35:57.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$064A$0631$062C$0647_$062F$0631_$0628$0627$0632$064A_$0647$0627$064A_$0627$0644$0645$067E$064A$0643_$062A$0627$0628$0633$062A$0627$0646$064A_2012",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$064A$0631$062C$0647_$062F$0631_$0628$0627$0632$064A_$0647$0627$064A_$0627$0644$0645$067E$064A$0643_$062A$0627$0628$0633$062A$0627$0646$064A_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T20:20:39.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC_$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_2012",
+     "lang": "",
+     "value": "/wikipedia/fa/$0634$06CC$0631$062C$0647_$062F$0631_$0628$0627$0632$06CC_$0647$0627$06CC_$0627$0644$0645$067E$06CC$06A9_$062A$0627$0628$0633$062A$0627$0646$06CC_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T20:22:11.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/Skoky_do_vody_na_Letn$00EDch_olympijsk$00FDch_hr$00E1ch_2012",
+     "lang": "",
+     "value": "/wikipedia/cs/Skoky_do_vody_na_Letn$00EDch_olympijsk$00FDch_hr$00E1ch_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-30T06:20:53.000Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/947806",
+     "lang": "",
+     "value": "/wikipedia/cs_id/947806",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-30T06:21:14.001Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/Skoky_do_vody_na_Letn$00EDch_olympijsk$00FDch_hr$00E1ch_2012",
+     "lang": "",
+     "value": "/wikipedia/cs_title/Skoky_do_vody_na_Letn$00EDch_olympijsk$00FDch_hr$00E1ch_2012",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-10-30T06:21:16.000Z"
+    }
+   ],
+   "count": 95.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/05syrvl",
+     "lang": "",
+     "value": "/m/05syrvl"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Diving at the 2012 Summer Olympics",
+     "lang": "en",
+     "value": "Diving at the 2012 Summer Olympics",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.002Z"
+    }
+   ],
+   "count": 28.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.002Z"
+    },
+    {
+     "text": "Event",
+     "lang": "en",
+     "id": "/time/event",
+     "creator": "/user/hangy",
+     "timestamp": "2009-11-16T10:54:19.002Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/olympicapp2012/topic",
+     "creator": "/user/scorchgid",
+     "timestamp": "2011-05-03T03:36:48.001Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/common/topic/notable_properties": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Start date",
+     "lang": "en",
+     "id": "/time/event/start_date"
+    },
+    {
+     "text": "End date",
+     "lang": "en",
+     "id": "/time/event/end_date"
+    }
+   ],
+   "count": 2.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000b8edf52",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000b8edf52"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "mwcl_wikipedia_en",
+     "lang": "",
+     "id": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-04-21T08:58:31.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-04-21T08:58:31.002Z",
+     "lang": "en",
+     "value": "2009-04-21T08:58:31.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

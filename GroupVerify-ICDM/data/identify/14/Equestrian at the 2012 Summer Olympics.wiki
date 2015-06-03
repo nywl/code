@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Equestrian at the 2012 Summer Olympics - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Equestrian_at_the_2012_Summer_Olympics" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Equestrian_at_the_2012_Summer_Olympics","wgTitle":"Equestrian at the 2012 Summer Olympics","wgCurRevisionId":546861633,"wgRevisionId":546861633,"wgArticleId":29221707,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2012","Commons category with local link same as on Wikidata","Equestrian at the 2012 Summer Olympics","Equestrian at the Summer Olympics","2012 Summer Olympics events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Equestrian_at_the_2012_Summer_Olympics","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":29221707,"title":"Equestrian at the 2012 Summer Olympics","namespace":0,"categories":["2012 Summer Olympics events","Commons category with local link same as on Wikidata","Equestrian at the 2012 Summer Olympics","Equestrian at the Summer Olympics","Use dmy dates from August 2012"],"permissionLevel":false},"wgWikibaseItemId":"Q326153"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Equestrian_at_the_2012_Summer_Olympics skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Equestrian at the 2012 Summer Olympics</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" cellpadding="3" style="width:24em; text-align:left; font-size:90%; line-height:1.5em; border-collapse:collapse;">
+<tr>
+<td colspan="2" class="summary" style="text-align:center; font-size:125%; font-weight:bold; border-bottom:1px solid #aaa;">Equestrian<br />
+at the Games of the XXX Olympiad</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; border-bottom:1px solid #aaa;"><a href="/wiki/File:Olympic_pictogram_Equestrian.png" class="image"><img alt="Olympic pictogram Equestrian.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Olympic_pictogram_Equestrian.png/100px-Olympic_pictogram_Equestrian.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Olympic_pictogram_Equestrian.png/150px-Olympic_pictogram_Equestrian.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Olympic_pictogram_Equestrian.png/200px-Olympic_pictogram_Equestrian.png 2x" /></a><br />
+<span style="font-size:95%">Pictogram for equestrian at the 2012 Olympic Games</span></td>
+</tr>
+<tr>
+<th>Venue</th>
+<td><a href="/wiki/Greenwich_Park" title="Greenwich Park">Greenwich Park</a></td>
+</tr>
+<tr>
+<th>Dates</th>
+<td>28 July&#160;– 9 August</td>
+</tr>
+<tr>
+<td align="left" style="border-top:1px solid #aaa; padding:0.2em;">?<a href="/wiki/Equestrian_at_the_2008_Summer_Olympics" title="Equestrian at the 2008 Summer Olympics">2008</a></td>
+<td align="right" style="border-top:1px solid #aaa; padding:0.2em;">2016?</td>
+</tr>
+</table>
+<table style="float:right; clear:right; padding:0.3em; margin-left:15px; border:1px solid #B8C7D9; background:#f5faff; font-size:90%; line-height:1.5em">
+<tr style="background:#cedff2; text-align:center;">
+<th colspan="5"><strong class="selflink">Equestrian at the<br />
+2012 Summer Olympics</strong><br />
+<a href="/wiki/File:Equestrian_pictogram.svg" class="image"><img alt="Equestrian pictogram.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/50px-Equestrian_pictogram.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/75px-Equestrian_pictogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/100px-Equestrian_pictogram.svg.png 2x" /></a></th>
+</tr>
+<tr>
+<td>Dressage</td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_dressage" title="Equestrian at the 2012 Summer Olympics – Individual dressage">individual</a></td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_dressage" title="Equestrian at the 2012 Summer Olympics – Team dressage">team</a></td>
+</tr>
+<tr>
+<td>Eventing</td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_eventing" title="Equestrian at the 2012 Summer Olympics – Individual eventing">individual</a></td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_eventing" title="Equestrian at the 2012 Summer Olympics – Team eventing">team</a></td>
+</tr>
+<tr>
+<td>Jumping</td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_jumping" title="Equestrian at the 2012 Summer Olympics – Individual jumping">individual</a></td>
+<td>?</td>
+<td><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_jumping" title="Equestrian at the 2012 Summer Olympics – Team jumping">team</a></td>
+</tr>
+</table>
+<p>The <a href="/wiki/Equestrianism" title="Equestrianism">equestrian</a> events at the <a href="/wiki/2012_Summer_Olympics" title="2012 Summer Olympics">2012 Olympic Games</a> in <a href="/wiki/London" title="London">London</a> were held between 28 July and 9 August at <a href="/wiki/Greenwich_Park" title="Greenwich Park">Greenwich Park</a>. Medals were awarded in three disciplines for both individual and team competitions.</p>
+<p><a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a> was the most successful nation, topping the medal table with three golds and five medals in total. They were particularly dominant in team events, taking two gold medals and a silver medal from three team events.</p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Events"><span class="tocnumber">1</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Qualification"><span class="tocnumber">2</span> <span class="toctext">Qualification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Dressage_qualification"><span class="tocnumber">2.1</span> <span class="toctext">Dressage qualification</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Jumping_qualification"><span class="tocnumber">2.2</span> <span class="toctext">Jumping qualification</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Eventing_qualification"><span class="tocnumber">2.3</span> <span class="toctext">Eventing qualification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Competition_format"><span class="tocnumber">3</span> <span class="toctext">Competition format</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Show_jumping"><span class="tocnumber">3.1</span> <span class="toctext">Show jumping</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Dressage"><span class="tocnumber">3.2</span> <span class="toctext">Dressage</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Eventing"><span class="tocnumber">3.3</span> <span class="toctext">Eventing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Medal_summary"><span class="tocnumber">4</span> <span class="toctext">Medal summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Medal_table"><span class="tocnumber">4.1</span> <span class="toctext">Medal table</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Medalists"><span class="tocnumber">4.2</span> <span class="toctext">Medalists</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Gallery"><span class="tocnumber">4.3</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Greenwich_Park_001.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Greenwich_Park_001.JPG/220px-Greenwich_Park_001.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Greenwich_Park_001.JPG/330px-Greenwich_Park_001.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Greenwich_Park_001.JPG/440px-Greenwich_Park_001.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Greenwich_Park_001.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Greenwich_Park" title="Greenwich Park">Greenwich Park</a> hosted the equestrian events.</div>
+</div>
+</div>
+<p>Medals were awarded in the following competitions:</p>
+<ul>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_dressage" title="Equestrian at the 2012 Summer Olympics – Individual dressage">Individual dressage</a></li>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_dressage" title="Equestrian at the 2012 Summer Olympics – Team dressage">Team dressage</a></li>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_jumping" title="Equestrian at the 2012 Summer Olympics – Individual jumping">Individual jumping</a></li>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_jumping" title="Equestrian at the 2012 Summer Olympics – Team jumping">Team jumping</a></li>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_eventing" title="Equestrian at the 2012 Summer Olympics – Individual eventing">Individual eventing</a></li>
+<li><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_eventing" title="Equestrian at the 2012 Summer Olympics – Team eventing">Team eventing</a></li>
+</ul>
+<h2><span class="mw-headline" id="Qualification">Qualification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=2" title="Edit section: Qualification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="rellink boilerplate seealso">For more details on this topic, see <a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_-_Qualification" title="Equestrian at the 2012 Summer Olympics - Qualification" class="mw-redirect">Equestrian at the 2012 Summer Olympics - Qualification</a>.</div>
+<p>Each event has its own qualification rules, but generally rely on FEI rankings.</p>
+<h3><span class="mw-headline" id="Dressage_qualification">Dressage qualification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=3" title="Edit section: Dressage qualification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For the team competition there was a total of 11 quota spots available. Three team spots were awarded at the <a href="/wiki/2010_FEI_World_Equestrian_Games" title="2010 FEI World Equestrian Games">2010 FEI World Equestrian Games</a>. In addition 7 team spots were awarded at regional competitions (Europe: 3, America: 2, Asia: 2). In addition, should a country have qualified 3 athletes in the individual competition, they also qualify as a team and were allowed to compete in the team competition.<sup id="cite_ref-bbc_1-0" class="reference"><a href="#cite_note-bbc-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>For the individual competition, 50 spots were allocated as follows: 33 to the athletes who qualified from the teams above. In addition, the highest ranked rider from each of seven geographic regions qualified. The top ten riders based on FEI ranking who did not qualify otherwise were given spots as well.<sup id="cite_ref-bbc_1-1" class="reference"><a href="#cite_note-bbc-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Jumping_qualification">Jumping qualification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=4" title="Edit section: Jumping qualification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A country may send up to four riders if it qualified for the team competition. Similar to dressage, teams of four riders were qualified at either the World Equestrian Games (WEG) or through a regional competition. The WEG awarded five spots, the regions six (America: two, Europe: two, Asia: two), and the hosts (Great Britain). For the individual competition there was a total of 75 spots allocated as follows: 45 from the above teams the rest regional or through rankings.<sup id="cite_ref-bbc_1-2" class="reference"><a href="#cite_note-bbc-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Eventing_qualification">Eventing qualification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=5" title="Edit section: Eventing qualification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A country may send up to five riders if it qualified for the team competition. Similar to dressage, teams of five riders were qualified at either the WEG, a regional competition, or through a composite spot. The WEG awarded five spots, the regions seven (America: three, Europe: three, Middle East &amp; Africa: one), the hosts (Great Britain). For the individual competition there was a total of 75 spots allocated as follows: 55 from the above teams, 7 through regional competitions and 13 through the world rankings.<sup id="cite_ref-bbc_1-3" class="reference"><a href="#cite_note-bbc-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Competition_format">Competition format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=6" title="Edit section: Competition format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Show_jumping">Show jumping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=7" title="Edit section: Show jumping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Five rounds are ridden to determine individual medals. Riders placing first through 60th (including ties for 60th place) advance to the second round. The top 45 riders of round 2, including ties for 45th, advance to the third round. The top 35 riders of the third round progress to the 4th round, but only up to three riders per team (so if a country has four riders in the top 35, one of those is not allowed to compete for individual medals).</p>
+<p>In the fourth round (individual final round A), the slate is wiped clean and all riders begin with zero faults. The top 20 riders in round 4 advance to round 5 (individual final round B), and ride another course. The faults for individual final round A and B and added together to determine individual medals.</p>
+<p>The team competition completes three rounds to determine medals. It runs concurrently with the individual competition (riders running over the same course) so team riders are also competing for individual medals. The first round for team competition is the round 2 course for individual medals. The top eight teams from the first team round advance to the second team round (which is the same course as the individual round 3). The scores for these eight countries over team rounds 1 and 2 are combined, and medals are awarded based on those scores.</p>
+<h3><span class="mw-headline" id="Dressage">Dressage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=8" title="Edit section: Dressage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg/150px-Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg" width="150" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg/225px-Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg/300px-Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nicola_Wilson_and_Opposition_Buzz_during_cross-country_at_2012_London_Olympics.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nicola Wilson and Opposition Buzz competing in the cross-country discipline of the eventing</div>
+</div>
+</div>
+<p>Teams are made up of three riders, all of whom are also competing concurrently for individual medals. Additionally, countries who can not make a full team may send riders to compete for individual medals.</p>
+<p>All riders compete in the Grand Prix, which serves as the first round of both the individual and team medals. The top seven teams (included those tied for 7th) advance to the Grand Prix Special, which is a slightly more rigorous test. The combined scores for those teams in both the Grand Prix and the Special determine the team medals, with the team with the highest score winning gold.</p>
+<p>Riders completing the Grand Prix test (first qualifying round of the individual competition) may move on to the Grand Prix Special (second qualifying round for the individual competition) if their team is in the top seven (21 riders total). Additionally, the top 11 riders who do not qualify with a team may also advance to the Special to ride for individual medals. The top 18 riders from the Special move on to the third individual round, the freestyle. Each rider designs their own test for the freestyle, which must be set to music and has several compulsory movements. Riders can tailor a test to their horses' strengths, as well as incorporate movements that are more difficult than those required in the Grand Prix or the Special (such as a pirouette in <a href="/wiki/Piaffe" title="Piaffe">piaffe</a>) in order to increase their scores. Individual medals are assigned based on scores in the freestyle.</p>
+<h3><span class="mw-headline" id="Eventing">Eventing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=9" title="Edit section: Eventing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Competitions for team and individual medals ran concurrently. Riders performed a dressage test, a cross-country round, and a jumping round. Team medals were then awarded by adding together the best three scores from a country's team, out of a maximum of five team members, from all three phases, the team with the lowest number of penalty points winning the gold. The top 25 individual scores after the first show jumping round performed a second, final, show jumping round to determine individual medals, with up to 3 riders in the individual running per team. Therefore, those competing for individual spots completed one dressage test and cross-country round, and two jumping rounds.</p>
+<h2><span class="mw-headline" id="Medal_summary">Medal summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=10" title="Edit section: Medal summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Medal_table">Medal table</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=11" title="Edit section: Medal table">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="text-align: center">
+<tr>
+<th scope="col">Rank</th>
+<th scope="col">Nation</th>
+<th scope="col" style="background-color:gold; width:6em;">Gold</th>
+<th scope="col" style="background-color:silver; width:6em;">Silver</th>
+<th scope="col" style="background-color:#cc9966; width:6em;">Bronze</th>
+<th scope="col" style="width:6em;">Total</th>
+</tr>
+<tr>
+<td>1</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" /> <a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a></td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" /> <a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a></td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" /> <a href="/wiki/Switzerland_at_the_2012_Summer_Olympics" title="Switzerland at the 2012 Summer Olympics">Switzerland</a></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" /> <a href="/wiki/Netherlands_at_the_2012_Summer_Olympics" title="Netherlands at the 2012 Summer Olympics">Netherlands</a></td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x" /> <a href="/wiki/Sweden_at_the_2012_Summer_Olympics" title="Sweden at the 2012 Summer Olympics">Sweden</a></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="3">6</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/33px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/44px-Flag_of_Saudi_Arabia.svg.png 2x" /> <a href="/wiki/Saudi_Arabia_at_the_2012_Summer_Olympics" title="Saudi Arabia at the 2012 Summer Olympics">Saudi Arabia</a></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/22px-Flag_of_New_Zealand.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/33px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/44px-Flag_of_New_Zealand.svg.png 2x" /> <a href="/wiki/New_Zealand_at_the_2012_Summer_Olympics" title="New Zealand at the 2012 Summer Olympics">New Zealand</a></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" /> <a href="/wiki/Ireland_at_the_2012_Summer_Olympics" title="Ireland at the 2012 Summer Olympics">Ireland</a></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Total</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>18</th>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Medalists">Medalists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=12" title="Edit section: Medalists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" border="1" style="font-size:100%">
+<tr align="center">
+<th scope="col" style="width:120px; background: #efefef;">Event</th>
+<th scope="col" colspan="1" style="width:225px; background: gold;">Gold</th>
+<th scope="col" colspan="1" style="width:225px; background: silver;">Silver</th>
+<th scope="col" colspan="1" style="width:225px; background: #cc9966;">Bronze</th>
+</tr>
+<tr>
+<td>Individual dressage<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_dressage" title="Equestrian at the 2012 Summer Olympics – Individual dressage">details</a></span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;<a href="/wiki/Charlotte_Dujardin" title="Charlotte Dujardin">Charlotte Dujardin</a> on <a href="/wiki/Valegro" title="Valegro">Valegro</a><br />
+<a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" />&#160;<a href="/wiki/Adelinde_Cornelissen" title="Adelinde Cornelissen">Adelinde Cornelissen</a> on Parzival<br />
+<a href="/wiki/Netherlands_at_the_2012_Summer_Olympics" title="Netherlands at the 2012 Summer Olympics">Netherlands</a>&#160;<span style="font-size:90%;">(NED)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;<a href="/wiki/Laura_Bechtolsheimer" title="Laura Bechtolsheimer">Laura Bechtolsheimer</a> on Mistral Hojris<br />
+<a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span></td>
+</tr>
+<tr>
+<td>Team dressage<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_dressage" title="Equestrian at the 2012 Summer Olympics – Team dressage">details</a></span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;<a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span><br />
+<a href="/wiki/Carl_Hester" title="Carl Hester">Carl Hester</a> on <a href="/wiki/Uthopia" title="Uthopia">Uthopia</a><br />
+<a href="/wiki/Laura_Bechtolsheimer" title="Laura Bechtolsheimer">Laura Bechtolsheimer</a> on Mistral Hojris<br />
+<a href="/wiki/Charlotte_Dujardin" title="Charlotte Dujardin">Charlotte Dujardin</a> on <a href="/wiki/Valegro" title="Valegro">Valegro</a></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" />&#160;<a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a>&#160;<span style="font-size:90%;">(GER)</span><br />
+<a href="/wiki/Dorothee_Schneider" title="Dorothee Schneider">Dorothee Schneider</a> on Diva Royal<br />
+<a href="/wiki/Kristina_Sprehe" title="Kristina Sprehe">Kristina Sprehe</a> on Desperados<br />
+<a href="/wiki/Helen_Langehanenberg" title="Helen Langehanenberg">Helen Langehanenberg</a> on Damon Hill</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" />&#160;<a href="/wiki/Netherlands_at_the_2012_Summer_Olympics" title="Netherlands at the 2012 Summer Olympics">Netherlands</a>&#160;<span style="font-size:90%;">(NED)</span><br />
+<a href="/wiki/Anky_van_Grunsven" title="Anky van Grunsven">Anky van Grunsven</a> on <a href="/wiki/Salinero" title="Salinero">Salinero</a><br />
+<a href="/wiki/Edward_Gal" title="Edward Gal">Edward Gal</a> on Undercover<br />
+<a href="/wiki/Adelinde_Cornelissen" title="Adelinde Cornelissen">Adelinde Cornelissen</a> on Parzival</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td colspan="7"></td>
+</tr>
+<tr>
+<td>Individual eventing<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_eventing" title="Equestrian at the 2012 Summer Olympics – Individual eventing">details</a></span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" />&#160;<a href="/wiki/Michael_Jung_(equestrian)" title="Michael Jung (equestrian)">Michael Jung</a> on Sam<br />
+<a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a>&#160;<span style="font-size:90%;">(GER)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x" />&#160;<a href="/wiki/Sara_Algotsson_Ostholt" title="Sara Algotsson Ostholt">Sara Algotsson Ostholt</a> on Wega<br />
+<a href="/wiki/Sweden_at_the_2012_Summer_Olympics" title="Sweden at the 2012 Summer Olympics">Sweden</a>&#160;<span style="font-size:90%;">(SWE)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" />&#160;<a href="/wiki/Sandra_Auffarth" title="Sandra Auffarth">Sandra Auffarth</a> on Opgun Louvo<br />
+<a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a>&#160;<span style="font-size:90%;">(GER)</span></td>
+</tr>
+<tr>
+<td>Team eventing<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_eventing" title="Equestrian at the 2012 Summer Olympics – Team eventing">details</a></span></td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" />&#160;<a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a>&#160;<span style="font-size:90%;">(GER)</span><br />
+<a href="/wiki/Peter_Thomsen" title="Peter Thomsen">Peter Thomsen</a> on Barny<br />
+<a href="/wiki/Dirk_Schrade" title="Dirk Schrade">Dirk Schrade</a> on King Artus<br />
+<a href="/wiki/Ingrid_Klimke" title="Ingrid Klimke">Ingrid Klimke</a> on Butts Abraxxas<br />
+<a href="/wiki/Sandra_Auffarth" title="Sandra Auffarth">Sandra Auffarth</a> on Opgun Louvo<br />
+<a href="/wiki/Michael_Jung_(equestrian)" title="Michael Jung (equestrian)">Michael Jung</a> on Sam</td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;<a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span><br />
+<a href="/wiki/Nicola_Wilson" title="Nicola Wilson">Nicola Wilson</a> on Opposition Buzz<br />
+<a href="/wiki/Mary_King_(equestrian)" title="Mary King (equestrian)">Mary King</a> on Imperial Cavalier<br />
+<a href="/wiki/Zara_Phillips" title="Zara Phillips">Zara Phillips</a> on High Kingdom<br />
+<a href="/wiki/Kristina_Cook" title="Kristina Cook">Kristina Cook</a> on Miners Frolic<br />
+<a href="/wiki/William_Fox-Pitt" title="William Fox-Pitt">William Fox-Pitt</a> on Lionheart</td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/22px-Flag_of_New_Zealand.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/33px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/44px-Flag_of_New_Zealand.svg.png 2x" />&#160;<a href="/wiki/New_Zealand_at_the_2012_Summer_Olympics" title="New Zealand at the 2012 Summer Olympics">New Zealand</a>&#160;<span style="font-size:90%;">(NZL)</span><br />
+<a href="/wiki/Jonelle_Richards" title="Jonelle Richards">Jonelle Richards</a> on Flintstar<br />
+<a href="/wiki/Jonathan_Paget" title="Jonathan Paget">Jonathan Paget</a> on Clifton Promise<br />
+<a href="/wiki/Caroline_Powell" title="Caroline Powell">Caroline Powell</a> on Lenamore<br />
+<a href="/wiki/Andrew_Nicholson_(equestrian)" title="Andrew Nicholson (equestrian)">Andrew Nicholson</a> on Nereo<br />
+<a href="/wiki/Mark_Todd_(equestrian)" title="Mark Todd (equestrian)">Mark Todd</a> on Campino</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td colspan="7"></td>
+</tr>
+<tr>
+<td>Individual jumping<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Individual_jumping" title="Equestrian at the 2012 Summer Olympics – Individual jumping">details</a></span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" />&#160;<a href="/wiki/Steve_Guerdat" title="Steve Guerdat">Steve Guerdat</a> on Nino Des Buissonets<br />
+<a href="/wiki/Switzerland_at_the_2012_Summer_Olympics" title="Switzerland at the 2012 Summer Olympics">Switzerland</a>&#160;<span style="font-size:90%;">(SUI)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" />&#160;<a href="/wiki/Gerco_Schroder" title="Gerco Schroder" class="mw-redirect">Gerco Schroder</a> on London<br />
+<a href="/wiki/Netherlands_at_the_2012_Summer_Olympics" title="Netherlands at the 2012 Summer Olympics">Netherlands</a>&#160;<span style="font-size:90%;">(NED)</span></td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" />&#160;<a href="/wiki/Cian_O%27Connor" title="Cian O'Connor">Cian O'Connor</a> on Blue Loyd 12<br />
+<a href="/wiki/Ireland_at_the_2012_Summer_Olympics" title="Ireland at the 2012 Summer Olympics">Ireland</a>&#160;<span style="font-size:90%;">(IRL)</span></td>
+</tr>
+<tr>
+<td>Team jumping<br />
+<span class="noprint" style="font-size:90%; font-style:italic;"><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics_%E2%80%93_Team_jumping" title="Equestrian at the 2012 Summer Olympics – Team jumping">details</a></span></td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;<a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span><br />
+<a href="/wiki/Scott_Brash" title="Scott Brash">Scott Brash</a> on Hello Sanctos<br />
+<a href="/wiki/Peter_Charles" title="Peter Charles">Peter Charles</a> on Vindicat<br />
+<a href="/wiki/Ben_Maher" title="Ben Maher">Ben Maher</a> on Tripple X<br />
+<a href="/wiki/Nick_Skelton" title="Nick Skelton">Nick Skelton</a> on Big Star</td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" />&#160;<a href="/wiki/Netherlands_at_the_2012_Summer_Olympics" title="Netherlands at the 2012 Summer Olympics">Netherlands</a>&#160;<span style="font-size:90%;">(NED)</span><br />
+<a href="/wiki/Marc_Houtzager" title="Marc Houtzager">Marc Houtzager</a> on Tamino<br />
+<a href="/wiki/Gerco_Schroder" title="Gerco Schroder" class="mw-redirect">Gerco Schroder</a> on London<br />
+<a href="/wiki/Maikel_van_der_Vleuten" title="Maikel van der Vleuten">Maikel van der Vleuten</a> on Verdi<br />
+<a href="/wiki/Jur_Vrieling" title="Jur Vrieling">Jur Vrieling</a> on Bubalu</td>
+<td valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/33px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/44px-Flag_of_Saudi_Arabia.svg.png 2x" />&#160;<a href="/wiki/Saudi_Arabia_at_the_2012_Summer_Olympics" title="Saudi Arabia at the 2012 Summer Olympics">Saudi Arabia</a>&#160;<span style="font-size:90%;">(KSA)</span><br />
+<a href="/wiki/Ramzy_Al_Duhami" title="Ramzy Al Duhami" class="mw-redirect">Ramzy Al Duhami</a> on Bayard Van the Villa There<br />
+<a href="/wiki/Abdullah_bin_Mutaib" title="Abdullah bin Mutaib">HRH Prince Abdullah Al Saud</a> on Davos<br />
+<a href="/wiki/Kamal_Bahamdan" title="Kamal Bahamdan">Kamal Bahamdan</a> on Noblesse Des Tess<br />
+<a href="/wiki/Abdullah_Waleed_Sharbatly" title="Abdullah Waleed Sharbatly" class="mw-redirect">Abdullah Waleed Sharbatly</a> on Sultan</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=13" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gallery of some of the gold medalists in the equestrian events:</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Charlotte_Dujardin_2012_Olympic_Dressage-1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Charlotte_Dujardin_2012_Olympic_Dressage-1.JPG/117px-Charlotte_Dujardin_2012_Olympic_Dressage-1.JPG" width="117" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Great_Britain_at_the_2012_Summer_Olympics" title="Great Britain at the 2012 Summer Olympics">Great Britain</a>'s <a href="/wiki/Charlotte_Dujardin" title="Charlotte Dujardin">Charlotte Dujardin</a> on <a href="/wiki/Valegro" title="Valegro">Valegro</a>, winners of the individual dressage and part of the team dressage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Peter_Thomsen_Barny_cross_country_London_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Peter_Thomsen_Barny_cross_country_London_2012.jpg/80px-Peter_Thomsen_Barny_cross_country_London_2012.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Peter_Thomsen" title="Peter Thomsen">Peter Thomsen</a> rides Barny for <a href="/wiki/Germany_at_the_2012_Summer_Olympics" title="Germany at the 2012 Summer Olympics">Germany</a> in the team eventing</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Dirk_Schrade_King_Artus_cross_country_London_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dirk_Schrade_King_Artus_cross_country_London_2012.jpg/80px-Dirk_Schrade_King_Artus_cross_country_London_2012.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Dirk_Schrade" title="Dirk Schrade">Dirk Schrade</a> riding King Artus in the team eventing</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Ingrid_Klimke_Butts_Abraxxas_cross_country_London_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ingrid_Klimke_Butts_Abraxxas_cross_country_London_2012.jpg/80px-Ingrid_Klimke_Butts_Abraxxas_cross_country_London_2012.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Ingrid_Klimke" title="Ingrid Klimke">Ingrid Klimke</a> on Butts Abraxxas in the team eventing</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Nick_Skelton_on_Arko.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nick_Skelton_on_Arko.jpg/71px-Nick_Skelton_on_Arko.jpg" width="71" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Nick_Skelton" title="Nick Skelton">Nick Skelton</a>, pictured in 2006, was part of the British team that won the team jumping</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33.5px auto;"><a href="/wiki/File:Ben_maher_cannes_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ben_maher_cannes_2012.jpg/120px-Ben_maher_cannes_2012.jpg" width="120" height="83" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Ben_Maher" title="Ben Maher">Ben Maher</a> on Tripple X, pictured in June 2012, was part of the British team that won the team jumping</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-bbc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbc_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbc_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/other_sports/equestrian/9006515.stm">"London 2012 Olympics qualifying: Equestrian"</a>. BBC Sport. 4 January 2011<span class="reference-accessdate">. Retrieved 1 February 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEquestrian+at+the+2012+Summer+Olympics&amp;rft.btitle=London+2012+Olympics+qualifying%3A+Equestrian&amp;rft.date=4+January+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Fother_sports%2Fequestrian%2F9006515.stm&amp;rft.pub=BBC+Sport&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Equestrian_sports_at_the_2012_Summer_Olympics" class="extiw" title="commons:Category:Equestrian sports at the 2012 Summer Olympics">Equestrian sports at the 2012 Summer Olympics</a></b></i>.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.london2012.com/mm/Document/Publications/General/01/25/60/92/10022EquestrianPBOlyLORES_Neutral.pdf">Equestrian Spectator Guide</a></li>
+</ul>
+<p><br style="clear:both;" /></p>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#BFD7FF;;">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:EventsAt2012SummerOlympics" title="Template:EventsAt2012SummerOlympics"><span title="View this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:EventsAt2012SummerOlympics" title="Template talk:EventsAt2012SummerOlympics"><span title="Discuss this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:EventsAt2012SummerOlympics&amp;action=edit"><span title="Edit this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Category:2012_Summer_Olympics_events" title="Category:2012 Summer Olympics events">Events</a> at the <a href="/wiki/2012_Summer_Olympics" title="2012 Summer Olympics">2012 Summer Olympics</a> (<a href="/wiki/London" title="London">London</a>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Archery_at_the_2012_Summer_Olympics" title="Archery at the 2012 Summer Olympics">Archery</a></li>
+<li><a href="/wiki/Athletics_at_the_2012_Summer_Olympics" title="Athletics at the 2012 Summer Olympics">Athletics</a></li>
+<li><a href="/wiki/Badminton_at_the_2012_Summer_Olympics" title="Badminton at the 2012 Summer Olympics">Badminton</a></li>
+<li><a href="/wiki/Basketball_at_the_2012_Summer_Olympics" title="Basketball at the 2012 Summer Olympics">Basketball</a></li>
+<li><a href="/wiki/Boxing_at_the_2012_Summer_Olympics" title="Boxing at the 2012 Summer Olympics">Boxing</a></li>
+<li><a href="/wiki/Canoeing_at_the_2012_Summer_Olympics" title="Canoeing at the 2012 Summer Olympics">Canoeing</a></li>
+<li><a href="/wiki/Cycling_at_the_2012_Summer_Olympics" title="Cycling at the 2012 Summer Olympics">Cycling</a></li>
+<li><a href="/wiki/Diving_at_the_2012_Summer_Olympics" title="Diving at the 2012 Summer Olympics">Diving</a></li>
+<li><strong class="selflink">Equestrian</strong></li>
+<li><a href="/wiki/Fencing_at_the_2012_Summer_Olympics" title="Fencing at the 2012 Summer Olympics">Fencing</a></li>
+<li><a href="/wiki/Field_hockey_at_the_2012_Summer_Olympics" title="Field hockey at the 2012 Summer Olympics">Field hockey</a></li>
+<li><a href="/wiki/Football_at_the_2012_Summer_Olympics" title="Football at the 2012 Summer Olympics">Football</a></li>
+<li><a href="/wiki/Gymnastics_at_the_2012_Summer_Olympics" title="Gymnastics at the 2012 Summer Olympics">Gymnastics</a></li>
+<li><a href="/wiki/Handball_at_the_2012_Summer_Olympics" title="Handball at the 2012 Summer Olympics">Handball</a></li>
+<li><a href="/wiki/Judo_at_the_2012_Summer_Olympics" title="Judo at the 2012 Summer Olympics">Judo</a></li>
+<li><a href="/wiki/Modern_pentathlon_at_the_2012_Summer_Olympics" title="Modern pentathlon at the 2012 Summer Olympics">Modern pentathlon</a></li>
+<li><a href="/wiki/Rowing_at_the_2012_Summer_Olympics" title="Rowing at the 2012 Summer Olympics">Rowing</a></li>
+<li><a href="/wiki/Sailing_at_the_2012_Summer_Olympics" title="Sailing at the 2012 Summer Olympics">Sailing</a></li>
+<li><a href="/wiki/Shooting_at_the_2012_Summer_Olympics" title="Shooting at the 2012 Summer Olympics">Shooting</a></li>
+<li><a href="/wiki/Swimming_at_the_2012_Summer_Olympics" title="Swimming at the 2012 Summer Olympics">Swimming</a></li>
+<li><a href="/wiki/Synchronized_swimming_at_the_2012_Summer_Olympics" title="Synchronized swimming at the 2012 Summer Olympics">Synchronized swimming</a></li>
+<li><a href="/wiki/Table_tennis_at_the_2012_Summer_Olympics" title="Table tennis at the 2012 Summer Olympics">Table tennis</a></li>
+<li><a href="/wiki/Taekwondo_at_the_2012_Summer_Olympics" title="Taekwondo at the 2012 Summer Olympics">Taekwondo</a></li>
+<li><a href="/wiki/Tennis_at_the_2012_Summer_Olympics" title="Tennis at the 2012 Summer Olympics">Tennis</a></li>
+<li><a href="/wiki/Triathlon_at_the_2012_Summer_Olympics" title="Triathlon at the 2012 Summer Olympics">Triathlon</a></li>
+<li><a href="/wiki/Volleyball_at_the_2012_Summer_Olympics" title="Volleyball at the 2012 Summer Olympics">Volleyball</a></li>
+<li><a href="/wiki/Water_polo_at_the_2012_Summer_Olympics" title="Water polo at the 2012 Summer Olympics">Water polo</a></li>
+<li><a href="/wiki/Weightlifting_at_the_2012_Summer_Olympics" title="Weightlifting at the 2012 Summer Olympics">Weightlifting</a></li>
+<li><a href="/wiki/Wrestling_at_the_2012_Summer_Olympics" title="Wrestling at the 2012 Summer Olympics">Wrestling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background:#BFD7FF;;">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Olympic_Games_Equestrian" title="Template:Olympic Games Equestrian"><span title="View this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Olympic_Games_Equestrian" title="Template talk:Olympic Games Equestrian"><span title="Discuss this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Olympic_Games_Equestrian&amp;action=edit"><span title="Edit this template" style=";background:#BFD7FF;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Equestrian_at_the_Summer_Olympics" title="Equestrian at the Summer Olympics">Equestrian at the Summer Olympics</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 2px 0px 0px;">
+<div><a href="/wiki/File:Equestrian_pictogram.svg" class="image"><img alt="Equestrian pictogram.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/50px-Equestrian_pictogram.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/75px-Equestrian_pictogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/100px-Equestrian_pictogram.svg.png 2x" /></a></div>
+</td>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><span style="color:#aaa">1896</span></li>
+<li><a href="/wiki/Equestrian_at_the_1900_Summer_Olympics" title="Equestrian at the 1900 Summer Olympics">1900</a></li>
+<li><span style="color:#aaa">1904</span></li>
+<li><span style="color:#aaa">1908</span></li>
+<li><a href="/wiki/Equestrian_at_the_1912_Summer_Olympics" title="Equestrian at the 1912 Summer Olympics">1912</a></li>
+<li><a href="/wiki/Equestrian_at_the_1920_Summer_Olympics" title="Equestrian at the 1920 Summer Olympics">1920</a></li>
+<li><a href="/wiki/Equestrian_at_the_1924_Summer_Olympics" title="Equestrian at the 1924 Summer Olympics">1924</a></li>
+<li><a href="/wiki/Equestrian_at_the_1928_Summer_Olympics" title="Equestrian at the 1928 Summer Olympics">1928</a></li>
+<li><a href="/wiki/Equestrian_at_the_1932_Summer_Olympics" title="Equestrian at the 1932 Summer Olympics">1932</a></li>
+<li><a href="/wiki/Equestrian_at_the_1936_Summer_Olympics" title="Equestrian at the 1936 Summer Olympics">1936</a></li>
+<li><a href="/wiki/Equestrian_at_the_1948_Summer_Olympics" title="Equestrian at the 1948 Summer Olympics">1948</a></li>
+<li><a href="/wiki/Equestrian_at_the_1952_Summer_Olympics" title="Equestrian at the 1952 Summer Olympics">1952</a></li>
+<li><a href="/wiki/Equestrian_at_the_1956_Summer_Olympics" title="Equestrian at the 1956 Summer Olympics">1956</a></li>
+<li><a href="/wiki/Equestrian_at_the_1960_Summer_Olympics" title="Equestrian at the 1960 Summer Olympics">1960</a></li>
+<li><a href="/wiki/Equestrian_at_the_1964_Summer_Olympics" title="Equestrian at the 1964 Summer Olympics">1964</a></li>
+<li><a href="/wiki/Equestrian_at_the_1968_Summer_Olympics" title="Equestrian at the 1968 Summer Olympics">1968</a></li>
+<li><a href="/wiki/Equestrian_at_the_1972_Summer_Olympics" title="Equestrian at the 1972 Summer Olympics">1972</a></li>
+<li><a href="/wiki/Equestrian_at_the_1976_Summer_Olympics" title="Equestrian at the 1976 Summer Olympics">1976</a></li>
+<li><a href="/wiki/Equestrian_at_the_1980_Summer_Olympics" title="Equestrian at the 1980 Summer Olympics">1980</a></li>
+<li><a href="/wiki/Equestrian_at_the_1984_Summer_Olympics" title="Equestrian at the 1984 Summer Olympics">1984</a></li>
+<li><a href="/wiki/Equestrian_at_the_1988_Summer_Olympics" title="Equestrian at the 1988 Summer Olympics">1988</a></li>
+<li><a href="/wiki/Equestrian_at_the_1992_Summer_Olympics" title="Equestrian at the 1992 Summer Olympics">1992</a></li>
+<li><a href="/wiki/Equestrian_at_the_1996_Summer_Olympics" title="Equestrian at the 1996 Summer Olympics">1996</a></li>
+<li><a href="/wiki/Equestrian_at_the_2000_Summer_Olympics" title="Equestrian at the 2000 Summer Olympics">2000</a></li>
+<li><a href="/wiki/Equestrian_at_the_2004_Summer_Olympics" title="Equestrian at the 2004 Summer Olympics">2004</a></li>
+<li><a href="/wiki/Equestrian_at_the_2008_Summer_Olympics" title="Equestrian at the 2008 Summer Olympics">2008</a></li>
+<li><strong class="selflink">2012</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3" style="background:#BFD7FF;;">
+<div>
+<ul>
+<li><a href="/wiki/List_of_Olympic_medalists_in_equestrian" title="List of Olympic medalists in equestrian">List of medalists</a></li>
+<li><a href="/wiki/List_of_Olympic_venues_in_equestrian" title="List of Olympic venues in equestrian">List of venues</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.956 seconds
+Real time usage: 1.142 seconds
+Preprocessor visited node count: 1537/1000000
+Preprocessor generated node count: 6720/1500000
+Post‐expand include size: 32779/2048000 bytes
+Template argument size: 3755/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 5/500
+Lua time usage: 0.032s
+Lua memory usage: 1.1 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29221707-0!*!0!!en!4!* and timestamp 20131022085550
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;oldid=546861633">http://en.wikipedia.org/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;oldid=546861633</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Equestrian_at_the_2012_Summer_Olympics" title="Category:Equestrian at the 2012 Summer Olympics">Equestrian at the 2012 Summer Olympics</a></li><li><a href="/wiki/Category:Equestrian_at_the_Summer_Olympics" title="Category:Equestrian at the Summer Olympics">Equestrian at the Summer Olympics</a></li><li><a href="/wiki/Category:2012_Summer_Olympics_events" title="Category:2012 Summer Olympics events">2012 Summer Olympics events</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_August_2012" title="Category:Use dmy dates from August 2012">Use dmy dates from August 2012</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Equestrian+at+the+2012+Summer+Olympics&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Equestrian+at+the+2012+Summer+Olympics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Equestrian_at_the_2012_Summer_Olympics"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Equestrian_at_the_2012_Summer_Olympics" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Equestrian_at_the_2012_Summer_Olympics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Equestrian_at_the_2012_Summer_Olympics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;oldid=546861633" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q326153" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Equestrian_at_the_2012_Summer_Olympics&amp;id=546861633" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Equestrian+at+the+2012+Summer+Olympics">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Equestrian+at+the+2012+Summer+Olympics&amp;oldid=546861633&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Equestrian_at_the_2012_Summer_Olympics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%BD%D1%96%D1%85_%D0%90%D0%BB%D1%96%D0%BC%D0%BF%D1%96%D0%B9%D1%81%D0%BA%D1%96%D1%85_%D0%B3%D1%83%D0%BB%D1%8C%D0%BD%D1%8F%D1%85_2012_%D0%B3%D0%BE%D0%B4%D1%83" title="Конны спорт на летн?х Ал?мп?йск?х гульнях 2012 году – беларуская (тарашкев?ца)?" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкев?ца)?</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/H%C3%ADpica_als_Jocs_Ol%C3%ADmpics_d%27estiu_de_2012" title="Hípica als Jocs Olímpics d&amp;#039;estiu de 2012 – Catalan" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Hestesport_under_Sommer-OL_2012" title="Hestesport under Sommer-OL 2012 – Danish" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Olympische_Sommerspiele_2012/Reiten" title="Olympische Sommerspiele 2012/Reiten – German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Ratsutamine_2012._aasta_suveol%C3%BCmpiam%C3%A4ngudel" title="Ratsutamine 2012. aasta suveolümpiam?ngudel – Estonian" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Anexo:Equitaci%C3%B3n_en_los_Juegos_Ol%C3%ADmpicos_de_Londres_2012" title="Anexo:Equitación en los Juegos Olímpicos de Londres 2012 – Spanish" lang="es" hreflang="es">Espa?ol</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%A8%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%A8%D8%A7%D8%B2%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9_%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C_%DB%B2%DB%B0%DB%B1%DB%B2" title="????????? ?? ???????? ?????? ???????? ???? – Persian" lang="fa" hreflang="fa">?????</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/%C3%89quitation_aux_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2012" title="équitation aux Jeux olympiques d&amp;#039;été de 2012 – French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Hynstesport_op_de_Olympyske_Simmerspullen_2012" title="Hynstesport op de Olympyske Simmerspullen 2012 – Western Frisian" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Konji%C4%8Dki_%C5%A1port_na_OI_2012." title="Konji?ki ?port na OI 2012. – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Equitazione_ai_Giochi_della_XXX_Olimpiade" title="Equitazione ai Giochi della XXX Olimpiade – Italian" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/J%C4%81%C5%A1ana_2012._gada_Vasaras_Olimpiskaj%C4%81s_sp%C4%93l%C4%93s" title="Jā?ana 2012. gada Vasaras Olimpiskajās spēlēs – Latvian" lang="lv" hreflang="lv">Latvie?u</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Jojimas_2012_m._vasaros_olimpin%C4%97se_%C5%BEaidyn%C4%97se" title="Jojimas 2012 m. vasaros olimpin?se ?aidyn?se – Lithuanian" lang="lt" hreflang="lt">Lietuvi?</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Lovagl%C3%A1s_a_2012._%C3%A9vi_ny%C3%A1ri_olimpiai_j%C3%A1t%C3%A9kokon" title="Lovaglás a 2012. évi nyári olimpiai játékokon – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Paardensport_op_de_Olympische_Zomerspelen_2012" title="Paardensport op de Olympische Zomerspelen 2012 – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF_(2012%E5%B9%B4)_%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%A6%AC%E8%A1%93%E7%AB%B6%E6%8A%80" title="ロンドンオリンピック (2012年) における馬術競技 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Hestesport_under_Sommer-OL_2012" title="Hestesport under Sommer-OL 2012 – Norwegian (bokm?l)" lang="no" hreflang="no">Norsk bokm?l</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Je%C5%BAdziectwo_na_Letnich_Igrzyskach_Olimpijskich_2012" title="Je?dziectwo na Letnich Igrzyskach Olimpijskich 2012 – Polish" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Hipismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2012" title="Hipismo nos Jogos Olímpicos de Ver?o de 2012 – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Echita%C8%9Bie_la_Jocurile_Olimpice_de_var%C4%83_din_2012" title="Echita?ie la Jocurile Olimpice de var? din 2012 – Romanian" lang="ro" hreflang="ro">Roman?</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%85_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85_2012" title="Конный спорт на летних Олимпийских играх 2012 – Russian" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Konjeni%C5%A1tvo_na_Poletnih_olimpijskih_igrah_2012" title="Konjeni?tvo na Poletnih olimpijskih igrah 2012 – Slovenian" lang="sl" hreflang="sl">Sloven??ina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%9A%D0%B8%D1%87%D0%BA%D0%B8_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%BD%D0%B0_%D0%9B%D0%B5%D1%82%D1%9A%D0%B8%D0%BC_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D1%98%D1%81%D0%BA%D0%B8%D0%BC_%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B0_2012." title="Ко?ички спорт на Лет?им олимпи?ским играма 2012. – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ratsastus_kes%C3%A4olympialaisissa_2012" title="Ratsastus kes?olympialaisissa 2012 – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ridsport_vid_olympiska_sommarspelen_2012" title="Ridsport vid olympiska sommarspelen 2012 – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99_2012" title="??????????????????????????? 2012 – Thai" lang="th" hreflang="th">???</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BD%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%BD%D0%B0_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D1%85_%D0%9E%D0%BB%D1%96%D0%BC%D0%BF%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%96%D0%B3%D1%80%D0%B0%D1%85_2012" title="К?нний спорт на л?тн?х Ол?мп?йських ?грах 2012 – Ukrainian" lang="uk" hreflang="uk">Укра?нська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/2012%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E9%A6%AC%E8%A1%93%E6%AF%94%E8%B3%BD" title="2012年夏季奧林匹克運動會馬術比賽 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q326153#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 March 2013 at 05:42.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Equestrian_at_the_2012_Summer_Olympics" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1064 in 0.354 secs. -->
+	</body>
+</html>

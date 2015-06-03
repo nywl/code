@@ -1,0 +1,563 @@
+{
+ "id": "/m/09lvf2",
+ "property": {
+  "/architecture/structure/architect": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "William Venn Gough",
+     "lang": "en",
+     "id": "/m/02r63f3",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-10T05:34:43.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/architecture/structure/architectural_style": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Gothic Revival architecture",
+     "lang": "en",
+     "id": "/m/01t8vq",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-11-12T23:07:47.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/architecture/structure/height_meters": {
+   "valuetype": "float",
+   "values": [
+    {
+     "text": "32.0",
+     "lang": "en",
+     "value": 32.0,
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-05-18T14:38:22.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/architecture/structure/opened": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1898-07",
+     "lang": "",
+     "value": "1898-07",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-05-03T02:53:37.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Cabot Tower is a tower in Bristol, England, situated in a public park on Brandon Hill, between...",
+     "lang": "en",
+     "id": "/m/09lvf8",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T18:14:40.002Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/3564179",
+         "lang": "",
+         "value": "http://wp/en/3564179",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T18:14:40.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Cabot Tower is a tower in Bristol, England, situated in a public park on Brandon Hill, between...",
+         "lang": "en",
+         "value": "Cabot Tower is a tower in Bristol, England, situated in a public park on Brandon Hill, between the city centre, Clifton and Hotwells. It was constructed in memory of John Cabot, 400 years after he set sail in the Matthew from Bristol and landed in what was later to become Canada. The foundation stone was laid on 24 June 1897 and the tower was completed in July 1898. The architect was William Venn Gough and it was built by Love and Waite of Bristol. It consists of a spiral staircase and two viewing platforms which overlook the city, the higher of which is approximately 334 feet (102 m) above sea level. The tower gives its name to the area and Council ward of Cabot.\nIt has been designated by English Heritage as a grade II listed building. The tower is 105 feet (32 m) high and built from red sandstone with cream Bath Stone for ornamentation and emphasis, and was paid for by public subscription.\nOn three sides of the tower are commemorative plaques. They read as follows:\n\"The foundation stone of this tower was laid by the Marquess of Dufferin & Ava on the 24th June, 1897, And the completed tower was opened by the same nobleman on the 6th September, 1898. W.Howell Davies, Chairman of",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T18:14:40.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T18:14:40.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-23T18:14:40.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Cabot Tower is a tower in Bristol, England, situated in a public park on Brandon Hill, between...",
+     "lang": "en",
+     "value": "Cabot Tower is a tower in Bristol, England, situated in a public park on Brandon Hill, between the city centre, Clifton and Hotwells. It was constructed in memory of John Cabot, 400 years after he set sail in Matthew from Bristol and landed in what was later to become Canada. The foundation stone was laid on 24 June 1897 and the tower was completed in July 1898. The architect was William Venn Gough and it was built by Love and Waite of Bristol. It consists of a spiral staircase and two viewing platforms which overlook the city, the higher of which is approximately 334 feet above sea level. The tower gives its name to the area and Council ward of Cabot.\nIt has been designated by English Heritage as a grade II listed building. The tower is 105 feet high and built from red sandstone with cream Bath Stone for ornamentation and emphasis, and was paid for by public subscription.\nOn three sides of the tower are commemorative plaques. They read as follows:\n\"The foundation stone of this tower was laid by the Marquess of Dufferin & Ava on the 24th June, 1897, And the completed tower was opened by the same nobleman on the 6th September, 1898. W.Howell Davies, Chairman of the executive committee E.G.Clarke, J.W.Arrowsmith Hon. Secretaries\"\n\n\"This tablet is placed here by the Bristol branch of the Peace Society in the earnest hope that peace and friendship may ever continue between the kindred peoples of this country and America\n\n'Glory to God in the highest and on Earth, peace, good will towards men' Luke 2.14\"\n\n\"This tower was erected by public subscription in the 61st year of the reign of Queen Victoria to commemorate the fourth centenary of the discovery of the continent of North America, on the 24th of June 1497, by John Cabot.\n\nWho sailed from this port in the Bristol ship Matthew, with a Bristol crew, under letters patent granted by King Henry VII to that navigator and his sons Lewis, Sebastian and Sanctus\"",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Cabot_Tower,_Bristol"
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Cabot Tower (600px)",
+     "lang": "en",
+     "id": "/m/02dgrk2",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2007-04-16T21:58:00.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Gothic Revival architecture",
+     "lang": "en",
+     "id": ""
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Building",
+     "lang": "en",
+     "id": "/architecture/building"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=3564179",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=3564179",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T18:14:40.002Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=869503",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=869503",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T00:35:31.000Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Cabot_Tower,_Bristol",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Cabot_Tower,_Bristol",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T22:41:36.001Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/Tour_Cabot_(Bristol)",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/Tour_Cabot_(Bristol)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-24T23:58:23.001Z"
+    }
+   ],
+   "count": 4.0
+  },
+  "/location/location/containedby": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Bristol",
+     "lang": "en",
+     "id": "/m/095l0",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-08T16:20:25.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/geolocation": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "51.454 - -2.6068 - maxim75 - Geocode",
+     "lang": "en",
+     "id": "/m/0d5k46j",
+     "creator": "/user/maxim75",
+     "timestamp": "2010-09-25T01:41:12.000Z",
+     "property": {
+      "/location/geocode/latitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "51.454",
+         "lang": "en",
+         "value": 51.454,
+         "creator": "/user/maxim75",
+         "timestamp": "2010-09-25T01:41:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/longitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "-2.6068",
+         "lang": "en",
+         "value": -2.6068,
+         "creator": "/user/maxim75",
+         "timestamp": "2010-09-25T01:41:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "maxim75",
+         "lang": "en",
+         "id": "/m/0b7myw_",
+         "creator": "/user/maxim75",
+         "timestamp": "2010-09-25T01:41:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Geocode",
+         "lang": "en",
+         "id": "/location/geocode",
+         "creator": "/user/maxim75",
+         "timestamp": "2010-09-25T01:41:12.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/street_address": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Bristol - Freebase Data Team - Address",
+     "lang": "en",
+     "id": "/m/04hc5yg",
+     "creator": "/user/schema_bot",
+     "timestamp": "2013-06-13T21:49:45.000Z",
+     "property": {
+      "/location/mailing_address/citytown": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Bristol",
+         "lang": "en",
+         "id": "/m/095l0",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-19T15:29:35.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/02xhmvv",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-19T15:29:35.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Address",
+         "lang": "en",
+         "id": "/location/mailing_address",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-19T15:29:35.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/symbols/namesake/named_after": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "John Cabot",
+     "lang": "en",
+     "id": "/m/040t9",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-24T03:10:52.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/travel/tourist_attraction/near_travel_destination": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Bristol",
+     "lang": "en",
+     "id": "/m/095l0",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-02-16T03:52:20.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T18:14:40.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/3564179",
+     "lang": "",
+     "value": "/wikipedia/en_id/3564179",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-23T18:14:40.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Cabot_Tower_$0028Bristol$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Cabot_Tower_$0028Bristol$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-23T18:14:40.003Z"
+    },
+    {
+     "text": "/en/cabot_tower",
+     "lang": "",
+     "value": "/en/cabot_tower",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-12T00:56:59.001Z"
+    },
+    {
+     "text": "/wikipedia/fr/Tour_Cabot_$0028Bristol$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Tour_Cabot_$0028Bristol$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T08:48:58.001Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/869503",
+     "lang": "",
+     "value": "/wikipedia/fr_id/869503",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T00:35:31.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Cabot_Tower$002C_Bristol",
+     "lang": "",
+     "value": "/wikipedia/en/Cabot_Tower$002C_Bristol",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-03-06T02:15:57.001Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Cabot_Tower$002C_Bristol",
+     "lang": "",
+     "value": "/wikipedia/en_title/Cabot_Tower$002C_Bristol",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T22:41:36.001Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Tour_Cabot_$0028Bristol$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Tour_Cabot_$0028Bristol$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-24T23:58:23.001Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/09lvf2",
+     "lang": "",
+     "value": "/m/09lvf2"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Cabot Tower, Bristol",
+     "lang": "en",
+     "value": "Cabot Tower, Bristol",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-05T23:35:42.007Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Structure",
+     "lang": "en",
+     "id": "/architecture/structure",
+     "creator": "/user/mw_typer",
+     "timestamp": "2007-08-08T00:20:04.003Z"
+    },
+    {
+     "text": "Building",
+     "lang": "en",
+     "id": "/architecture/building",
+     "creator": "/user/mw_typer_bot",
+     "timestamp": "2008-02-25T19:13:30.001Z"
+    },
+    {
+     "text": "Project focus",
+     "lang": "en",
+     "id": "/projects/project_focus",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2009-03-03T22:14:32.000Z"
+    },
+    {
+     "text": "Location",
+     "lang": "en",
+     "id": "/location/location",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-04-08T16:19:40.002Z"
+    },
+    {
+     "text": "Tourist attraction",
+     "lang": "en",
+     "id": "/travel/tourist_attraction",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-02-16T03:52:20.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/metaweb"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f80000000009969a2",
+     "lang": "",
+     "value": "#9202a8c04000641f80000000009969a2"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-23T18:14:40.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-23T18:14:40.001Z",
+     "lang": "en",
+     "value": "2006-10-23T18:14:40.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

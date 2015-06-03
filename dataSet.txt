@@ -1,0 +1,150 @@
+Seemingly Conflicting Statements	missing term (or claim it is incorrect)
+[USA] won team title at the 2011 World Gymnastics Championships in Tokyo	women
+[Alabama] won team title at the 2011 World Gymnastics Championships in Tokyo	incorrect statement	
+[China] won team title at the 2011 World Gymnastics Championships in Tokyo	men
+Marie Curie won the Nobel Prize in [1903]	physics
+Marie Curie won the Nobel Prize in [1911]	chemistry
+Marie Curie won the Nobel Prize in [1930]	incorrect statement
+Marie Curie won the Nobel Prize in [1921]	incorrect statement
+Marie Curie won the Nobel Prize in [1867]	incorrect statement
+The film Harry Potter and the Deathly Hallows was released in [2011]	part 2
+The film Harry Potter and the Deathly Hallows was released in [2001]	incorrect statement
+The film Harry Potter and the Deathly Hallows was released in [2009]	incorrect statement
+The film Harry Potter and the Deathly Hallows was released in [2010]	part 1
+The film Harry Potter and the Deathly Hallows was released in [2002]	incorrect statement
+[Van Der Burgh] won gold medal in men's 100m swimming in 2012 London Olympic Games	breaststroke
+[Nathan Adrian] won gold medal in men's 100m swimming in 2012 London Olympic Games	freestyle
+[Matthew Grevers] won gold medal in men's 100m swimming in 2012 London Olympic Games	backstroke
+[James] won gold medal in men's 100m swimming in 2012 London Olympic Games	incorrect statement
+[Michael Phelps] won gold medal in men's 100m swimming in 2012 London Olympic Games	butterfly
+The director of G.I. Joe was [Stephen Sommers]	The Rise of Cobra
+the director of G.I. Joe was [Jon M. Chu]	Retaliation
+the director of G.I. Joe was [Christopher]	incorrect statement
+the director of G.I. Joe was [Johnson]	incorrect statement
+the director of G.I. Joe was [Lee]	incorrect statement
+Thomas L. Magnanti got his master's degree in [1972]	incorrect statement
+Thomas L. Magnanti got his master's degree in [2006]	incorrect statement
+Thomas L. Magnanti got his master's degree in [1938]	incorrect statement
+Thomas L. Magnanti got his master's degree in [2011]	incorrect statement
+Thomas L. Magnanti got his master's degree in [2005]	incorrect statement
+Thomas L. Magnanti got his master's degree in [1969]	statistics
+Thomas L. Magnanti got his master's degree in [1971]	mathematics
+[David Boudia] won the gold medal of men's diving in 2012 London Olympic Games	platform
+[Mo Farah] won the gold medal of men's diving in 2012 London Olympic Games	springboard
+[Ilya Zakharov] won the gold medal of men's diving in 2012 London Olympic Games	incorrect statement
+[Peter Waterfield] won the gold medal of men's diving in 2012 London Olympic Games	incorrect statement
+[Tom Daley] won the gold medal of men's diving in 2012 London Olympic Games	incorrect statement
+The Lord of the Rings was released in [2001]	The Fellowship of the Ring	
+The Lord of the Rings was released in [2000]	incorrect statement
+The Lord of the Rings was released in [2011]	incorrect statement
+The Lord of the Rings was released in [2002]	The Two Towers
+The Lord of the Rings was released in [2004]	incorrect statement
+The Lord of the Rings was released in [2003]	The Return of the King
+[Hannah Kearney] won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	Moguls
+[Simon  Ammann] won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	incorrect statement
+[Ashleigh McIvor] won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	Ski Cross
+[Jennifer Heil] won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	incorrect statement
+[Lydia Lassila] won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	Aerials
+In 1992, the Olympic Games was held in [Barcelona]	Summer
+In 1992, the Olympic Games was held in [Albertville]	Winter
+In 1992, the Olympic Games was held in [Greece]	incorrect statement
+In 1992, the Olympic Games was held in [London]	incorrect statement
+In 1992, the Olympic Games was held in [Sweden]	incorrect statement
+[Natalia Vorobieva] won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	72kg
+[Merleni] won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	incorrect statement
+[Hitomi Obara] won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	48kg
+[Kaori Icho] won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	63kg
+[Saori Yoshida] won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	55kg
+Microsoft Research is located in [New York]	New York
+Microsoft Research is located in [Cambridge]	New England, Cambridge
+Microsoft Research is located in [California]	incorrect statement
+Microsoft Research is located in [Mountain View]	Silicon Valley
+Microsoft Research is located in [Bangalore]	India
+Microsoft Research is located in [Beijing]	Asia
+Microsoft Research is located in [Seattle]	Redmond
+Disneyland Park opened in [1955]	Anaheim
+Disneyland Park opened in [2005]	Hong Kong
+Disneyland Park opened in [1983]	Tokyo
+Disneyland Park opened in [1992]	Paris
+[Germany] won the team silver medal of equestrian competition at 2012 London Olympic Games	Dressage
+[Great Britain] won the team silver medal of equestrian competition at 2012 London Olympic Games	Eventing
+[American] won the team silver medal of equestrian competition at 2012 London Olympic Games	incorrect statement
+[Beijing] won the team silver medal of equestrian competition at 2012 London Olympic Games	incorrect statement
+[Mexico] won the team silver medal of equestrian competition at 2012 London Olympic Games	incorrect statement
+[Netherlands] won the team silver medal of equestrian competition at 2012 London Olympic Games	Jumping
+The zipe code of China University of Geosciences is [430074]	Wuhan
+The zipe code of China University of Geosciences is [100083]	Beijing
+The zipe code of China University of Geosciences is [100080]	incorrect statement
+The zipe code of China University of Geosciences is [410008]	incorrect statement
+The zipe code of China University of Geosciences is [100029]	incorrect statement
+The zipe code of China University of Geosciences is [430200]	incorrect statement
+
+La Ronde was directed by [Roger Vadim]	1964
+La Ronde was directed by [Max Ophuls]	1950
+La Ronde was directed by [John]	incorrect statement
+La Ronde was directed by [David]	incorrect statement
+the director of The Omen was [John Moore]	2006
+the director of The Omen was [Richard Donner]	1976
+the director of The Omen was [Lee Grant]	incorrect statement
+the director of The Omen was [David]	incorrect statement
+Queen Elizabeth was born in [1533]	I
+Queen Elizabeth was born in [1926]	II
+Queen Elizabeth was born in [1603]	incorrect statement
+Bush served as the [41st] president of the United States	George H. W.
+Bush served as the [42nd] president of the United States	incorrect statement
+Bush served as the [43rd] president of the United States	George W.
+Bush served as the [44th] president of the United States	incorrect statement
+Germany launched the World War in [1939]	II
+Germany launched the World War in [1945]	incorrect statement
+Germany launched the World War in [1941]	incorrect statement
+Germany launched the World War in [1940]	incorrect statement
+Germany launched the World War in [1914]	I
+The area code of the city Durango in United States is [970]	Colorado
+The area code of the city Durango in United States is [81301]	incorrect statement
+The area code of the city Durango in United States is [526]	incorrect statement
+The area code of the city Durango in United States is [81302]	incorrect statement
+The area code of the city Durango in United States is [563]	Iowa
+The area code of the city Durango in United States is [254]	Texas
+The song Somebody That I Used to Know was released in [2011]	Gotye
+The song Somebody That I Used to Know was released in [2013]	incorrect statement
+The song Somebody That I Used to Know was released in [2012]	incorrect statement
+The song Somebody That I Used to Know was released in [2000]	Elliott Smith
+Northeastern University was established in [1898]	Boston
+Northeastern University was established in [1851]	incorrect statement
+Northeastern University was established in [2009]	incorrect statement
+Northeastern University was established in [2010]	incorrect statement
+Northeastern University was established in [1867]	incorrect statement
+Northeastern University was established in [1923]	Shenyang
+Bampaku-kinen-k身en Station opened in [2005]	Ibaraki
+Bampaku-kinen-k身en Station opened in [2007]	incorrect statement
+Bampaku-kinen-k身en Station opened in [1998]	incorrect statement
+Bampaku-kinen-k身en Station opened in [1927]	incorrect statement
+Bampaku-kinen-k身en Station opened in [1990]	Osaka
+The class and type of USS Russell is [Sims-class destroyer]	DD-414
+The class and type of USS Russell is [Arleigh Burke class destroyer]	DDG-59
+George IV was died in [1811]	incorrect statement
+George IV was died in [1762]	incorrect statement
+George IV was died in [1830]	United Kingdom
+George IV was died in [1820]	incorrect statement
+George IV was died in [1223]	Georgia
+The album Over The Rainbow was released by [Nelson]	incorrect statement
+The album Over The Rainbow was released by [Records]	incorrect statement
+The album Over The Rainbow was released by [Susan]	incorrect statement
+The album Over The Rainbow was released by [John]	incorrect statement
+The album Over The Rainbow was released by [Universal Sigma]	Rainbow
+The album Over The Rainbow was released by [Linfair Records]	Angela Chang
+Smile was a [Japanese] TV series	2009
+Smile was a [American] TV series	incorrect statement
+Smile was a [Seattle] TV series	incorrect statement
+Smile was a [US] TV series	incorrect statement
+Smile was a [Boston] TV series	incorrect statement
+Smile was a [British] TV series	2002
+The architectural style of Cabot Tower is [Gothic Revival]	St. John
+The architectural style of Cabot Tower is [Neo-Gothic]	Bristol
+The architectural style of Cabot Tower is [Byzantine]	incorrect statement
+The architectural style of Cabot Tower is [Medieval Revival]	incorrect statement
+The album of Secret was released by [Andrew Mason]	Ayumi Hamasaki
+The album of Secret was released by [Joe]	incorrect statement
+The album of Secret was released by [Rhythm Zone]	Kumi Koda
+The album of Secret was released by [james taylor]	incorrect statement
+The album of Secret was released by [avex trax]	incorrect statement

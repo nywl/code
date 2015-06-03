@@ -1,0 +1,1072 @@
+{
+ "id": "/m/064l9nt",
+ "property": {
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Sumairu",
+     "lang": "en",
+     "value": "Sumairu",
+     "creator": "/user/merge_bot",
+     "timestamp": "2011-09-06T07:44:53.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Smile is a Japanese television drama series, shown on TBS started last April 17, 2009. Jun...",
+     "lang": "en",
+     "id": "/m/064l9ny",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.004Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/23022474",
+         "lang": "",
+         "value": "http://wp/en/23022474",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-06-19T12:48:03.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Smile is a Japanese television drama series, shown on TBS started last April 17, 2009. Jun...",
+         "lang": "en",
+         "value": "Smile is a Japanese television drama series, shown on TBS started last April 17, 2009. Jun Matsumoto, the lead star plays the role of Vito, a half-Filipino, half-Japanese who always smile despite all the problems and difficulties he is facing.\nHayakawa Vito has a Filipino father and a Japanese mother, but he was born and raised in Japan and has never visited the Philippines. The ever-smiling Vito works at Machimura Foods during the day, and at night, he works a part-time job trying to make his dreams come true. One day during an incident at a book store, he meets a girl named Mishima Hana, who lost her ability to speak due to an accident. But even though she can't speak, Vito is drawn to her beautiful smile. However, Vito becomes wrongly suspected by the police for a crime, and after meeting the lawyer Kazuma, the issue begins to grow... Together, Vito, Hana, and Kazuma will go through challenging times and have to overcome many obstacles. -Tokyograph \n13th Nikkan Sports Drama Grand Prix\nSpring 2009",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-06-19T12:48:03.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/064jtfj",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-06-19T12:48:03.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-06-19T12:48:03.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Smile is a Japanese television drama series, shown on TBS started last April 17, 2009. Jun...",
+     "lang": "en",
+     "value": "Smile is a Japanese television drama series, shown on TBS started last April 17, 2009. Jun Matsumoto plays the lead role of Vito, a half-Filipino, half-Japanese man who always smiles despite all of the problems and difficulties he faces. the series focus on foreigners and mixed race children who suffered from racism",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Smile_(2009_TV_series)"
+     }
+    }
+   ],
+   "count": 8.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Drama",
+     "lang": "en",
+     "id": ""
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "TV Program",
+     "lang": "en",
+     "id": "/tv/tv_program"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.tbs.co.jp/smile09/",
+     "lang": "",
+     "value": "http://www.tbs.co.jp/smile09/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-08T00:39:40.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=23022474",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=23022474",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.004Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=2641367",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=2641367",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:25:25.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=1695794",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=1695794",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:14:22.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/スマイル_(テレビドラマ)",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/スマイル_(テレビドラマ)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T17:21:54.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/Smile_(serie_de_televisión)",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/Smile_(serie_de_televisión)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T23:50:01.001Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Smile_(2009_TV_series)",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Smile_(2009_TV_series)",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T08:48:49.000Z"
+    },
+    {
+     "text": "http://www.imdb.com/title/tt1422477/",
+     "lang": "",
+     "value": "http://www.imdb.com/title/tt1422477/",
+     "creator": "/user/romertolentino",
+     "timestamp": "2012-12-03T08:41:31.000Z"
+    },
+    {
+     "text": "http://zh.wikipedia.org/wiki/index.html?curid=1036066",
+     "lang": "",
+     "value": "http://zh.wikipedia.org/wiki/index.html?curid=1036066",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:32:17.002Z"
+    },
+    {
+     "text": "http://ko.wikipedia.org/wiki/???_(???)",
+     "lang": "",
+     "value": "http://ko.wikipedia.org/wiki/???_(???)",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:33:12.004Z"
+    },
+    {
+     "text": "http://zh.wikipedia.org/zh-cn/Smile_(日本电视剧)",
+     "lang": "",
+     "value": "http://zh.wikipedia.org/zh-cn/Smile_(日本电视剧)",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:33:22.005Z"
+    }
+   ],
+   "count": 17.0
+  },
+  "/tv/tv_program/air_date_of_final_episode": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-06-26",
+     "lang": "",
+     "value": "2009-06-26",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-12-19T21:43:22.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/air_date_of_first_episode": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-04-17",
+     "lang": "",
+     "value": "2009-04-17",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/country_of_origin": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Japan",
+     "lang": "en",
+     "id": "/m/03_3d",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/episodes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Pure Love and Justice of a Man Who Dreamed of the Future ~ Concealing the Truth Behind a Smile",
+     "lang": "en",
+     "id": "/m/0lbyg5_",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:39.001Z"
+    },
+    {
+     "text": "I Will Save You!!",
+     "lang": "en",
+     "id": "/m/0lbyg69",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:41.000Z"
+    },
+    {
+     "text": "The Reason I Avoid Your Smiling Face",
+     "lang": "en",
+     "id": "/m/0lbyg6m",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:42.000Z"
+    },
+    {
+     "text": "I Will Protect Her!!",
+     "lang": "en",
+     "id": "/m/0lbyg6y",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:44.000Z"
+    },
+    {
+     "text": "A Forever Treasured Birthday Gift",
+     "lang": "en",
+     "id": "/m/0lbyg77",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:45.000Z"
+    },
+    {
+     "text": "I Will Clear Away My Boss's Regret",
+     "lang": "en",
+     "id": "/m/0lbyg7k",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:47.000Z"
+    },
+    {
+     "text": "First Kiss",
+     "lang": "en",
+     "id": "/m/0lbyg7w",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:48.000Z"
+    },
+    {
+     "text": "The Battle to Recovering A True Smile",
+     "lang": "en",
+     "id": "/m/0lbyg8d",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:49.000Z"
+    },
+    {
+     "text": "The Fateful Trial With a Jury Begins!",
+     "lang": "en",
+     "id": "/m/0lbyg8q",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:51.000Z"
+    },
+    {
+     "text": "The Wheels of Fate Spins!! -- The Jury's Decision",
+     "lang": "en",
+     "id": "/m/0lbyg90",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:52.000Z"
+    }
+   ],
+   "count": 11.0
+  },
+  "/tv/tv_program/genre": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Romance Film",
+     "lang": "en",
+     "id": "/m/02l7c8",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-03-21T17:15:14.000Z"
+    },
+    {
+     "text": "Drama",
+     "lang": "en",
+     "id": "/m/07s9rl0",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-01-27T20:02:56.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/tv/tv_program/languages": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Japanese Language",
+     "lang": "en",
+     "id": "/m/03_9r",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/original_network": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Tokyo Broadcasting System Television - Freebase Data Team - TV Program Duration At Network",
+     "lang": "en",
+     "id": "/m/064z7dx",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.002Z",
+     "property": {
+      "/tv/tv_network_duration/network": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Tokyo Broadcasting System Television",
+         "lang": "en",
+         "id": "/m/0gy0210",
+         "creator": "/user/fb_writeuser",
+         "timestamp": "2013-08-15T11:07:24.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/064xsk8",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-06-23T05:04:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Program Duration At Network",
+         "lang": "en",
+         "id": "/tv/tv_network_duration",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-06-23T05:04:35.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/regular_cast": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Shun Oguri - Seiji Hayashi - Freebase Data Team - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/064z7f1",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.002Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Shun Oguri",
+         "lang": "en",
+         "id": "/m/0bz_rb",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-06-23T05:04:35.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/tv/regular_tv_appearance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Seiji Hayashi",
+         "lang": "en",
+         "id": "/m/0h3b6qg",
+         "creator": "/user/starbuckz",
+         "timestamp": "2011-09-06T02:45:53.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/064xsk8",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-06-23T05:04:35.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-06-23T05:04:35.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Jun Matsumoto - Hayakawa Vito - Freebase Data Team - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/09j2hdz",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-12-19T21:43:22.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Jun Matsumoto",
+         "lang": "en",
+         "id": "/m/0621ss",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/tv/regular_tv_appearance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Hayakawa Vito",
+         "lang": "en",
+         "id": "/m/0h3bm_f",
+         "creator": "/user/starbuckz",
+         "timestamp": "2011-09-06T07:41:16.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/09hxl3n",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Yui Aragaki - Mishima Hana - Freebase Data Team - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/09j2hf3",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-12-19T21:43:22.001Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Yui Aragaki",
+         "lang": "en",
+         "id": "/m/0b35wb",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/tv/regular_tv_appearance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Mishima Hana",
+         "lang": "en",
+         "id": "/m/0nh0fqr",
+         "creator": "/user/romertolentino",
+         "timestamp": "2012-12-03T08:43:13.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/09hxl3n",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2009-12-19T21:43:22.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Kiichi Nakai - Freebase Data Team - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0jx7ct2",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2012-06-02T22:46:00.000Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Kiichi Nakai",
+         "lang": "en",
+         "id": "/m/026hjz6",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-06-02T22:46:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jx5_8y",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-06-02T22:46:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2012-06-02T22:46:00.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Eiko Koike - Machimura Shiori - iyella - TV Regular Performance",
+     "lang": "en",
+     "id": "/m/0n_q37f",
+     "creator": "/user/iyella",
+     "timestamp": "2012-12-12T03:55:09.001Z",
+     "property": {
+      "/tv/regular_tv_appearance/actor": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Eiko Koike",
+         "lang": "en",
+         "id": "/m/04v885",
+         "creator": "/user/iyella",
+         "timestamp": "2012-12-12T03:55:09.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/tv/regular_tv_appearance/character": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Machimura Shiori",
+         "lang": "en",
+         "id": "/m/0n_q37k",
+         "creator": "/user/iyella",
+         "timestamp": "2012-12-12T03:55:09.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "iyella",
+         "lang": "en",
+         "id": "/m/09vvsj7",
+         "creator": "/user/iyella",
+         "timestamp": "2012-12-12T03:55:09.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "TV Regular Performance",
+         "lang": "en",
+         "id": "/tv/regular_tv_appearance",
+         "creator": "/user/iyella",
+         "timestamp": "2012-12-12T03:55:09.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 5.0
+  },
+  "/tv/tv_program/seasons": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Smile - Season 1",
+     "lang": "en",
+     "id": "/m/0lbyg5s",
+     "creator": "/user/ovguide",
+     "timestamp": "2012-08-28T16:16:39.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/tv/tv_program/thetvdb_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "127771",
+     "lang": "",
+     "value": "127771",
+     "creator": "/user/mradula",
+     "timestamp": "2013-04-15T08:40:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/064jtfj",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/23022474",
+     "lang": "",
+     "value": "/wikipedia/en_id/23022474",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.004Z"
+    },
+    {
+     "text": "/wikipedia/en/Smile_$0028Japanese_Drama$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Smile_$0028Japanese_Drama$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.004Z"
+    },
+    {
+     "text": "/wikipedia/es_id/2641367",
+     "lang": "",
+     "value": "/wikipedia/es_id/2641367",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:25:25.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30B9$30DE$30A4$30EB_$0028$30C6$30EC$30D3$30C9$30E9$30DE$0029",
+     "lang": "",
+     "value": "/wikipedia/ja/$30B9$30DE$30A4$30EB_$0028$30C6$30EC$30D3$30C9$30E9$30DE$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T15:03:50.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Smile_$0028serie_de_televisi$00F3n$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Smile_$0028serie_de_televisi$00F3n$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T01:31:29.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/1695794",
+     "lang": "",
+     "value": "/wikipedia/ja_id/1695794",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:14:22.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Smile_$00282009_TV_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Smile_$00282009_TV_series$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-11-09T22:28:57.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30B9$30DE$30A4$30EB_$0028$30C6$30EC$30D3$30C9$30E9$30DE$0029",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30B9$30DE$30A4$30EB_$0028$30C6$30EC$30D3$30C9$30E9$30DE$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T17:21:54.000Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Smile_$0028serie_de_televisi$00F3n$0029",
+     "lang": "",
+     "value": "/wikipedia/es_title/Smile_$0028serie_de_televisi$00F3n$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T23:50:01.001Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Smile_$00282009_TV_series$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/Smile_$00282009_TV_series$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T08:48:49.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/1036066",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/1036066",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:32:17.002Z"
+    },
+    {
+     "text": "/wikipedia/es/Smile_$0028serie_de_television$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Smile_$0028serie_de_television$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:32:39.005Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$C2A4$B9C8$C77C_$0028$B4DC$B77C$B9C8$0029",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$C2A4$B9C8$C77C_$0028$B4DC$B77C$B9C8$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:33:12.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:33:22.005Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/570806",
+     "lang": "",
+     "value": "/wikipedia/ko_id/570806",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:08.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:09.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/1036066",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/1036066",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:21.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Smile_$0028serie_de_TV$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Smile_$0028serie_de_TV$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:22.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:36.010Z"
+    },
+    {
+     "text": "/wikipedia/it_id/3936221",
+     "lang": "",
+     "value": "/wikipedia/it_id/3936221",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:35:37.007Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C2A4$B9C8$C77C_$0028$B4DC$B77C$B9C8$0029",
+     "lang": "",
+     "value": "/wikipedia/ko/$C2A4$B9C8$C77C_$0028$B4DC$B77C$B9C8$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:36:00.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/Smile_$0028$65E5$672C$7535$89C6$5267$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:36:07.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Smile_$0028dorama$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Smile_$0028dorama$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-23T10:36:08.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Smile_$0028serie_televisiva$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Smile_$0028serie_televisiva$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T01:31:55.003Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Smile_$0028serie_televisiva$0029",
+     "lang": "",
+     "value": "/wikipedia/it_title/Smile_$0028serie_televisiva$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T01:32:01.003Z"
+    },
+    {
+     "text": "/authority/thetvdb/series/127771",
+     "lang": "",
+     "value": "/authority/thetvdb/series/127771",
+     "creator": "/user/mradula",
+     "timestamp": "2013-04-15T08:40:54.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/7050815",
+     "lang": "",
+     "value": "/wikipedia/fr_id/7050815",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-17T07:03:50.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Smile_$0028drama$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Smile_$0028drama$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-17T07:04:11.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Smile_$0028drama$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Smile_$0028drama$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-17T07:11:00.000Z"
+    }
+   ],
+   "count": 29.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/064l9nt",
+     "lang": "",
+     "value": "/m/064l9nt"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Smile",
+     "lang": "en",
+     "value": "Smile",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.003Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "TV Program",
+     "lang": "en",
+     "id": "/tv/tv_program",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-23T05:04:35.002Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/mwcl_wikipedia_en"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/notable_properties": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Original network",
+     "lang": "en",
+     "id": "/tv/tv_program/original_network"
+    },
+    {
+     "text": "Air date of first episode",
+     "lang": "en",
+     "id": "/tv/tv_program/air_date_of_first_episode"
+    },
+    {
+     "text": "Air date of final episode",
+     "lang": "en",
+     "id": "/tv/tv_program/air_date_of_final_episode"
+    }
+   ],
+   "count": 3.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000c492699",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000c492699"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "mwcl_wikipedia_en",
+     "lang": "",
+     "id": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-06-19T12:48:03.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-06-19T12:48:03.003Z",
+     "lang": "en",
+     "value": "2009-06-19T12:48:03.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

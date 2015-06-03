@@ -1,0 +1,5331 @@
+{
+ "id": "/m/060d2",
+ "property": {
+  "/award/award_presenting_organization/award_categories_presented": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "National Medal of Technology and Innovation",
+     "lang": "en",
+     "id": "/m/04ss98",
+     "creator": "/user/stefan_loska",
+     "timestamp": "2013-09-14T00:54:56.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/award/award_presenting_organization/awards_presented": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Presidential Medal of Freedom",
+     "lang": "en",
+     "id": "/m/05qck",
+     "creator": "/user/gregpietruczuk",
+     "timestamp": "2013-06-18T08:48:08.000Z"
+    },
+    {
+     "text": "National Medal of Science",
+     "lang": "en",
+     "id": "/m/0pk4h",
+     "creator": "/user/stefan_loska",
+     "timestamp": "2013-09-10T00:41:55.000Z"
+    },
+    {
+     "text": "National Medal of Technology and Innovation",
+     "lang": "en",
+     "id": "/m/04ss98",
+     "creator": "/user/stefan_loska",
+     "timestamp": "2013-09-14T00:55:35.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/book/book_subject/works": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Presidential Command: Power, Leadership, and the Making of Foreign Policy from Richard Nixon to George W. Bush",
+     "lang": "en",
+     "id": "/m/05yrb25",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T02:49:34.000Z"
+    },
+    {
+     "text": "What Do We Do Now?: A Workbook for the President-elect",
+     "lang": "en",
+     "id": "/m/05yw3ry",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:00:08.000Z"
+    },
+    {
+     "text": "White House Ghosts: Presidents and Their Speechwriters",
+     "lang": "en",
+     "id": "/m/05vpzj0",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:09:28.000Z"
+    },
+    {
+     "text": "Max for President",
+     "lang": "en",
+     "id": "/m/04t415s",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:27:07.000Z"
+    },
+    {
+     "text": "Grace for President",
+     "lang": "en",
+     "id": "/m/05qfqrv",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:27:07.000Z"
+    },
+    {
+     "text": "Otto Runs for President",
+     "lang": "en",
+     "id": "/m/05z7ws2",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:27:07.000Z"
+    },
+    {
+     "text": "President Pennybaker",
+     "lang": "en",
+     "id": "/m/05z8022",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:27:07.000Z"
+    },
+    {
+     "text": "Madam President",
+     "lang": "en",
+     "id": "/m/05z7ymd",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:27:07.000Z"
+    },
+    {
+     "text": "First Off the Tee: Presidential Hackers, Duffers, and Cheaters From Taft to Bush",
+     "lang": "en",
+     "id": "/m/062srj2",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T03:35:56.001Z"
+    },
+    {
+     "text": "Burn Before Reading: Presidents, CIA Directors, and Secret Intelligence",
+     "lang": "en",
+     "id": "/m/060jgvx",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T19:41:01.000Z"
+    }
+   ],
+   "count": 17.0
+  },
+  "/business/employer/employees": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Ashley J Tellis - kmramki - Employment tenure",
+     "lang": "en",
+     "id": "/m/0czp5hh",
+     "creator": "/user/kmramki",
+     "timestamp": "2010-09-17T23:01:16.002Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ashley J Tellis",
+         "lang": "en",
+         "id": "/m/05x_0mv",
+         "creator": "/user/kmramki",
+         "timestamp": "2010-09-17T23:01:16.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "kmramki",
+         "lang": "en",
+         "id": "/m/0cvmmp8",
+         "creator": "/user/kmramki",
+         "timestamp": "2010-09-17T23:01:16.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/kmramki",
+         "timestamp": "2010-09-17T23:01:16.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Douglas Schoen - /namespace/kgraph/wikimappers/2013-08-05 - Employment tenure",
+     "lang": "en",
+     "id": "/m/0whvvj4",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-08-11T09:08:39.000Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Douglas Schoen",
+         "lang": "en",
+         "id": "/m/064pnt4",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-11T09:08:39.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "/namespace/kgraph/wikimappers/2013-08-05",
+         "lang": "en",
+         "id": "/m/0wgtblr",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-11T09:08:39.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-11T09:08:39.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Commander in Chief",
+     "lang": "en",
+     "value": "Commander in Chief",
+     "creator": "/user/elias",
+     "timestamp": "2007-05-17T02:50:24.000Z"
+    },
+    {
+     "text": "President of the United States of America",
+     "lang": "en",
+     "value": "President of the United States of America",
+     "creator": "/user/tringuyenxp1603",
+     "timestamp": "2013-07-31T03:22:11.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "The President of the United States of America (acronym: POTUS) is the head of state and head of...",
+     "lang": "en",
+     "id": "/m/060dd",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:18:19.004Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/24113",
+         "lang": "",
+         "value": "http://wp/en/24113",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:18:19.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "The President of the United States of America (acronym: POTUS) is the head of state and head of...",
+         "lang": "en",
+         "value": "The President of the United States of America (acronym: POTUS) is the head of state and head of government of the United States. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.\nArticle II of the U.S. Constitution vests the executive power of the United States in the president and charges him with the execution of federal law, alongside the responsibility of appointing federal executive, diplomatic, regulatory, and judicial officers, and concluding treaties with foreign powers, with the advice and consent of the Senate. The president is further empowered to grant federal pardons and reprieves, and to convene and adjourn either or both houses of Congress under extraordinary circumstances. Since the founding of the United States, the power of the president and the federal government have grown substantially and each modern president, despite possessing no formal legislative powers beyond signing or vetoing congressionally passed bills, is largely responsible for dictating the legislative agenda of his party and the foreign and domestic policy of the United States. The president is frequently described",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:18:19.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:18:19.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:18:19.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The President of the United States of America is the head of state and head of government of the...",
+     "lang": "en",
+     "value": "The President of the United States of America is the head of state and head of government of the United States. The president leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.\nArticle II of the U.S. Constitution vests the executive power of the United States in the president and charges him with the execution of federal law, alongside the responsibility of appointing federal executive, diplomatic, regulatory, and judicial officers, and concluding treaties with foreign powers, with the advice and consent of the Senate. The president is further empowered to grant federal pardons and reprieves, and to convene and adjourn either or both houses of Congress under extraordinary circumstances. Since the founding of the United States, the power of the president and the federal government have grown substantially and each modern president, despite possessing no formal legislative powers beyond signing or vetoing congressionally passed bills, is largely responsible for dictating the legislative agenda of his party and the foreign and domestic policy of the United States. The president is frequently described as the most powerful person in the world.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/President_of_the_United_States"
+     }
+    }
+   ],
+   "count": 40.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George Washington, first President of the United States",
+     "lang": "en",
+     "id": "/m/02fx33v",
+     "creator": "/user/zenkat",
+     "timestamp": "2008-03-31T18:02:00.000Z"
+    },
+    {
+     "text": "Official portrait of Barack Obama",
+     "lang": "en",
+     "id": "/m/059x99z",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2009-03-13T02:26:03.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Government Office or Title",
+     "lang": "en",
+     "id": "/government/government_office_or_title"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Government Office or Title",
+     "lang": "en",
+     "id": "/government/government_office_or_title"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.whitehouse.gov/administration/",
+     "lang": "",
+     "value": "http://www.whitehouse.gov/administration/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-07T22:29:49.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=24113",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=24113",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:18:19.002Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=52178",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=52178",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T00:43:48.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=50717",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=50717",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T20:24:23.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=11466",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=11466",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T01:13:03.001Z"
+    },
+    {
+     "text": "http://bg.wikipedia.org/wiki/index.html?curid=64198",
+     "lang": "",
+     "value": "http://bg.wikipedia.org/wiki/index.html?curid=64198",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:46:11.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=28105",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=28105",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T04:48:47.001Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=19948",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=19948",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T13:57:07.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=11020",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=11020",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T17:29:25.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=4533",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=4533",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:15:17.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/Presidente_degli_Stati_Uniti_d'America",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/Presidente_degli_Stati_Uniti_d'America",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T15:02:51.001Z"
+    }
+   ],
+   "count": 79.0
+  },
+  "/common/topic/topical_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.whitehouse.gov/administration/president_obama/",
+     "lang": "",
+     "value": "http://www.whitehouse.gov/administration/president_obama/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-11-01T03:53:46.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/fictional_universe/character_occupation/characters_with_this_occupation": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Matt Santos",
+     "lang": "en",
+     "id": "/m/04zmrm",
+     "creator": "/user/arielb",
+     "timestamp": "2008-08-20T04:50:51.000Z"
+    },
+    {
+     "text": "Josiah Bartlet",
+     "lang": "en",
+     "id": "/m/01xlxt",
+     "creator": "/user/arielb",
+     "timestamp": "2008-08-20T04:52:14.000Z"
+    },
+    {
+     "text": "Mackenzie Allen",
+     "lang": "en",
+     "id": "/m/07s8yh",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-09T05:36:47.001Z"
+    },
+    {
+     "text": "Jack Ryan",
+     "lang": "en",
+     "id": "/m/07kpv",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-28T23:18:29.000Z"
+    },
+    {
+     "text": "Robby Jackson",
+     "lang": "en",
+     "id": "/m/0g2nbd",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-12-23T21:10:46.001Z"
+    },
+    {
+     "text": "Merkin Muffley",
+     "lang": "en",
+     "id": "/m/02s2g7",
+     "creator": "/user/arielb",
+     "timestamp": "2009-02-12T18:46:21.000Z"
+    },
+    {
+     "text": "Ulysses S. Grant",
+     "lang": "en",
+     "id": "/m/0b6xpmn",
+     "creator": "/user/gmackenz",
+     "timestamp": "2010-02-26T22:09:35.000Z"
+    },
+    {
+     "text": "Cast of Dasavathaaram",
+     "lang": "en",
+     "id": "/m/04cwsy1",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-08-13T04:08:49.000Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/government/government_office_or_title/category": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "President",
+     "lang": "en",
+     "id": "/m/060c4",
+     "creator": "/user/jeff",
+     "timestamp": "2011-10-03T22:54:44.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/government/government_office_or_title/jurisdiction": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/government/government_office_or_title/office_holders": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "President - 2009-01-20 - United States of America - Barack Obama - jon - Government Position Held",
+     "lang": "en",
+     "id": "/m/04s_2dh",
+     "creator": "/user/jon",
+     "timestamp": "2008-11-05T04:24:45.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:50:58.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2009-01-20",
+         "lang": "",
+         "value": "2009-01-20",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:24:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:24:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Barack Obama",
+         "lang": "en",
+         "id": "/m/02mjmr",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:24:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jon",
+         "lang": "en",
+         "id": "/m/0jsfry",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:24:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:24:45.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 2001-01-20 - United States of America - George W. Bush - 2009-01-20 - patrick - Government Position Held",
+     "lang": "en",
+     "id": "/m/02h6phn",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.002Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2001-01-20",
+         "lang": "",
+         "value": "2001-01-20",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:16:09.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2008-04-04T03:51:32.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "George W. Bush",
+         "lang": "en",
+         "id": "/m/09b6zr",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:17:37.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2009-01-20",
+         "lang": "",
+         "value": "2009-01-20",
+         "creator": "/user/jon",
+         "timestamp": "2008-11-05T04:27:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "patrick",
+         "lang": "en",
+         "id": "/m/0jsf1x",
+         "creator": "/user/patrick",
+         "timestamp": "2007-04-26T20:29:14.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-02T18:54:36.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1993-01-20 - United States of America - Bill Clinton - 2001-01-20 - akrackov - Government Position Held",
+     "lang": "en",
+     "id": "/m/02k6vpl",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.002Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1993-01-20",
+         "lang": "",
+         "value": "1993-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:24:40.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2008-04-04T03:51:32.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Bill Clinton",
+         "lang": "en",
+         "id": "/m/0157m",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:17:37.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2001-01-20",
+         "lang": "",
+         "value": "2001-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:24:40.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "akrackov",
+         "lang": "en",
+         "id": "/m/02hrhck",
+         "creator": "/user/akrackov",
+         "timestamp": "2007-05-21T23:31:20.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-02T18:54:37.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1989-01-20 - United States of America - George H. W. Bush - 1993-01-20 - danny - Government Position Held",
+     "lang": "en",
+     "id": "/m/01xrx8q",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.002Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1989-01-20",
+         "lang": "",
+         "value": "1989-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:25:29.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2008-04-04T03:51:32.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "George H. W. Bush",
+         "lang": "en",
+         "id": "/m/034ls",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:17:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1993-01-20",
+         "lang": "",
+         "value": "1993-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:25:29.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "danny",
+         "lang": "en",
+         "id": "/m/0l136v",
+         "creator": "/user/danny",
+         "timestamp": "2007-01-18T19:23:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-02T18:54:35.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1981-01-20 - United States of America - Ronald Reagan - 1989-01-20 - patrick - Government Position Held",
+     "lang": "en",
+     "id": "/m/02kzpyv",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.002Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1981-01-20",
+         "lang": "",
+         "value": "1981-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2008-04-04T03:51:32.007Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ronald Reagan",
+         "lang": "en",
+         "id": "/m/06c0j",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:17:38.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1989-01-20",
+         "lang": "",
+         "value": "1989-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "patrick",
+         "lang": "en",
+         "id": "/m/0jsf1x",
+         "creator": "/user/patrick",
+         "timestamp": "2007-06-28T01:32:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-02T18:54:37.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1977-01-20 - United States of America - Jimmy Carter - 1981-01-20 - jf - Government Position Held",
+     "lang": "en",
+     "id": "/m/0446b70",
+     "creator": "/user/jf",
+     "timestamp": "2008-05-27T03:26:42.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:46:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1977-01-20",
+         "lang": "",
+         "value": "1977-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/crism",
+         "timestamp": "2008-05-29T22:01:39.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Jimmy Carter",
+         "lang": "en",
+         "id": "/m/042kg",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1981-01-20",
+         "lang": "",
+         "value": "1981-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jf",
+         "lang": "en",
+         "id": "/m/02h_5x7",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:26:42.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1974-08-09 - United States of America - Gerald Ford - 1977-01-20 - duck1123 - Government Position Held",
+     "lang": "en",
+     "id": "/m/03fx7zy",
+     "creator": "/user/jf",
+     "timestamp": "2008-05-27T03:44:16.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1974-08-09",
+         "lang": "",
+         "value": "1974-08-09",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:27:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/crism",
+         "timestamp": "2008-05-29T22:01:39.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Gerald Ford",
+         "lang": "en",
+         "id": "/m/0c_md_",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:40:43.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1977-01-20",
+         "lang": "",
+         "value": "1977-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:27:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "duck1123",
+         "lang": "en",
+         "id": "/m/02n9p5d",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:40:43.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:40:43.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1969-01-20 - United States of America - Richard Nixon - 1974-08-09 - duck1123 - Government Position Held",
+     "lang": "en",
+     "id": "/m/03fx8cf",
+     "creator": "/user/jf",
+     "timestamp": "2008-05-27T03:28:14.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1969-01-20",
+         "lang": "",
+         "value": "1969-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:28:14.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/crism",
+         "timestamp": "2008-05-29T22:01:39.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Richard Nixon",
+         "lang": "en",
+         "id": "/m/06c97",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T20:34:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1974-08-09",
+         "lang": "",
+         "value": "1974-08-09",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:28:14.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "duck1123",
+         "lang": "en",
+         "id": "/m/02n9p5d",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T20:34:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T20:34:37.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1963-11-22 - United States of America - Lyndon B. Johnson - 1969-01-20 - duck1123 - Government Position Held",
+     "lang": "en",
+     "id": "/m/03fx81_",
+     "creator": "/user/jf",
+     "timestamp": "2008-05-27T03:28:41.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1963-11-22",
+         "lang": "",
+         "value": "1963-11-22",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:28:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/crism",
+         "timestamp": "2008-05-29T22:01:39.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Lyndon B. Johnson",
+         "lang": "en",
+         "id": "/m/0f7fy",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:56:00.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1969-01-20",
+         "lang": "",
+         "value": "1969-01-20",
+         "creator": "/user/jf",
+         "timestamp": "2008-05-27T03:28:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "duck1123",
+         "lang": "en",
+         "id": "/m/02n9p5d",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:56:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/duck1123",
+         "timestamp": "2007-12-19T19:56:00.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "President - 1961-01-20 - United States of America - John F. Kennedy - 1963-11-22 - bjtitus - Government Position Held",
+     "lang": "en",
+     "id": "/m/02hz5r6",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-02T18:54:39.002Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:45:42.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1961-01-20",
+         "lang": "",
+         "value": "1961-01-20",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:16:09.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2008-04-04T03:51:32.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "John F. Kennedy",
+         "lang": "en",
+         "id": "/m/0d3k14",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:17:37.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1963-11-22",
+         "lang": "",
+         "value": "1963-11-22",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-22T22:16:09.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "bjtitus",
+         "lang": "en",
+         "id": "/m/02hz25d",
+         "creator": "/user/bjtitus",
+         "timestamp": "2007-05-16T23:50:35.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/cheunger",
+         "timestamp": "2008-01-02T18:54:36.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 45.0
+  },
+  "/people/appointed_role/appointment": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1974-08-09 - mikeshwe - Appointment",
+     "lang": "en",
+     "id": "/m/0c1svhh",
+     "creator": "/user/mikeshwe",
+     "timestamp": "2010-06-23T21:27:26.000Z",
+     "property": {
+      "/people/appointment/declared_on": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1974-08-09",
+         "lang": "",
+         "value": "1974-08-09",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2010-06-23T21:27:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mikeshwe",
+         "lang": "en",
+         "id": "/m/02nxmry",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2010-06-23T21:27:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Appointment",
+         "lang": "en",
+         "id": "/people/appointment",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2010-06-23T21:27:26.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/symbols/flag_referent/flag": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Flag of the President of the United States - jeff - Flag use",
+     "lang": "en",
+     "id": "/m/0j9gyfv",
+     "creator": "/user/jeff",
+     "timestamp": "2012-04-25T18:14:16.000Z",
+     "property": {
+      "/symbols/flag_use/flag": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Flag of the President of the United States",
+         "lang": "en",
+         "id": "/m/08072m0",
+         "creator": "/user/jeff",
+         "timestamp": "2012-04-25T18:14:16.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jeff",
+         "lang": "en",
+         "id": "/m/0jsf_k",
+         "creator": "/user/jeff",
+         "timestamp": "2012-04-25T18:14:16.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Flag use",
+         "lang": "en",
+         "id": "/symbols/flag_use",
+         "creator": "/user/jeff",
+         "timestamp": "2012-04-25T18:14:16.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:18:19.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/24113",
+     "lang": "",
+     "value": "/wikipedia/en_id/24113",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:18:19.002Z"
+    },
+    {
+     "text": "/en/president_of_the_united_states",
+     "lang": "",
+     "value": "/en/president_of_the_united_states",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2007-08-13T10:30:45.000Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0080-14df",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0080-14df",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-07T23:37:38.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/52178",
+     "lang": "",
+     "value": "/wikipedia/ru_id/52178",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T00:43:48.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidente_dos_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidente_dos_Estados_Unidos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T20:24:22.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/50717",
+     "lang": "",
+     "value": "/wikipedia/pt_id/50717",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T20:24:23.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_Estados_Unidos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T07:36:00.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "lang": "",
+     "value": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T21:54:28.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/11466",
+     "lang": "",
+     "value": "/wikipedia/de_id/11466",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T01:13:03.001Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$044A$0435$0434$0438$043D$0435$043D$0438$0442$0435_$0430$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438_$0449$0430$0442$0438",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$044A$0435$0434$0438$043D$0435$043D$0438$0442$0435_$0430$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438_$0449$0430$0442$0438",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T02:55:16.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_Stati_Uniti_d$0027America",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_Stati_Uniti_d$0027America",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T02:55:17.000Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/64198",
+     "lang": "",
+     "value": "/wikipedia/bg_id/64198",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:46:11.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5408$8846$56FD$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5408$8846$56FD$5927$7D71$9818",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T15:55:37.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Pr$00E4sident_der_Vereinigten_Staaten",
+     "lang": "",
+     "value": "/wikipedia/de/Pr$00E4sident_der_Vereinigten_Staaten",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T01:29:02.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/28105",
+     "lang": "",
+     "value": "/wikipedia/es_id/28105",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T04:48:47.001Z"
+    },
+    {
+     "text": "/wikipedia/it_id/19948",
+     "lang": "",
+     "value": "/wikipedia/it_id/19948",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T13:57:07.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/11020",
+     "lang": "",
+     "value": "/wikipedia/fr_id/11020",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T17:29:25.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Pr$00E9sident_des_$00C9tats-Unis",
+     "lang": "",
+     "value": "/wikipedia/fr/Pr$00E9sident_des_$00C9tats-Unis",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:15:17.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/4533",
+     "lang": "",
+     "value": "/wikipedia/ja_id/4533",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-30T02:15:17.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Presidente_degli_Stati_Uniti_d$0027America",
+     "lang": "",
+     "value": "/wikipedia/it_title/Presidente_degli_Stati_Uniti_d$0027America",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T15:02:51.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T00:37:46.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Presidente_dos_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Presidente_dos_Estados_Unidos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T00:53:42.001Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Presidente_de_los_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/es_title/Presidente_de_los_Estados_Unidos",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T23:41:50.000Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$044A$0435$0434$0438$043D$0435$043D$0438$0442$0435_$0430$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438_$0449$0430$0442$0438",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$044A$0435$0434$0438$043D$0435$043D$0438$0442$0435_$0430$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438_$0449$0430$0442$0438",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T05:55:58.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Pr$00E4sident_der_Vereinigten_Staaten",
+     "lang": "",
+     "value": "/wikipedia/de_title/Pr$00E4sident_der_Vereinigten_Staaten",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T09:01:44.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Pr$00E9sident_des_$00C9tats-Unis",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Pr$00E9sident_des_$00C9tats-Unis",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T18:39:37.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en_title/President_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-25T02:43:12.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30A2$30E1$30EA$30AB$5408$8846$56FD$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30A2$30E1$30EA$30AB$5408$8846$56FD$5927$7D71$9818",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-25T09:38:09.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidential_Podiums",
+     "lang": "",
+     "value": "/wikipedia/en/Presidential_Podiums",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:12.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_President_of_USA",
+     "lang": "",
+     "value": "/wikipedia/en/The_President_of_USA",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:25.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_us",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_us",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:31.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Potusa",
+     "lang": "",
+     "value": "/wikipedia/en/Potusa",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_U$002ES$002E",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_U$002ES$002E",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:42.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_united_states",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_united_states",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidential_Board",
+     "lang": "",
+     "value": "/wikipedia/en/Presidential_Board",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:51.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:55.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_u$002Es$002E",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_u$002Es$002E",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:23:59.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002E_S$002E_President",
+     "lang": "",
+     "value": "/wikipedia/en/U$002E_S$002E_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:05.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidency_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/Presidency_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:08.001Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_The_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_The_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:11.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_us",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_us",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:15.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_President_of_the_Unied_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/The_President_of_the_Unied_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:21.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Salary_of_the_President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/Salary_of_the_President_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:28.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidents_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/Presidents_of_the_United_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:33.000Z"
+    },
+    {
+     "text": "/wikipedia/en/PresidentOfTheUnitedStates",
+     "lang": "",
+     "value": "/wikipedia/en/PresidentOfTheUnitedStates",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:37.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States$002FPresident",
+     "lang": "",
+     "value": "/wikipedia/en/United_States$002FPresident",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:39.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidency_of_the_united_states",
+     "lang": "",
+     "value": "/wikipedia/en/Presidency_of_the_united_states",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_united_states_of_america",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_united_states_of_america",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:45.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidency_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/Presidency_of_the_United_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Potus",
+     "lang": "",
+     "value": "/wikipedia/en/Potus",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_$0028USA$0029",
+     "lang": "",
+     "value": "/wikipedia/en/President_$0028USA$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:24:59.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:03.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_head_of_state",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_head_of_state",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:09.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:13.000Z"
+    },
+    {
+     "text": "/wikipedia/en/US_presidential",
+     "lang": "",
+     "value": "/wikipedia/en/US_presidential",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:15.000Z"
+    },
+    {
+     "text": "/wikipedia/en/US_presidency",
+     "lang": "",
+     "value": "/wikipedia/en/US_presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:19.000Z"
+    },
+    {
+     "text": "/wikipedia/en/American_president",
+     "lang": "",
+     "value": "/wikipedia/en/American_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:22.001Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES_President",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:24.000Z"
+    },
+    {
+     "text": "/wikipedia/en/USA_President",
+     "lang": "",
+     "value": "/wikipedia/en/USA_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:30.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_usa",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_usa",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:37.001Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_president",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/US_President",
+     "lang": "",
+     "value": "/wikipedia/en/US_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/American_Presidency",
+     "lang": "",
+     "value": "/wikipedia/en/American_Presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_Presidential_trivia",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_Presidential_trivia",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:25:57.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_presidency",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:01.000Z"
+    },
+    {
+     "text": "/wikipedia/en/P$002EO$002ET$002EU$002ES",
+     "lang": "",
+     "value": "/wikipedia/en/P$002EO$002ET$002EU$002ES",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:08.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_U$002E_S$002E_President",
+     "lang": "",
+     "value": "/wikipedia/en/The_U$002E_S$002E_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:10.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:16.000Z"
+    },
+    {
+     "text": "/wikipedia/en/US_president",
+     "lang": "",
+     "value": "/wikipedia/en/US_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:20.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_president",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:23.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Unelected_US_Presidents",
+     "lang": "",
+     "value": "/wikipedia/en/Unelected_US_Presidents",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:27.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_administrations",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_administrations",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:33.001Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_Presidency",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_Presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:44.000Z"
+    },
+    {
+     "text": "/wikipedia/en/American_presidency",
+     "lang": "",
+     "value": "/wikipedia/en/American_presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_united_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_united_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:50.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_$0028US$0029",
+     "lang": "",
+     "value": "/wikipedia/en/President_$0028US$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:55.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Potusoa",
+     "lang": "",
+     "value": "/wikipedia/en/Potusoa",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:26:59.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_USA",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_USA",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:04.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_President",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:07.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Current_President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/Current_President_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:10.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidents_of_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/Presidents_of_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:15.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_president_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/The_president_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:20.002Z"
+    },
+    {
+     "text": "/wikipedia/en/President_$0028U$002ES$002E$0029",
+     "lang": "",
+     "value": "/wikipedia/en/President_$0028U$002ES$002E$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:25.002Z"
+    },
+    {
+     "text": "/wikipedia/en/PotUS",
+     "lang": "",
+     "value": "/wikipedia/en/PotUS",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:28.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_Presidency",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_Presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:32.001Z"
+    },
+    {
+     "text": "/wikipedia/en/US_Prez",
+     "lang": "",
+     "value": "/wikipedia/en/US_Prez",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:41.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_$0028United_States$0029",
+     "lang": "",
+     "value": "/wikipedia/en/President_$0028United_States$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/POTUS",
+     "lang": "",
+     "value": "/wikipedia/en/POTUS",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:50.001Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_head_of_government",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_head_of_government",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President-incumbent_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President-incumbent_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:27:58.000Z"
+    },
+    {
+     "text": "/wikipedia/en/US_Presidency",
+     "lang": "",
+     "value": "/wikipedia/en/US_Presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:01.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_President_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/The_President_of_the_United_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:03.001Z"
+    },
+    {
+     "text": "/wikipedia/en/P$002EO$002ET$002EU$002ES$002E",
+     "lang": "",
+     "value": "/wikipedia/en/P$002EO$002ET$002EU$002ES$002E",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:06.001Z"
+    },
+    {
+     "text": "/wikipedia/en/The_US_president",
+     "lang": "",
+     "value": "/wikipedia/en/The_US_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:12.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_US",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_US",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:15.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_$0028United_States_of_America$0029",
+     "lang": "",
+     "value": "/wikipedia/en/President_$0028United_States_of_America$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:21.001Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_The_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_The_United_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:23.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_to_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_to_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:25.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States_President",
+     "lang": "",
+     "value": "/wikipedia/en/United_States_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:29.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_states_presidency",
+     "lang": "",
+     "value": "/wikipedia/en/United_states_presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_presidency",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_presidency",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:42.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Commander-in-Chief_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/Commander-in-Chief_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:44.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidents_Of_The_United_States_Of_America",
+     "lang": "",
+     "value": "/wikipedia/en/Presidents_Of_The_United_States_Of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:50.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Presidential_salary",
+     "lang": "",
+     "value": "/wikipedia/en/Presidential_salary",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:54.002Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_usa",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_usa",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:28:59.000Z"
+    },
+    {
+     "text": "/wikipedia/en/U$002ES$002E_Presidential",
+     "lang": "",
+     "value": "/wikipedia/en/U$002ES$002E_Presidential",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:01.002Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_USA",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_USA",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:06.000Z"
+    },
+    {
+     "text": "/wikipedia/en/American_President",
+     "lang": "",
+     "value": "/wikipedia/en/American_President",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:09.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_Of_The_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/President_Of_The_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:13.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Us_president",
+     "lang": "",
+     "value": "/wikipedia/en/Us_president",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:17.002Z"
+    },
+    {
+     "text": "/wikipedia/en/The_President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/en/The_President_of_the_United_States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:21.004Z"
+    },
+    {
+     "text": "/wikipedia/en/Unelected_US_presidents",
+     "lang": "",
+     "value": "/wikipedia/en/Unelected_US_presidents",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:25.000Z"
+    },
+    {
+     "text": "/wikipedia/en/United_States$002FPresidents",
+     "lang": "",
+     "value": "/wikipedia/en/United_States$002FPresidents",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:28.000Z"
+    },
+    {
+     "text": "/wikipedia/en/The_Presidents_Of_The_United_States_Of_America",
+     "lang": "",
+     "value": "/wikipedia/en/The_Presidents_Of_The_United_States_Of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:32.000Z"
+    },
+    {
+     "text": "/wikipedia/en/President_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/en/President_of_the_United_States_of_America",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-11-02T18:29:36.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Amerikanske_presidenten",
+     "lang": "",
+     "value": "/wikipedia/no/Amerikanske_presidenten",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:30.004Z"
+    },
+    {
+     "text": "/wikipedia/hr_id/43253",
+     "lang": "",
+     "value": "/wikipedia/hr_id/43253",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:35.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_Stati_Uniti_d$2019America",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_Stati_Uniti_d$2019America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:37.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$7F8E$5229$575A$5408$4F17$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$7F8E$5229$575A$5408$4F17$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:37.006Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_t$01B0_l$1EC7nh_L$1EE5c_qu$00E2n_v$00E0_H$1EA3i_qu$00E2n_Hoa_K$1EF3",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_t$01B0_l$1EC7nh_L$1EE5c_qu$00E2n_v$00E0_H$1EA3i_qu$00E2n_Hoa_K$1EF3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:38.001Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629",
+     "lang": "",
+     "value": "/wikipedia/ar/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:38.005Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$0410$0429",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$043D$0430_$0421$0410$0429",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:39.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_EE_UU",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_EE_UU",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:40.003Z"
+    },
+    {
+     "text": "/wikipedia/hu/Amerikai_eln$00F6k",
+     "lang": "",
+     "value": "/wikipedia/hu/Amerikai_eln$00F6k",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:40.004Z"
+    },
+    {
+     "text": "/wikipedia/sv/Amerikas_Presidenter",
+     "lang": "",
+     "value": "/wikipedia/sv/Amerikas_Presidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:41.002Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidencia_de_los_EE$002EUU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidencia_de_los_EE$002EUU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:42.006Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edintele_american",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edintele_american",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:43.003Z"
+    },
+    {
+     "text": "/wikipedia/no/Amerikansk_president",
+     "lang": "",
+     "value": "/wikipedia/no/Amerikansk_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:43.009Z"
+    },
+    {
+     "text": "/wikipedia/nl/President_van_de_Verenigde_Staten",
+     "lang": "",
+     "value": "/wikipedia/nl/President_van_de_Verenigde_Staten",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:43.009Z"
+    },
+    {
+     "text": "/wikipedia/nl/President_van_de_VS",
+     "lang": "",
+     "value": "/wikipedia/nl/President_van_de_VS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:44.001Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0627$0644$0631$0626$064A$0633_$0627$0644$0623$0645$0631$064A$0643$064A",
+     "lang": "",
+     "value": "/wikipedia/ar/$0627$0644$0631$0626$064A$0633_$0627$0644$0623$0645$0631$064A$0643$064A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:44.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:44.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:44.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:44.009Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/President_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca_title/President_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedintele_Statelor_Unite_ale_Americii",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedintele_Statelor_Unite_ale_Americii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:45.001Z"
+    },
+    {
+     "text": "/wikipedia/de/Pr$00E4sident_der_Vereinigten_Staaten_von_Amerika",
+     "lang": "",
+     "value": "/wikipedia/de/Pr$00E4sident_der_Vereinigten_Staaten_von_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:45.001Z"
+    },
+    {
+     "text": "/wikipedia/da/List_over_amerikanske_pr$00E6sidenter",
+     "lang": "",
+     "value": "/wikipedia/da/List_over_amerikanske_pr$00E6sidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:45.004Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:45.004Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edintele_SUA",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edintele_SUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:49.000Z"
+    },
+    {
+     "text": "/wikipedia/sk_id/52156",
+     "lang": "",
+     "value": "/wikipedia/sk_id/52156",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:49.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Pr$00E9sident_des_Etats-Unis",
+     "lang": "",
+     "value": "/wikipedia/fr/Pr$00E9sident_des_Etats-Unis",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:50.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_Hoa_K$1EF3",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_Hoa_K$1EF3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:50.001Z"
+    },
+    {
+     "text": "/wikipedia/lt_title/Jungtini$0173_Amerikos_Valstij$0173_prezidentas",
+     "lang": "",
+     "value": "/wikipedia/lt_title/Jungtini$0173_Amerikos_Valstij$0173_prezidentas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:50.001Z"
+    },
+    {
+     "text": "/wikipedia/fr/President_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/fr/President_of_the_United_States_of_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:50.001Z"
+    },
+    {
+     "text": "/wikipedia/ar/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629_$0627$0644$0623$0645$0631$064A$0643$064A$0629",
+     "lang": "",
+     "value": "/wikipedia/ar/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629_$0627$0644$0623$0645$0631$064A$0643$064A$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:50.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:51.000Z"
+    },
+    {
+     "text": "/wikipedia/no/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/no/President_of_the_United_States",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:51.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidencia_de_los_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidencia_de_los_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:51.004Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "lang": "",
+     "value": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:51.005Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_c$1EE7a_Hoa_K$1EF3",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_c$1EE7a_Hoa_K$1EF3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:51.008Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_estadounidense",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_estadounidense",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:52.004Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedinte_al_Statelor_Unite",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedinte_al_Statelor_Unite",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:53.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedinte_al_Statelor_Unite_ale_Americii",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedinte_al_Statelor_Unite_ale_Americii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:53.001Z"
+    },
+    {
+     "text": "/wikipedia/hr_title/Predsjednik_Sjedinjenih_Ameri$010Dkih_Dr$017Eava",
+     "lang": "",
+     "value": "/wikipedia/hr_title/Predsjednik_Sjedinjenih_Ameri$010Dkih_Dr$017Eava",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:53.003Z"
+    },
+    {
+     "text": "/wikipedia/fi/Yhdysvaltain_presidentti",
+     "lang": "",
+     "value": "/wikipedia/fi/Yhdysvaltain_presidentti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:54.001Z"
+    },
+    {
+     "text": "/wikipedia/lv_title/ASV_prezidents",
+     "lang": "",
+     "value": "/wikipedia/lv_title/ASV_prezidents",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:54.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:54.002Z"
+    },
+    {
+     "text": "/wikipedia/da/Pr$00E6sident_$0028USA$0029",
+     "lang": "",
+     "value": "/wikipedia/da/Pr$00E6sident_$0028USA$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:55.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Amerikaanse_president",
+     "lang": "",
+     "value": "/wikipedia/nl/Amerikaanse_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:55.001Z"
+    },
+    {
+     "text": "/wikipedia/cs/Prezident_USA",
+     "lang": "",
+     "value": "/wikipedia/cs/Prezident_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:56.000Z"
+    },
+    {
+     "text": "/wikipedia/da_id/14756",
+     "lang": "",
+     "value": "/wikipedia/da_id/14756",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:56.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:56.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.000Z"
+    },
+    {
+     "text": "/wikipedia/hr/Predsjednik_Sjedinjenih_Ameri$010Dkih_Dr$017Eava",
+     "lang": "",
+     "value": "/wikipedia/hr/Predsjednik_Sjedinjenih_Ameri$010Dkih_Dr$017Eava",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.000Z"
+    },
+    {
+     "text": "/wikipedia/ro_id/76171",
+     "lang": "",
+     "value": "/wikipedia/ro_id/76171",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.001Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/5645",
+     "lang": "",
+     "value": "/wikipedia/vi_id/5645",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.004Z"
+    },
+    {
+     "text": "/wikipedia/da_title/Amerikanske_pr$00E6sidenter",
+     "lang": "",
+     "value": "/wikipedia/da_title/Amerikanske_pr$00E6sidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.004Z"
+    },
+    {
+     "text": "/wikipedia/lt/JAV_prezidentas",
+     "lang": "",
+     "value": "/wikipedia/lt/JAV_prezidentas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:57.005Z"
+    },
+    {
+     "text": "/wikipedia/no/President_i_USA",
+     "lang": "",
+     "value": "/wikipedia/no/President_i_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.000Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_Th$1ED1ng_Hoa_K$1EF3",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_Th$1ED1ng_Hoa_K$1EF3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.001Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedintele_american",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedintele_american",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.003Z"
+    },
+    {
+     "text": "/wikipedia/ro/POTUS",
+     "lang": "",
+     "value": "/wikipedia/ro/POTUS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.003Z"
+    },
+    {
+     "text": "/wikipedia/cs/Impeachment",
+     "lang": "",
+     "value": "/wikipedia/cs/Impeachment",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.004Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$BBF8$AD6D$C758_$B300$D1B5$B839",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$BBF8$AD6D$C758_$B300$D1B5$B839",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.005Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_actual_de_los_Estados_Unidos_de_America",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_actual_de_los_Estados_Unidos_de_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:58.006Z"
+    },
+    {
+     "text": "/wikipedia/sv/USA$003A_s_president",
+     "lang": "",
+     "value": "/wikipedia/sv/USA$003A_s_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.000Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043F$043E$043B$0443$0447$0435$043D$0438$0445_$0428$0442$0430$0442$0456$0432",
+     "lang": "",
+     "value": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043F$043E$043B$0443$0447$0435$043D$0438$0445_$0428$0442$0430$0442$0456$0432",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.003Z"
+    },
+    {
+     "text": "/wikipedia/lt_id/91589",
+     "lang": "",
+     "value": "/wikipedia/lt_id/91589",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.003Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/Prezident_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "lang": "",
+     "value": "/wikipedia/cs_title/Prezident_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.004Z"
+    },
+    {
+     "text": "/wikipedia/tr/Amerika_birle$015Fik_devletleri_ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/Amerika_birle$015Fik_devletleri_ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:12:59.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$7F8E$5229$5805$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$7F8E$5229$5805$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:00.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidencia_de_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidencia_de_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.001Z"
+    },
+    {
+     "text": "/wikipedia/ms/Presiden_AS",
+     "lang": "",
+     "value": "/wikipedia/ms/Presiden_AS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.002Z"
+    },
+    {
+     "text": "/wikipedia/ms_title/Presiden_Amerika_Syarikat",
+     "lang": "",
+     "value": "/wikipedia/ms_title/Presiden_Amerika_Syarikat",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.003Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidente_norte-americano",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidente_norte-americano",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.003Z"
+    },
+    {
+     "text": "/wikipedia/hu/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6kei",
+     "lang": "",
+     "value": "/wikipedia/hu/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6kei",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$7F8E$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$7F8E$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.004Z"
+    },
+    {
+     "text": "/wikipedia/sv/USAs_president",
+     "lang": "",
+     "value": "/wikipedia/sv/USAs_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:02.005Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presid$00EAncia_dos_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/pt/Presid$00EAncia_dos_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:03.003Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/3713",
+     "lang": "",
+     "value": "/wikipedia/cs_id/3713",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:03.004Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_EE_UU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_EE_UU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:03.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.001Z"
+    },
+    {
+     "text": "/wikipedia/ja/$7C73$56FD$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja/$7C73$56FD$5927$7D71$9818",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.001Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "lang": "",
+     "value": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.003Z"
+    },
+    {
+     "text": "/wikipedia/no/Presidenten_i_USA",
+     "lang": "",
+     "value": "/wikipedia/no/Presidenten_i_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.004Z"
+    },
+    {
+     "text": "/wikipedia/fi/POTUS",
+     "lang": "",
+     "value": "/wikipedia/fi/POTUS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.007Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:04.008Z"
+    },
+    {
+     "text": "/wikipedia/ja/$7C73$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja/$7C73$5927$7D71$9818",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.002Z"
+    },
+    {
+     "text": "/wikipedia/lt/Jungtini$0173_Valstij$0173_prezidentas",
+     "lang": "",
+     "value": "/wikipedia/lt/Jungtini$0173_Valstij$0173_prezidentas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.003Z"
+    },
+    {
+     "text": "/wikipedia/cs/President_USA",
+     "lang": "",
+     "value": "/wikipedia/cs/President_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.003Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/82981",
+     "lang": "",
+     "value": "/wikipedia/nl_id/82981",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.003Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$0430_$043D$0430_$0421$0410$0429",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$0430_$043D$0430_$0421$0410$0429",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.006Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedinte_al_SUA",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedinte_al_SUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.007Z"
+    },
+    {
+     "text": "/wikipedia/fr/President_des_Etats-Unis",
+     "lang": "",
+     "value": "/wikipedia/fr/President_des_Etats-Unis",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.007Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/President_van_de_Verenigde_Staten",
+     "lang": "",
+     "value": "/wikipedia/nl_title/President_van_de_Verenigde_Staten",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:05.007Z"
+    },
+    {
+     "text": "/wikipedia/no/Amerikas_president",
+     "lang": "",
+     "value": "/wikipedia/no/Amerikas_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:06.004Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/10585",
+     "lang": "",
+     "value": "/wikipedia/ca_id/10585",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:06.008Z"
+    },
+    {
+     "text": "/wikipedia/ca/Llista_dels_presidents_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca/Llista_dels_presidents_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:06.010Z"
+    },
+    {
+     "text": "/wikipedia/nl/Amerikaanse_President",
+     "lang": "",
+     "value": "/wikipedia/nl/Amerikaanse_President",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:10.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0410$043C$0435$0440$0438$0447$043A$0438_$043F$0440$0435$0434$0441$0435$0434$043D$0438$043A",
+     "lang": "",
+     "value": "/wikipedia/sr/$0410$043C$0435$0440$0438$0447$043A$0438_$043F$0440$0435$0434$0441$0435$0434$043D$0438$043A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:10.003Z"
+    },
+    {
+     "text": "/wikipedia/fr/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/fr/President_of_the_United_States",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:10.004Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/ro/President_of_the_United_States",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.000Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/Amerika_Birle$015Fik_Devletleri_Ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr_title/Amerika_Birle$015Fik_Devletleri_Ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.004Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BBF8$AD6D_$B300$D1B5$B839",
+     "lang": "",
+     "value": "/wikipedia/ko/$BBF8$AD6D_$B300$D1B5$B839",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.004Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/12471",
+     "lang": "",
+     "value": "/wikipedia/ko_id/12471",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.006Z"
+    },
+    {
+     "text": "/wikipedia/fr/Pr$00E9sident_des_$00C9tats-Unis_d$0027Am$00E9rique",
+     "lang": "",
+     "value": "/wikipedia/fr/Pr$00E9sident_des_$00C9tats-Unis_d$0027Am$00E9rique",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.006Z"
+    },
+    {
+     "text": "/wikipedia/da/Amerikanske_Pr$00E6sidenter",
+     "lang": "",
+     "value": "/wikipedia/da/Amerikanske_Pr$00E6sidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:11.007Z"
+    },
+    {
+     "text": "/wikipedia/sl/Predsednik_Zdru$017Eenih_dr$017Eav_Amerike",
+     "lang": "",
+     "value": "/wikipedia/sl/Predsednik_Zdru$017Eenih_dr$017Eav_Amerike",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.001Z"
+    },
+    {
+     "text": "/wikipedia/fr/Pr$00E9sident_des_$00E9tats-unis",
+     "lang": "",
+     "value": "/wikipedia/fr/Pr$00E9sident_des_$00E9tats-unis",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.001Z"
+    },
+    {
+     "text": "/wikipedia/fi/Yhdysvaltojen_presidentti",
+     "lang": "",
+     "value": "/wikipedia/fi/Yhdysvaltojen_presidentti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$4E9E$7F8E$5229$5805$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$4E9E$7F8E$5229$5805$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.003Z"
+    },
+    {
+     "text": "/wikipedia/cs/President_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "lang": "",
+     "value": "/wikipedia/cs/President_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$4E9E$7F8E$5229$5805$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$4E9E$7F8E$5229$5805$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.007Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edintele_Statelor_Unite",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edintele_Statelor_Unite",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:12.009Z"
+    },
+    {
+     "text": "/wikipedia/lv/Asv_prezidenti",
+     "lang": "",
+     "value": "/wikipedia/lv/Asv_prezidenti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0410$0414",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0410$0414",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.003Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/163064",
+     "lang": "",
+     "value": "/wikipedia/uk_id/163064",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.007Z"
+    },
+    {
+     "text": "/wikipedia/da/Pr$00E6sident_i_USA",
+     "lang": "",
+     "value": "/wikipedia/da/Pr$00E6sident_i_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.009Z"
+    },
+    {
+     "text": "/wikipedia/nl/Presidenten_van_de_VS",
+     "lang": "",
+     "value": "/wikipedia/nl/Presidenten_van_de_VS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.010Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$044A$0442_$043D$0430_$0421$0410$0429",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$044A$0442_$043D$0430_$0421$0410$0429",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:13.010Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:14.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Amerikas_forente_staters_president",
+     "lang": "",
+     "value": "/wikipedia/no/Amerikas_forente_staters_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:14.001Z"
+    },
+    {
+     "text": "/wikipedia/vi/$00D4ng_ch$1EE7_To$00E0_B$1EA1ch_$1ED0c",
+     "lang": "",
+     "value": "/wikipedia/vi/$00D4ng_ch$1EE7_To$00E0_B$1EA1ch_$1ED0c",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:14.002Z"
+    },
+    {
+     "text": "/wikipedia/ro_title/Pre$0219edinte_al_Statelor_Unite_ale_Americii",
+     "lang": "",
+     "value": "/wikipedia/ro_title/Pre$0219edinte_al_Statelor_Unite_ale_Americii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:14.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_USA",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.000Z"
+    },
+    {
+     "text": "/wikipedia/sk/Prezident_USA",
+     "lang": "",
+     "value": "/wikipedia/sk/Prezident_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.002Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "lang": "",
+     "value": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10$0E2D$0E40$0E21$0E23$0E34$0E01$0E32",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.002Z"
+    },
+    {
+     "text": "/wikipedia/sr/President_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/sr/President_of_the_United_States_of_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:15.007Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/1594",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/1594",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:17.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.000Z"
+    },
+    {
+     "text": "/wikipedia/lv/Amerikas_Savienoto_Valstu_prezidents",
+     "lang": "",
+     "value": "/wikipedia/lv/Amerikas_Savienoto_Valstu_prezidents",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$7F8E$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$7F8E$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_Stati_Uniti",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_Stati_Uniti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.003Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edinte_al_Statelor_Unite",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edinte_al_Statelor_Unite",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.003Z"
+    },
+    {
+     "text": "/wikipedia/ar_title/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629",
+     "lang": "",
+     "value": "/wikipedia/ar_title/$0631$0626$064A$0633_$0627$0644$0648$0644$0627$064A$0627$062A_$0627$0644$0645$062A$062D$062F$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:18.004Z"
+    },
+    {
+     "text": "/wikipedia/nl/President_van_de_Verenigde_Staten_van_Amerika",
+     "lang": "",
+     "value": "/wikipedia/nl/President_van_de_Verenigde_Staten_van_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/Americk$00FD_prezident",
+     "lang": "",
+     "value": "/wikipedia/cs/Americk$00FD_prezident",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/1594",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/1594",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.002Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.002Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_Estados_Unidos_de_America",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_Estados_Unidos_de_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.002Z"
+    },
+    {
+     "text": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043F$043E$043B$0443$0447$0435$043D$0438$0445_$0428$0442$0430$0442$0456$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "lang": "",
+     "value": "/wikipedia/uk/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043F$043E$043B$0443$0447$0435$043D$0438$0445_$0428$0442$0430$0442$0456$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.004Z"
+    },
+    {
+     "text": "/wikipedia/sv/Amerikanska_presidenter",
+     "lang": "",
+     "value": "/wikipedia/sv/Amerikanska_presidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:19.005Z"
+    },
+    {
+     "text": "/wikipedia/ar_id/1047383",
+     "lang": "",
+     "value": "/wikipedia/ar_id/1047383",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.001Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0410$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438$0439_$043F$0440$0435$0437$0438$0434$0435$043D$0442",
+     "lang": "",
+     "value": "/wikipedia/ru/$0410$043C$0435$0440$0438$043A$0430$043D$0441$043A$0438$0439_$043F$0440$0435$0437$0438$0434$0435$043D$0442",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.003Z"
+    },
+    {
+     "text": "/wikipedia/pt/Elei$00E7$00F5es_presidenciais_norte-americanas",
+     "lang": "",
+     "value": "/wikipedia/pt/Elei$00E7$00F5es_presidenciais_norte-americanas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.003Z"
+    },
+    {
+     "text": "/wikipedia/th_id/9702",
+     "lang": "",
+     "value": "/wikipedia/th_id/9702",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.003Z"
+    },
+    {
+     "text": "/wikipedia/cs/Seznam_p$0159edstavitel$016F_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "lang": "",
+     "value": "/wikipedia/cs/Seznam_p$0159edstavitel$016F_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.004Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043E$0435$0434$0438$043D$0451$043D$043D$044B$0445_$0428$0442$0430$0442$043E$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043E$0435$0434$0438$043D$0451$043D$043D$044B$0445_$0428$0442$0430$0442$043E$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:20.007Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidente_dos_Estados_Unidos_da_Am$00E9rica",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidente_dos_Estados_Unidos_da_Am$00E9rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:21.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$7F8E$5229$575A$5408$4F17$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$7F8E$5229$575A$5408$4F17$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:21.006Z"
+    },
+    {
+     "text": "/wikipedia/ca/Presidents_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca/Presidents_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:22.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_stati_uniti",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_stati_uniti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:22.003Z"
+    },
+    {
+     "text": "/wikipedia/hu/Az_USA_eln$00F6kei",
+     "lang": "",
+     "value": "/wikipedia/hu/Az_USA_eln$00F6kei",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:22.006Z"
+    },
+    {
+     "text": "/wikipedia/da/Amerikanske_pr$00E6sidenter",
+     "lang": "",
+     "value": "/wikipedia/da/Amerikanske_pr$00E6sidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.001Z"
+    },
+    {
+     "text": "/wikipedia/hr/Ameri$010Dki_predsjednik",
+     "lang": "",
+     "value": "/wikipedia/hr/Ameri$010Dki_predsjednik",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.003Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.004Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0410$043C$0435$0440$0438$0447$043A$0438_$043F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A",
+     "lang": "",
+     "value": "/wikipedia/sr/$0410$043C$0435$0440$0438$0447$043A$0438_$043F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.004Z"
+    },
+    {
+     "text": "/wikipedia/lv_id/31841",
+     "lang": "",
+     "value": "/wikipedia/lv_id/31841",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:23.008Z"
+    },
+    {
+     "text": "/wikipedia/sv/F$00F6renta_staternas_president",
+     "lang": "",
+     "value": "/wikipedia/sv/F$00F6renta_staternas_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:27.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Potus",
+     "lang": "",
+     "value": "/wikipedia/sv/Potus",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:28.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:28.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Yhdysvaltain_presidentit",
+     "lang": "",
+     "value": "/wikipedia/fi/Yhdysvaltain_presidentit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:28.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:28.005Z"
+    },
+    {
+     "text": "/wikipedia/sv/USA$003As_president",
+     "lang": "",
+     "value": "/wikipedia/sv/USA$003As_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:28.007Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$0428$0410",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:29.001Z"
+    },
+    {
+     "text": "/wikipedia/pl/Prezydent_Stan$00F3w_Zjednoczonych",
+     "lang": "",
+     "value": "/wikipedia/pl/Prezydent_Stan$00F3w_Zjednoczonych",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:29.004Z"
+    },
+    {
+     "text": "/wikipedia/sv/Amerikanska_Presidenter",
+     "lang": "",
+     "value": "/wikipedia/sv/Amerikanska_Presidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:29.007Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/305462",
+     "lang": "",
+     "value": "/wikipedia/pl_id/305462",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:30.002Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidenza_degli_Stati_Uniti",
+     "lang": "",
+     "value": "/wikipedia/it/Presidenza_degli_Stati_Uniti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:30.003Z"
+    },
+    {
+     "text": "/wikipedia/sv/Amerikanska_presidenten",
+     "lang": "",
+     "value": "/wikipedia/sv/Amerikanska_presidenten",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:31.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_actual_de_estados_unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_actual_de_estados_unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:31.001Z"
+    },
+    {
+     "text": "/wikipedia/sl/Predsednik_ZDA",
+     "lang": "",
+     "value": "/wikipedia/sl/Predsednik_ZDA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:31.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_Estados_Unidos_de_Am$00E9rica",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_Estados_Unidos_de_Am$00E9rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:31.002Z"
+    },
+    {
+     "text": "/wikipedia/sv/USA$002FPresidenter",
+     "lang": "",
+     "value": "/wikipedia/sv/USA$002FPresidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:32.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BBF8$AD6D$C758_$B300$D1B5$B839",
+     "lang": "",
+     "value": "/wikipedia/ko/$BBF8$AD6D$C758_$B300$D1B5$B839",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:33.003Z"
+    },
+    {
+     "text": "/wikipedia/ca/President_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca/President_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:34.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:34.006Z"
+    },
+    {
+     "text": "/wikipedia/sv/Amerikansk_president",
+     "lang": "",
+     "value": "/wikipedia/sv/Amerikansk_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:35.002Z"
+    },
+    {
+     "text": "/wikipedia/fr/Pr$00E9sident_am$00E9ricain",
+     "lang": "",
+     "value": "/wikipedia/fr/Pr$00E9sident_am$00E9ricain",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:35.004Z"
+    },
+    {
+     "text": "/wikipedia/no/Den_amerikanske_presidenten",
+     "lang": "",
+     "value": "/wikipedia/no/Den_amerikanske_presidenten",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:35.005Z"
+    },
+    {
+     "text": "/wikipedia/lt/JAV_Prezidentas",
+     "lang": "",
+     "value": "/wikipedia/lt/JAV_Prezidentas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:36.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$7F8E$570B$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$7F8E$570B$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:36.004Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/8780",
+     "lang": "",
+     "value": "/wikipedia/hu_id/8780",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:36.005Z"
+    },
+    {
+     "text": "/wikipedia/ca/Presid$00E8ncia_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca/Presid$00E8ncia_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:36.005Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edinte_al_Statelor_Unite_ale_Americii",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edinte_al_Statelor_Unite_ale_Americii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:36.008Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/37828",
+     "lang": "",
+     "value": "/wikipedia/sv_id/37828",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:37.006Z"
+    },
+    {
+     "text": "/wikipedia/tr/ABD_Devlet_Ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/ABD_Devlet_Ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:37.007Z"
+    },
+    {
+     "text": "/wikipedia/pt/Elei$00E7$00F5es_presidenciais_americanas",
+     "lang": "",
+     "value": "/wikipedia/pt/Elei$00E7$00F5es_presidenciais_americanas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.001Z"
+    },
+    {
+     "text": "/wikipedia/lt/Jungtini$0173_Amerikos_Valstij$0173_prezidentas",
+     "lang": "",
+     "value": "/wikipedia/lt/Jungtini$0173_Amerikos_Valstij$0173_prezidentas",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.004Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C544$BA54$B9AC$CE74_$D569$C911$AD6D$C758_$B300$D1B5$B839",
+     "lang": "",
+     "value": "/wikipedia/ko/$C544$BA54$B9AC$CE74_$D569$C911$AD6D$C758_$B300$D1B5$B839",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.005Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_actual_de_los_Estados_Unidos_de_Am$00E9rica",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_actual_de_los_Estados_Unidos_de_Am$00E9rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.007Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/T$1ED5ng_th$1ED1ng_Hoa_K$1EF3",
+     "lang": "",
+     "value": "/wikipedia/vi_title/T$1ED5ng_th$1ED1ng_Hoa_K$1EF3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.007Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_EE$002EUU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_EE$002EUU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:38.008Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0410$043C$0435$0440$0438$043A$0435",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0458$0435$0434$043D$0438$043A_$0410$043C$0435$0440$0438$043A$0435",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:39.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$7F8E$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$7F8E$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:39.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/USA$003An_presidentti",
+     "lang": "",
+     "value": "/wikipedia/fi/USA$003An_presidentti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:39.001Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:42.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidentes_dos_EUA",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidentes_dos_EUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:43.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidente_dos_EUA",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidente_dos_EUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:43.001Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0410$0414",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0410$0414",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:43.004Z"
+    },
+    {
+     "text": "/wikipedia/sl_id/13910",
+     "lang": "",
+     "value": "/wikipedia/sl_id/13910",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:43.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$7F8E$5229$5805$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$7F8E$5229$5805$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:44.000Z"
+    },
+    {
+     "text": "/wikipedia/sr_title/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "lang": "",
+     "value": "/wikipedia/sr_title/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:44.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:45.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0410$043C$0435$0440$0438$0447$043A$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:45.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:45.007Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_eeuu",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_eeuu",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:46.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Prezydent_Stan$00F3w_Zjednoczonych",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Prezydent_Stan$00F3w_Zjednoczonych",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:46.008Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$7F8E$570B$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$7F8E$570B$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:47.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:47.001Z"
+    },
+    {
+     "text": "/wikipedia/ca/Llistat_de_presidents_dels_Estats_Units",
+     "lang": "",
+     "value": "/wikipedia/ca/Llistat_de_presidents_dels_Estats_Units",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:47.002Z"
+    },
+    {
+     "text": "/wikipedia/no_id/93224",
+     "lang": "",
+     "value": "/wikipedia/no_id/93224",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:47.005Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidente_americano",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidente_americano",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:47.005Z"
+    },
+    {
+     "text": "/wikipedia/tr/ABD_Ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/ABD_Ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:48.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/President_dels_Estats_Units_d$0027Am$00E8rica",
+     "lang": "",
+     "value": "/wikipedia/ca/President_dels_Estats_Units_d$0027Am$00E8rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:49.002Z"
+    },
+    {
+     "text": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043E$0435$0434$0438$043D$0435$043D$043D$044B$0445_$0428$0442$0430$0442$043E$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "lang": "",
+     "value": "/wikipedia/ru/$041F$0440$0435$0437$0438$0434$0435$043D$0442_$0421$043E$0435$0434$0438$043D$0435$043D$043D$044B$0445_$0428$0442$0430$0442$043E$0432_$0410$043C$0435$0440$0438$043A$0438",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:49.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:53.004Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/110474",
+     "lang": "",
+     "value": "/wikipedia/fa_id/110474",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:53.008Z"
+    },
+    {
+     "text": "/wikipedia/sk/Prezident_Spojen$00FDch_$0161t$00E1tov_americk$00FDch",
+     "lang": "",
+     "value": "/wikipedia/sk/Prezident_Spojen$00FDch_$0161t$00E1tov_americk$00FDch",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:54.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidencia_de_los_EE_UU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidencia_de_los_EE_UU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:54.003Z"
+    },
+    {
+     "text": "/wikipedia/da/USA$0027s_pr$00E6sidenter",
+     "lang": "",
+     "value": "/wikipedia/da/USA$0027s_pr$00E6sidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:54.004Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0410$043C$0435$0440$0438$043A$0430$043D$0441$044C$043A$0438$0439_$043F$0440$0435$0437$0438$0434$0435$043D$0442",
+     "lang": "",
+     "value": "/wikipedia/uk/$0410$043C$0435$0440$0438$043A$0430$043D$0441$044C$043A$0438$0439_$043F$0440$0435$0437$0438$0434$0435$043D$0442",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:55.005Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0421$0458$0435$0434$0438$045A$0435$043D$0438$0445_$0414$0440$0436$0430$0432$0430",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:56.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/1394",
+     "lang": "",
+     "value": "/wikipedia/fi_id/1394",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:56.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:57.000Z"
+    },
+    {
+     "text": "/wikipedia/no/POTUS",
+     "lang": "",
+     "value": "/wikipedia/no/POTUS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:57.001Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edinte_al_SUA",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edinte_al_SUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:57.003Z"
+    },
+    {
+     "text": "/wikipedia/vi/POTUS",
+     "lang": "",
+     "value": "/wikipedia/vi/POTUS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/President_estatunidenc",
+     "lang": "",
+     "value": "/wikipedia/ca/President_estatunidenc",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.002Z"
+    },
+    {
+     "text": "/wikipedia/sv/USA$003As_presidenter",
+     "lang": "",
+     "value": "/wikipedia/sv/USA$003As_presidenter",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_EEUU",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_EEUU",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.007Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presidentes_dos_Estados_Unidos_da_Am$00E9rica",
+     "lang": "",
+     "value": "/wikipedia/pt/Presidentes_dos_Estados_Unidos_da_Am$00E9rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.007Z"
+    },
+    {
+     "text": "/wikipedia/de/US-Pr$00E4sident",
+     "lang": "",
+     "value": "/wikipedia/de/US-Pr$00E4sident",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:58.009Z"
+    },
+    {
+     "text": "/wikipedia/ms/Presiden_Amerika_Syarikat",
+     "lang": "",
+     "value": "/wikipedia/ms/Presiden_Amerika_Syarikat",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:59.004Z"
+    },
+    {
+     "text": "/wikipedia/tr/Amerika_Birle$015Fik_Devletleri_Ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/Amerika_Birle$015Fik_Devletleri_Ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:13:59.008Z"
+    },
+    {
+     "text": "/wikipedia/lv/ASV_prezidents",
+     "lang": "",
+     "value": "/wikipedia/lv/ASV_prezidents",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:00.000Z"
+    },
+    {
+     "text": "/wikipedia/hr/Predsjednik_SAD-a",
+     "lang": "",
+     "value": "/wikipedia/hr/Predsjednik_SAD-a",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:00.002Z"
+    },
+    {
+     "text": "/wikipedia/vi/$00D4ng_ch$1EE7_T$00F2a_B$1EA1ch_$1ED0c",
+     "lang": "",
+     "value": "/wikipedia/vi/$00D4ng_ch$1EE7_T$00F2a_B$1EA1ch_$1ED0c",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:01.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:01.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$7F8E$5229$5805$5408$773E$570B$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$7F8E$5229$5805$5408$773E$570B$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:01.004Z"
+    },
+    {
+     "text": "/wikipedia/ca/President_dels_EUA",
+     "lang": "",
+     "value": "/wikipedia/ca/President_dels_EUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:01.005Z"
+    },
+    {
+     "text": "/wikipedia/lv/ASV_Prezidents",
+     "lang": "",
+     "value": "/wikipedia/lv/ASV_Prezidents",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:02.001Z"
+    },
+    {
+     "text": "/wikipedia/tr/ABD_ba$015Fkanl$0131$011F$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/ABD_ba$015Fkanl$0131$011F$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:02.002Z"
+    },
+    {
+     "text": "/wikipedia/sk_title/Prezident_Spojen$00FDch_$0161t$00E1tov",
+     "lang": "",
+     "value": "/wikipedia/sk_title/Prezident_Spojen$00FDch_$0161t$00E1tov",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:02.004Z"
+    },
+    {
+     "text": "/wikipedia/sl_title/Predsednik_Zdru$017Eenih_dr$017Eav_Amerike",
+     "lang": "",
+     "value": "/wikipedia/sl_title/Predsednik_Zdru$017Eenih_dr$017Eav_Amerike",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:02.006Z"
+    },
+    {
+     "text": "/wikipedia/tr/ABD_ba$015Fkan$0131",
+     "lang": "",
+     "value": "/wikipedia/tr/ABD_ba$015Fkan$0131",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:03.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:03.004Z"
+    },
+    {
+     "text": "/wikipedia/lv/Amerikas_Savienoto_Valstu_prezidenti",
+     "lang": "",
+     "value": "/wikipedia/lv/Amerikas_Savienoto_Valstu_prezidenti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:05.002Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_M$1EF9",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_th$1ED1ng_M$1EF9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:05.006Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/USA$003As_president",
+     "lang": "",
+     "value": "/wikipedia/sv_title/USA$003As_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:06.002Z"
+    },
+    {
+     "text": "/wikipedia/ro/Presedinte_al_SUA",
+     "lang": "",
+     "value": "/wikipedia/ro/Presedinte_al_SUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:06.003Z"
+    },
+    {
+     "text": "/wikipedia/no_title/USAs_president",
+     "lang": "",
+     "value": "/wikipedia/no_title/USAs_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:07.003Z"
+    },
+    {
+     "text": "/wikipedia/nl/Amerikaanse_presidentschap",
+     "lang": "",
+     "value": "/wikipedia/nl/Amerikaanse_presidentschap",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:07.005Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_EE_UU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_EE_UU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:07.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:07.005Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedintele_Statelor_Unite",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedintele_Statelor_Unite",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.002Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presid$00EAncia_dos_EUA",
+     "lang": "",
+     "value": "/wikipedia/pt/Presid$00EAncia_dos_EUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.002Z"
+    },
+    {
+     "text": "/wikipedia/de/POTUS",
+     "lang": "",
+     "value": "/wikipedia/de/POTUS",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_estados_unidos",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_estados_unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.005Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5408$8846$56FD$306E$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5408$8846$56FD$306E$5927$7D71$9818",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.005Z"
+    },
+    {
+     "text": "/wikipedia/sr_id/242860",
+     "lang": "",
+     "value": "/wikipedia/sr_id/242860",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.006Z"
+    },
+    {
+     "text": "/wikipedia/pt/Presid$00EAncia_dos_Estados_Unidos_da_Am$00E9rica",
+     "lang": "",
+     "value": "/wikipedia/pt/Presid$00EAncia_dos_Estados_Unidos_da_Am$00E9rica",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:08.007Z"
+    },
+    {
+     "text": "/wikipedia/cs/Prezident_Spojen$00FDch_st$00E1t$016F",
+     "lang": "",
+     "value": "/wikipedia/cs/Prezident_Spojen$00FDch_st$00E1t$016F",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:09.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:09.002Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_los_EE_UU",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_los_EE_UU",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:09.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:09.007Z"
+    },
+    {
+     "text": "/wikipedia/ko/$BBF8$D569$C911$AD6D$C758_$B300$D1B5$B839",
+     "lang": "",
+     "value": "/wikipedia/ko/$BBF8$D569$C911$AD6D$C758_$B300$D1B5$B839",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:10.000Z"
+    },
+    {
+     "text": "/wikipedia/no/USAs_president",
+     "lang": "",
+     "value": "/wikipedia/no/USAs_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:11.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$7F8E$56FD$603B$7EDF",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$7F8E$56FD$603B$7EDF",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:11.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidente_de_EE$002EUU$002E",
+     "lang": "",
+     "value": "/wikipedia/es/Presidente_de_EE$002EUU$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:11.002Z"
+    },
+    {
+     "text": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0410$043C$0435$0440$0438$043A$0435",
+     "lang": "",
+     "value": "/wikipedia/sr/$041F$0440$0435$0434$0441$0435$0434$043D$0438$043A_$0410$043C$0435$0440$0438$043A$0435",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.000Z"
+    },
+    {
+     "text": "/wikipedia/ms_id/55684",
+     "lang": "",
+     "value": "/wikipedia/ms_id/55684",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.000Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6ke",
+     "lang": "",
+     "value": "/wikipedia/hu_title/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6ke",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.002Z"
+    },
+    {
+     "text": "/wikipedia/vi/T$1ED5ng_Th$1ED1ng_Hoa_K$00EC",
+     "lang": "",
+     "value": "/wikipedia/vi/T$1ED5ng_Th$1ED1ng_Hoa_K$00EC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.003Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0418$043D$0444$043E$0440$043C$0430$0446$0438$044F_$043E_$043F$0440$0435$0437$0438$0434$0435$043D$0442$0430$0445_$0421$0428$0410",
+     "lang": "",
+     "value": "/wikipedia/ru/$0418$043D$0444$043E$0440$043C$0430$0446$0438$044F_$043E_$043F$0440$0435$0437$0438$0434$0435$043D$0442$0430$0445_$0421$0428$0410",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:12.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:14.002Z"
+    },
+    {
+     "text": "/wikipedia/de/Pr$00E4sident_der_USA",
+     "lang": "",
+     "value": "/wikipedia/de/Pr$00E4sident_der_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:14.003Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10",
+     "lang": "",
+     "value": "/wikipedia/th/$0E1B$0E23$0E30$0E18$0E32$0E19$0E32$0E18$0E34$0E1A$0E14$0E35$0E2A$0E2B$0E23$0E31$0E10",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:14.007Z"
+    },
+    {
+     "text": "/wikipedia/sk/Prezident_Spojen$00FDch_$0161t$00E1tov",
+     "lang": "",
+     "value": "/wikipedia/sk/Prezident_Spojen$00FDch_$0161t$00E1tov",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:15.001Z"
+    },
+    {
+     "text": "/wikipedia/hu/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6ke",
+     "lang": "",
+     "value": "/wikipedia/hu/Az_Amerikai_Egyes$00FClt_$00C1llamok_eln$00F6ke",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:15.002Z"
+    },
+    {
+     "text": "/wikipedia/nl/President_van_Amerika",
+     "lang": "",
+     "value": "/wikipedia/nl/President_van_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:15.004Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$0219edintele_Statelor_Unite_ale_Americii",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$0219edintele_Statelor_Unite_ale_Americii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:18.008Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Yhdysvaltain_presidentti",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Yhdysvaltain_presidentti",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:18.010Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$7F8E$5229$5805$5408$773E$570B$7E3D$7D71",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$7F8E$5229$5805$5408$773E$570B$7E3D$7D71",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:19.003Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/445611",
+     "lang": "",
+     "value": "/wikipedia/tr_id/445611",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:20.005Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5927$7D71$9818",
+     "lang": "",
+     "value": "/wikipedia/ja/$30A2$30E1$30EA$30AB$5927$7D71$9818",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:20.007Z"
+    },
+    {
+     "text": "/wikipedia/vi/$00D4ng_ch$1EE7_Nh$00E0_Tr$1EAFng",
+     "lang": "",
+     "value": "/wikipedia/vi/$00D4ng_ch$1EE7_Nh$00E0_Tr$1EAFng",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:20.007Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:20.008Z"
+    },
+    {
+     "text": "/wikipedia/hr/Predsjednik_SAD",
+     "lang": "",
+     "value": "/wikipedia/hr/Predsjednik_SAD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:21.005Z"
+    },
+    {
+     "text": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$0438_$043D$0430_$0421$0410$0429",
+     "lang": "",
+     "value": "/wikipedia/bg/$041F$0440$0435$0437$0438$0434$0435$043D$0442$0438_$043D$0430_$0421$0410$0429",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:21.009Z"
+    },
+    {
+     "text": "/wikipedia/es/Presidencia_de_los_EE_UU",
+     "lang": "",
+     "value": "/wikipedia/es/Presidencia_de_los_EE_UU",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:22.001Z"
+    },
+    {
+     "text": "/wikipedia/ca/President_$0028USA$0029",
+     "lang": "",
+     "value": "/wikipedia/ca/President_$0028USA$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:23.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:27.002Z"
+    },
+    {
+     "text": "/wikipedia/da/Pr$00E6sidenter_i_USA",
+     "lang": "",
+     "value": "/wikipedia/da/Pr$00E6sidenter_i_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:29.003Z"
+    },
+    {
+     "text": "/wikipedia/sv/USA$003As_President",
+     "lang": "",
+     "value": "/wikipedia/sv/USA$003As_President",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:29.004Z"
+    },
+    {
+     "text": "/wikipedia/cs/Prezident_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "lang": "",
+     "value": "/wikipedia/cs/Prezident_Spojen$00FDch_st$00E1t$016F_americk$00FDch",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:29.009Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidente_degli_Usa",
+     "lang": "",
+     "value": "/wikipedia/it/Presidente_degli_Usa",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:30.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/Pre$015Fedintele_SUA",
+     "lang": "",
+     "value": "/wikipedia/ro/Pre$015Fedintele_SUA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T12:14:51.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:41.003Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:46.003Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA-$05D4$05D1$05E8$05D9$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA-$05D4$05D1$05E8$05D9$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:47.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:49.002Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05D4$0022$05D1",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05D4$0022$05D1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:50.008Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:51.001Z"
+    },
+    {
+     "text": "/wikipedia/he_id/1621",
+     "lang": "",
+     "value": "/wikipedia/he_id/1621",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:53.005Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:56.005Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:57.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:08:58.007Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633_$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:04.008Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D9_$05D0$05E8$05D4$0022$05D1",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D9_$05D0$05E8$05D4$0022$05D1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:06.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:06.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631$064A_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:07.006Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D9_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D9_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:12.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:14.005Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05E0$05E9$05D9$05D0_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:15.005Z"
+    },
+    {
+     "text": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D5$05EA_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05E0$05E9$05D9$05D0$05D5$05EA_$05D0$05E8$05E6$05D5$05EA_$05D4$05D1$05E8$05D9$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:15.007Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$06CC$06CC$0633$200C$062C$0645$0647$0648$0631_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:15.008Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$0626$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T05:09:19.007Z"
+    },
+    {
+     "text": "/wikipedia/tl/Pangulo_ng_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/tl/Pangulo_ng_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:23:55.008Z"
+    },
+    {
+     "text": "/wikipedia/tl/USA_President",
+     "lang": "",
+     "value": "/wikipedia/tl/USA_President",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:23:58.006Z"
+    },
+    {
+     "text": "/wikipedia/et/Ameerika_$00DChendriikide_president",
+     "lang": "",
+     "value": "/wikipedia/et/Ameerika_$00DChendriikide_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:02.005Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:03.003Z"
+    },
+    {
+     "text": "/wikipedia/tl/President_of_the_United_States",
+     "lang": "",
+     "value": "/wikipedia/tl/President_of_the_United_States",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:04.006Z"
+    },
+    {
+     "text": "/wikipedia/tl/Amerikanong_presidente",
+     "lang": "",
+     "value": "/wikipedia/tl/Amerikanong_presidente",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:07.001Z"
+    },
+    {
+     "text": "/wikipedia/tl_id/67880",
+     "lang": "",
+     "value": "/wikipedia/tl_id/67880",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:08.000Z"
+    },
+    {
+     "text": "/wikipedia/tl/American_president",
+     "lang": "",
+     "value": "/wikipedia/tl/American_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:08.006Z"
+    },
+    {
+     "text": "/wikipedia/tl/U$002ES$002EA$002E_president",
+     "lang": "",
+     "value": "/wikipedia/tl/U$002ES$002EA$002E_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:09.000Z"
+    },
+    {
+     "text": "/wikipedia/tl/President_of_the_United_States_of_America",
+     "lang": "",
+     "value": "/wikipedia/tl/President_of_the_United_States_of_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:09.003Z"
+    },
+    {
+     "text": "/wikipedia/et/USA_president",
+     "lang": "",
+     "value": "/wikipedia/et/USA_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:10.002Z"
+    },
+    {
+     "text": "/wikipedia/tl/U$002ES$002E_President",
+     "lang": "",
+     "value": "/wikipedia/tl/U$002ES$002E_President",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:10.003Z"
+    },
+    {
+     "text": "/wikipedia/sk/Americk$00FD_prezident",
+     "lang": "",
+     "value": "/wikipedia/sk/Americk$00FD_prezident",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:11.004Z"
+    },
+    {
+     "text": "/wikipedia/tl/US_President",
+     "lang": "",
+     "value": "/wikipedia/tl/US_President",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:12.000Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_USA",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:13.007Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_America",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:14.000Z"
+    },
+    {
+     "text": "/wikipedia/tl/Pangulo_ng_USA",
+     "lang": "",
+     "value": "/wikipedia/tl/Pangulo_ng_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:14.006Z"
+    },
+    {
+     "text": "/wikipedia/et_id/30373",
+     "lang": "",
+     "value": "/wikipedia/et_id/30373",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:15.004Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_Estados_Unidos_ng_Amerika",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_Estados_Unidos_ng_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:16.002Z"
+    },
+    {
+     "text": "/wikipedia/tl_title/Pangulo_ng_Estados_Unidos",
+     "lang": "",
+     "value": "/wikipedia/tl_title/Pangulo_ng_Estados_Unidos",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:17.004Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_Amerika",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:19.004Z"
+    },
+    {
+     "text": "/wikipedia/tl/Pangulo_ng_Estados_Unidos_ng_Amerika",
+     "lang": "",
+     "value": "/wikipedia/tl/Pangulo_ng_Estados_Unidos_ng_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:20.000Z"
+    },
+    {
+     "text": "/wikipedia/tl/Pangulo_ng_US",
+     "lang": "",
+     "value": "/wikipedia/tl/Pangulo_ng_US",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:22.006Z"
+    },
+    {
+     "text": "/wikipedia/et_title/Ameerika_$00DChendriikide_president",
+     "lang": "",
+     "value": "/wikipedia/et_title/Ameerika_$00DChendriikide_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:23.001Z"
+    },
+    {
+     "text": "/wikipedia/tl/Pangulo_ng_Amerika",
+     "lang": "",
+     "value": "/wikipedia/tl/Pangulo_ng_Amerika",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:23.006Z"
+    },
+    {
+     "text": "/wikipedia/tl/Presidente_ng_US",
+     "lang": "",
+     "value": "/wikipedia/tl/Presidente_ng_US",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:24.003Z"
+    },
+    {
+     "text": "/wikipedia/et/Ameerika_president",
+     "lang": "",
+     "value": "/wikipedia/et/Ameerika_president",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:28.001Z"
+    },
+    {
+     "text": "/wikipedia/tl/Amerikanong_pangulo",
+     "lang": "",
+     "value": "/wikipedia/tl/Amerikanong_pangulo",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T10:24:28.006Z"
+    },
+    {
+     "text": "/wikipedia/da/USA$0027s_pr$00E6sident",
+     "lang": "",
+     "value": "/wikipedia/da/USA$0027s_pr$00E6sident",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T01:13:33.005Z"
+    },
+    {
+     "text": "/wikipedia/da_title/USA$0027s_pr$00E6sident",
+     "lang": "",
+     "value": "/wikipedia/da_title/USA$0027s_pr$00E6sident",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T01:13:48.000Z"
+    },
+    {
+     "text": "/wikipedia/da_id/546229",
+     "lang": "",
+     "value": "/wikipedia/da_id/546229",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-01T01:14:04.003Z"
+    },
+    {
+     "text": "/wikipedia/id_title/Presiden_Amerika_Serikat",
+     "lang": "",
+     "value": "/wikipedia/id_title/Presiden_Amerika_Serikat",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-13T03:17:19.001Z"
+    },
+    {
+     "text": "/wikipedia/id/Presiden_Amerika_Serikat",
+     "lang": "",
+     "value": "/wikipedia/id/Presiden_Amerika_Serikat",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-13T03:20:33.000Z"
+    },
+    {
+     "text": "/wikipedia/id_id/238742",
+     "lang": "",
+     "value": "/wikipedia/id_id/238742",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-13T03:20:41.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-25T18:47:27.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0631$064A$064A$0633_$062C$0645$0647$0648$0631_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647$0654_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-25T19:06:45.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Presidenza_degli_Stati_Uniti_d$0027America",
+     "lang": "",
+     "value": "/wikipedia/it/Presidenza_degli_Stati_Uniti_d$0027America",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T03:28:25.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T03:34:05.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T03:35:36.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T03:39:36.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$064A$0627$0633$062A_$062C$0645$0647$0648$0631$064A_$0627$064A$0627$0644$0627$062A_$0645$062A$062D$062F$0647_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T03:59:19.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$0645$0642$0627$0645_$0631$06CC$0627$0633$062A_$062C$0645$0647$0648$0631$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-16T04:02:56.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0627$0645$0631$06CC$06A9$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T02:47:00.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$067E$0631$0632$064A$062F$0646$062A_$0647$0627$064A_$0622$0645$0631$064A$0643$0627",
+     "lang": "",
+     "value": "/wikipedia/fa/$067E$0631$0632$064A$062F$0646$062A_$0647$0627$064A_$0622$0645$0631$064A$0643$0627",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T02:50:39.000Z"
+    },
+    {
+     "text": "/wikipedia/pl/Prezydent_USA",
+     "lang": "",
+     "value": "/wikipedia/pl/Prezydent_USA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T02:51:38.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$067E$0631$0632$06CC$062F$0646$062A_$0647$0627$06CC_$0627$06CC$0627$0644$0627$062A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-09-01T02:53:48.000Z"
+    }
+   ],
+   "count": 492.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/060d2",
+     "lang": "",
+     "value": "/m/060d2"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "President of the United States",
+     "lang": "en",
+     "value": "President of the United States",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:18:19.003Z"
+    }
+   ],
+   "count": 40.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Government Office or Title",
+     "lang": "en",
+     "id": "/government/government_office_or_title",
+     "creator": "/user/jeff",
+     "timestamp": "2007-12-19T19:04:57.000Z"
+    },
+    {
+     "text": "republican",
+     "lang": "en",
+     "id": "/user/donald_nagy/default_domain/republican",
+     "creator": "/user/donald_nagy",
+     "timestamp": "2008-08-13T20:18:56.000Z"
+    },
+    {
+     "text": "Character Occupation",
+     "lang": "en",
+     "id": "/fictional_universe/character_occupation",
+     "creator": "/user/arielb",
+     "timestamp": "2008-08-20T04:50:51.000Z"
+    },
+    {
+     "text": "Type/domain equivalent topic",
+     "lang": "en",
+     "id": "/freebase/equivalent_topic",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-09-08T06:51:35.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/usgovernment/topic",
+     "creator": "/user/jason",
+     "timestamp": "2008-11-09T21:29:39.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/m/04tymlk",
+     "creator": "/user/esamsoe",
+     "timestamp": "2008-11-10T22:50:44.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/firsts/topic",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-11-19T00:28:32.003Z"
+    },
+    {
+     "text": "Achievement",
+     "lang": "en",
+     "id": "/base/firsts/achievement",
+     "creator": "/user/narphorium",
+     "timestamp": "2008-11-19T00:28:32.003Z"
+    },
+    {
+     "text": "Ontology Instance",
+     "lang": "en",
+     "id": "/base/ontologies/ontology_instance",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-10-01T09:03:20.002Z"
+    },
+    {
+     "text": "Literature Subject",
+     "lang": "en",
+     "id": "/book/book_subject",
+     "creator": "/user/mbaker",
+     "timestamp": "2009-10-20T02:49:52.000Z"
+    },
+    {
+     "text": "Appointed Role",
+     "lang": "en",
+     "id": "/people/appointed_role",
+     "creator": "/user/mikeshwe",
+     "timestamp": "2010-06-23T21:27:26.000Z"
+    },
+    {
+     "text": "Employer",
+     "lang": "en",
+     "id": "/business/employer",
+     "creator": "/user/kmramki",
+     "timestamp": "2010-09-17T23:01:16.003Z"
+    },
+    {
+     "text": "Ontology Class",
+     "lang": "en",
+     "id": "/base/ontologies/ontology_class",
+     "creator": "/user/thadguidry",
+     "timestamp": "2010-10-14T15:50:07.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/ontologies/topic",
+     "creator": "/user/thadguidry",
+     "timestamp": "2010-10-14T15:50:07.000Z"
+    },
+    {
+     "text": "Amusement Ride Theme",
+     "lang": "en",
+     "id": "/amusement_parks/ride_theme",
+     "creator": "/user/hailey2009",
+     "timestamp": "2010-12-30T19:43:19.000Z"
+    },
+    {
+     "text": "Flag referent",
+     "lang": "en",
+     "id": "/symbols/flag_referent",
+     "creator": "/user/jeff",
+     "timestamp": "2012-04-25T18:14:16.001Z"
+    },
+    {
+     "text": "Award Presenting Organization",
+     "lang": "en",
+     "id": "/award/award_presenting_organization",
+     "creator": "/user/gregpietruczuk",
+     "timestamp": "2013-06-18T08:48:09.000Z"
+    },
+    {
+     "text": "Context name",
+     "lang": "en",
+     "id": "/base/schemastaging/context_name",
+     "creator": "/user/cbersch",
+     "timestamp": "2013-06-21T22:19:27.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 19.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000030182",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000030182"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T09:18:19.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T09:18:19.002Z",
+     "lang": "en",
+     "value": "2006-10-22T09:18:19.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

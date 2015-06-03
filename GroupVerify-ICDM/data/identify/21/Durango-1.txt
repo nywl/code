@@ -1,0 +1,2886 @@
+{
+ "id": "/m/0rbmc",
+ "property": {
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Durango, Colorado",
+     "lang": "en",
+     "value": "Durango, Colorado",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2008-04-04T16:19:44.006Z"
+    },
+    {
+     "text": "La Plata County / Durango city",
+     "lang": "en",
+     "value": "La Plata County / Durango city",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "The City of Durango is a Home Rule Municipality that is the county seat and the most populous...",
+     "lang": "en",
+     "id": "/m/0rbmk",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T10:58:50.004Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/108548",
+         "lang": "",
+         "value": "http://wp/en/108548",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T10:58:50.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "The City of Durango is a Home Rule Municipality that is the county seat and the most populous...",
+         "lang": "en",
+         "value": "The City of Durango is a Home Rule Municipality that is the county seat and the most populous city of La Plata County, Colorado, United States. The United States Census Bureau reported a population of 16,887 in the 2010 census.\nThe town was organized in September 1881 by the Denver and Rio Grande Railroad (D&RG) to serve the San Juan mining district. The D&RG chose a site south of Animas City for its depot after Animas City refused to pay a dowry to the D&RG. The city is named after Durango, Mexico, which was named after Durango, Spain. The word Durango originates from the Basque word \"Urango\" meaning \"water town\".\nArea archaeological sites on the State and National historical registers include:\nIt was one of the filming locations for City Slickers starring Billy Crystal.\nDurango is located at 37¡ã16¡äN 107¡ã52¡äW\ufeff / \ufeff37.267¡ãN 107.867¡ãW\ufeff / 37.267; -107.867 at an elevation of 1988 metres (6512 feet). According to the United States Census Bureau, the city has a total area of 6.8 square miles (18 km).\nDurango is nestled in the Animas River Valley surrounded by the San Juan Mountains. The Animas River¡ªEl R¨ªo de las Animas¡ªruns through downtown and boasts gold medal fly fishing waters, and",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T10:58:50.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T10:58:50.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T10:58:50.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The City of Durango is a Home Rule Municipality that is the county seat and the most populous...",
+     "lang": "en",
+     "value": "The City of Durango is a Home Rule Municipality that is the county seat and the most populous city of La Plata County, Colorado, United States. The United States Census Bureau reported a population of 16,887 in the 2010 census.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Durango,_Colorado"
+     }
+    }
+   ],
+   "count": 20.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Downtown Durango, Colorado",
+     "lang": "en",
+     "id": "/m/0294wvp",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2007-04-14T12:41:33.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.durangogov.org/",
+     "lang": "",
+     "value": "http://www.durangogov.org/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-08T05:45:07.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=108548",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=108548",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T10:58:50.003Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=1354364",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=1354364",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:41:02.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=3610980",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=3610980",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T18:16:47.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=798098",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=798098",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T17:34:01.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=2660271",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=2660271",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T06:22:17.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=828192",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=828192",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T01:48:01.001Z"
+    },
+    {
+     "text": "http://bg.wikipedia.org/wiki/index.html?curid=271091",
+     "lang": "",
+     "value": "http://bg.wikipedia.org/wiki/index.html?curid=271091",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T19:37:33.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=338831",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=338831",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T04:53:34.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/Durango_(Colorado)",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/Durango_(Colorado)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T12:55:18.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/Durango_(Colorado)",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/Durango_(Colorado)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T21:18:16.000Z"
+    }
+   ],
+   "count": 40.0
+  },
+  "/film/film_location/featured_in_films": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Maverick Queen",
+     "lang": "en",
+     "id": "/m/03jp4yj",
+     "creator": "/user/digitalarchivist",
+     "timestamp": "2008-02-04T17:06:55.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/capital_of_administrative_division/capital_of": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "La Plata County - gmackenz - Administrative division/capital relationship",
+     "lang": "en",
+     "id": "/m/0jvw327",
+     "creator": "/user/gmackenz",
+     "timestamp": "2012-05-25T19:38:49.002Z",
+     "property": {
+      "/location/administrative_division_capital_relationship/administrative_division": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "La Plata County",
+         "lang": "en",
+         "id": "/m/0p02n",
+         "creator": "/user/gmackenz",
+         "timestamp": "2012-05-25T19:38:49.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2012-05-25T19:38:49.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Administrative division/capital relationship",
+         "lang": "en",
+         "id": "/location/administrative_division_capital_relationship",
+         "creator": "/user/gmackenz",
+         "timestamp": "2012-05-25T19:38:49.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/citytown/postal_codes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "81302",
+     "lang": "en",
+     "id": "/m/01ztzkk",
+     "creator": "/user/geo_bot",
+     "timestamp": "2009-11-20T01:54:54.001Z"
+    },
+    {
+     "text": "81303",
+     "lang": "en",
+     "id": "/m/03n_q6y",
+     "creator": "/user/geo_bot",
+     "timestamp": "2009-11-20T01:54:54.001Z"
+    },
+    {
+     "text": "81301",
+     "lang": "en",
+     "id": "/m/01ztz5w",
+     "creator": "/user/geo_bot",
+     "timestamp": "2009-11-20T01:54:54.001Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/location/hud_county_place/county": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "La Plata County",
+     "lang": "en",
+     "id": "/m/0p02n",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_county_place/countyplace_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "0806722035",
+     "lang": "",
+     "value": "0806722035",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_county_place/place": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango",
+     "lang": "en",
+     "id": "/m/0rbmc",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/bls_unemployment_rate": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "2008 - 0.0392 - Freebase Data Team - Dated Float",
+     "lang": "en",
+     "id": "/m/07jfxr1",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.001Z",
+     "property": {
+      "/measurement_unit/dated_float/date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_float/number": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "0.0392",
+         "lang": "en",
+         "value": 0.0392,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Float",
+         "lang": "en",
+         "id": "/measurement_unit/dated_float",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/estimated_number_foreclosures": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "15 - United States Department of Housing and Urban Development - 2008 - Freebase Data Team - Dated Integer",
+     "lang": "en",
+     "id": "/m/07jfxq5",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "15",
+         "lang": "en",
+         "value": 15.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Department of Housing and Urban Development",
+         "lang": "en",
+         "id": "/m/0jbk9",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/estimated_number_of_mortgages": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "2471 - United States Department of Housing and Urban Development - 2008 - Freebase Data Team - Dated Integer",
+     "lang": "en",
+     "id": "/m/07jfxqd",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "2471",
+         "lang": "en",
+         "value": 2471.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Department of Housing and Urban Development",
+         "lang": "en",
+         "id": "/m/0jbk9",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/hhuniv": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "5538 - United States Department of Housing and Urban Development - 2008 - Freebase Data Team - Dated Integer",
+     "lang": "en",
+     "id": "/m/07jfxpz",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "5538",
+         "lang": "en",
+         "value": 5538.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Department of Housing and Urban Development",
+         "lang": "en",
+         "id": "/m/0jbk9",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:06.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/ofheo_price_change": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "2008 - 0.0 - Freebase Data Team - Dated Float",
+     "lang": "en",
+     "id": "/m/07jfxr7",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.001Z",
+     "property": {
+      "/measurement_unit/dated_float/date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_float/number": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "0.0",
+         "lang": "en",
+         "value": 0.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Float",
+         "lang": "en",
+         "id": "/measurement_unit/dated_float",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:09.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/total_90_day_vacant_residential_addresses": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "83 - United States Department of Housing and Urban Development - 2008 - Freebase Data Team - Dated Integer",
+     "lang": "en",
+     "id": "/m/07jfxqm",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "83",
+         "lang": "en",
+         "value": 83.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Department of Housing and Urban Development",
+         "lang": "en",
+         "id": "/m/0jbk9",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:07.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/hud_foreclosure_area/total_residential_addresses": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "6398 - United States Department of Housing and Urban Development - 2008 - Freebase Data Team - Dated Integer",
+     "lang": "en",
+     "id": "/m/07jfxqv",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:26.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "6398",
+         "lang": "en",
+         "value": 6398.0,
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Department of Housing and Urban Development",
+         "lang": "en",
+         "id": "/m/0jbk9",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/07c7_s7",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-09-21T14:20:08.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/area": {
+   "valuetype": "float",
+   "values": [
+    {
+     "text": "17.6119191503",
+     "lang": "en",
+     "value": 17.6119191503,
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-09T00:55:22.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/containedby": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "La Plata County",
+     "lang": "en",
+     "id": "/m/0p02n",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-12-01T18:50:32.000Z"
+    },
+    {
+     "text": "Colorado",
+     "lang": "en",
+     "id": "/m/01n4w",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-05T22:53:01.005Z"
+    },
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/spencermountain",
+     "timestamp": "2010-01-31T03:52:08.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/location/location/contains": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango and Silverton Narrow Gauge Railroad",
+     "lang": "en",
+     "id": "/m/07nldg",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T23:57:42.006Z"
+    },
+    {
+     "text": "Durango Mountain Resort",
+     "lang": "en",
+     "id": "/m/03byxkh",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-05-26T21:38:44.000Z"
+    },
+    {
+     "text": "Durango-Silverton Narrow-Gauge Railroad",
+     "lang": "en",
+     "id": "/m/06z_z00",
+     "creator": "/user/tfmorris",
+     "timestamp": "2009-08-06T03:24:21.000Z"
+    },
+    {
+     "text": "Colorado Ute Power Plant",
+     "lang": "en",
+     "id": "/m/06_6nqx",
+     "creator": "/user/tfmorris",
+     "timestamp": "2009-08-07T14:10:29.000Z"
+    },
+    {
+     "text": "Fort Lewis College",
+     "lang": "en",
+     "id": "/m/0p_88",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-08-27T22:50:52.000Z"
+    },
+    {
+     "text": "Durango¨CLa Plata County Airport",
+     "lang": "en",
+     "id": "/m/070nzc",
+     "creator": "/user/jessealarcon",
+     "timestamp": "2012-01-10T05:41:12.000Z"
+    },
+    {
+     "text": "The Summit",
+     "lang": "en",
+     "id": "/m/0k3rfnv",
+     "creator": "/user/dianab_taeza",
+     "timestamp": "2012-07-12T08:49:28.000Z"
+    },
+    {
+     "text": "Abbey Theatre",
+     "lang": "en",
+     "id": "/m/0k2xzyg",
+     "creator": "/user/dianab_taeza",
+     "timestamp": "2012-09-30T13:51:46.000Z"
+    },
+    {
+     "text": "Durango High School",
+     "lang": "en",
+     "id": "/m/0wz0_gy",
+     "creator": "/user/volotsyglakov",
+     "timestamp": "2013-09-24T09:24:10.000Z"
+    }
+   ],
+   "count": 9.0
+  },
+  "/location/location/geolocation": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "NAD83 - 37.275278 - -107.88 - Freebase Data Team - Geocode",
+     "lang": "en",
+     "id": "/m/0kb3s4",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-12-01T18:50:32.000Z",
+     "property": {
+      "/location/geocode/datum": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "NAD83",
+         "lang": "en",
+         "value": "NAD83",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-12-01T18:50:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/latitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "37.275278",
+         "lang": "en",
+         "value": 37.275278,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T17:58:54.007Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/longitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "-107.88",
+         "lang": "en",
+         "value": -107.88,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:31:30.010Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-12-01T18:50:32.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Geocode",
+         "lang": "en",
+         "id": "/location/geocode",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2006-12-01T18:50:32.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/gnis_feature_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "202983",
+     "lang": "",
+     "value": "202983",
+     "creator": "/user/gnis_bot",
+     "timestamp": "2008-08-18T16:06:41.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/nearby_airports": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango¨CLa Plata County Airport",
+     "lang": "en",
+     "id": "/m/070nzc",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-03-30T02:22:41.002Z"
+    },
+    {
+     "text": "Animas Air Park",
+     "lang": "en",
+     "id": "/m/04mz77z",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-02-05T12:56:17.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/location/location/people_born_here": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Stuart Roosa",
+     "lang": "en",
+     "id": "/m/01xrgt",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-05-11T05:32:15.004Z"
+    },
+    {
+     "text": "Devon Gummersall",
+     "lang": "en",
+     "id": "/m/0qdjk",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T05:55:46.003Z"
+    },
+    {
+     "text": "Tom Tully",
+     "lang": "en",
+     "id": "/m/04ymy7",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-11-26T23:47:21.002Z"
+    },
+    {
+     "text": "Andrea Jackson",
+     "lang": "en",
+     "id": "/m/05v4lkt",
+     "creator": "/user/deleted_08_29_2011_01",
+     "timestamp": "2009-04-29T15:20:52.000Z"
+    },
+    {
+     "text": "Lanny Barnes",
+     "lang": "en",
+     "id": "/m/09v3_dx",
+     "creator": "/user/szong",
+     "timestamp": "2010-03-08T07:20:46.000Z"
+    },
+    {
+     "text": "Ann Cummins",
+     "lang": "en",
+     "id": "/m/02pq7xv",
+     "creator": "/user/earlye",
+     "timestamp": "2010-07-24T04:18:22.000Z"
+    },
+    {
+     "text": "John Burke",
+     "lang": "en",
+     "id": "/m/0dfqcn",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-11-21T19:15:18.001Z"
+    },
+    {
+     "text": "Mike Ming",
+     "lang": "en",
+     "id": "/m/0g9y8xt",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-02-10T18:05:33.000Z"
+    },
+    {
+     "text": "John Nunn",
+     "lang": "en",
+     "id": "/m/09v9gsn",
+     "creator": "/user/jon",
+     "timestamp": "2012-08-02T18:05:08.000Z"
+    },
+    {
+     "text": "Chris Ervin",
+     "lang": "en",
+     "id": "/m/09y0f6x",
+     "creator": "/user/hbirth",
+     "timestamp": "2012-09-04T20:40:02.001Z"
+    }
+   ],
+   "count": 11.0
+  },
+  "/location/location/time_zones": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Mountain Time Zone",
+     "lang": "en",
+     "id": "/m/02hczc",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-09T00:55:22.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/statistical_region/population": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "12761 - United States Census Bureau, Population - 1990 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl23",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:09.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "12761",
+         "lang": "en",
+         "value": 12761.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1990",
+         "lang": "",
+         "value": "1990",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "12895 - United States Census Bureau, Population - 1991 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl2b",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:09.001Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "12895",
+         "lang": "en",
+         "value": 12895.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1991",
+         "lang": "",
+         "value": "1991",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13189 - United States Census Bureau, Population - 1992 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl2k",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:09.002Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13189",
+         "lang": "en",
+         "value": 13189.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1992",
+         "lang": "",
+         "value": "1992",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:09.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13372 - United States Census Bureau, Population - 1993 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl2t",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:10.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13372",
+         "lang": "en",
+         "value": 13372.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1993",
+         "lang": "",
+         "value": "1993",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13418 - United States Census Bureau, Population - 1994 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl3h",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:10.002Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13418",
+         "lang": "en",
+         "value": 13418.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1994",
+         "lang": "",
+         "value": "1994",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13149 - United States Census Bureau, Population - 1995 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl3q",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:10.003Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13149",
+         "lang": "en",
+         "value": 13149.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1995",
+         "lang": "",
+         "value": "1995",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:10.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13446 - United States Census Bureau, Population - 1996 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl3y",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:11.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13446",
+         "lang": "en",
+         "value": 13446.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1996",
+         "lang": "",
+         "value": "1996",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13467 - United States Census Bureau, Population - 1997 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl44",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:11.001Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13467",
+         "lang": "en",
+         "value": 13467.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:37.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1997",
+         "lang": "",
+         "value": "1997",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13537 - United States Census Bureau, Population - 1998 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl4d",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:11.002Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13537",
+         "lang": "en",
+         "value": 13537.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:38.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1998",
+         "lang": "",
+         "value": "1998",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:11.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "13759 - United States Census Bureau, Population - 1999 - ovalmeta - Dated Integer",
+     "lang": "en",
+     "id": "/m/0hkcl4m",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-06T05:15:12.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "13759",
+         "lang": "en",
+         "value": 13759.0,
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/source": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Census Bureau, Population",
+         "lang": "en",
+         "id": "/m/0jst35z",
+         "creator": "/user/ovalmeta",
+         "project": "freebase",
+         "dataset": "/m/0jst35z",
+         "citation": {
+          "provider": "United States Census Bureau",
+          "statement": "Population",
+          "uri": "http://www.census.gov/popest/about/terms.html"
+         },
+         "timestamp": "2012-05-18T22:30:38.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1999",
+         "lang": "",
+         "value": "1999",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ovalmeta",
+         "lang": "en",
+         "id": "/m/03m08zz",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/ovalmeta",
+         "timestamp": "2011-12-06T05:15:12.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 45.0
+  },
+  "/periodicals/newspaper_circulation_area/newspapers": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango Telegraph",
+     "lang": "en",
+     "id": "/m/05m_53q",
+     "creator": "/user/rylait",
+     "timestamp": "2012-02-03T05:59:48.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/rail/railway_terminus/railways_terminating_here": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango and Silverton Narrow Gauge Railroad",
+     "lang": "en",
+     "id": "/m/07nldg",
+     "creator": "/user/skud",
+     "timestamp": "2009-01-23T20:31:09.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/travel/travel_destination/tourist_attractions": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Durango Mountain Resort",
+     "lang": "en",
+     "id": "/m/03byxkh",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:28:46.000Z"
+    },
+    {
+     "text": "San Juan National Forest",
+     "lang": "en",
+     "id": "/m/0ctvmm",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:28:46.000Z"
+    },
+    {
+     "text": "Animas River",
+     "lang": "en",
+     "id": "/m/038s4l",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:28:46.000Z"
+    },
+    {
+     "text": "Colorado Trail",
+     "lang": "en",
+     "id": "/m/04g43w",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:28:46.000Z"
+    },
+    {
+     "text": "Durango Discovery Museum",
+     "lang": "en",
+     "id": "/m/0gjdjs0",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:53:07.000Z"
+    },
+    {
+     "text": "Durango¨CLa Plata County Airport",
+     "lang": "en",
+     "id": "/m/070nzc",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:53:07.000Z"
+    },
+    {
+     "text": "Mesa Verde National Park",
+     "lang": "en",
+     "id": "/m/01q75f",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:53:07.000Z"
+    },
+    {
+     "text": "Durango and Silverton Narrow Gauge Railroad",
+     "lang": "en",
+     "id": "/m/07nldg",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T02:53:07.000Z"
+    },
+    {
+     "text": "Chimney Rock National Monument",
+     "lang": "en",
+     "id": "/m/0fgtf8",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T03:09:51.000Z"
+    },
+    {
+     "text": "San Juan Mountains",
+     "lang": "en",
+     "id": "/m/0bn07",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T03:09:51.000Z"
+    }
+   ],
+   "count": 10.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T10:58:50.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/108548",
+     "lang": "",
+     "value": "/wikipedia/en_id/108548",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T10:58:50.003Z"
+    },
+    {
+     "text": "/wikipedia/en/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/en/Durango$002C_Colorado",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T10:58:50.004Z"
+    },
+    {
+     "text": "/wikipedia/en/Durango$002C_CO",
+     "lang": "",
+     "value": "/wikipedia/en/Durango$002C_CO",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T18:28:10.000Z"
+    },
+    {
+     "text": "/wikipedia/en/UN$002FLOCODE$003AUSDRO",
+     "lang": "",
+     "value": "/wikipedia/en/UN$002FLOCODE$003AUSDRO",
+     "creator": "/user/tristan",
+     "timestamp": "2007-04-11T01:37:48.003Z"
+    },
+    {
+     "text": "/authority/gnis/202983",
+     "lang": "",
+     "value": "/authority/gnis/202983",
+     "creator": "/user/gnis_bot",
+     "timestamp": "2008-08-18T16:06:41.001Z"
+    },
+    {
+     "text": "/en/durango_colorado",
+     "lang": "",
+     "value": "/en/durango_colorado",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-11T23:45:31.003Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0081-0a86",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0081-0a86",
+     "creator": "/user/avh",
+     "timestamp": "2010-01-05T06:25:21.001Z"
+    },
+    {
+     "text": "/authority/hud/countyplace/0806722035",
+     "lang": "",
+     "value": "/authority/hud/countyplace/0806722035",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.000Z"
+    },
+    {
+     "text": "/user/jamie/nytdataid/N87783778554563209411",
+     "lang": "",
+     "value": "/user/jamie/nytdataid/N87783778554563209411",
+     "creator": "/user/ejt_bot",
+     "timestamp": "2010-01-20T21:53:18.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/1354364",
+     "lang": "",
+     "value": "/wikipedia/pt_id/1354364",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:41:02.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/3610980",
+     "lang": "",
+     "value": "/wikipedia/fr_id/3610980",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T18:16:47.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/de/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T17:34:00.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/798098",
+     "lang": "",
+     "value": "/wikipedia/ja_id/798098",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T17:34:01.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T21:59:17.001Z"
+    },
+    {
+     "text": "/wikipedia/it_id/2660271",
+     "lang": "",
+     "value": "/wikipedia/it_id/2660271",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T06:22:17.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30C7$30E5$30E9$30F3$30B4_$0028$30B3$30ED$30E9$30C9$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/ja/$30C7$30E5$30E9$30F3$30B4_$0028$30B3$30ED$30E9$30C9$5DDE$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T14:23:40.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/828192",
+     "lang": "",
+     "value": "/wikipedia/es_id/828192",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T01:48:01.001Z"
+    },
+    {
+     "text": "/wikipedia/bg/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/bg/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T07:09:49.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T17:43:03.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T17:43:03.000Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/271091",
+     "lang": "",
+     "value": "/wikipedia/bg_id/271091",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T19:37:33.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/338831",
+     "lang": "",
+     "value": "/wikipedia/de_id/338831",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T04:53:34.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T19:26:09.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T12:55:18.000Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/es_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-21T21:18:16.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/en_title/Durango$002C_Colorado",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-22T05:05:38.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/it_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T10:23:48.000Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T06:47:15.002Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30C7$30E5$30E9$30F3$30B4_$0028$30B3$30ED$30E9$30C9$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30C7$30E5$30E9$30F3$30B4_$0028$30B3$30ED$30E9$30C9$5DDE$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T09:02:44.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T20:28:37.001Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T20:49:01.000Z"
+    },
+    {
+     "text": "/authority/nist/fips/55/0822035",
+     "lang": "",
+     "value": "/authority/nist/fips/55/0822035",
+     "creator": "/user/ovalmeta",
+     "timestamp": "2011-12-05T01:17:13.000Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/1536219",
+     "lang": "",
+     "value": "/wikipedia/fa_id/1536219",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:15.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/3071712",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/3071712",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:17.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:27.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/nl/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:31.002Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$062F$0648$0631$0627$0646$06AF$0648$060C_$06A9$0644$0631$0627$062F$0648",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$062F$0648$0631$0627$0646$06AF$0648$060C_$06A9$0644$0631$0627$062F$0648",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:34.002Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0648$0631$0627$0646$06AF$0648$060C_$06A9$0644$0631$0627$062F$0648",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0648$0631$0627$0646$06AF$0648$060C_$06A9$0644$0631$0627$062F$0648",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:35.002Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/388556",
+     "lang": "",
+     "value": "/wikipedia/fi_id/388556",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:39.001Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/nl_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:40.002Z"
+    },
+    {
+     "text": "/wikipedia/ca/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/ca/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:42.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/376045",
+     "lang": "",
+     "value": "/wikipedia/sv_id/376045",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:44.000Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/ca_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:46.004Z"
+    },
+    {
+     "text": "/wikipedia/vi/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/vi/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:46.005Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:47.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:47.001Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Durango_$0028Kolorado$0029",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Durango_$0028Kolorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:47.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:47.005Z"
+    },
+    {
+     "text": "/wikipedia/sv/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/sv/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:50.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:50.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:50.004Z"
+    },
+    {
+     "text": "/wikipedia/fi/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/fi/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:52.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0648$0631$0627$0646$06AF$0648$060C_$0643$0644$0631$0627$062F$0648",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0648$0631$0627$0646$06AF$0648$060C_$0643$0644$0631$0627$062F$0648",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:55.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:58.000Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/1000016",
+     "lang": "",
+     "value": "/wikipedia/nl_id/1000016",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:35:59.000Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/vi_title/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:01.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/3071712",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/3071712",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:04.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$675C$5170$6208_$0028$79D1$7F57$62C9$591A$5DDE$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:05.002Z"
+    },
+    {
+     "text": "/wikipedia/pl/Durango_$0028Kolorado$0029",
+     "lang": "",
+     "value": "/wikipedia/pl/Durango_$0028Kolorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:05.004Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/676628",
+     "lang": "",
+     "value": "/wikipedia/ca_id/676628",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:07.001Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/574435",
+     "lang": "",
+     "value": "/wikipedia/vi_id/574435",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:07.002Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/2321813",
+     "lang": "",
+     "value": "/wikipedia/pl_id/2321813",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-16T20:36:16.000Z"
+    },
+    {
+     "text": "/wikipedia/no_id/1121930",
+     "lang": "",
+     "value": "/wikipedia/no_id/1121930",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T04:19:52.003Z"
+    },
+    {
+     "text": "/wikipedia/no/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/no/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T04:20:10.004Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/no_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T04:20:14.007Z"
+    },
+    {
+     "text": "/wikipedia/no/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/no/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T04:20:37.001Z"
+    },
+    {
+     "text": "/wikipedia/et/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/et/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T08:28:24.005Z"
+    },
+    {
+     "text": "/wikipedia/et_title/Durango_$0028Colorado$0029",
+     "lang": "",
+     "value": "/wikipedia/et_title/Durango_$0028Colorado$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T08:28:27.007Z"
+    },
+    {
+     "text": "/wikipedia/et_id/319415",
+     "lang": "",
+     "value": "/wikipedia/et_id/319415",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T08:28:32.007Z"
+    },
+    {
+     "text": "/wikipedia/sr_id/759086",
+     "lang": "",
+     "value": "/wikipedia/sr_id/759086",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-12T07:46:18.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/Durango$002C_Colorado",
+     "lang": "",
+     "value": "/wikipedia/sr/Durango$002C_Colorado",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-12T07:53:58.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0414$0430$0440$0430$043D$0433$043E$0443_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/sr/$0414$0430$0440$0430$043D$0433$043E$0443_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-30T14:25:16.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/sr/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T21:25:49.000Z"
+    },
+    {
+     "text": "/wikipedia/sr/$0414$0430$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/sr/$0414$0430$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T21:28:55.000Z"
+    },
+    {
+     "text": "/wikipedia/sr_title/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/sr_title/$0414$0443$0440$0430$043D$0433$043E_$0028$041A$043E$043B$043E$0440$0430$0434$043E$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-08-03T21:32:51.000Z"
+    },
+    {
+     "text": "/base/dspl/us_census/population/place/0822035",
+     "lang": "",
+     "value": "/base/dspl/us_census/population/place/0822035",
+     "creator": "/user/dspl_bot"
+    }
+   ],
+   "count": 76.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/0rbmc",
+     "lang": "",
+     "value": "/m/0rbmc"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Durango",
+     "lang": "en",
+     "value": "Durango",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2008-04-04T16:19:44.006Z"
+    }
+   ],
+   "count": 20.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2006-12-01T18:50:32.001Z"
+    },
+    {
+     "text": "Dated location",
+     "lang": "en",
+     "id": "/location/dated_location",
+     "creator": "/user/cheunger",
+     "timestamp": "2008-01-31T16:28:46.004Z"
+    },
+    {
+     "text": "Filming location",
+     "lang": "en",
+     "id": "/film/film_location",
+     "creator": "/user/digitalarchivist",
+     "timestamp": "2008-02-04T17:06:55.000Z"
+    },
+    {
+     "text": "Railway terminus",
+     "lang": "en",
+     "id": "/rail/railway_terminus",
+     "creator": "/user/skud",
+     "timestamp": "2009-01-23T20:31:09.000Z"
+    },
+    {
+     "text": "HUD County Place",
+     "lang": "en",
+     "id": "/location/hud_county_place",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.000Z"
+    },
+    {
+     "text": "HUD Foreclosure Area",
+     "lang": "en",
+     "id": "/location/hud_foreclosure_area",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-01-05T17:51:25.001Z"
+    },
+    {
+     "text": "Newspaper circulation area",
+     "lang": "en",
+     "id": "/periodicals/newspaper_circulation_area",
+     "creator": "/user/rylait",
+     "timestamp": "2012-02-03T05:59:48.000Z"
+    },
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/base/aareas/schema/earth/citytown",
+     "creator": "/user/fmkdemons1",
+     "timestamp": "2012-02-18T18:56:37.000Z"
+    },
+    {
+     "text": "Administrative Area",
+     "lang": "en",
+     "id": "/base/aareas/schema/administrative_area",
+     "creator": "/user/fmkatz",
+     "timestamp": "2012-02-19T18:37:40.001Z"
+    },
+    {
+     "text": "Travel destination",
+     "lang": "en",
+     "id": "/travel/travel_destination",
+     "creator": "/user/rnatividad",
+     "timestamp": "2012-03-20T01:55:36.000Z"
+    },
+    {
+     "text": "Capital of administrative division",
+     "lang": "en",
+     "id": "/location/capital_of_administrative_division",
+     "creator": "/user/gmackenz",
+     "timestamp": "2012-05-25T19:38:49.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    },
+    {
+     "text": "Location",
+     "lang": "en",
+     "id": "/location/location",
+     "creator": "/user/dspl_bot"
+    },
+    {
+     "text": "Statistical region",
+     "lang": "en",
+     "id": "/location/statistical_region"
+    },
+    {
+     "text": "Inanimate",
+     "lang": "en",
+     "id": "/base/type_ontology/inanimate"
+    },
+    {
+     "text": "Abstract",
+     "lang": "en",
+     "id": "/base/type_ontology/abstract",
+     "creator": "/user/dspl_bot"
+    }
+   ],
+   "count": 16.0
+  },
+  "/common/topic/notable_properties": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Time zone(s)",
+     "lang": "en",
+     "id": "/location/location/time_zones"
+    },
+    {
+     "text": "Area",
+     "lang": "en",
+     "id": "/location/location/area"
+    },
+    {
+     "text": "Population",
+     "lang": "en",
+     "id": "/location/statistical_region/population"
+    },
+    {
+     "text": "Population",
+     "lang": "en",
+     "id": "/location/statistical_region/population"
+    }
+   ],
+   "count": 4.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f80000000000baa6b",
+     "lang": "",
+     "value": "#9202a8c04000641f80000000000baa6b"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T10:58:50.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T10:58:50.003Z",
+     "lang": "en",
+     "value": "2006-10-22T10:58:50.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

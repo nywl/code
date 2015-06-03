@@ -1,0 +1,3636 @@
+{
+ "id": "/m/0b0sx",
+ "property": {
+  "/architecture/architectural_structure_owner/structures_owned": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1830 - 1803 - Royal Pavilion - gmackenz - Ownership",
+     "lang": "en",
+     "id": "/m/07shmf9",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-10-13T00:21:10.001Z",
+     "property": {
+      "/architecture/ownership/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1830",
+         "lang": "",
+         "value": "1830",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-10-13T00:21:10.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/architecture/ownership/start_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1803",
+         "lang": "",
+         "value": "1803",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-10-13T00:21:10.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/architecture/ownership/structure": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Royal Pavilion",
+         "lang": "en",
+         "id": "/m/0pqnq",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-10-13T00:21:10.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "gmackenz",
+         "lang": "en",
+         "id": "/m/025b6jh",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-10-13T00:21:10.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ownership",
+         "lang": "en",
+         "id": "/architecture/ownership",
+         "creator": "/user/gmackenz",
+         "timestamp": "2009-10-13T00:21:10.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1830 - 1820 - Buckingham Palace - dsinclair - Ownership",
+     "lang": "en",
+     "id": "/m/0g4p_jk",
+     "creator": "/user/dsinclair",
+     "timestamp": "2011-01-03T20:49:30.000Z",
+     "property": {
+      "/architecture/ownership/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1830",
+         "lang": "",
+         "value": "1830",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-01-03T20:52:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/architecture/ownership/start_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1820",
+         "lang": "",
+         "value": "1820",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-01-03T20:50:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/architecture/ownership/structure": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Buckingham Palace",
+         "lang": "en",
+         "id": "/m/0198g",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-01-03T20:49:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-01-03T20:49:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ownership",
+         "lang": "en",
+         "id": "/architecture/ownership",
+         "creator": "/user/dsinclair",
+         "timestamp": "2011-01-03T20:49:30.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/biology/animal_owner/animals_owned": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Selim - dmukha - Animal ownership",
+     "lang": "en",
+     "id": "/m/0pcsjck",
+     "creator": "/user/dmukha",
+     "timestamp": "2013-01-03T20:35:21.000Z",
+     "property": {
+      "/biology/animal_ownership/animal": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Selim",
+         "lang": "en",
+         "id": "/m/0pckv6s",
+         "creator": "/user/dmukha",
+         "timestamp": "2013-01-03T20:35:21.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dmukha",
+         "lang": "en",
+         "id": "/m/0j30wvw",
+         "creator": "/user/dmukha",
+         "timestamp": "2013-01-03T20:35:21.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Animal ownership",
+         "lang": "en",
+         "id": "/biology/animal_ownership",
+         "creator": "/user/dmukha",
+         "timestamp": "2013-01-03T20:35:21.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "The Colonel - esperanzac - Animal ownership",
+     "lang": "en",
+     "id": "/m/0rb2nc5",
+     "creator": "/user/esperanzac",
+     "timestamp": "2013-03-08T09:00:30.000Z",
+     "property": {
+      "/biology/animal_ownership/animal": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "The Colonel",
+         "lang": "en",
+         "id": "/m/0r4tvg0",
+         "creator": "/user/esperanzac",
+         "timestamp": "2013-03-08T09:00:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "esperanzac",
+         "lang": "en",
+         "id": "/m/0p33tn_",
+         "creator": "/user/esperanzac",
+         "timestamp": "2013-03-08T09:00:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Animal ownership",
+         "lang": "en",
+         "id": "/biology/animal_ownership",
+         "creator": "/user/esperanzac",
+         "timestamp": "2013-03-08T09:00:30.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/book/book_subject/works": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George IV: Inspiration of the Regency",
+     "lang": "en",
+     "id": "/m/065wq7z",
+     "creator": "/user/mbaker",
+     "timestamp": "2010-01-20T19:40:19.000Z"
+    },
+    {
+     "text": "Prince of Pleasure: The Prince of Wales and the Making of the Regency",
+     "lang": "en",
+     "id": "/m/06tn0wb",
+     "creator": "/user/mbaker",
+     "timestamp": "2010-01-20T19:40:19.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "George IV (George Augustus Frederick; 12 August 1762 ¨C 26 June 1830) was the King of the United...",
+     "lang": "en",
+     "id": "/m/0b0t6",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:40:45.001Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/40225",
+         "lang": "",
+         "value": "http://wp/en/40225",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:40:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "George IV (George Augustus Frederick; 12 August 1762 ¨C 26 June 1830) was the King of the United...",
+         "lang": "en",
+         "value": "George IV (George Augustus Frederick; 12 August 1762 ¨C 26 June 1830) was the King of the United Kingdom of Great Britain and Ireland and also of Hanover from the death of his father, George III, on 29 January 1820 until his own death ten years later. From 1811 until his accession, he served as Prince Regent during his father's relapse into mental illness.\nGeorge IV led an extravagant lifestyle that contributed to the fashions of the British Regency. He was a patron of new forms of leisure, style and taste. He commissioned John Nash to build the Royal Pavilion in Brighton and remodel Buckingham Palace, and Sir Jeffry Wyatville to rebuild Windsor Castle. He was instrumental in the foundation of the National Gallery, London and King's College London.\nHe had a poor relationship with both his father and his wife, Caroline of Brunswick, whom he even forbade to attend his coronation. He introduced the unpopular Pains and Penalties Bill in a desperate, unsuccessful, attempt to divorce his wife.\nFor most of George's regency and reign, Lord Liverpool controlled the government as Prime Minister. George's governments, with little help from the King, presided over victory in the Napoleonic",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:40:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:40:45.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:40:45.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "George IV was king of the United Kingdom of Great Britain and Ireland and king of Hanover...",
+     "lang": "en",
+     "value": "George IV was king of the United Kingdom of Great Britain and Ireland and king of Hanover following the death of his father, George III, on 29 January 1820, until his own death ten years later. From 1811 until his accession, he served as Prince Regent during his father's final mental illness.\nGeorge IV led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste. He commissioned John Nash to build the Royal Pavilion in Brighton and remodel Buckingham Palace, and Sir Jeffry Wyattville to rebuild Windsor Castle. He was instrumental in the foundation of the National Gallery and King's College London.\nHe had a poor relationship with both his father and his wife, Caroline of Brunswick, whom he even forbade to attend his coronation. He introduced the unpopular Pains and Penalties Bill in a desperate, unsuccessful, attempt to divorce his wife.\nFor most of George's regency and reign, Lord Liverpool controlled the government as Prime Minister. George's governments, with little help from the King, presided over victory in the Napoleonic Wars, negotiated the peace settlement, and attempted to deal with the social and economic malaise that followed. He had to accept George Canning as foreign minister and later prime minister, and drop his opposition to Catholic emancipation.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/George_IV_of_the_United_Kingdom"
+     }
+    }
+   ],
+   "count": 36.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George IV who ordered the manufacture of the new crown",
+     "lang": "en",
+     "id": "/m/02bllth",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2007-04-15T21:49:11.003Z"
+    },
+    {
+     "text": "George IV van het Verenigd Koninkrijk",
+     "lang": "en",
+     "id": "/m/04s4484",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2008-10-30T12:46:00.002Z"
+    },
+    {
+     "text": "Portrait by Sir Thomas Lawrence, 1822.",
+     "lang": "en",
+     "id": "/m/05tsxm8",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2009-04-23T11:42:45.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Monarch",
+     "lang": "en",
+     "id": "/royalty/monarch"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Monarch",
+     "lang": "en",
+     "id": "/royalty/monarch"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=40225",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=40225",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:40:44.008Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=100134",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=100134",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T13:32:02.000Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=201733",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=201733",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T01:14:03.003Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=131172",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=131172",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T01:44:14.001Z"
+    },
+    {
+     "text": "http://bg.wikipedia.org/wiki/index.html?curid=28928",
+     "lang": "",
+     "value": "http://bg.wikipedia.org/wiki/index.html?curid=28928",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T03:22:52.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=98777",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=98777",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:47:18.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=312611",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=312611",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T14:19:01.000Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=164809",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=164809",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T11:11:53.001Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/George_IV_du_Royaume-Uni",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/George_IV_du_Royaume-Uni",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T00:28:50.001Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/Giorgio_IV_del_Regno_Unito",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/Giorgio_IV_del_Regno_Unito",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T10:05:09.000Z"
+    }
+   ],
+   "count": 71.0
+  },
+  "/fictional_universe/person_in_fiction/representations_in_fiction": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George IV",
+     "lang": "en",
+     "id": "/m/0j91dgt",
+     "creator": "/user/diegofdzhdz",
+     "timestamp": "2013-05-24T01:30:53.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/film/film_subject/films": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The First Gentleman",
+     "lang": "en",
+     "id": "/m/051w7nk",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-10-13T00:40:08.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/government/political_appointer/appointees": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Governor-General - 1828 - The Canadas - James Kempt - Governor General of The Canadas - 1830 - blainey - Government Position Held",
+     "lang": "en",
+     "id": "/m/0bghv9p",
+     "creator": "/user/blainey",
+     "timestamp": "2010-04-07T04:33:49.009Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Governor-General",
+         "lang": "en",
+         "id": "/m/0fj45",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2011-11-17T18:54:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1828",
+         "lang": "",
+         "value": "1828",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "The Canadas",
+         "lang": "en",
+         "id": "/m/0jv32",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T05:18:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "James Kempt",
+         "lang": "en",
+         "id": "/m/03c0r4",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_position_or_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Governor General of The Canadas",
+         "lang": "en",
+         "id": "/m/0bghv3n",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1830",
+         "lang": "",
+         "value": "1830",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "blainey",
+         "lang": "en",
+         "id": "/m/04kc_4s",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/blainey",
+         "timestamp": "2010-04-07T04:33:49.009Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Governor - 1822-11-06 - British Ceylon - James Campbell - Governors of British Ceylon - 1824-01-18 - violetta_ggl - Government Position Held",
+     "lang": "en",
+     "id": "/m/0w32dv5",
+     "creator": "/user/violetta_ggl",
+     "timestamp": "2013-07-01T18:42:03.000Z",
+     "property": {
+      "/government/government_position_held/basic_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Governor",
+         "lang": "en",
+         "id": "/m/0fkvn",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:36:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/district_represented": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/government/government_position_held/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1822-11-06",
+         "lang": "",
+         "value": "1822-11-06",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:42:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/governmental_body": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/government/government_position_held/jurisdiction_of_office": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "British Ceylon",
+         "lang": "en",
+         "id": "/m/027nwcy",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:39:34.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/legislative_sessions": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/government/government_position_held/office_holder": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "James Campbell",
+         "lang": "en",
+         "id": "/m/0w1flz3",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:35:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/office_position_or_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Governors of British Ceylon",
+         "lang": "en",
+         "id": "/m/02wvf8s",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:35:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/government/government_position_held/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1824-01-18",
+         "lang": "",
+         "value": "1824-01-18",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:42:44.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "violetta_ggl",
+         "lang": "en",
+         "id": "/m/0j2m08r",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:35:35.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Government Position Held",
+         "lang": "en",
+         "id": "/government/government_position_held",
+         "creator": "/user/violetta_ggl",
+         "timestamp": "2013-07-01T18:35:35.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/media_common/dedicatee/dedications": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Ludwig van Beethoven - Wellington's Victory - arielb - Dedication",
+     "lang": "en",
+     "id": "/m/05cqhcp",
+     "creator": "/user/arielb",
+     "timestamp": "2009-02-06T01:45:34.003Z",
+     "property": {
+      "/media_common/dedication/dedicated_by": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ludwig van Beethoven",
+         "lang": "en",
+         "id": "/m/04k15",
+         "creator": "/user/arielb",
+         "timestamp": "2009-02-06T01:45:34.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/media_common/dedication/work_dedicated": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Wellington's Victory",
+         "lang": "en",
+         "id": "/m/059c4v",
+         "creator": "/user/arielb",
+         "timestamp": "2009-02-06T01:45:34.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "arielb",
+         "lang": "en",
+         "id": "/m/022q37f",
+         "creator": "/user/arielb",
+         "timestamp": "2009-02-06T01:45:34.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dedication",
+         "lang": "en",
+         "id": "/media_common/dedication",
+         "creator": "/user/arielb",
+         "timestamp": "2009-02-06T01:45:34.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/organization_founder/organizations_founded": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "King's College London",
+     "lang": "en",
+     "id": "/m/014xf6",
+     "creator": "/user/fact_farm",
+     "timestamp": "2012-12-21T19:07:30.000Z"
+    },
+    {
+     "text": "Royal Society of Literature",
+     "lang": "en",
+     "id": "/m/02lph2",
+     "creator": "/user/fact_farm",
+     "timestamp": "2012-12-21T20:07:36.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/organization/organization_member/member_of": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Freemasonry - deleted_2011_06_06 - Organization membership",
+     "lang": "en",
+     "id": "/m/0cr7106",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-08-29T11:42:40.003Z",
+     "property": {
+      "/organization/organization_membership/organization": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freemasonry",
+         "lang": "en",
+         "id": "/m/02_l9",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-08-29T11:42:40.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "deleted_2011_06_06",
+         "lang": "en",
+         "id": "/m/05yst06",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-08-29T11:42:40.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Organization membership",
+         "lang": "en",
+         "id": "/organization/organization_membership",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-08-29T11:42:40.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/date_of_burial": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1830-07-15",
+     "lang": "",
+     "value": "1830-07-15",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:15.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/date_of_death": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1830-06-26",
+     "lang": "",
+     "value": "1830-06-26",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-08-09T00:09:05.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/place_of_burial": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "St George's Chapel, Windsor Castle",
+     "lang": "en",
+     "id": "/m/0bqyhk",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:46.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/deceased_person/place_of_death": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Windsor Castle",
+     "lang": "en",
+     "id": "/m/0chgsm",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-05-28T19:39:03.004Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/family/members": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "House of Hanover",
+     "lang": "en",
+     "id": "/m/017yzc",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2009-05-13T06:31:58.004Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/family_member/family": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "House of Hanover",
+     "lang": "en",
+     "id": "/m/017yzc",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-05-13T08:16:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/children": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Princess Charlotte of Wales",
+     "lang": "en",
+     "id": "/m/01blhl",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:34.004Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/date_of_birth": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1762-08-12",
+     "lang": "",
+     "value": "1762-08-12",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-08-09T00:09:05.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/gender": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Male",
+     "lang": "en",
+     "id": "/m/05zppz",
+     "creator": "/user/dsp13_people_00001_g7knqf",
+     "timestamp": "2007-08-03T00:21:23.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/parents": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Charlotte of Mecklenburg-Strelitz",
+     "lang": "en",
+     "id": "/m/01dr47",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:36.002Z"
+    },
+    {
+     "text": "George III of the United Kingdom",
+     "lang": "en",
+     "id": "/m/0bk4s",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:36.002Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/place_of_birth": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "St James's Palace",
+     "lang": "en",
+     "id": "/m/01yv_q",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-05-28T19:36:01.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/places_lived": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "London - mw_prop_bot - Place lived",
+     "lang": "en",
+     "id": "/m/04hxdlw",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2008-08-20T19:26:04.000Z",
+     "property": {
+      "/people/place_lived/location": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "London",
+         "lang": "en",
+         "id": "/m/04jpl",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T19:26:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mw_prop_bot",
+         "lang": "en",
+         "id": "/m/04hf6p6",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T19:26:04.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Place lived",
+         "lang": "en",
+         "id": "/people/place_lived",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T19:26:04.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/sibling_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Prince Frederick, Duke of York and Albany - dsinclair - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0dfllls",
+     "creator": "/user/dsinclair",
+     "timestamp": "2010-10-02T21:32:39.001Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Prince Frederick, Duke of York and Albany",
+         "lang": "en",
+         "id": "/m/01dr3d",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-10-02T21:32:39.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-10-02T21:32:39.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-10-02T21:32:39.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Prince Edward, Duke of Kent and Strathearn - Sibling extraction load - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0k6llx6",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-18T00:40:53.001Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Prince Edward, Duke of Kent and Strathearn",
+         "lang": "en",
+         "id": "/m/01c50q",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:40:53.001Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling extraction load",
+         "lang": "en",
+         "id": "/m/0k6lg1j",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:40:53.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:40:53.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "William IV of the United Kingdom - Sibling extraction load - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0k6lxj1",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-18T00:58:33.001Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "William IV of the United Kingdom",
+         "lang": "en",
+         "id": "/m/0bvwx",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:58:33.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling extraction load",
+         "lang": "en",
+         "id": "/m/0k6lg1j",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:58:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-18T00:58:33.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Princess Sophia of the United Kingdom - 2012-07-08-fact-farm-siblings - Sibling Relationship",
+     "lang": "en",
+     "id": "/m/0w4g549",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-07-08T20:40:12.001Z",
+     "property": {
+      "/people/sibling_relationship/sibling": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Princess Sophia of the United Kingdom",
+         "lang": "en",
+         "id": "/m/094br9",
+         "creator": "/user/fact_farm",
+         "timestamp": "2013-07-08T20:40:12.001Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "2012-07-08-fact-farm-siblings",
+         "lang": "en",
+         "id": "/m/0w4g4vf",
+         "creator": "/user/fact_farm",
+         "timestamp": "2013-07-08T20:40:12.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sibling Relationship",
+         "lang": "en",
+         "id": "/people/sibling_relationship",
+         "creator": "/user/fact_farm",
+         "timestamp": "2013-07-08T20:40:12.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 4.0
+  },
+  "/people/person/spouse_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1795-04-08 - Caroline of Brunswick - Marriage - Freebase Data Team - Marriage",
+     "lang": "en",
+     "id": "/m/02kp9jt",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-15T05:58:36.002Z",
+     "property": {
+      "/people/marriage/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1795-04-08",
+         "lang": "",
+         "value": "1795-04-08",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-10-02T21:34:03.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/people/marriage/spouse": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Caroline of Brunswick",
+         "lang": "en",
+         "id": "/m/0d1ny",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-15T05:58:45.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/people/marriage/type_of_union": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/m/04ztj",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-10-02T21:34:03.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-15T05:58:25.010Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/people/marriage",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-15T05:58:25.010Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1785-12-15 - Maria Fitzherbert - Marriage - jon - Marriage",
+     "lang": "en",
+     "id": "/m/0j4k6ky",
+     "creator": "/user/jon",
+     "timestamp": "2012-03-15T01:14:48.001Z",
+     "property": {
+      "/people/marriage/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1785-12-15",
+         "lang": "",
+         "value": "1785-12-15",
+         "creator": "/user/fact_farm",
+         "timestamp": "2013-10-04T15:37:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/people/marriage/spouse": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Maria Fitzherbert",
+         "lang": "en",
+         "id": "/m/01blgq",
+         "creator": "/user/jon",
+         "timestamp": "2012-03-15T01:14:48.000Z"
+        }
+       ],
+       "count": 2.0
+      },
+      "/people/marriage/type_of_union": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/m/04ztj",
+         "creator": "/user/jon",
+         "timestamp": "2012-03-15T01:14:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jon",
+         "lang": "en",
+         "id": "/m/0j4jby8",
+         "creator": "/user/jon",
+         "timestamp": "2012-03-15T01:14:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Marriage",
+         "lang": "en",
+         "id": "/people/marriage",
+         "creator": "/user/jon",
+         "timestamp": "2012-03-15T01:14:48.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/royalty/chivalric_order_founder/orders_founded": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Royal Guelphic Order",
+     "lang": "en",
+     "id": "/m/07c0ns",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-02-13T15:10:26.000Z"
+    },
+    {
+     "text": "Order of St Michael and St George",
+     "lang": "en",
+     "id": "/m/01y28x",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-02-13T15:32:13.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/royalty/chivalric_order_member/belongs_to_order": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Order of Saint Hubert - ludvig - Chivalric Order Membership",
+     "lang": "en",
+     "id": "/m/0g4_jc_",
+     "creator": "/user/ludvig",
+     "timestamp": "2011-01-11T10:03:54.001Z",
+     "property": {
+      "/royalty/chivalric_order_membership/order": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Order of Saint Hubert",
+         "lang": "en",
+         "id": "/m/09v70z4",
+         "creator": "/user/ludvig",
+         "timestamp": "2011-01-11T10:03:54.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ludvig",
+         "lang": "en",
+         "id": "/m/0dh47sw",
+         "creator": "/user/ludvig",
+         "timestamp": "2011-01-11T10:03:54.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Chivalric Order Membership",
+         "lang": "en",
+         "id": "/royalty/chivalric_order_membership",
+         "creator": "/user/ludvig",
+         "timestamp": "2011-01-11T10:03:54.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/royalty/monarch/kingdom": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Kingdom of Hanover",
+     "lang": "en",
+     "id": "/m/03nljq4",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-01-16T09:57:58.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/royalty/monarch/royal_line": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "House of Hanover",
+     "lang": "en",
+     "id": "/m/017yzc",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-07-17T15:28:41.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/royalty/noble_person/titles": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1762 - Duke of Cornwall - 1820 - skud - Noble title tenure",
+     "lang": "en",
+     "id": "/m/04l81nf",
+     "creator": "/user/skud",
+     "timestamp": "2008-10-01T23:09:53.011Z",
+     "property": {
+      "/royalty/noble_title_tenure/from_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1762",
+         "lang": "",
+         "value": "1762",
+         "creator": "/user/skud",
+         "timestamp": "2008-10-01T23:09:53.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/noble_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Duke of Cornwall",
+         "lang": "en",
+         "id": "/m/0kr08",
+         "creator": "/user/skud",
+         "timestamp": "2008-10-01T23:09:53.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/to_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1820",
+         "lang": "",
+         "value": "1820",
+         "creator": "/user/skud",
+         "timestamp": "2008-10-01T23:09:53.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "skud",
+         "lang": "en",
+         "id": "/m/02nzkjl",
+         "creator": "/user/skud",
+         "timestamp": "2008-10-01T23:09:53.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Noble title tenure",
+         "lang": "en",
+         "id": "/royalty/noble_title_tenure",
+         "creator": "/user/skud",
+         "timestamp": "2008-10-01T23:09:53.011Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1762 - High Steward of Scotland - 1820 - sprocketonline - Noble title tenure",
+     "lang": "en",
+     "id": "/m/05cwn42",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-02-07T12:08:21.003Z",
+     "property": {
+      "/royalty/noble_title_tenure/from_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1762",
+         "lang": "",
+         "value": "1762",
+         "creator": "/user/sprocketonline",
+         "timestamp": "2009-02-07T12:08:20.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/noble_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "High Steward of Scotland",
+         "lang": "en",
+         "id": "/m/0946gj",
+         "creator": "/user/sprocketonline",
+         "timestamp": "2009-02-07T12:08:19.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/to_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1820",
+         "lang": "",
+         "value": "1820",
+         "creator": "/user/sprocketonline",
+         "timestamp": "2009-02-07T12:08:20.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "sprocketonline",
+         "lang": "en",
+         "id": "/m/03wnh2v",
+         "creator": "/user/sprocketonline",
+         "timestamp": "2009-02-07T12:08:19.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Noble title tenure",
+         "lang": "en",
+         "id": "/royalty/noble_title_tenure",
+         "creator": "/user/sprocketonline",
+         "timestamp": "2009-02-07T12:08:19.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Duke of Normandy - deleted_2011_06_06 - Noble title tenure",
+     "lang": "en",
+     "id": "/m/05yx_21",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2009-05-15T15:59:16.002Z",
+     "property": {
+      "/royalty/noble_title_tenure/noble_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Duke of Normandy",
+         "lang": "en",
+         "id": "/m/0290vf",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2009-05-15T15:59:16.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "deleted_2011_06_06",
+         "lang": "en",
+         "id": "/m/05yst06",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2009-05-15T15:59:16.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Noble title tenure",
+         "lang": "en",
+         "id": "/royalty/noble_title_tenure",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2009-05-15T15:59:16.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1811 - 1820 - deleted_2011_06_06 - Noble title tenure",
+     "lang": "en",
+     "id": "/m/0b79h0s",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-03-03T18:08:01.003Z",
+     "property": {
+      "/royalty/noble_title_tenure/from_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1811",
+         "lang": "",
+         "value": "1811",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-03-03T18:08:01.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/to_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1820",
+         "lang": "",
+         "value": "1820",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-03-03T18:08:01.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "deleted_2011_06_06",
+         "lang": "en",
+         "id": "/m/05yst06",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-03-03T18:08:01.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Noble title tenure",
+         "lang": "en",
+         "id": "/royalty/noble_title_tenure",
+         "creator": "/user/deleted_2011_06_06",
+         "timestamp": "2010-03-03T18:08:01.003Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1762 - Prince of Wales - 1820 - dsinclair - Noble title tenure",
+     "lang": "en",
+     "id": "/m/0bc1fjl",
+     "creator": "/user/dsinclair",
+     "timestamp": "2010-03-18T23:30:36.000Z",
+     "property": {
+      "/royalty/noble_title_tenure/from_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1762",
+         "lang": "",
+         "value": "1762",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-03-18T23:30:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/noble_title": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Prince of Wales",
+         "lang": "en",
+         "id": "/m/0cj1n",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-03-18T23:30:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/royalty/noble_title_tenure/to_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1820",
+         "lang": "",
+         "value": "1820",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-03-18T23:33:52.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dsinclair",
+         "lang": "en",
+         "id": "/m/04swywt",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-03-18T23:30:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Noble title tenure",
+         "lang": "en",
+         "id": "/royalty/noble_title_tenure",
+         "creator": "/user/dsinclair",
+         "timestamp": "2010-03-18T23:30:36.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 5.0
+  },
+  "/symbols/name_source/namesakes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Princetown",
+     "lang": "en",
+     "id": "/m/05ynj",
+     "creator": "/user/dsinclair",
+     "timestamp": "2010-03-18T23:27:53.000Z"
+    },
+    {
+     "text": "Regent's Canal",
+     "lang": "en",
+     "id": "/m/029bwk",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-23T04:34:43.000Z"
+    },
+    {
+     "text": "Georgian Bay",
+     "lang": "en",
+     "id": "/m/01qf_4",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-23T07:45:17.000Z"
+    },
+    {
+     "text": "Regent Street",
+     "lang": "en",
+     "id": "/m/01hc76",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-23T14:14:38.000Z"
+    },
+    {
+     "text": "George IV Bridge",
+     "lang": "en",
+     "id": "/m/02737j5",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-24T00:54:43.000Z"
+    },
+    {
+     "text": "George Town",
+     "lang": "en",
+     "id": "/m/015806",
+     "creator": "/user/fact_farm",
+     "timestamp": "2013-08-24T04:35:07.000Z"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:40:44.008Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/40225",
+     "lang": "",
+     "value": "/wikipedia/en_id/40225",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:40:44.008Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_the_United_Kingdom",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_the_United_Kingdom",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:40:45.001Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_Hanover",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_Hanover",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T17:07:20.001Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_Great_Britain",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_Great_Britain",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T17:18:23.002Z"
+    },
+    {
+     "text": "/wikipedia/en/King_George_IV",
+     "lang": "",
+     "value": "/wikipedia/en/King_George_IV",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T17:26:41.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T17:50:18.002Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_England",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_England",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T20:48:05.001Z"
+    },
+    {
+     "text": "/wikipedia/en/George_Augustus_Frederick",
+     "lang": "",
+     "value": "/wikipedia/en/George_Augustus_Frederick",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T23:00:18.001Z"
+    },
+    {
+     "text": "/wikipedia/en/King_George_IV_of_the_United_Kingdom",
+     "lang": "",
+     "value": "/wikipedia/en/King_George_IV_of_the_United_Kingdom",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-25T00:48:36.001Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_Great_Britain_and_Ireland",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_Great_Britain_and_Ireland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-25T01:51:46.002Z"
+    },
+    {
+     "text": "/wikipedia/en/George_iv",
+     "lang": "",
+     "value": "/wikipedia/en/George_iv",
+     "creator": "/user/tristan",
+     "timestamp": "2007-04-11T01:01:21.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_the_UK",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_the_UK",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T04:32:40.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_the_Fourth",
+     "lang": "",
+     "value": "/wikipedia/en/George_the_Fourth",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T09:10:33.002Z"
+    },
+    {
+     "text": "/en/george_iv_of_the_united_kingdom",
+     "lang": "",
+     "value": "/en/george_iv_of_the_united_kingdom",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2007-08-13T06:40:28.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_iv_of_the_united_kingdom",
+     "lang": "",
+     "value": "/wikipedia/en/George_iv_of_the_united_kingdom",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-12-15T16:45:48.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_Scotland",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_Scotland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2008-05-08T00:51:26.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Regency_Bill",
+     "lang": "",
+     "value": "/wikipedia/en/Regency_Bill",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2008-11-22T05:22:49.000Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0080-236a",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0080-236a",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-16T19:27:26.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George$002C_Prince_Regent",
+     "lang": "",
+     "value": "/wikipedia/en/George$002C_Prince_Regent",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-05-05T05:35:30.001Z"
+    },
+    {
+     "text": "/source/videosurf/187117",
+     "lang": "",
+     "value": "/source/videosurf/187117",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-05-27T14:03:14.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_of_Britain",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_of_Britain",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-08-18T17:40:19.001Z"
+    },
+    {
+     "text": "/wikipedia/bg/$0414$0436$043E$0440$0434$0436_IV",
+     "lang": "",
+     "value": "/wikipedia/bg/$0414$0436$043E$0440$0434$0436_IV",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T05:19:21.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/100134",
+     "lang": "",
+     "value": "/wikipedia/ru_id/100134",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T13:32:02.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0413$0435$043E$0440$0433_IV",
+     "lang": "",
+     "value": "/wikipedia/ru/$0413$0435$043E$0440$0433_IV",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T05:23:47.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/George_IV_du_Royaume-Uni",
+     "lang": "",
+     "value": "/wikipedia/fr/George_IV_du_Royaume-Uni",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T07:37:17.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/201733",
+     "lang": "",
+     "value": "/wikipedia/es_id/201733",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T01:14:03.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Jorge_IV_del_Reino_Unido",
+     "lang": "",
+     "value": "/wikipedia/es/Jorge_IV_del_Reino_Unido",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T19:16:59.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Giorgio_IV_del_Regno_Unito",
+     "lang": "",
+     "value": "/wikipedia/it/Giorgio_IV_del_Regno_Unito",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T00:06:55.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/131172",
+     "lang": "",
+     "value": "/wikipedia/it_id/131172",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T01:44:14.001Z"
+    },
+    {
+     "text": "/wikipedia/bg_id/28928",
+     "lang": "",
+     "value": "/wikipedia/bg_id/28928",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T03:22:52.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/98777",
+     "lang": "",
+     "value": "/wikipedia/de_id/98777",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T06:47:18.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/312611",
+     "lang": "",
+     "value": "/wikipedia/ja_id/312611",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-27T14:19:01.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30B8$30E7$30FC$30B84$4E16_$0028$30A4$30AE$30EA$30B9$738B$0029",
+     "lang": "",
+     "value": "/wikipedia/ja/$30B8$30E7$30FC$30B84$4E16_$0028$30A4$30AE$30EA$30B9$738B$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T23:44:56.001Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/164809",
+     "lang": "",
+     "value": "/wikipedia/fr_id/164809",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T11:11:53.001Z"
+    },
+    {
+     "text": "/wikipedia/de/Georg_IV$002E_$0028Vereinigtes_K$00F6nigreich$0029",
+     "lang": "",
+     "value": "/wikipedia/de/Georg_IV$002E_$0028Vereinigtes_K$00F6nigreich$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T13:58:05.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_$0028Hanover$0029",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_$0028Hanover$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-01-14T02:02:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_IV_Hanover",
+     "lang": "",
+     "value": "/wikipedia/en/George_IV_Hanover",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-01-14T02:02:38.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/George_IV_du_Royaume-Uni",
+     "lang": "",
+     "value": "/wikipedia/fr_title/George_IV_du_Royaume-Uni",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T00:28:50.001Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Giorgio_IV_del_Regno_Unito",
+     "lang": "",
+     "value": "/wikipedia/it_title/Giorgio_IV_del_Regno_Unito",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T10:05:09.000Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Jorge_IV_del_Reino_Unido",
+     "lang": "",
+     "value": "/wikipedia/es_title/Jorge_IV_del_Reino_Unido",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T14:19:17.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Georg_IV$002E_$0028Vereinigtes_K$00F6nigreich$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/Georg_IV$002E_$0028Vereinigtes_K$00F6nigreich$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T14:22:12.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30B8$30E7$30FC$30B84$4E16_$0028$30A4$30AE$30EA$30B9$738B$0029",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30B8$30E7$30FC$30B84$4E16_$0028$30A4$30AE$30EA$30B9$738B$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T15:32:46.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$0413$0435$043E$0440$0433_IV",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$0413$0435$043E$0440$0433_IV",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T06:07:22.001Z"
+    },
+    {
+     "text": "/wikipedia/bg_title/$0414$0436$043E$0440$0434$0436_IV",
+     "lang": "",
+     "value": "/wikipedia/bg_title/$0414$0436$043E$0440$0434$0436_IV",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-23T21:08:00.002Z"
+    },
+    {
+     "text": "/wikipedia/en_title/George_IV_of_the_United_Kingdom",
+     "lang": "",
+     "value": "/wikipedia/en_title/George_IV_of_the_United_Kingdom",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T01:49:57.000Z"
+    },
+    {
+     "text": "/wikipedia/en/George_Augustus_Frederick$003B",
+     "lang": "",
+     "value": "/wikipedia/en/George_Augustus_Frederick$003B",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2012-05-17T20:50:55.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Giorgio_IV",
+     "lang": "",
+     "value": "/wikipedia/it/Giorgio_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:15.004Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:15.007Z"
+    },
+    {
+     "text": "/wikipedia/lv/D$017Eord$017Es_IV_$0028Lielbrit$0101nija$0029",
+     "lang": "",
+     "value": "/wikipedia/lv/D$017Eord$017Es_IV_$0028Lielbrit$0101nija$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:20.011Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0431$0440$0438$0442$0430$043D$0456$0457$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0431$0440$0438$0442$0430$043D$0456$0457$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:22.002Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0457_$0411$0440$0438$0442$0430$043D$0456$0457$0029",
+     "lang": "",
+     "value": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0457_$0411$0440$0438$0442$0430$043D$0456$0457$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:22.006Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9_$05DE$05DC$05DA_$05D1$05E8$05D9$05D8$05E0$05D9$05D4",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9_$05DE$05DC$05DA_$05D1$05E8$05D9$05D8$05E0$05D9$05D4",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:22.006Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/Jordi_IV_del_Regne_Unit",
+     "lang": "",
+     "value": "/wikipedia/ca_title/Jordi_IV_del_Regne_Unit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:23.001Z"
+    },
+    {
+     "text": "/wikipedia/no/George_IV",
+     "lang": "",
+     "value": "/wikipedia/no/George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:23.003Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C601$AD6D$C758_$C870$C9C0_4$C138",
+     "lang": "",
+     "value": "/wikipedia/ko/$C601$AD6D$C758_$C870$C9C0_4$C138",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:23.010Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/522536",
+     "lang": "",
+     "value": "/wikipedia/fa_id/522536",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:23.010Z"
+    },
+    {
+     "text": "/wikipedia/uk_id/494861",
+     "lang": "",
+     "value": "/wikipedia/uk_id/494861",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:23.010Z"
+    },
+    {
+     "text": "/wikipedia/th_id/155034",
+     "lang": "",
+     "value": "/wikipedia/th_id/155034",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:24.003Z"
+    },
+    {
+     "text": "/wikipedia/da/George_4$002E_af_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/da/George_4$002E_af_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:26.003Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:28.001Z"
+    },
+    {
+     "text": "/wikipedia/pl/Jerzy_IV_Hanowerski",
+     "lang": "",
+     "value": "/wikipedia/pl/Jerzy_IV_Hanowerski",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:28.002Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/481700",
+     "lang": "",
+     "value": "/wikipedia/tr_id/481700",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:29.001Z"
+    },
+    {
+     "text": "/wikipedia/sk_id/256452",
+     "lang": "",
+     "value": "/wikipedia/sk_id/256452",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:29.006Z"
+    },
+    {
+     "text": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV",
+     "lang": "",
+     "value": "/wikipedia/uk/$0413$0435$043E$0440$0433_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:29.006Z"
+    },
+    {
+     "text": "/wikipedia/vi/George_IV_c$1EE7a_V$01B0$01A1ng_qu$1ED1c_Anh",
+     "lang": "",
+     "value": "/wikipedia/vi/George_IV_c$1EE7a_V$01B0$01A1ng_qu$1ED1c_Anh",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:30.007Z"
+    },
+    {
+     "text": "/wikipedia/da/George_4$002E_af_Det_Forenede_Kongerige",
+     "lang": "",
+     "value": "/wikipedia/da/George_4$002E_af_Det_Forenede_Kongerige",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:30.007Z"
+    },
+    {
+     "text": "/wikipedia/da_id/122058",
+     "lang": "",
+     "value": "/wikipedia/da_id/122058",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:31.003Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E2A$0E21$0E40$0E14$0E47$0E08$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "lang": "",
+     "value": "/wikipedia/th/$0E2A$0E21$0E40$0E14$0E47$0E08$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:31.008Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D1$05E8$05D9$05D8$05E0$05D9$05D4",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D1$05E8$05D9$05D8$05E0$05D9$05D4",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:31.008Z"
+    },
+    {
+     "text": "/wikipedia/fi/Ison-Britannian_Yrj$00F6_IV",
+     "lang": "",
+     "value": "/wikipedia/fi/Ison-Britannian_Yrj$00F6_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:31.009Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/47441",
+     "lang": "",
+     "value": "/wikipedia/nl_id/47441",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:35.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:38.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Jorge_IV",
+     "lang": "",
+     "value": "/wikipedia/es/Jorge_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:38.005Z"
+    },
+    {
+     "text": "/wikipedia/sk/Juraj_IV$002E_$0028Spojen$00E9_kr$00E1$013Eovstvo$0029",
+     "lang": "",
+     "value": "/wikipedia/sk/Juraj_IV$002E_$0028Spojen$00E9_kr$00E1$013Eovstvo$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:38.007Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/826606",
+     "lang": "",
+     "value": "/wikipedia/ca_id/826606",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:38.007Z"
+    },
+    {
+     "text": "/wikipedia/vi/George_IV_c$1EE7a_Anh",
+     "lang": "",
+     "value": "/wikipedia/vi/George_IV_c$1EE7a_Anh",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:38.007Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$55AC$6CBB$00B7$5967$53E4$65AF$5854$65AF$00B7$8153$7279$70C8",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$55AC$6CBB$00B7$5967$53E4$65AF$5854$65AF$00B7$8153$7279$70C8",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:39.001Z"
+    },
+    {
+     "text": "/wikipedia/no/Georg_IV_av_Storbritannia",
+     "lang": "",
+     "value": "/wikipedia/no/Georg_IV_av_Storbritannia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:40.001Z"
+    },
+    {
+     "text": "/wikipedia/sv/Georg_IV",
+     "lang": "",
+     "value": "/wikipedia/sv/Georg_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:41.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C870$C9C0_4$C138",
+     "lang": "",
+     "value": "/wikipedia/ko/$C870$C9C0_4$C138",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:41.007Z"
+    },
+    {
+     "text": "/wikipedia/fi/Britannian_Yrj$00F6_IV",
+     "lang": "",
+     "value": "/wikipedia/fi/Britannian_Yrj$00F6_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:41.008Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$55AC$6CBB$56DB$4E16",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$55AC$6CBB$56DB$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:42.001Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$55AC$6CBB$56DB$4E16",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$55AC$6CBB$56DB$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:42.004Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/Ji$0159$00ED_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/cs_title/Ji$0159$00ED_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:42.005Z"
+    },
+    {
+     "text": "/wikipedia/lt_id/378695",
+     "lang": "",
+     "value": "/wikipedia/lt_id/378695",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:42.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$4E54$6CBB$56DB$4E16",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$4E54$6CBB$56DB$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:42.007Z"
+    },
+    {
+     "text": "/wikipedia/sv/Georg_IV_av_England",
+     "lang": "",
+     "value": "/wikipedia/sv/Georg_IV_av_England",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/IV$002E_George",
+     "lang": "",
+     "value": "/wikipedia/tr/IV$002E_George",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Georg_04_av_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/sv/Georg_04_av_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.003Z"
+    },
+    {
+     "text": "/wikipedia/ro_id/356641",
+     "lang": "",
+     "value": "/wikipedia/ro_id/356641",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.007Z"
+    },
+    {
+     "text": "/wikipedia/no/Georg_IV_av_England",
+     "lang": "",
+     "value": "/wikipedia/no/Georg_IV_av_England",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.007Z"
+    },
+    {
+     "text": "/wikipedia/sr/$040F$043E$0440$045F_IV",
+     "lang": "",
+     "value": "/wikipedia/sr/$040F$043E$0440$045F_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:43.008Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$C870$C9C0_4$C138",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$C870$C9C0_4$C138",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:44.001Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/George_IV_van_het_Verenigd_Koninkrijk",
+     "lang": "",
+     "value": "/wikipedia/nl_title/George_IV_van_het_Verenigd_Koninkrijk",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:44.005Z"
+    },
+    {
+     "text": "/wikipedia/sv/Georg_IV_av_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/sv/Georg_IV_av_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:44.006Z"
+    },
+    {
+     "text": "/wikipedia/ca/Jordi_IV_del_Regne_Unit",
+     "lang": "",
+     "value": "/wikipedia/ca/Jordi_IV_del_Regne_Unit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:44.007Z"
+    },
+    {
+     "text": "/wikipedia/fr/George_IV",
+     "lang": "",
+     "value": "/wikipedia/fr/George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:44.008Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/George_IV_c$1EE7a_Anh",
+     "lang": "",
+     "value": "/wikipedia/vi_title/George_IV_c$1EE7a_Anh",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$4E54$6CBB$56DB$4E16_$0028$82F1$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$4E54$6CBB$56DB$4E16_$0028$82F1$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Yrj$00F6_IV",
+     "lang": "",
+     "value": "/wikipedia/fi/Yrj$00F6_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.001Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/732526",
+     "lang": "",
+     "value": "/wikipedia/vi_id/732526",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.002Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30B8$30E7$30FC$30B84$4E16",
+     "lang": "",
+     "value": "/wikipedia/ja/$30B8$30E7$30FC$30B84$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.003Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/5595",
+     "lang": "",
+     "value": "/wikipedia/ko_id/5595",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.005Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:45.006Z"
+    },
+    {
+     "text": "/wikipedia/no/George_IV_av_Storbritannia",
+     "lang": "",
+     "value": "/wikipedia/no/George_IV_av_Storbritannia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:46.002Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:50.001Z"
+    },
+    {
+     "text": "/wikipedia/he_id/37433",
+     "lang": "",
+     "value": "/wikipedia/he_id/37433",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:51.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Jorge_IV_de_Inglaterra",
+     "lang": "",
+     "value": "/wikipedia/es/Jorge_IV_de_Inglaterra",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:52.006Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$4E54$6CBB$56DB$4E16_$0028$82F1$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$4E54$6CBB$56DB$4E16_$0028$82F1$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:52.006Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30A4$30AE$30EA$30B9$306E$6442$653F$6642$4EE3",
+     "lang": "",
+     "value": "/wikipedia/ja/$30A4$30AE$30EA$30B9$306E$6442$653F$6642$4EE3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:52.011Z"
+    },
+    {
+     "text": "/wikipedia/lv_id/49914",
+     "lang": "",
+     "value": "/wikipedia/lv_id/49914",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:52.012Z"
+    },
+    {
+     "text": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0646_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "lang": "",
+     "value": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0646_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:53.010Z"
+    },
+    {
+     "text": "/wikipedia/ja/$6442$653F$6642$4EE3",
+     "lang": "",
+     "value": "/wikipedia/ja/$6442$653F$6642$4EE3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:54.002Z"
+    },
+    {
+     "text": "/wikipedia/fi/Yrj$00F6_IV_$0028Iso-Britannia$0029",
+     "lang": "",
+     "value": "/wikipedia/fi/Yrj$00F6_IV_$0028Iso-Britannia$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:54.003Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/40336",
+     "lang": "",
+     "value": "/wikipedia/pl_id/40336",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:54.003Z"
+    },
+    {
+     "text": "/wikipedia/da/George_4$002E_af_Det_Forende_Kongerige",
+     "lang": "",
+     "value": "/wikipedia/da/George_4$002E_af_Det_Forende_Kongerige",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:55.005Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Georg_IV_av_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Georg_IV_av_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:56.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Georg_IV",
+     "lang": "",
+     "value": "/wikipedia/no/Georg_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:57.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E2A$0E21$0E40$0E14$0E47$0E08$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4",
+     "lang": "",
+     "value": "/wikipedia/th/$0E2A$0E21$0E40$0E14$0E47$0E08$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:58.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/Jordi_IV",
+     "lang": "",
+     "value": "/wikipedia/ca/Jordi_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:59.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/George_IV_Du_Royaume-Uni",
+     "lang": "",
+     "value": "/wikipedia/fr/George_IV_Du_Royaume-Uni",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:15:59.001Z"
+    },
+    {
+     "text": "/wikipedia/th/George_IV_of_the_United_Kingdom",
+     "lang": "",
+     "value": "/wikipedia/th/George_IV_of_the_United_Kingdom",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:00.000Z"
+    },
+    {
+     "text": "/wikipedia/sr_title/$040F$043E$0440$045F_IV",
+     "lang": "",
+     "value": "/wikipedia/sr_title/$040F$043E$0440$045F_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:00.003Z"
+    },
+    {
+     "text": "/wikipedia/sr_id/82181",
+     "lang": "",
+     "value": "/wikipedia/sr_id/82181",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:00.005Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$4E54$6CBB$56DB$4E16",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$4E54$6CBB$56DB$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:00.005Z"
+    },
+    {
+     "text": "/wikipedia/nl/George_IV_$0028Groot-Brittanni$00EB$0029",
+     "lang": "",
+     "value": "/wikipedia/nl/George_IV_$0028Groot-Brittanni$00EB$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:00.006Z"
+    },
+    {
+     "text": "/wikipedia/ro/George_al_iv-lea_al_regatului_unit",
+     "lang": "",
+     "value": "/wikipedia/ro/George_al_iv-lea_al_regatului_unit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:01.002Z"
+    },
+    {
+     "text": "/wikipedia/hu/IV$002E_Gy$00F6rgy_brit_kir$00E1ly",
+     "lang": "",
+     "value": "/wikipedia/hu/IV$002E_Gy$00F6rgy_brit_kir$00E1ly",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:01.003Z"
+    },
+    {
+     "text": "/wikipedia/cs/Ji$0159$00ED_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/cs/Ji$0159$00ED_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:03.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/Ji$0159$00ED_IV$002E_Britsk$00FD",
+     "lang": "",
+     "value": "/wikipedia/cs/Ji$0159$00ED_IV$002E_Britsk$00FD",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:04.002Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30B2$30AA$30EB$30AF4$4E16",
+     "lang": "",
+     "value": "/wikipedia/ja/$30B2$30AA$30EB$30AF4$4E16",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:04.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Jorge_iv_del_reino_unido",
+     "lang": "",
+     "value": "/wikipedia/es/Jorge_iv_del_reino_unido",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:05.005Z"
+    },
+    {
+     "text": "/wikipedia/tr/Iv$002E_george",
+     "lang": "",
+     "value": "/wikipedia/tr/Iv$002E_george",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:05.006Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/53723",
+     "lang": "",
+     "value": "/wikipedia/fi_id/53723",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:05.006Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/66770",
+     "lang": "",
+     "value": "/wikipedia/sv_id/66770",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:05.008Z"
+    },
+    {
+     "text": "/wikipedia/da/Georg_4$002E_af_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/da/Georg_4$002E_af_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:06.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Giorgio_IV_d$0027Inghilterra",
+     "lang": "",
+     "value": "/wikipedia/it/Giorgio_IV_d$0027Inghilterra",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:06.001Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062C$0648$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$064A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$062C$0648$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$064A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:06.005Z"
+    },
+    {
+     "text": "/wikipedia/sk_title/Juraj_IV$002E_$0028Spojen$00E9_kr$00E1$013Eovstvo$0029",
+     "lang": "",
+     "value": "/wikipedia/sk_title/Juraj_IV$002E_$0028Spojen$00E9_kr$00E1$013Eovstvo$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:07.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$55AC$6CBB$00B7$5967$53E4$65AF$5854$65AF$00B7$8153$7279$70C8",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$55AC$6CBB$00B7$5967$53E4$65AF$5854$65AF$00B7$8153$7279$70C8",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:07.002Z"
+    },
+    {
+     "text": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0647_$0627$0644$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0647_$0627$0644$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:07.006Z"
+    },
+    {
+     "text": "/wikipedia/uk_title/$0413$0435$043E$0440$0433_IV",
+     "lang": "",
+     "value": "/wikipedia/uk_title/$0413$0435$043E$0440$0433_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:10.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:10.001Z"
+    },
+    {
+     "text": "/wikipedia/hr_id/151184",
+     "lang": "",
+     "value": "/wikipedia/hr_id/151184",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:10.001Z"
+    },
+    {
+     "text": "/wikipedia/id/George_iv_dari_britania_raya",
+     "lang": "",
+     "value": "/wikipedia/id/George_iv_dari_britania_raya",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:10.002Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/394178",
+     "lang": "",
+     "value": "/wikipedia/cs_id/394178",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:11.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0431$0440$0438$0442$0430$043D$0438$0438$0029",
+     "lang": "",
+     "value": "/wikipedia/ru/$0413$0435$043E$0440$0433_IV_$0028$043A$043E$0440$043E$043B$044C_$0412$0435$043B$0438$043A$043E$0431$0440$0438$0442$0430$043D$0438$0438$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:11.004Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "lang": "",
+     "value": "/wikipedia/th/$0E1E$0E23$0E30$0E40$0E08$0E49$0E32$0E08$0E2D$0E23$0E4C$0E08$0E17$0E35$0E48_4_$0E41$0E2B$0E48$0E07$0E2A$0E2B$0E23$0E32$0E0A$0E2D$0E32$0E13$0E32$0E08$0E31$0E01$0E23",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:11.006Z"
+    },
+    {
+     "text": "/wikipedia/id_title/George_IV_dari_Britania_Raya",
+     "lang": "",
+     "value": "/wikipedia/id_title/George_IV_dari_Britania_Raya",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:13.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$55AC$6CBB$56DB$4E16_$0028$82F1$570B$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:13.001Z"
+    },
+    {
+     "text": "/wikipedia/nl/Koning_George_IV_van_Engeland",
+     "lang": "",
+     "value": "/wikipedia/nl/Koning_George_IV_van_Engeland",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:13.002Z"
+    },
+    {
+     "text": "/wikipedia/de/George_Augustus_Frederick",
+     "lang": "",
+     "value": "/wikipedia/de/George_Augustus_Frederick",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:13.003Z"
+    },
+    {
+     "text": "/wikipedia/hu_id/161109",
+     "lang": "",
+     "value": "/wikipedia/hu_id/161109",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:13.006Z"
+    },
+    {
+     "text": "/wikipedia/no_id/39318",
+     "lang": "",
+     "value": "/wikipedia/no_id/39318",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:14.005Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/IV$002E_George",
+     "lang": "",
+     "value": "/wikipedia/tr_title/IV$002E_George",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:14.006Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$064A_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$062C$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$064A_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:14.008Z"
+    },
+    {
+     "text": "/wikipedia/id/George_IV_dari_Britania_Raya",
+     "lang": "",
+     "value": "/wikipedia/id/George_IV_dari_Britania_Raya",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:15.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/George_al_IV-lea_al_Regatului_Unit",
+     "lang": "",
+     "value": "/wikipedia/ro/George_al_IV-lea_al_Regatului_Unit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:15.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/Jordi_IV_d$0027Anglaterra",
+     "lang": "",
+     "value": "/wikipedia/ca/Jordi_IV_d$0027Anglaterra",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:16.000Z"
+    },
+    {
+     "text": "/wikipedia/da_title/Georg_4$002E_af_Storbritannien",
+     "lang": "",
+     "value": "/wikipedia/da_title/Georg_4$002E_af_Storbritannien",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:16.001Z"
+    },
+    {
+     "text": "/wikipedia/nl/Koning_George_IV",
+     "lang": "",
+     "value": "/wikipedia/nl/Koning_George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:20.002Z"
+    },
+    {
+     "text": "/wikipedia/hu_title/IV$002E_Gy$00F6rgy_brit_kir$00E1ly",
+     "lang": "",
+     "value": "/wikipedia/hu_title/IV$002E_Gy$00F6rgy_brit_kir$00E1ly",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:20.006Z"
+    },
+    {
+     "text": "/wikipedia/nl/George_IV_van_het_Verenigd_Koninkrijk",
+     "lang": "",
+     "value": "/wikipedia/nl/George_IV_van_het_Verenigd_Koninkrijk",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:20.007Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D4$05DE$05DE$05DC$05DB$05D4_$05D4$05DE$05D0$05D5$05D7$05D3$05EA",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D4$05DE$05DE$05DC$05DB$05D4_$05D4$05DE$05D0$05D5$05D7$05D3$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:21.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/Jerzy_IV_Hanowerski",
+     "lang": "",
+     "value": "/wikipedia/pl_title/Jerzy_IV_Hanowerski",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:21.002Z"
+    },
+    {
+     "text": "/wikipedia/id_id/728396",
+     "lang": "",
+     "value": "/wikipedia/id_id/728396",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:21.003Z"
+    },
+    {
+     "text": "/wikipedia/hr/Juraj_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/hr/Juraj_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:21.003Z"
+    },
+    {
+     "text": "/wikipedia/hr/$0110uro_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/hr/$0110uro_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:21.008Z"
+    },
+    {
+     "text": "/wikipedia/bg/$0414$0436$043E$0440$0434$0436_IV_$0028$041E$0431$0435$0434$0438$043D$0435$043D$043E_$043A$0440$0430$043B$0441$0442$0432$043E$0029",
+     "lang": "",
+     "value": "/wikipedia/bg/$0414$0436$043E$0440$0434$0436_IV_$0028$041E$0431$0435$0434$0438$043D$0435$043D$043E_$043A$0440$0430$043B$0441$0442$0432$043E$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:22.002Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/108177",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/108177",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:22.002Z"
+    },
+    {
+     "text": "/wikipedia/fr/George_iv_du_royaume-uni",
+     "lang": "",
+     "value": "/wikipedia/fr/George_iv_du_royaume-uni",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:22.004Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062C$0648$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "lang": "",
+     "value": "/wikipedia/fa/$062C$0648$0631$062C_$0686$0647$0627$0631$0645_$067E$0627$062F$0634$0627$0647$06CC_$0645$062A$062D$062F$0647",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:22.004Z"
+    },
+    {
+     "text": "/wikipedia/ar_title/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "lang": "",
+     "value": "/wikipedia/ar_title/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:22.005Z"
+    },
+    {
+     "text": "/wikipedia/ar_id/18150",
+     "lang": "",
+     "value": "/wikipedia/ar_id/18150",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:24.007Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Georg_IV_av_Storbritannia",
+     "lang": "",
+     "value": "/wikipedia/no_title/Georg_IV_av_Storbritannia",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:27.000Z"
+    },
+    {
+     "text": "/wikipedia/ro_title/George_al_IV-lea_al_Regatului_Unit",
+     "lang": "",
+     "value": "/wikipedia/ro_title/George_al_IV-lea_al_Regatului_Unit",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:27.000Z"
+    },
+    {
+     "text": "/wikipedia/ro/George_al_IV-lea_al_Marii_Britanii",
+     "lang": "",
+     "value": "/wikipedia/ro/George_al_IV-lea_al_Marii_Britanii",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:27.001Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D4$05DE$05DE$05DC$05DB$05D4_$05D4$05DE$05D0$05D5$05D7$05D3$05EA",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05D2$0027$05D5$05E8$05D2$0027_$05D4$05E8$05D1$05D9$05E2$05D9$002C_$05DE$05DC$05DA_$05D4$05DE$05DE$05DC$05DB$05D4_$05D4$05DE$05D0$05D5$05D7$05D3$05EA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.003Z"
+    },
+    {
+     "text": "/wikipedia/lt_title/Jurgis_IV",
+     "lang": "",
+     "value": "/wikipedia/lt_title/Jurgis_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.003Z"
+    },
+    {
+     "text": "/wikipedia/da/George_IV",
+     "lang": "",
+     "value": "/wikipedia/da/George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.004Z"
+    },
+    {
+     "text": "/wikipedia/ro/George_IV_al_Angliei",
+     "lang": "",
+     "value": "/wikipedia/ro/George_IV_al_Angliei",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.004Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/108177",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/108177",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.005Z"
+    },
+    {
+     "text": "/wikipedia/hr/George_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/hr/George_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.008Z"
+    },
+    {
+     "text": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "lang": "",
+     "value": "/wikipedia/ar/$062C$0648$0631$062C_$0627$0644$0631$0627$0628$0639_$0645$0644$0643_$0627$0644$0645$0645$0644$0643$0629_$0627$0644$0645$062A$062D$062F$0629",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:30.010Z"
+    },
+    {
+     "text": "/wikipedia/sv/Georg_IV_av_F$00F6renade_Konungariket",
+     "lang": "",
+     "value": "/wikipedia/sv/Georg_IV_av_F$00F6renade_Konungariket",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:31.001Z"
+    },
+    {
+     "text": "/wikipedia/hr_title/$0110uro_IV$002E",
+     "lang": "",
+     "value": "/wikipedia/hr_title/$0110uro_IV$002E",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:36.007Z"
+    },
+    {
+     "text": "/wikipedia/lt/Jurgis_IV",
+     "lang": "",
+     "value": "/wikipedia/lt/Jurgis_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:38.001Z"
+    },
+    {
+     "text": "/wikipedia/fr/Georges_IV_du_Royaume-Uni",
+     "lang": "",
+     "value": "/wikipedia/fr/Georges_IV_du_Royaume-Uni",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-09T17:16:44.002Z"
+    },
+    {
+     "text": "/wikipedia/lv/D$017Eord$017Es_IV",
+     "lang": "",
+     "value": "/wikipedia/lv/D$017Eord$017Es_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-12T03:27:35.000Z"
+    },
+    {
+     "text": "/wikipedia/lv_title/D$017Eord$017Es_IV",
+     "lang": "",
+     "value": "/wikipedia/lv_title/D$017Eord$017Es_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-12T03:33:55.000Z"
+    },
+    {
+     "text": "/wikipedia/et_title/George_IV",
+     "lang": "",
+     "value": "/wikipedia/et_title/George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T04:00:47.005Z"
+    },
+    {
+     "text": "/wikipedia/et/George_IV",
+     "lang": "",
+     "value": "/wikipedia/et/George_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T04:00:55.004Z"
+    },
+    {
+     "text": "/wikipedia/et_id/101853",
+     "lang": "",
+     "value": "/wikipedia/et_id/101853",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-20T04:01:06.006Z"
+    },
+    {
+     "text": "/wikipedia/pt/Jorge_IV_do_Reino_Unido",
+     "lang": "",
+     "value": "/wikipedia/pt/Jorge_IV_do_Reino_Unido",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-25T16:25:43.004Z"
+    },
+    {
+     "text": "/wikipedia/pt/Jorge_iv_do_reino_unido",
+     "lang": "",
+     "value": "/wikipedia/pt/Jorge_iv_do_reino_unido",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-25T16:26:02.003Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/53003",
+     "lang": "",
+     "value": "/wikipedia/pt_id/53003",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-25T16:26:55.007Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Jorge_IV_do_Reino_Unido",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Jorge_IV_do_Reino_Unido",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-25T16:27:20.002Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Yrj$00F6_IV",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Yrj$00F6_IV",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-06-25T03:21:50.000Z"
+    }
+   ],
+   "count": 199.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/0b0sx",
+     "lang": "",
+     "value": "/m/0b0sx"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "George IV of the United Kingdom",
+     "lang": "en",
+     "value": "George IV of the United Kingdom",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:40:45.000Z"
+    }
+   ],
+   "count": 36.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Person",
+     "lang": "en",
+     "id": "/people/person",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-11-14T17:25:37.002Z"
+    },
+    {
+     "text": "Deceased Person",
+     "lang": "en",
+     "id": "/people/deceased_person",
+     "creator": "/user/crism",
+     "timestamp": "2007-03-28T05:35:49.001Z"
+    },
+    {
+     "text": "Noble person",
+     "lang": "en",
+     "id": "/royalty/noble_person",
+     "creator": "/user/skud",
+     "timestamp": "2008-10-01T23:09:53.012Z"
+    },
+    {
+     "text": "Real person",
+     "lang": "en",
+     "id": "/base/aubreymaturin/real_person",
+     "creator": "/user/skud",
+     "timestamp": "2008-10-06T21:50:01.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/aubreymaturin/topic",
+     "creator": "/user/mw_client_bot",
+     "timestamp": "2008-10-13T22:50:05.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/dedication/topic",
+     "creator": "/user/arielb",
+     "timestamp": "2009-02-06T01:45:34.003Z"
+    },
+    {
+     "text": "Dedicatee",
+     "lang": "en",
+     "id": "/media_common/dedicatee",
+     "creator": "/user/arielb",
+     "timestamp": "2009-02-06T01:45:34.003Z"
+    },
+    {
+     "text": "Chivalric Order Founder",
+     "lang": "en",
+     "id": "/royalty/chivalric_order_founder",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-02-13T15:10:26.000Z"
+    },
+    {
+     "text": "Family member",
+     "lang": "en",
+     "id": "/people/family_member",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-05-13T08:16:35.000Z"
+    },
+    {
+     "text": "Chivalric Order Member",
+     "lang": "en",
+     "id": "/royalty/chivalric_order_member",
+     "creator": "/user/sprocketonline",
+     "timestamp": "2009-07-03T15:51:13.001Z"
+    },
+    {
+     "text": "Ontology Instance",
+     "lang": "en",
+     "id": "/base/ontologies/ontology_instance",
+     "creator": "/user/spencermountain",
+     "timestamp": "2009-10-01T12:36:49.000Z"
+    },
+    {
+     "text": "Architectural structure owner",
+     "lang": "en",
+     "id": "/architecture/architectural_structure_owner",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-10-13T00:21:10.002Z"
+    },
+    {
+     "text": "Film subject",
+     "lang": "en",
+     "id": "/film/film_subject",
+     "creator": "/user/gmackenz",
+     "timestamp": "2009-10-13T00:40:08.000Z"
+    },
+    {
+     "text": "Monarch",
+     "lang": "en",
+     "id": "/royalty/monarch",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-01-16T09:57:58.001Z"
+    },
+    {
+     "text": "Literature Subject",
+     "lang": "en",
+     "id": "/book/book_subject",
+     "creator": "/user/mbaker",
+     "timestamp": "2010-01-20T19:40:19.000Z"
+    },
+    {
+     "text": "Name source",
+     "lang": "en",
+     "id": "/symbols/name_source",
+     "creator": "/user/dsinclair",
+     "timestamp": "2010-03-18T23:27:28.000Z"
+    },
+    {
+     "text": "Political Appointer",
+     "lang": "en",
+     "id": "/government/political_appointer",
+     "creator": "/user/blainey",
+     "timestamp": "2010-04-07T04:33:49.009Z"
+    },
+    {
+     "text": "Concept",
+     "lang": "en",
+     "id": "/base/tagit/concept",
+     "creator": "/user/arpim",
+     "timestamp": "2010-08-27T05:22:01.000Z"
+    },
+    {
+     "text": "Organization member",
+     "lang": "en",
+     "id": "/organization/organization_member",
+     "creator": "/user/deleted_2011_06_06",
+     "timestamp": "2010-08-29T11:42:40.003Z"
+    },
+    {
+     "text": "Celebrity",
+     "lang": "en",
+     "id": "/base/popstra/celebrity",
+     "creator": "/user/hailey2009",
+     "timestamp": "2012-02-08T00:42:05.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/popstra/topic",
+     "creator": "/user/hailey2009",
+     "timestamp": "2012-02-08T00:42:05.000Z"
+    },
+    {
+     "text": "sww_base",
+     "lang": "en",
+     "id": "/base/popstra/sww_base",
+     "creator": "/user/hailey2009",
+     "timestamp": "2012-02-08T00:42:05.000Z"
+    },
+    {
+     "text": "Organization founder",
+     "lang": "en",
+     "id": "/organization/organization_founder",
+     "creator": "/user/fact_farm",
+     "timestamp": "2012-12-21T21:45:41.000Z"
+    },
+    {
+     "text": "Animal owner",
+     "lang": "en",
+     "id": "/biology/animal_owner",
+     "creator": "/user/dmukha",
+     "timestamp": "2013-01-03T20:35:21.000Z"
+    },
+    {
+     "text": "Thoroughbred racehorse breeder",
+     "lang": "en",
+     "id": "/base/thoroughbredracing/thoroughbred_racehorse_breeder",
+     "creator": "/user/octone05",
+     "timestamp": "2013-01-06T15:40:07.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/thoroughbredracing/topic",
+     "creator": "/user/octone05",
+     "timestamp": "2013-01-06T15:40:08.000Z"
+    },
+    {
+     "text": "Thoroughbred racehorse owner",
+     "lang": "en",
+     "id": "/base/thoroughbredracing/thoroughbred_racehorse_owner",
+     "creator": "/user/octone05",
+     "timestamp": "2013-01-06T15:42:41.000Z"
+    },
+    {
+     "text": "Person Or Being In Fiction",
+     "lang": "en",
+     "id": "/fictional_universe/person_in_fiction",
+     "creator": "/user/diegofdzhdz",
+     "timestamp": "2013-05-24T01:30:53.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/metaweb"
+    }
+   ],
+   "count": 29.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000005031c",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000005031c"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T09:40:44.008Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T09:40:44.008Z",
+     "lang": "en",
+     "value": "2006-10-22T09:40:44.008Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

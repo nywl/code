@@ -1,0 +1,1086 @@
+{
+ "id": "/m/04cj6k",
+ "property": {
+  "/amusement_parks/park/areas": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Tomorrowland",
+     "lang": "en",
+     "id": "/m/050h8f",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-26T22:52:07.000Z"
+    },
+    {
+     "text": "Adventureland",
+     "lang": "en",
+     "id": "/m/05l6k8",
+     "creator": "/user/gmackenz",
+     "timestamp": "2011-12-05T21:45:13.000Z"
+    },
+    {
+     "text": "Frontierland",
+     "lang": "en",
+     "id": "/m/05gkvs",
+     "creator": "/user/gmackenz",
+     "timestamp": "2011-12-06T18:23:33.001Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/amusement_parks/park/location": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Marne-la-Vall¨¦e",
+     "lang": "en",
+     "id": "/m/05df9m",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-18T08:21:17.000Z"
+    },
+    {
+     "text": "Paris",
+     "lang": "en",
+     "id": "/m/05qtj",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:57:12.000Z"
+    },
+    {
+     "text": "France",
+     "lang": "en",
+     "id": "/m/0f8l9c",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:57:12.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/amusement_parks/park/opened": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1992-04-12",
+     "lang": "",
+     "value": "1992-04-12",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-04T02:57:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/amusement_parks/park/rcdb_id": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "336",
+     "lang": "",
+     "value": "336",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-24T02:37:48.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/amusement_parks/park/rides": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Star Tours",
+     "lang": "en",
+     "id": "/m/04kshjl",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-23T22:03:08.000Z"
+    },
+    {
+     "text": "Space Mountain: Mission 2",
+     "lang": "en",
+     "id": "/m/02z2qpt",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-26T21:40:43.000Z"
+    },
+    {
+     "text": "Phantom Manor",
+     "lang": "en",
+     "id": "/m/06tj9n",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-10-04T02:57:06.001Z"
+    },
+    {
+     "text": "Disneyland Railroad",
+     "lang": "en",
+     "id": "/m/0cc9xrm",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2010-07-09T05:11:28.003Z"
+    },
+    {
+     "text": "Le Carrousel de Lancelot",
+     "lang": "en",
+     "id": "/m/0g9wqs6",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-02-10T18:22:12.001Z"
+    },
+    {
+     "text": "Discovery Arcade",
+     "lang": "en",
+     "id": "/m/0glsz6v",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-05-04T17:26:52.001Z"
+    },
+    {
+     "text": "Liberty Arcade",
+     "lang": "en",
+     "id": "/m/0glpb_r",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-05-04T18:09:44.000Z"
+    },
+    {
+     "text": "Les Pirouettes du Vieux Moulin",
+     "lang": "en",
+     "id": "/m/0gtw91t",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-06-04T19:15:02.000Z"
+    },
+    {
+     "text": "Woody's Roundup Village",
+     "lang": "en",
+     "id": "/m/0gwz541",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-07-01T19:09:34.001Z"
+    },
+    {
+     "text": "Autopia",
+     "lang": "en",
+     "id": "/m/0h_hy5m",
+     "creator": "/user/akeko",
+     "timestamp": "2012-02-01T03:43:08.000Z"
+    }
+   ],
+   "count": 18.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Disneyland Park, Marne-la-Vall¨¦e",
+     "lang": "en",
+     "value": "Disneyland Park, Marne-la-Vall¨¦e",
+     "creator": "/user/spencermountain",
+     "timestamp": "2011-12-06T11:45:39.003Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Disneyland Park (Paris) (French: Parc Disneyland) is a theme park at Disneyland Paris, a resort...",
+     "lang": "en",
+     "id": "/m/04cj6s",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T23:18:41.001Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/1162518",
+         "lang": "",
+         "value": "http://wp/en/1162518",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T23:18:41.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Disneyland Park (Paris) (French: Parc Disneyland) is a theme park at Disneyland Paris, a resort...",
+         "lang": "en",
+         "value": "Disneyland Park (Paris) (French: Parc Disneyland) is a theme park at Disneyland Paris, a resort complex just outside of Paris, in the new town of Marne-la-Vall¨¦e, France. The first of two parks built at the resort, it opened as Euro Disneyland on 12 April 1992. Operated by the French company Euro Disney S.C.A., the park was designed and built by Walt Disney Imagineering and the park's layout and attractions are similar to Disneyland in Anaheim, California and the Magic Kingdom at the Walt Disney World Resort in Orlando, Florida. Occupying 56.656 ha (140 acres), Disneyland Park is the largest Disney park based on the original in California.\nIn 2009, Disneyland Park saw 12,740,000 visitors, an increase of 0.4% since 2008, making it the most visited theme park in both France and Europe, and the fourth most visited theme park in the world.\nIn order for the fourth park to be based on the original (in Anaheim, California) modifications were made to the concepts and designs of the park. Amongst these changes was a shift from Tomorrowland to \"Discoveryland\", giving the area a retrofuturistic theme rather than futuristic. Other elements that were altered include the Haunted Mansion, which",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T23:18:41.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T23:18:41.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T23:18:41.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Disneyland Park, originally Euro Disneyland, is the first of two theme parks built at Disneyland...",
+     "lang": "en",
+     "value": "Disneyland Park, originally Euro Disneyland, is the first of two theme parks built at Disneyland Paris in Marne-la-Vall¨¦e, France, opened on 12 April 1992. Designed and built by Walt Disney Imagineering, its layout and attractions are similar to Disneyland Park in Anaheim, California and Magic Kingdom at Walt Disney World in Bay Lake, Florida. Spanning 56.656 ha it is dedicated to fairy tales and Disney characters. In 2012, the park hosted approximately 11,200,000 visitors, making it the most-visited theme park in Europe, and the fifth-most visited theme park in the world.\nThe park is represented by Le Chateau de la Belle au Bois Dormant, a replica of the fairy tale castle seen in Sleeping Beauty.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Disneyland_Park_(Paris)"
+     }
+    }
+   ],
+   "count": 11.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Amusement Park",
+     "lang": "en",
+     "id": "/amusement_parks/park"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Amusement Park",
+     "lang": "en",
+     "id": "/amusement_parks/park"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.disneylandparis.com/",
+     "lang": "",
+     "value": "http://www.disneylandparis.com/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-07T23:33:57.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=1162518",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=1162518",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T23:18:41.001Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=248528",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=248528",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T16:29:04.001Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/¥Ç¥£¥º¥Ë©`¥é¥ó¥É?¥Ñ¥ê",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/¥Ç¥£¥º¥Ë©`¥é¥ó¥É?¥Ñ¥ê",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T07:38:19.000Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Disneyland_Park_(Paris)",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Disneyland_Park_(Paris)",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T18:10:43.002Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=2339214",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=2339214",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:41.003Z"
+    },
+    {
+     "text": "http://nl.wikipedia.org/wiki/Disneyland_Park_(Parijs)",
+     "lang": "",
+     "value": "http://nl.wikipedia.org/wiki/Disneyland_Park_(Parijs)",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:53.000Z"
+    },
+    {
+     "text": "http://vi.wikipedia.org/wiki/index.html?curid=186646",
+     "lang": "",
+     "value": "http://vi.wikipedia.org/wiki/index.html?curid=186646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:05.004Z"
+    },
+    {
+     "text": "http://sv.wikipedia.org/wiki/Disneyland_Park",
+     "lang": "",
+     "value": "http://sv.wikipedia.org/wiki/Disneyland_Park",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:07.001Z"
+    },
+    {
+     "text": "http://sv.wikipedia.org/wiki/index.html?curid=1701321",
+     "lang": "",
+     "value": "http://sv.wikipedia.org/wiki/index.html?curid=1701321",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:13.004Z"
+    },
+    {
+     "text": "http://he.wikipedia.org/wiki/????????_????",
+     "lang": "",
+     "value": "http://he.wikipedia.org/wiki/????????_????",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:21.003Z"
+    }
+   ],
+   "count": 23.0
+  },
+  "/location/location/area": {
+   "valuetype": "float",
+   "values": [
+    {
+     "text": "0.566559",
+     "lang": "en",
+     "value": 0.566559,
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-15T13:15:18.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/containedby": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Marne-la-Vall¨¦e",
+     "lang": "en",
+     "id": "/m/05df9m",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-18T08:21:17.000Z"
+    },
+    {
+     "text": "Paris",
+     "lang": "en",
+     "id": "/m/05qtj",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:57:12.000Z"
+    },
+    {
+     "text": "France",
+     "lang": "en",
+     "id": "/m/0f8l9c",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:57:12.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/location/location/geolocation": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "48.872608 - 2.776747 - Freebase Geodata Team - Geocode",
+     "lang": "en",
+     "id": "/m/02_rtq5",
+     "creator": "/user/mw_coord_bot",
+     "timestamp": "2007-11-09T08:42:23.001Z",
+     "property": {
+      "/location/geocode/latitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "48.872608",
+         "lang": "en",
+         "value": 48.872608,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-08T01:52:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/longitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "2.776747",
+         "lang": "en",
+         "value": 2.776747,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:17:52.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Geodata Team",
+         "lang": "en",
+         "id": "/m/02_bg8y",
+         "creator": "/user/mw_coord_bot",
+         "timestamp": "2007-11-09T08:42:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Geocode",
+         "lang": "en",
+         "id": "/location/geocode",
+         "creator": "/user/mw_coord_bot",
+         "timestamp": "2007-11-09T08:42:23.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/location/location/time_zones": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "UTC+01:00",
+     "lang": "en",
+     "id": "/m/073069",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:58:03.000Z"
+    },
+    {
+     "text": "Central European Time Zone",
+     "lang": "en",
+     "id": "/m/02llzg",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:58:03.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/travel/tourist_attraction/near_travel_destination": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Paris",
+     "lang": "en",
+     "id": "/m/05qtj",
+     "creator": "/user/akeko",
+     "timestamp": "2012-01-11T07:59:44.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T23:18:41.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/1162518",
+     "lang": "",
+     "value": "/wikipedia/en_id/1162518",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T23:18:41.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Disneyland_Park_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Disneyland_Park_$0028Paris$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T23:18:41.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Euro_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/en/Euro_Disneyland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T21:52:47.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Eurodisneyland",
+     "lang": "",
+     "value": "/wikipedia/en/Eurodisneyland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-24T22:28:00.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Disneyland_Park_Paris",
+     "lang": "",
+     "value": "/wikipedia/en/Disneyland_Park_Paris",
+     "creator": "/user/tristan",
+     "timestamp": "2007-04-11T03:19:07.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Euro-Disneyland",
+     "lang": "",
+     "value": "/wikipedia/en/Euro-Disneyland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T05:58:45.002Z"
+    },
+    {
+     "text": "/wikipedia/en/EuroDisneyLand",
+     "lang": "",
+     "value": "/wikipedia/en/EuroDisneyLand",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2008-01-16T05:17:52.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Parc_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/en/Parc_Disneyland",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2008-04-05T00:34:15.000Z"
+    },
+    {
+     "text": "/authority/rcdb/park/336",
+     "lang": "",
+     "value": "/authority/rcdb/park/336",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-24T02:37:48.000Z"
+    },
+    {
+     "text": "/en/disneyland_park",
+     "lang": "",
+     "value": "/en/disneyland_park",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-12T00:21:24.002Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/009c-c25b",
+     "lang": "",
+     "value": "/user/avh/ellerdale/009c-c25b",
+     "creator": "/user/avh",
+     "timestamp": "2010-01-05T04:02:10.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Chante$002C_C$0027est_Noel",
+     "lang": "",
+     "value": "/wikipedia/en/Chante$002C_C$0027est_Noel",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-05-18T20:54:05.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9$30FB$30D1$30EA",
+     "lang": "",
+     "value": "/wikipedia/ja/$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9$30FB$30D1$30EA",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T15:05:25.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/248528",
+     "lang": "",
+     "value": "/wikipedia/ja_id/248528",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T16:29:04.001Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9$30FB$30D1$30EA",
+     "lang": "",
+     "value": "/wikipedia/ja_title/$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9$30FB$30D1$30EA",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T07:38:19.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Disneyland_Park_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/Disneyland_Park_$0028Paris$0029",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T18:10:43.002Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/2339214",
+     "lang": "",
+     "value": "/wikipedia/pt_id/2339214",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:41.003Z"
+    },
+    {
+     "text": "/wikipedia/fr/Disneyland_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/Disneyland_$0028Paris$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:50.006Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/Disneyland_Park_$0028Parijs$0029",
+     "lang": "",
+     "value": "/wikipedia/nl_title/Disneyland_Park_$0028Parijs$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:53.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Parc_Disneyland_Paris",
+     "lang": "",
+     "value": "/wikipedia/fr/Parc_Disneyland_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:37:53.002Z"
+    },
+    {
+     "text": "/wikipedia/vi_id/186646",
+     "lang": "",
+     "value": "/wikipedia/vi_id/186646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:05.004Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Disneyland_Park",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Disneyland_Park",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:07.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Disneyland_Park_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Disneyland_Park_$0028Paris$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:10.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/1701321",
+     "lang": "",
+     "value": "/wikipedia/sv_id/1701321",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:13.004Z"
+    },
+    {
+     "text": "/wikipedia/nl/Euro_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/nl/Euro_Disneyland",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:14.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Disneyland_Park_$0028Par$00EDs$0029",
+     "lang": "",
+     "value": "/wikipedia/es/Disneyland_Park_$0028Par$00EDs$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:17.005Z"
+    },
+    {
+     "text": "/wikipedia/it/Parco_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/it/Parco_Disneyland",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:18.003Z"
+    },
+    {
+     "text": "/wikipedia/it/Disneyland_Park_Paris",
+     "lang": "",
+     "value": "/wikipedia/it/Disneyland_Park_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:20.001Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05D6",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05D6",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:21.003Z"
+    },
+    {
+     "text": "/wikipedia/fr/Euro_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/fr/Euro_Disneyland",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:26.001Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Disneyland_Paris",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Disneyland_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:26.002Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05D6",
+     "lang": "",
+     "value": "/wikipedia/he/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05D6",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:27.004Z"
+    },
+    {
+     "text": "/wikipedia/nl/Disneyland_Park_$0028Parijs$0029",
+     "lang": "",
+     "value": "/wikipedia/nl/Disneyland_Park_$0028Parijs$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:34.003Z"
+    },
+    {
+     "text": "/wikipedia/es/Disneyland_Par$00EDs",
+     "lang": "",
+     "value": "/wikipedia/es/Disneyland_Par$00EDs",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:40.001Z"
+    },
+    {
+     "text": "/wikipedia/it/Euro_Disneyland",
+     "lang": "",
+     "value": "/wikipedia/it/Euro_Disneyland",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:42.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Disneyland_Park_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/pt/Disneyland_Park_$0028Paris$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:42.004Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Disneyland_Park_$0028Parigi$0029",
+     "lang": "",
+     "value": "/wikipedia/it_title/Disneyland_Park_$0028Parigi$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:42.005Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30E6$30FC$30ED$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9",
+     "lang": "",
+     "value": "/wikipedia/ja/$30E6$30FC$30ED$30C7$30A3$30BA$30CB$30FC$30E9$30F3$30C9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:43.001Z"
+    },
+    {
+     "text": "/wikipedia/it_id/109780",
+     "lang": "",
+     "value": "/wikipedia/it_id/109780",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:43.005Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D9$05D5$05E8$05D5$05D3$05D9$05E1$05E0$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05D9$05D5$05E8$05D5$05D3$05D9$05E1$05E0$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:44.001Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/43471",
+     "lang": "",
+     "value": "/wikipedia/nl_id/43471",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:45.004Z"
+    },
+    {
+     "text": "/wikipedia/vi/Disneyland_Paris",
+     "lang": "",
+     "value": "/wikipedia/vi/Disneyland_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:48.002Z"
+    },
+    {
+     "text": "/wikipedia/he_id/48593",
+     "lang": "",
+     "value": "/wikipedia/he_id/48593",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:53.002Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Disneyland_Park_$0028Par$00EDs$0029",
+     "lang": "",
+     "value": "/wikipedia/es_title/Disneyland_Park_$0028Par$00EDs$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:58.006Z"
+    },
+    {
+     "text": "/wikipedia/vi_title/Disneyland_Paris",
+     "lang": "",
+     "value": "/wikipedia/vi_title/Disneyland_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:38:59.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Disneyland_Paris",
+     "lang": "",
+     "value": "/wikipedia/pt/Disneyland_Paris",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:04.001Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/1023152",
+     "lang": "",
+     "value": "/wikipedia/fr_id/1023152",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:08.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Disneyland_Park_Parigi",
+     "lang": "",
+     "value": "/wikipedia/it/Disneyland_Park_Parigi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:10.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/EuroDisneyLand",
+     "lang": "",
+     "value": "/wikipedia/nl/EuroDisneyLand",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:13.002Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05E1",
+     "lang": "",
+     "value": "/wikipedia/he/$05D3$05D9$05E1$05E0$05D9$05DC$05E0$05D3_$05E4$05E8$05D9$05E1",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:14.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/1009088",
+     "lang": "",
+     "value": "/wikipedia/es_id/1009088",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:15.004Z"
+    },
+    {
+     "text": "/wikipedia/it/Disneyland_Park_$0028Parigi$0029",
+     "lang": "",
+     "value": "/wikipedia/it/Disneyland_Park_$0028Parigi$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:16.000Z"
+    },
+    {
+     "text": "/wikipedia/sv/Disneyland_Park",
+     "lang": "",
+     "value": "/wikipedia/sv/Disneyland_Park",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:21.003Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Disneyland_$0028Paris$0029",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Disneyland_$0028Paris$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T22:39:23.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B514$C988$B2C8$B79C$B4DC_$D30C$D06C_$D30C$B9AC",
+     "lang": "",
+     "value": "/wikipedia/ko/$B514$C988$B2C8$B79C$B4DC_$D30C$D06C_$D30C$B9AC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:31:50.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C720$B85C$B514$C988$B2C8$B79C$B4DC",
+     "lang": "",
+     "value": "/wikipedia/ko/$C720$B85C$B514$C988$B2C8$B79C$B4DC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:31:58.007Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/916002",
+     "lang": "",
+     "value": "/wikipedia/ko_id/916002",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:31:59.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C720$B85C_$B514$C988$B2C8$B79C$B4DC",
+     "lang": "",
+     "value": "/wikipedia/ko/$C720$B85C_$B514$C988$B2C8$B79C$B4DC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:32:08.004Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B514$C988$B2C8$B79C$B4DC_$0028$D30C$B9AC$0029",
+     "lang": "",
+     "value": "/wikipedia/ko/$B514$C988$B2C8$B79C$B4DC_$0028$D30C$B9AC$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:32:08.008Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$B514$C988$B2C8$B79C$B4DC_$0028$D30C$B9AC$0029",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$B514$C988$B2C8$B79C$B4DC_$0028$D30C$B9AC$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-06T03:32:14.005Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D9$05D5$05E8$05D5_$05D3$05D9$05E1$05E0$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05D9$05D5$05E8$05D5_$05D3$05D9$05E1$05E0$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-03T20:36:28.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D9$05D5$05E8$05D5-$05D3$05D9$05E1$05E0$05D9",
+     "lang": "",
+     "value": "/wikipedia/he/$05D9$05D5$05E8$05D5-$05D3$05D9$05E1$05E0$05D9",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-07-03T20:43:05.000Z"
+    }
+   ],
+   "count": 62.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/04cj6k",
+     "lang": "",
+     "value": "/m/04cj6k"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Disneyland Park",
+     "lang": "en",
+     "value": "Disneyland Park",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T23:18:41.001Z"
+    }
+   ],
+   "count": 12.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Amusement Park",
+     "lang": "en",
+     "id": "/m/02h6vkr",
+     "creator": "/user/tjcrandley",
+     "timestamp": "2007-04-27T02:14:48.000Z"
+    },
+    {
+     "text": "Location",
+     "lang": "en",
+     "id": "/location/location",
+     "creator": "/user/mw_coord_bot",
+     "timestamp": "2007-11-09T08:42:23.001Z"
+    },
+    {
+     "text": "Amusement Park",
+     "lang": "en",
+     "id": "/amusement_parks/park",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-15T22:58:49.000Z"
+    },
+    {
+     "text": "Employer",
+     "lang": "en",
+     "id": "/business/employer",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-16T01:59:32.000Z"
+    },
+    {
+     "text": "Disney Theme Park",
+     "lang": "en",
+     "id": "/m/04kwcc8",
+     "creator": "/user/alexander",
+     "timestamp": "2008-09-26T22:46:27.000Z"
+    },
+    {
+     "text": "Tourist attraction",
+     "lang": "en",
+     "id": "/travel/tourist_attraction",
+     "creator": "/user/jeff",
+     "timestamp": "2010-11-17T21:44:10.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 7.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000045c0d1",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000045c0d1"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T23:18:41.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T23:18:41.000Z",
+     "lang": "en",
+     "value": "2006-10-22T23:18:41.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

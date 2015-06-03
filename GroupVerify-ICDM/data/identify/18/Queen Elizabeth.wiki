@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Queen Elizabeth - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Queen_Elizabeth&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Queen_Elizabeth&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Queen_Elizabeth" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Queen_Elizabeth","wgTitle":"Queen Elizabeth","wgCurRevisionId":578326540,"wgRevisionId":578326540,"wgArticleId":165355,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All article disambiguation pages","All disambiguation pages","Disambiguation pages","Human name disambiguation pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Queen_Elizabeth","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Queen_Elizabeth_(disambiguation)","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":165355,"title":"Queen Elizabeth","namespace":0,"categories":["All article disambiguation pages","All disambiguation pages","Disambiguation pages","Human name disambiguation pages"],"permissionLevel":false},"wgWikibaseItemId":"Q254214"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Queen_Elizabeth skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Queen Elizabeth</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub">??(Redirected from <a href="/w/index.php?title=Queen_Elizabeth_(disambiguation)&amp;redirect=no" title="Queen Elizabeth (disambiguation)">Queen Elizabeth (disambiguation)</a>)</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Queens_regnant"><span class="tocnumber">1</span> <span class="toctext">Queens regnant</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Queens_consort.2C_dowager_and_mother"><span class="tocnumber">2</span> <span class="toctext">Queens consort, dowager and mother</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Queens_in_fiction"><span class="tocnumber">3</span> <span class="toctext">Queens in fiction</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ships"><span class="tocnumber">4</span> <span class="toctext">Ships</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other"><span class="tocnumber">5</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+</div>
+<p><b>Queen Elizabeth</b> or <b>Queen Elisabeth</b> may refer to:</p>
+<h2><span class="mw-headline" id="Queens_regnant">Queens regnant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=1" title="Edit section: Queens regnant">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Elizabeth_I_of_England" title="Elizabeth I of England">Elizabeth I of England</a> (1533每1603), last Tudor monarch over England, reigned 1558每1603</li>
+<li><a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a> (born 1926) of the United Kingdom and the other Commonwealth Realms, reigning since 1952</li>
+</ul>
+<h2><span class="mw-headline" id="Queens_consort.2C_dowager_and_mother">Queens consort, dowager and mother</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=2" title="Edit section: Queens consort, dowager and mother">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Queen_Elizabeth_The_Queen_Mother" title="Queen Elizabeth The Queen Mother">Elizabeth Bowes-Lyon</a> (1900每2002), queen consort, queen dowager and queen mother of the United Kingdom (known from 1952 until her death as <i>Queen Elizabeth The Queen Mother</i>)</li>
+<li><a href="/wiki/Elizabeth_Woodville" title="Elizabeth Woodville">Elizabeth Woodville</a> (1437每1492), queen consort, queen dowager and queen mother of England</li>
+<li><a href="/wiki/Elizabeth_of_Aragon" title="Elizabeth of Aragon">Elizabeth of Aragon</a> (1271每1336), queen consort, queen dowager and queen mother of Portugal</li>
+<li><a href="/wiki/Elisabeth_of_Austria_(1436%E2%80%931505)" title="Elisabeth of Austria (1436每1505)" class="mw-redirect">Elisabeth of Austria (1436每1505)</a>, queen consort, queen dowager and queen mother of Poland</li>
+<li><a href="/wiki/Elisabeth_of_Bavaria" title="Elisabeth of Bavaria" class="mw-redirect">Elisabeth of Bavaria</a> (1837每1898), queen consort of Hungary, Croatia, and Bohemia</li>
+<li><a href="/wiki/Elisabeth_of_Bavaria_(1876%E2%80%931965)" title="Elisabeth of Bavaria (1876每1965)" class="mw-redirect">Elisabeth of Bavaria (1876每1965)</a>, queen consort, queen dowager and queen mother of the Belgians</li>
+<li><a href="/wiki/Elisabeth_of_Bohemia_(1292%E2%80%931330)" title="Elisabeth of Bohemia (1292每1330)" class="mw-redirect">Elisabeth of Bohemia (1292每1330)</a>, queen consort of Bohemia</li>
+<li><a href="/wiki/Elisabeth_of_Bohemia_(1358%E2%80%931373)" title="Elisabeth of Bohemia (1358每1373)">Elisabeth of Bohemia (1358每1373)</a>, queen consort of the Romans, Hungary, and Bohemia</li>
+<li><a href="/wiki/Elizabeth_of_Bohemia" title="Elizabeth of Bohemia" class="mw-redirect">Elizabeth of Bohemia</a> (1596每1662), the "Winter Queen", briefly queen consort of Bohemia, wife of Frederick V, Elector Palatine</li>
+<li><a href="/wiki/Elizabeth_of_Bosnia" title="Elizabeth of Bosnia">Elizabeth of Bosnia</a> (1340每1387), queen consort and queen dowager of Hungary and Poland, queen mother of Hungary</li>
+<li><a href="/wiki/Elizabeth_de_Burgh" title="Elizabeth de Burgh">Elizabeth de Burgh</a> (1289每1327), queen consort of Scotland</li>
+<li><a href="/wiki/Elisabeth_Richeza_of_Poland" title="Elisabeth Richeza of Poland" class="mw-redirect">Elisabeth Richeza of Poland</a> (1286每1335), queen consort of Bohemia and Poland</li>
+<li><a href="/wiki/Elisabeth_of_Romania" title="Elisabeth of Romania">Elisabeth of Romania</a> (1894每1956), queen consort of the Hellenes</li>
+<li><a href="/wiki/Elisabeth_of_Wied" title="Elisabeth of Wied">Elisabeth of Wied</a> (1843每1916), queen consort and queen dowager of Romania</li>
+<li><a href="/wiki/Elizabeth_of_York" title="Elizabeth of York">Elizabeth of York</a> (1466每1503), queen consort of England</li>
+</ul>
+<h2><span class="mw-headline" id="Queens_in_fiction">Queens in fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=3" title="Edit section: Queens in fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Elizabeth III of the House of Winton, monarch of the Star Kingdom of Manticore, in David Weber's <a href="/wiki/Honorverse" title="Honorverse">Honorverse</a> books</li>
+<li>Elizabeth X, aka "Liz Ten", fictional queen of <i>Starship UK</i> in the <i>Doctor Who</i> episode "<a href="/wiki/The_Beast_Below" title="The Beast Below">The Beast Below</a>"</li>
+</ul>
+<h2><span class="mw-headline" id="Ships">Ships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=4" title="Edit section: Ships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/HMS_Queen_Elizabeth" title="HMS Queen Elizabeth">HMS <i>Queen Elizabeth</i></a>, several ships of the Royal Navy</li>
+<li><a href="/wiki/MS_Queen_Elizabeth" title="MS Queen Elizabeth">MS <i>Queen Elizabeth</i></a>, Cunard cruise ship launched in 2010</li>
+<li><a href="/wiki/RMS_Queen_Elizabeth" title="RMS Queen Elizabeth">RMS <i>Queen Elizabeth</i></a>, Cunard ocean liner launched 1938, retired 1968</li>
+<li><a href="/wiki/RMS_Queen_Elizabeth_2" title="RMS Queen Elizabeth 2" class="mw-redirect">RMS <i>Queen Elizabeth 2</i></a>, Cunard ocean liner launched in 1969, retired 2008</li>
+<li><a href="/wiki/Queen_Elizabeth_class" title="Queen Elizabeth class"><i>Queen Elizabeth</i> class</a>, several classes of ships</li>
+</ul>
+<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=5" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"Queen Elizabeth" a nickname of one of two US <a href="/wiki/Presidential_State_Car_(United_States)" title="Presidential State Car (United States)" class="mw-redirect">Presidential limousines</a> of 1938</li>
+<li><a href="/wiki/Queen_Elizabeth_(band)" title="Queen Elizabeth (band)">Queen Elizabeth (band)</a></li>
+<li><a href="/wiki/Queen_Elizabeth,_Saskatoon" title="Queen Elizabeth, Saskatoon">Queen Elizabeth, Saskatoon</a>, a suburban neighborhood in the city of Saskatoon, Saskatchewan, Canada</li>
+<li><i><a href="/wiki/Les_Amours_de_la_reine_%C3%89lisabeth" title="Les Amours de la reine 谷lisabeth">Les Amours de la reine 谷lisabeth</a></i> (<i>Queen Elizabeth</i>), 1912 film starring Sarah Bernhardt</li>
+<li><a href="/wiki/Queen_Elisabeth_Music_Competition" title="Queen Elisabeth Music Competition">Queen Elisabeth Music Competition</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="selfreference"><a href="/wiki/Special:PrefixIndex/Queen_Elizabeth" title="Special:PrefixIndex/Queen Elizabeth">All pages beginning with "Queen Elizabeth"</a></span></li>
+<li><span class="selfreference"><a href="/wiki/Special:Search/intitle:Queen_Elizabeth" title="Special:Search/intitle:Queen Elizabeth">All pages with titles containing "Queen Elizabeth"</a></span></li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="" role="presentation">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the same title.<br />
+<small>If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Queen_Elizabeth&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.264 seconds
+Real time usage: 0.291 seconds
+Preprocessor visited node count: 978/1000000
+Preprocessor generated node count: 1629/1500000
+Post坼expand include size: 2785/2048000 bytes
+Template argument size: 506/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.015s
+Lua memory usage: 494 KB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:165355-0!*!0!!en!4!* and timestamp 20131022223629
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Queen_Elizabeth&amp;oldid=578326540">http://en.wikipedia.org/w/index.php?title=Queen_Elizabeth&amp;oldid=578326540</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li><li><a href="/wiki/Category:Human_name_disambiguation_pages" title="Category:Human name disambiguation pages">Human name disambiguation pages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li><li><a href="/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Queen+Elizabeth&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Queen+Elizabeth" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Queen_Elizabeth"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Queen_Elizabeth"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Queen_Elizabeth" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Queen_Elizabeth&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content 每 the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Queen_Elizabeth" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Queen_Elizabeth" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Queen_Elizabeth&amp;oldid=578326540" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Queen_Elizabeth&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q254214" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Queen_Elizabeth&amp;id=578326540" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Queen+Elizabeth">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Queen+Elizabeth&amp;oldid=578326540&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Queen_Elizabeth&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kr%C3%A1lovna_Al%C5%BEb%C4%9Bta" title="Kr芍lovna Al?b豆ta 每 Czech" lang="cs" hreflang="cs">?esky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Dronning_Elizabeth" title="Dronning Elizabeth 每 Danish" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Queen_Elizabeth" title="Queen Elizabeth 每 German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Queen_Elizabeth" title="Queen Elizabeth 每 French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Regina_Elisabetta" title="Regina Elisabetta 每 Italian" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%9E%D7%9C%D7%9B%D7%94_%D7%90%D7%9C%D7%99%D7%96%D7%91%D7%AA" title="????? ?????? 每 Hebrew" lang="he" hreflang="he">?????</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Koningin_Elisabeth" title="Koningin Elisabeth 每 Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9" title="弁奶奈件?巨伉扒矛旦 每 Japanese" lang="ja" hreflang="ja">�梇擅Z</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Dronning_Elisabeth" title="Dronning Elisabeth 每 Norwegian (bokm?l)" lang="no" hreflang="no">Norsk bokm?l</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Queen_Elizabeth" title="Queen Elizabeth 每 Polish" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Rainha_Elizabeth" title="Rainha Elizabeth 每 Portuguese" lang="pt" hreflang="pt">Portugu那s</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Queen_Elizabeth" title="Queen Elizabeth 每 Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Kr%C3%A1%C4%BEovn%C3%A1_Al%C5%BEbeta" title="Kr芍?ovn芍 Al?beta 每 Slovak" lang="sk" hreflang="sk">Sloven?ina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%99%D0%B8%D1%86%D0%B0_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%D0%B0" title="妞把忘?我扯忘 圻抖我戒忘忌快找忘 每 Serbian" lang="sr" hreflang="sr">妊把扭扼抗我 / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kuningatar_Elisabet" title="Kuningatar Elisabet 每 Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q254214#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 October 2013 at 22:36.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Queen_Elizabeth" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1075 in 0.278 secs. -->
+	</body>
+</html>

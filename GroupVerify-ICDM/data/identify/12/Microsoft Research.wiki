@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Microsoft Research - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<meta name="robots" content="noindex,follow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Microsoft_Research&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Microsoft_Research&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/index.html?curid=2163522" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Microsoft_Research","wgTitle":"Microsoft Research","wgCurRevisionId":565771913,"wgRevisionId":565771913,"wgArticleId":2163522,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Microsoft Research","Organizations established in 1991","Computer science research organizations","Human–computer interaction researchers","Research and development organizations","Research institutes in Washington (state)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Microsoft_Research","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-cn"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2163522,"title":"Microsoft Research","namespace":0,"categories":["Commons category with local link same as on Wikidata","Computer science research organizations","Human–computer interaction researchers","Microsoft Research","Organizations established in 1991","Research and development organizations","Research institutes in Washington (state)"],"permissionLevel":false},"wgWikibaseItemId":"Q1144725"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Microsoft_Research skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Microsoft Research</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;">
+<caption class="fn org">Microsoft Research</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center;"><a href="/wiki/File:Microsoft_Research_logo.jpg" class="image"><img alt="Microsoft Research logo.jpg" src="//upload.wikimedia.org/wikipedia/en/b/b3/Microsoft_Research_logo.jpg" width="143" height="41" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/">research.microsoft.com</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Microsoft_Bangalore.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_Bangalore.jpg/250px-Microsoft_Bangalore.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_Bangalore.jpg/375px-Microsoft_Bangalore.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_Bangalore.jpg/500px-Microsoft_Bangalore.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Microsoft_Bangalore.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Microsoft Research <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a> office</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Herzliya_Ind_056.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Herzliya_Ind_056.jpg/250px-Herzliya_Ind_056.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Herzliya_Ind_056.jpg/375px-Herzliya_Ind_056.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Herzliya_Ind_056.jpg/500px-Herzliya_Ind_056.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Herzliya_Ind_056.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Microsoft Research <a href="/wiki/Herzliya" title="Herzliya">Herzliya</a> office</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Microsoft_Haifa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Microsoft_Haifa.jpg/250px-Microsoft_Haifa.jpg" width="250" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Microsoft_Haifa.jpg/375px-Microsoft_Haifa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Microsoft_Haifa.jpg/500px-Microsoft_Haifa.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Microsoft_Haifa.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Microsoft Research <a href="/wiki/Haifa" title="Haifa">Haifa</a> office</div>
+</div>
+</div>
+<p><b>Microsoft Research</b> (<b>MSR</b>) is the research division of <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> created in 1991 for developing various <a href="/wiki/Computer_science" title="Computer science">computer science</a> ideas and integrating them into Microsoft products. It currently employs <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> winners <a href="/wiki/C.A.R._Hoare" title="C.A.R. Hoare" class="mw-redirect">C.A.R. Hoare</a>, <a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a>, and <a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a>, <a href="/wiki/Fields_Medal" title="Fields Medal">Fields Medal</a> winner <a href="/wiki/Michael_Freedman" title="Michael Freedman">Michael Freedman</a>, <a href="/wiki/MacArthur_Fellow" title="MacArthur Fellow" class="mw-redirect">MacArthur Fellow</a> <a href="/wiki/Jim_Blinn" title="Jim Blinn">Jim Blinn</a>, <a href="/wiki/Dijkstra_Prize" title="Dijkstra Prize">Dijkstra Prize</a> winner <a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> and many other highly recognized experts in computer science, physics, and mathematics, including <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> winner <a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> up until his highly publicized disappearance while sailing, and <a href="/wiki/Lo%C3%A8ve_Prize" title="Loève Prize">Loève Prize</a>, <a href="/wiki/Henri_Poincar%C3%A9_Prize" title="Henri Poincaré Prize">Henri Poincaré Prize</a> and <a href="/wiki/Ostrowski_Prize" title="Ostrowski Prize">Ostrowski Prize</a> winner <a href="/wiki/Oded_Schramm" title="Oded Schramm">Oded Schramm</a> until he fell to his death while climbing in the mountains.</p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Research_areas"><span class="tocnumber">1</span> <span class="toctext">Research areas</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Laboratories"><span class="tocnumber">2</span> <span class="toctext">Laboratories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Collaborations"><span class="tocnumber">2.1</span> <span class="toctext">Collaborations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Research_projects"><span class="tocnumber">3</span> <span class="toctext">Research projects</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Research_areas">Research areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=1" title="Edit section: Research areas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Microsoft research is categorized into the following broad areas:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<ol>
+<li>Algorithms and theory</li>
+<li>Hardware development</li>
+<li><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer interaction</a></li>
+<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a>, adaptation, and intelligence</li>
+<li>Multimedia and graphics</li>
+<li>Search, retrieval, and <a href="/wiki/Knowledge_management" title="Knowledge management">knowledge management</a></li>
+<li>Security and <a href="/wiki/Cryptography" title="Cryptography">cryptography</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Software_engineering" title="Software engineering">Software development</a></li>
+<li>Systems, architectures, mobility, and networking</li>
+<li>Computational and Systems Biology <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+</ol>
+<p>One of the stated goals of Microsoft Research is to "support long-term computer science research that is not bound by product cycles."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> MSR sponsors the <i>Microsoft Research Fellowship</i> for graduate students and the <i>New Faculty Fellowship</i> for new faculty members.</p>
+<h2><span class="mw-headline" id="Laboratories">Laboratories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=2" title="Edit section: Laboratories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are laboratories around the world in <a href="/wiki/Aachen" title="Aachen">Aachen</a>, <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a>, <a href="/wiki/Beijing" title="Beijing">Beijing</a>, <a href="/wiki/Cairo" title="Cairo">Cairo</a>, <a href="/wiki/Cambridge" title="Cambridge">Cambridge (United Kingdom)</a>, <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge (Massachusetts)</a>, <a href="/wiki/Mountain_View,_California" title="Mountain View, California">Mountain View</a>, <a href="/wiki/Redmond,_Washington" title="Redmond, Washington">Redmond</a>, <a href="/wiki/San_Francisco,_California" title="San Francisco, California" class="mw-redirect">San Francisco</a> and <a href="/wiki/New_York,_New_York" title="New York, New York" class="mw-redirect">New York City</a>.</p>
+<ul>
+<li><i>Microsoft Research Redmond</i> was founded on the Microsoft Redmond campus in 1991 working in building 8 by <a href="/wiki/Nathan_Myhrvold" title="Nathan Myhrvold">Nathan Myhrvold</a> and has now moved to their own facility in building 99. It currently has about 350 researchers and is headed by <a href="/wiki/Peter_Lee_(American_Computer_Scientist)" title="Peter Lee (American Computer Scientist)" class="mw-redirect">Peter Lee</a>.</li>
+<li><i>Microsoft Research Cambridge</i> was founded in 1997 by <a href="/wiki/Roger_Needham" title="Roger Needham">Roger Needham</a> and now numbers over 100 employees. It maintains close ties to the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>.</li>
+<li><i>Microsoft Research Asia</i> (MSRA) was founded in <a href="/wiki/Beijing" title="Beijing">Beijing</a> in November 1998. <a href="/wiki/Advanced_Technology_Center" title="Advanced Technology Center" class="mw-redirect">Advanced Technology Center</a> was initially a group of MSRA until it became an independent R&amp;D group of Microsoft.</li>
+<li><i>Microsoft Research Silicon Valley</i>, located in <a href="/wiki/Mountain_View,_California" title="Mountain View, California">Mountain View, California</a>, was founded in August 2001. In January 2006, the Silicon Valley lab merged with Microsoft's Bay Area Research Center (BARC) in San Francisco.</li>
+<li><i>Microsoft Israel Innovation Labs</i> (ILabs), building on its original R&amp;D operation in Israel which was founded in 1991 and tapping into Israel's thriving high-tech community, Microsoft inaugurated in April 2006 the Israel Research &amp; Development Center. The Israel R&amp;D Center is situated in two main locations - in <a href="/wiki/Herzliya" title="Herzliya">Herzliya</a>, heartland of Israel's high tech industry, and in <a href="/wiki/Matam,_Haifa" title="Matam, Haifa">Matam, Haifa</a>, home to many graduates of the <a href="/wiki/Technion" title="Technion" class="mw-redirect">Technion</a>, Israel's leading technology university.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+<li><i>Microsoft Research India</i> was established in January 2005 in <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a> and headed by Dr. P. Anandan.</li>
+<li><i>Cairo Microsoft Innovation Center</i> (CMIC) was founded in 2006 by Tarek Elabbady and currently headed by Hussein Salama.</li>
+<li><i>Microsoft Research New England</i> was established in 2008 in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, adjacent to the <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a> campus.</li>
+<li><i>Microsoft Research New York</i> was established in <a href="/wiki/New_York,_New_York" title="New York, New York" class="mw-redirect">New York, New York</a> on May 3, 2012 with Jennifer Chayes as Managing Director of this location (as well as the New England location). Says David Pennock, Assistant Managing Director, "We'll all be working together in consensus style here in the lab."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=3" title="Edit section: Collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Microsoft Research also collaborates with and jointly operate research centers at the <a href="/wiki/Barcelona_Supercomputing_Center" title="Barcelona Supercomputing Center">Barcelona Supercomputing Center</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <a href="/wiki/Brown_University" title="Brown University">Brown University</a>, <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>, <a href="/wiki/INRIA" title="INRIA" class="mw-redirect">INRIA</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, and the <a href="/wiki/University_of_Trento" title="University of Trento">University of Trento</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> There are also nine jointly-operated labs in China and Hong Kong.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Microsoft Research also supports research centers at many other universities.</p>
+<h2><span class="mw-headline" id="Research_projects">Research projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=4" title="Edit section: Research projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="dablink">For the list of applied research groups from Microsoft Research, see <a href="/wiki/Microsoft_Research_Labs_(disambiguation)" title="Microsoft Research Labs (disambiguation)" class="mw-redirect">Microsoft Research Labs (disambiguation)</a>.</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Microsoft_Research" title="Template:Microsoft Research"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Microsoft_Research" title="Template talk:Microsoft Research"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Microsoft_Research&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><strong class="selflink">Microsoft Research (MSR)</strong></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Main projects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Languages and compilers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Polyphonic_C_sharp" title="Polyphonic C sharp" class="mw-redirect">Polyphonic C#</a></li>
+<li><a href="/wiki/C%CF%89" title="Cω">Cω</a></li>
+<li><a href="/wiki/Spec_Sharp" title="Spec Sharp">Spec#</a></li>
+<li><a href="/wiki/Sing_Sharp" title="Sing Sharp">Sing#</a></li>
+<li><a href="/wiki/Bartok_(compiler)" title="Bartok (compiler)">Bartok</a></li>
+<li><a href="/wiki/Phoenix_(compiler_framework)" title="Phoenix (compiler framework)">Phoenix</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed</a>/ <a href="/wiki/Grid_computing" title="Grid computing">grid computing</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bigtop_(Microsoft_product)" title="Bigtop (Microsoft product)">Bigtop</a></li>
+<li><a href="/wiki/Bigtop_(Microsoft_product)#Gridline" title="Bigtop (Microsoft product)">Gridline</a></li>
+<li><a href="/wiki/BitVault" title="BitVault">BitVault</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Internet" title="Internet">Internet</a> and <a href="/wiki/Computer_networking" title="Computer networking" class="mw-redirect">networking</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Avalanche_(P2P)" title="Avalanche (P2P)">Avalanche</a></li>
+<li><a href="/wiki/Wallop" title="Wallop">Wallop</a></li>
+<li><a href="/wiki/Conference_XP" title="Conference XP">Conference XP</a></li>
+<li><a href="/wiki/HoneyMonkey" title="HoneyMonkey">HoneyMonkey</a></li>
+<li><a href="/wiki/AjaxView" title="AjaxView">AjaxView</a></li>
+<li><a href="/wiki/Gazelle_(web_browser)" title="Gazelle (web browser)">Gazelle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Other projects</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/IllumiRoom" title="IllumiRoom">IllumiRoom</a></li>
+<li><a href="/wiki/MyLifeBits" title="MyLifeBits">MyLifeBits</a></li>
+<li><a href="/wiki/LiveStation" title="LiveStation">LiveStation</a></li>
+<li><a href="/wiki/Microsoft_Terminator" title="Microsoft Terminator">Terminator</a></li>
+<li><a href="/wiki/WorldWide_Telescope" title="WorldWide Telescope">WorldWide Telescope</a></li>
+<li><a href="/wiki/PhotoDNA" title="PhotoDNA">PhotoDNA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Operating_system" title="Operating system">Operating systems</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Singularity_(operating_system)" title="Singularity (operating system)">Singularity</a></li>
+<li><a href="/wiki/Barrelfish" title="Barrelfish">Barrelfish</a></li>
+<li><a href="/wiki/Midori_(operating_system)" title="Midori (operating system)">Midori</a></li>
+<li><a href="/wiki/Verve_(operating_system)" title="Verve (operating system)">Verve</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Application_programming_interface" title="Application programming interface">APIs</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Joins_(concurrency_library)" title="Joins (concurrency library)">Joins</a></li>
+<li><a href="/wiki/Accelerator_(library)" title="Accelerator (library)">Accelerator</a></li>
+<li><a href="/wiki/Dryad_(programming)" title="Dryad (programming)">Dryad</a></li>
+<li><a href="/wiki/SXM_(transactional_memory)" title="SXM (transactional memory)">SXM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Launched as products</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a></li>
+<li><a href="/wiki/Microsoft_Comic_Chat" title="Microsoft Comic Chat">Comic Chat</a></li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+<li><a href="/wiki/Windows_Desktop_Gadgets" title="Windows Desktop Gadgets">Sideshow</a></li>
+<li><a href="/wiki/Microsoft_PixelSense" title="Microsoft PixelSense">PixelSense</a> (<a href="/wiki/TouchLight" title="TouchLight">TouchLight</a>)</li>
+<li><a href="/wiki/Microsoft_SenseCam" title="Microsoft SenseCam">SenseCam</a></li>
+<li><a href="/wiki/ClearType" title="ClearType">ClearType</a></li>
+<li><a href="/wiki/Group_Shot" title="Group Shot">Group Shot</a></li>
+<li><a href="/wiki/Allegiance_(video_game)" title="Allegiance (video game)">Allegiance</a></li>
+<li><a href="/wiki/Microsoft_Songsmith" title="Microsoft Songsmith">Songsmith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applied research<br />
+from MSR Labs</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Microsoft_Live_Labs" title="Microsoft Live Labs">Live Labs</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Current</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Photosynth" title="Photosynth">Photosynth</a></li>
+<li><a href="/wiki/Microsoft_Live_Labs_Pivot" title="Microsoft Live Labs Pivot">Pivot</a></li>
+<li><a href="/wiki/Seadragon_Software" title="Seadragon Software">Seadragon</a>
+<ul>
+<li><a href="/wiki/Deep_Zoom" title="Deep Zoom">Deep Zoom</a></li>
+<li><a href="/wiki/DeepZoomPix" title="DeepZoomPix">DeepZoomPix</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Microsoft_Live_Labs_Deepfish" title="Microsoft Live Labs Deepfish">Deepfish</a></li>
+<li><a href="/wiki/Microsoft_Live_Labs_Listas" title="Microsoft Live Labs Listas">Listas</a></li>
+<li><a href="/wiki/Microsoft_Live_Labs_Volta" title="Microsoft Live Labs Volta">Volta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Microsoft_FUSE_Labs" title="Microsoft FUSE Labs">FUSE Labs</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bing" title="Bing">Bing Twitter</a></li>
+<li><a href="/wiki/Docs.com" title="Docs.com">Docs.com</a></li>
+<li><a href="/wiki/Kodu_Game_Lab" title="Kodu Game Lab">Kodu</a></li>
+<li><a href="/w/index.php?title=Project_Emporia&amp;action=edit&amp;redlink=1" class="new" title="Project Emporia (page does not exist)">Project Emporia</a></li>
+<li><a href="/w/index.php?title=Spindex&amp;action=edit&amp;redlink=1" class="new" title="Spindex (page does not exist)">Spindex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Other Microsoft Research Labs</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Microsoft_adCenter_Labs" title="Microsoft adCenter Labs">adCenter Labs</a></li>
+<li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office Labs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Microsoft_Live_Labs" title="Microsoft Live Labs">Microsoft Live Labs</a></li>
+<li><a href="/wiki/Microsoft_Virtual_Labs" title="Microsoft Virtual Labs">Microsoft Virtual Labs</a> (for Window Server family research)</li>
+</ul>
+<table class="multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Allegiance_(computer_game)" title="Allegiance (computer game)" class="mw-redirect">Allegiance (computer game)</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/885bb5c4-ae6d-418b-97f9-adc9da8d48bd/Details.aspx">Audio Watermarking</a></li>
+<li><a href="/wiki/Bartok_(computer_science)" title="Bartok (computer science)" class="mw-redirect">Bartok compiler</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/hccb/">Color Barcodes</a>, to enhance capacity of <a href="/wiki/Barcode" title="Barcode">barcodes</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Browse.aspx?pageNumber=2&amp;sortCriteria=shortName&amp;sortOrder=ascending&amp;categoryID=0&amp;browseType=browse">Community Bar</a>, context sensitive content plugin</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/dda33e92-f0e8-4961-baaa-98160a006c27/Details.aspx">Data visualization</a> library</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/tem/dg/">Digital Green</a>, a farmer-generated, video-based <a href="/wiki/Social_network_service" title="Social network service" class="mw-redirect">social network service</a> for <a href="/wiki/Agricultural_extension" title="Agricultural extension">agricultural extension</a> in rural India</li>
+<li><a rel="nofollow" class="external text" href="http://www.eslassistant.com/">ESL Assistant</a>, a proofing tool for <a href="/wiki/ESL" title="ESL" class="mw-redirect">ESL</a> English learners</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/f1303e46-965f-401a-87c3-34e1331d32c5/Details.aspx">GLEE</a> <a href="/wiki/Graph_(data_structure)" title="Graph (data structure)" class="mw-redirect">graph</a> layout engine</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/ee2063a1-c89d-4dfb-8228-859b0548adf7/Details.aspx">Gyro</a>, which matured as <a href="/wiki/.NET_Framework" title=".NET Framework">.NET 2.0</a> <a href="/wiki/Generic_programming" title="Generic programming">generics</a></li>
+<li><a href="/wiki/Group_Shot" title="Group Shot">Group Shot</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/f118429d-e3c5-4412-be80-a68ceebd5601/Details.aspx">IceCube</a> shared data synchronization engine</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/ivm/HDView.htm">HD View</a>, a viewer that can aid in the display and interaction with very large (Gigapixel) images</li>
+<li><a rel="nofollow" class="external text" href="http://hotmap.msresearch.us/">Hotmap</a>, a <a href="/wiki/Mashup_(web_application_hybrid)" title="Mashup (web application hybrid)">mashup</a> that shows where people have looked at using <a href="/wiki/Live_Search_Maps" title="Live Search Maps" class="mw-redirect">Virtual Earth</a></li>
+<li><a href="/wiki/Microsoft_Image_Composite_Editor" title="Microsoft Image Composite Editor" class="mw-redirect">Image Composite Editor</a></li>
+<li><a href="/wiki/Kodu" title="Kodu" class="mw-redirect">Kodu</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/0183a49d-c86c-4d80-aa0d-53c97ba7350a/Details.aspx">JCluster</a> clustering engine</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/msbn/">MSBNx</a>, <a href="/wiki/Bayesian_network" title="Bayesian network">Bayesian network</a> toolkit</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/displayArticle.aspx?id=1471">MultiMouse</a>, for shared usage of PC</li>
+<li><a href="/wiki/Penny_Black_(research_project)" title="Penny Black (research project)">Penny Black Project</a></li>
+<li><a href="/wiki/Project_Digits" title="Project Digits">Project Digits</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/20682d64-c8c0-4427-8157-41a8bae15e13/Details.aspx">Scalable Fabric</a>, a <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> task management system</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/88d571b5-bdad-4615-9ceb-84ef62a31b2f/Details.aspx">Search Result Clustering</a> <a href="/wiki/Toolbar" title="Toolbar">toolbar</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/81e28b29-10be-4551-9ede-1690f32e1581/Details.aspx">SecPAL</a> <a href="/wiki/Grid_computing" title="Grid computing">grid</a> authorization language</li>
+<li><a href="/wiki/Microsoft_SenseCam" title="Microsoft SenseCam">SenseCam</a></li>
+<li><a href="/wiki/Sensor_Web" title="Sensor Web" class="mw-redirect">SenseWeb Project</a></li>
+<li><a href="/wiki/SLAM_project" title="SLAM project">SLAM project</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/rootkit/">Strider GhostBuster</a> <a href="/wiki/Rootkit" title="Rootkit">rootkit</a> detection system</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/URLTracer/">Strider URL Tracer</a> / <a rel="nofollow" class="external text" href="http://research.microsoft.com/Typo-Patrol/">Typo-Patrol</a> anti <a href="/wiki/Typosquatting" title="Typosquatting">typosquatting</a> system</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/a91c6322-ae04-4b7c-9f8b-908f094d7a15/Details.aspx">TulaFale</a>, language for verifiable description of <a href="/wiki/Web_Service" title="Web Service" class="mw-redirect">Web Services</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/6437c5df-177a-48c2-8c11-048c6a463ae8/Details.aspx">Virtual Ring Routing</a> driver</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/ee56884c-b946-4c35-b12d-d84bd4269235/Details.aspx">Vault</a>, a safe version of <a href="/wiki/C_programming_language" title="C programming language" class="mw-redirect">C programming language</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/994abd5f-53d1-4dba-a9d8-8ba1dcccead7/Details.aspx">Virtual WiFi</a>, a <a href="/wiki/WiFi" title="WiFi" class="mw-redirect">WiFi</a> <a href="/wiki/Network_adapter" title="Network adapter" class="mw-redirect">adapter</a> virtualizer</li>
+<li><a rel="nofollow" class="external text" href="http://virtualindia.msresearch.in">Virtual India</a></li>
+<li>Web Assistant,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> a <a rel="nofollow" class="external text" href="http://research.microsoft.com/news/featurestories/publish/Information-Centric_Browsing_and_Search.aspx?0hp=n2">contexual search</a> system</li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/f9bf5f7d-8ad2-4a9a-bd36-c24f45032802/Details.aspx">WWMX</a>, <a href="/wiki/Geotagging" title="Geotagging">geotagging</a> <a href="/wiki/Digital_image" title="Digital image">digital images</a></li>
+<li><a href="/wiki/ZenZui" title="ZenZui" class="mw-redirect">ZenZui</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/downloads/Details/65524d1e-4684-43f6-a307-107235ac1335/Details.aspx">Zing</a> <a href="/wiki/Model_checking" title="Model checking">model checker</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Microsoft_Research" class="extiw" title="commons:Category:Microsoft Research">Microsoft Research</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Microsoft_Award" title="Microsoft Award">Microsoft Award</a></li>
+<li><a href="/wiki/Microsoft_Research_Maps" title="Microsoft Research Maps">Microsoft Research Maps</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.microsoft.com/research/default.aspx">Research Areas</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/COSBI" title="COSBI">COSBI</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.cosbi.eu/">"COSBI"</a>. Centre for Computation and Systems Biology.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrosoft+Research&amp;rft.btitle=COSBI&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cosbi.eu%2F&amp;rft.pub=Centre+for+Computation+and+Systems+Biology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.microsoft.com/aboutmsr/overview/default.aspx">Microsoft Research Overview</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.microsoftrnd.co.il/#/home">Microsoft - Israel R&amp;D Center</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Knies, Rob. <a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/news/features/msrnyc-050212.aspx">"Microsoft Research Microsoft Research Debuts N.Y.C. Lab"</a>, <i>Microsoft Research</i>, 2 May 2012. Retrieved on 8 May 2012.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bscmsrc.eu/">BSC-Microsoft Research Centre</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.msr-inria.inria.fr/">Microsoft Research INRIA Joint Centre</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation news">Paff, Susan (2007-03-26). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/pittsburgh/stories/2007/03/26/daily3.html">"Microsoft to create research center at CMU"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrosoft+Research&amp;rft.aufirst=Susan&amp;rft.aulast=Paff&amp;rft.au=Paff%2C+Susan&amp;rft.btitle=Microsoft+to+create+research+center+at+CMU&amp;rft.date=2007-03-26&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fpittsburgh%2Fstories%2F2007%2F03%2F26%2Fdaily3.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pittsburghlive.com/x/pittsburghtrib/news/rss/s_499706.html">Microsoft, CMU team up - Pittsburgh Tribune-Review</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation news">Weisman, Robert (2004-03-22). <a rel="nofollow" class="external text" href="http://www.boston.com/business/articles/2004/03/22/microsofts_east_coast_alliance/">"Microsoft's East Coast alliance"</a>. <i>The Boston Globe</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrosoft+Research&amp;rft.atitle=Microsoft%27s+East+Coast+alliance&amp;rft.aufirst=Robert&amp;rft.aulast=Weisman&amp;rft.au=Weisman%2C+Robert&amp;rft.date=2004-03-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fbusiness%2Farticles%2F2004%2F03%2F22%2Fmicrosofts_east_coast_alliance%2F&amp;rft.jtitle=The+Boston+Globe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.microsoft.com/ur/asia/research/researchlab.aspx">Research</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://apcmag.com/5549/the_first_new_feature_of_internet_explorer_8">"The first new feature of Internet Explorer 8?"</a><span class="reference-accessdate">. Retrieved 2007-06-08</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicrosoft+Research&amp;rft.btitle=The+first+new+feature+of+Internet+Explorer+8%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fapcmag.com%2F5549%2Fthe_first_new_feature_of_internet_explorer_8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/apps/dp/areas.aspx">Outline of Research Areas</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.softpedia.com/cat/Microsoft/Developing-Projects/">Microsoft Developing Project</a> (news archive from Softpedia)</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.952 seconds
+Real time usage: 1.085 seconds
+Preprocessor visited node count: 2052/1000000
+Preprocessor generated node count: 7043/1500000
+Post‐expand include size: 55216/2048000 bytes
+Template argument size: 4122/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.065s
+Lua memory usage: 1.45 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2163522-0!*!0!!en!4!* and timestamp 20131005201047 -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Microsoft_Research&amp;oldid=565771913">http://en.wikipedia.org/w/index.php?title=Microsoft_Research&amp;oldid=565771913</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Microsoft_Research" title="Category:Microsoft Research">Microsoft Research</a></li><li><a href="/wiki/Category:Organizations_established_in_1991" title="Category:Organizations established in 1991">Organizations established in 1991</a></li><li><a href="/wiki/Category:Computer_science_research_organizations" title="Category:Computer science research organizations">Computer science research organizations</a></li><li><a href="/wiki/Category:Human%E2%80%93computer_interaction_researchers" title="Category:Human–computer interaction researchers">Human–computer interaction researchers</a></li><li><a href="/wiki/Category:Research_and_development_organizations" title="Category:Research and development organizations">Research and development organizations</a></li><li><a href="/wiki/Category:Research_institutes_in_Washington_(state)" title="Category:Research institutes in Washington (state)">Research institutes in Washington (state)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Microsoft+Research&amp;returntoquery=curid%3D2163522&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Microsoft+Research&amp;returntoquery=curid%3D2163522" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Microsoft_Research"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Microsoft_Research"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Microsoft_Research" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Microsoft_Research&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Microsoft_Research&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Microsoft_Research" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Microsoft_Research" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Microsoft_Research&amp;oldid=565771913" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Microsoft_Research&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1144725" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Microsoft_Research&amp;id=565771913" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Microsoft+Research">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Microsoft+Research&amp;oldid=565771913&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Microsoft_Research&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Spanish" lang="es" hreflang="es">Espa?ol</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8_%EB%A6%AC%EC%84%9C%EC%B9%98" title="??????? ??? – Korean" lang="ko" hreflang="ko">???</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%A1%D7%95%D7%A4%D7%98_%D7%9E%D7%97%D7%A7%D7%A8" title="????????? ???? – Hebrew" lang="he" hreflang="he">?????</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81" title="マイクロソフトリサーチ – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Polish" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Russian" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%B0%E0%AF%8B%E0%AE%9A%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%9F%E0%AF%8D_%E0%AE%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81" title="???????????? ????? – Tamil" lang="ta" hreflang="ta">?????</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research – Ukrainian" lang="uk" hreflang="uk">Укра?нська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BE%AE%E8%BB%9F%E7%A0%94%E7%A9%B6%E9%99%A2" title="微軟研究院 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1144725#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 25 July 2013 at 16:20.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Microsoft_Research" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1080 in 0.220 secs. -->
+	</body>
+</html>

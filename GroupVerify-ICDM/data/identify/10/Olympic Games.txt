@@ -1,0 +1,252 @@
+{
+ "id": "/m/05nd_",
+ "property": {
+  "/book/book_subject/works": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal",
+     "lang": "en",
+     "id": "/m/04t3_gs",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T22:33:23.002Z"
+    },
+    {
+     "text": "The complete book of the Winter Olympics",
+     "lang": "en",
+     "id": "/m/04t4n16",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T22:34:43.001Z"
+    },
+    {
+     "text": "Olympic dreams",
+     "lang": "en",
+     "id": "/m/04w3y32",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T22:40:48.001Z"
+    },
+    {
+     "text": "The First Ever English Olimpick Games",
+     "lang": "en",
+     "id": "/m/04wbbw1",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T22:56:50.001Z"
+    },
+    {
+     "text": "Berlin Games",
+     "lang": "en",
+     "id": "/m/04whxd6",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T23:13:03.002Z"
+    },
+    {
+     "text": "Origin of haloes",
+     "lang": "en",
+     "id": "/m/04wjb8r",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T23:14:25.002Z"
+    },
+    {
+     "text": "The Olympic Odyssey",
+     "lang": "en",
+     "id": "/m/04xf0j6",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-12-17T23:16:05.001Z"
+    },
+    {
+     "text": "Rome 1960: The Olympics That Changed the World",
+     "lang": "en",
+     "id": "/m/047t03c",
+     "creator": "/user/book_bot",
+     "timestamp": "2009-01-06T22:49:24.000Z"
+    },
+    {
+     "text": "All That Glitters Is Not Gold: The Olympic Game",
+     "lang": "en",
+     "id": "/m/068wyb6",
+     "creator": "/user/mbaker",
+     "timestamp": "2010-01-20T20:23:36.001Z"
+    },
+    {
+     "text": "The Complete Book of the Olympics",
+     "lang": "en",
+     "id": "/m/068wfhq",
+     "creator": "/user/mbaker",
+     "timestamp": "2010-01-20T20:23:36.001Z"
+    }
+   ],
+   "count": 11.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Olympics",
+     "lang": "en",
+     "value": "Olympics",
+     "creator": "/user/fjvdploeg",
+     "timestamp": "2013-06-25T13:09:16.000Z"
+    },
+    {
+     "text": "The Modern Olympic Games",
+     "lang": "en",
+     "value": "The Modern Olympic Games",
+     "creator": "/user/tovg",
+     "timestamp": "2013-07-09T17:52:04.000Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "The Olympic Games (French: les Jeux olympiques) (JO), is a major international event featuring...",
+     "lang": "en",
+     "id": "/m/05nf9",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T09:16:14.004Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/22576",
+         "lang": "",
+         "value": "http://wp/en/22576",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:16:14.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "The Olympic Games (French: les Jeux olympiques) (JO), is a major international event featuring...",
+         "lang": "en",
+         "value": "The Olympic Games (French: les Jeux olympiques) (JO), is a major international event featuring summer and winter sports, in which thousands of athletes participate in a variety of competitions. The Olympic Games have come to be regarded as the world¡¯s foremost sports competition where more than 200 nations participate. The Games are currently held every two years, with Summer and Winter Olympic Games alternating, although they occur every four years within their respective seasonal games. Originally, the ancient Olympic Games were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894. The IOC has since become the governing body of the Olympic Movement, whose structure and actions are defined by the Olympic Charter.\nThe evolution of the Olympic Movement during the 20th and 21st centuries has resulted in several changes to the Olympic Games. Some of these adjustments include the creation of the Winter Games for ice and winter sports, the Paralympic Games for athletes with a physical disability, and the Youth Olympic Games for teenage athletes. The IOC has had to adapt to the varying",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:16:14.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:16:14.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T09:16:14.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "The modern Olympic Games are the leading international sporting event featuring summer and...",
+     "lang": "en",
+     "value": "The modern Olympic Games are the leading international sporting event featuring summer and winter sports competitions in which thousands of athletes participate in a variety of competitions. The Olympic Games are considered to be the world's foremost sports competition with more than 200 nations participating. The Olympic Games are held every four years, with the Summer and Winter Games alternating, meaning they each occur every four years but two years apart. Their creation was inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee in 1894. The IOC is the governing body of the Olympic Movement, with the Olympic Charter defining its structure and authority.\nThe evolution of the Olympic Movement during the 20th and 21st centuries has resulted in several changes to the Olympic Games. Some of these adjustments include the creation of the Winter Games for ice and winter sports, the Paralympic Games for athletes with a disability, and the Youth Olympic Games for teenage athletes. The IOC has had to adapt to a variety of economic, political, and technological advancements. As a result, the Olympics shifted away from pure amateurism, as envisioned by Coubertin, to allow participation of professional athletes. The growing importance of mass media created the issue of corporate sponsorship and commercialization of the Games. World wars led to the cancellation of the 1916, 1940, and 1944 Games. Large boycotts during the Cold War limited participation in the 1980 and 1984 Games.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Olympic_Games"
+     }
+    }
+   ],
+   "count": 41.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Website Category",
+     "lang": "en",
+     "id": "/internet/website_category"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Website Category",
+     "lang": "en",
+     "id": "/internet/website_category"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.olympic.org/",
+     "lang": "",
+     "value": "http://www.olympic.org/",
+     "creator": "/user/kittzy07",
+     "timestamp": "2013-06-22T06:40:40.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/social_media_presence": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://plus.google.com/109192583663551892471",
+     "lang": "",
+     "value": "http://plus.google.com/109192583663551892471",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-11-14T18:42:48.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=22576",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=22576",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T09:16:14.003Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=1624",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=1624",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-24T07:35:50.000Z"
+    },
+    {
+     "text": "http://pt

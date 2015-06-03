@@ -1,0 +1,338 @@
+{
+ "id": "/m/0yyycf",
+ "property": {
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Musical Recording",
+     "lang": "en",
+     "id": "/music/recording"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Musical Recording",
+     "lang": "en",
+     "id": "/music/recording"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://mb-redir.freebaseapps.com/redir/dcc9b343-1d95-4d97-86b0-89dc09a2ed92",
+     "lang": "",
+     "value": "http://mb-redir.freebaseapps.com/redir/dcc9b343-1d95-4d97-86b0-89dc09a2ed92"
+    },
+    {
+     "text": "http://mb-redir.freebaseapps.com/redir/c06a1454-2c85-4341-b51c-f096a823c3fe",
+     "lang": "",
+     "value": "http://mb-redir.freebaseapps.com/redir/c06a1454-2c85-4341-b51c-f096a823c3fe",
+     "creator": "/user/mwcl_musicbrainz"
+    }
+   ],
+   "count": 2.0
+  },
+  "/media_common/cataloged_instance/isrc": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "USDW10021709",
+     "lang": "",
+     "value": "USDW10021709",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2013-08-16T18:07:43.013Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/music/recording/artist": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Elliott Smith",
+     "lang": "en",
+     "id": "/m/0kvnn",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2010-09-13T09:26:17.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/music/recording/length": {
+   "valuetype": "float",
+   "values": [
+    {
+     "text": "129.333",
+     "lang": "en",
+     "value": 129.333,
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2006-12-10T05:08:36.100Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/music/recording/lyrics_website": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Song Lyrics at MetroLyrics - http://www.metrolyrics.com/somebody-that-i-used-to-know-lyrics-elliott-smith.html - Freebase Data Team - Webpage",
+     "lang": "en",
+     "id": "/m/05_z0g2",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2009-05-22T16:06:15.000Z",
+     "property": {
+      "/common/webpage/description": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Song Lyrics at MetroLyrics",
+         "lang": "en",
+         "value": "Song Lyrics at MetroLyrics",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-05-22T16:06:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/webpage/uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://www.metrolyrics.com/somebody-that-i-used-to-know-lyrics-elliott-smith.html",
+         "lang": "",
+         "value": "http://www.metrolyrics.com/somebody-that-i-used-to-know-lyrics-elliott-smith.html",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-05-22T16:06:14.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/05z3l9z",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-05-22T16:06:14.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Webpage",
+         "lang": "en",
+         "id": "/common/webpage",
+         "creator": "/user/mw_od_bot",
+         "timestamp": "2009-05-22T16:06:14.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/music/recording/releases": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Figure 8",
+     "lang": "en",
+     "id": "/m/01h88bk",
+     "creator": "/user/crism",
+     "timestamp": "2007-02-06T17:23:02.029Z"
+    },
+    {
+     "text": "Figure 8",
+     "lang": "en",
+     "id": "/m/036xzny",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2007-11-29T04:45:18.001Z"
+    },
+    {
+     "text": "Figure 8",
+     "lang": "en",
+     "id": "/m/0f2d24p",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2010-11-24T14:48:39.005Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/music/recording/tracks": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Somebody That I Used to Know",
+     "lang": "en",
+     "id": "/m/0khs11f",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2012-08-06T16:21:38.001Z"
+    },
+    {
+     "text": "Somebody That I Used to Know",
+     "lang": "en",
+     "id": "/m/0lgdl8c",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2012-08-30T22:16:12.001Z"
+    },
+    {
+     "text": "Somebody That I Used to Know",
+     "lang": "en",
+     "id": "/m/0mf8_x7",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2012-09-16T08:55:46.010Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/0l14f6",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2006-12-10T05:08:36.100Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/authority/musicbrainz/dcc9b343-1d95-4d97-86b0-89dc09a2ed92",
+     "lang": "",
+     "value": "/authority/musicbrainz/dcc9b343-1d95-4d97-86b0-89dc09a2ed92",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2006-12-10T05:08:36.100Z"
+    },
+    {
+     "text": "/authority/musicbrainz/c06a1454-2c85-4341-b51c-f096a823c3fe",
+     "lang": "",
+     "value": "/authority/musicbrainz/c06a1454-2c85-4341-b51c-f096a823c3fe",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2007-05-18T23:16:06.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/0yyycf",
+     "lang": "",
+     "value": "/m/0yyycf"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Somebody That I Used to Know",
+     "lang": "en",
+     "value": "Somebody That I Used to Know",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2010-11-28T12:09:32.004Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Musical Recording",
+     "lang": "en",
+     "id": "/music/recording",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2006-12-10T05:08:36.100Z"
+    },
+    {
+     "text": "Canonical Version",
+     "lang": "en",
+     "id": "/music/single",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-11-13T23:00:20.000Z"
+    },
+    {
+     "text": "Cataloged instance",
+     "lang": "en",
+     "id": "/media_common/cataloged_instance",
+     "creator": "/user/mwcl_musicbrainz",
+     "timestamp": "2013-08-08T06:33:12.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 4.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000001def56d",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000001def56d"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "mwcl_musicbrainz",
+     "lang": "",
+     "id": "/user/mwcl_musicbrainz",
+     "timestamp": "2006-12-10T05:08:36.100Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-12-10T05:08:36.100Z",
+     "lang": "en",
+     "value": "2006-12-10T05:08:36.100Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

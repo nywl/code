@@ -1,0 +1,237 @@
+women is before win;292;won team title at the 2011 world gymnastics championships in tokyo;usa
+women is before win;292;won team title at the 2011 world gymnastics championships in tokyo;us
+women is before team;304;won team title at the 2011 world gymnastics championships in tokyo;united states
+women is after 2011;304;won team title at the 2011 world gymnastics championships in tokyo;alabama
+women is before world;97;won team title at the 2011 world gymnastics championships in tokyo;china
+women is before win;292;won team title at the 2011 world gymnastics championships in tokyo;usa
+women is before win;292;won team title at the 2011 world gymnastics championships in tokyo;us
+women is before team;304;won team title at the 2011 world gymnastics championships in tokyo;united states
+women is after 2011;304;won team title at the 2011 world gymnastics championships in tokyo;alabama
+women is before world;97;won team title at the 2011 world gymnastics championships in tokyo;china
+men is after 2011;1069;won team title at the 2011 world gymnastics championships in tokyo;united states
+men is before Gymnastics;773;won team title at the 2011 world gymnastics championships in tokyo;china
+physics is after Prize;772;marie curie won the nobel prize in;1903
+physics is after Prize;358;marie curie won the nobel prize in;1911
+physics is after Prize;414;marie curie won the nobel prize in;1930
+physics is after Prize;328;marie curie won the nobel prize in;1921
+physics is after Prize;176;marie curie won the nobel prize in;1867
+chemistry is after Prizes;107;marie curie won the nobel prize in;1903
+chemistry is after Prize;555;marie curie won the nobel prize in;1911
+chemistry is after Prize;180;marie curie won the nobel prize in;1930
+chemistry is after Prize;195;marie curie won the nobel prize in;1921
+chemistry is after Prize;297;marie curie won the nobel prize in;1867
+part 2 is after Hallows;915;the film harry potter and the Deathly Hallows was released in;2011
+part 2 is after Hallows;373;the film harry potter and the Deathly Hallows was released in;2001
+part 2 is after Hallows;16;the film harry potter and the Deathly Hallows was released in;2009
+part 2 is after Hallows;568;the film harry potter and the Deathly Hallows was released in;2002
+part 1 is after Hallows;129;the film harry potter and the Deathly Hallows was released in;2001
+part 1 is after Hallows;125;the film harry potter and the Deathly Hallows was released in;2009
+part 1 is after Hallows;1554;the film harry potter and the Deathly Hallows was released in;2010
+part 1 is after Hallows;73;the film harry potter and the Deathly Hallows was released in;2002
+breaststroke is after 100m;464;won gold medal in men's 100m swimming in 2012 london olympic games;van der burgh
+freestyle is after 100m;531;won gold medal in men's 100m swimming in 2012 london olympic games;nathan adrian
+freestyle is after 100m;374;won gold medal in men's 100m swimming in 2012 london olympic games;james
+backstroke is after 100m;423;won gold medal in men's 100m swimming in 2012 london olympic games;matthew grevers
+butterfly is after 100m;568;won gold medal in men's 100m swimming in 2012 london olympic games;michael phelps
+the rise of cobra is after Joe;417;the director of g.i. joe was;stephen sommers
+the rise of cobra is after Joe;1600;the director of g.i. joe was;christopher
+retaliation is after Joe;2062;the director of g.i. joe was;jon m. chu
+retaliation is after Joe;458;the director of g.i. joe was;christopher
+retaliation is after Joe;1264;the director of g.i. joe was;johnson
+retaliation is after Joe;935;the director of g.i. joe was;lee
+george dantzig is before L;240;thomas l. magnanti got his master's degree in;1938
+tom is after L;105;thomas l. magnanti got his master's degree in;2011
+tom is after L;125;thomas l. magnanti got his master's degree in;2005
+platform is after men;434;won the gold medal of men's diving in 2012 London Olympic Games;David Boudia
+platform is after men;192;won the gold medal of men's diving in 2012 London Olympic Games;Peter Waterfield
+platform is before London;201;won the gold medal of men's diving in 2012 London Olympic Games;Tom Daley
+springboard is after men;328;won the gold medal of men's diving in 2012 London Olympic Games;Ilya Zakharov
+the fellowship of the ring is the same of null;0;the lord of the rings was released in;2001
+the fellowship of the ring is the same of null;0;the lord of the rings was released in;2000
+the fellowship of the ring is the same of null;0;the lord of the rings was released in;2011
+the fellowship of the ring is the same of null;0;the lord of the rings was released in;2002
+the two towers is after Rings;1191;the lord of the rings was released in;2002
+the return of the king is after Rings;313;the lord of the rings was released in;2004
+the return of the king is after Rings;707;the lord of the rings was released in;2003
+moguls is after women;264;won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics;Hannah Kearney
+moguls is after Women;153;won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics;Jennifer Heil
+ski cross is before Gold;143;won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics;Ashleigh McIvor
+aerials is before Lydia;268;won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics;Lydia Lassila
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+winter is before Games;100;in 1992, the olympic games was held in;barcelona
+winter is before Games;770;in 1992, the olympic games was held in;albertville
+winter is before Games;228;in 1992, the olympic games was held in;greece
+winter is before Games;164;in 1992, the olympic games was held in;london
+winter is before Olympics;308;in 1992, the olympic games was held in;sweden
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+summer is after 1992;478;in 1992, the olympic games was held in;barcelona
+summer is before Games;423;in 1992, the olympic games was held in;albertville
+summer is before Olympics;247;in 1992, the olympic games was held in;greece
+summer is after 1992;394;in 1992, the olympic games was held in;london
+summer is before Olympics;282;in 1992, the olympic games was held in;sweden
+russia is after Vorobieva;363;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Natalia Vorobieva
+bulgaria is after freestyle;55;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Natalia Vorobieva
+usa is after freestyle;77;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Merleni
+usa is before Wrestling;45;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Saori Yoshida
+ukraine is after Merleni;77;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Merleni
+japan is after Obara;995;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Hitomi Obara
+japan is after Icho;201;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Kaori Icho
+japan is after Yoshida;320;won the gold medal in women's freestyle wrestling at 2012 London Olympic Games;Saori Yoshida
+india is after Research;1193;microsoft research is located in;bangalore
+china is before Microsoft;456;microsoft research is located in;beijing
+anaheim is after 1955;114;disneyland park opened in;1955
+hong kong is before Disneyland;271;disneyland park opened in;2005
+tokyo is before Disneyland;1105;disneyland park opened in;1983
+paris is after Disneyland;1231;disneyland park opened in;1992
+dressage is after team;486;won the team silver medal of equestrian competition at 2012 london olympic games;germany
+dressage is after team;162;won the team silver medal of equestrian competition at 2012 london olympic games;great britain
+dressage is before Team;585;won the team silver medal of equestrian competition at 2012 london olympic games;american
+dressage is before Team;525;won the team silver medal of equestrian competition at 2012 london olympic games;mexico
+dressage is after team;579;won the team silver medal of equestrian competition at 2012 london olympic games;Netherlands
+eventing is after Team;158;won the team silver medal of equestrian competition at 2012 london olympic games;germany
+eventing is before team;150;won the team silver medal of equestrian competition at 2012 london olympic games;great britain
+eventing is after medal;58;won the team silver medal of equestrian competition at 2012 london olympic games;american
+eventing is before team;108;won the team silver medal of equestrian competition at 2012 london olympic games;beijing
+jumping is after won;53;won the team silver medal of equestrian competition at 2012 london olympic games;great britain
+jumping is after team;120;won the team silver medal of equestrian competition at 2012 london olympic games;Netherlands
+wuhan is after Geosciences;1088;the zipe code of china university of geosciences is;430074
+wuhan is before of;352;the zipe code of china university of geosciences is;100080
+wuhan is after Geosciences;463;the zipe code of china university of geosciences is;100029
+wuhan is after Geosciences;483;the zipe code of china university of geosciences is;430200
+beijing is after Geosciences;998;the zipe code of china university of geosciences is;100083
+beijing is after Geosciences;531;the zipe code of china university of geosciences is;100080
+beijing is after Geosciences;405;the zipe code of china university of geosciences is;410008
+beijing is before China;1225;the zipe code of china university of geosciences is;100029
+beijing is after Geosciences;506;the zipe code of china university of geosciences is;430200
+1964 is after RONDE;874;la ronde was directed by;roger vadim
+1897 is before La;180;la ronde was directed by;roger vadim
+1950 is after Ronde;461;la ronde was directed by;max ophuls
+1950 is after Ronde;449;la ronde was directed by;david
+2006 is after Omen;401;the director of the omen was;john moore
+1976 is after Omen;1138;the director of the omen was;richard donner
+1976 is after Omen;1573;the director of the omen was;david
+i is after Elizabeth;2560;queen elizabeth was born in;1533
+i is before Queen;508;queen elizabeth was born in;1926
+i is after Elizabeth;2377;queen elizabeth was born in;1603
+ii is before Queen;125;queen elizabeth was born in;1533
+ii is after Elizabeth;871;queen elizabeth was born in;1926
+ii is after Elizabeth;102;queen elizabeth was born in;1603
+i is after Elizabeth;2560;queen elizabeth was born in;1533
+i is before Queen;508;queen elizabeth was born in;1926
+i is after Elizabeth;2377;queen elizabeth was born in;1603
+i is after Elizabeth;2560;queen elizabeth was born in;1533
+i is before Queen;508;queen elizabeth was born in;1926
+i is after Elizabeth;2377;queen elizabeth was born in;1603
+george h. w. is the same of null;0;bush served as the  president of the united states;41st
+george h. w. is the same of null;0;bush served as the  president of the united states;44th
+george is before Bush;2164;bush served as the  president of the united states;41st
+george is before Bush;2435;bush served as the  president of the united states;43rd
+bill clinton is after President;392;bush served as the  president of the united states;42nd
+george w. is the same of null;0;bush served as the  president of the united states;42nd
+george w. is the same of null;0;bush served as the  president of the united states;43rd
+barack obama is before 44th;467;bush served as the  president of the united states;44th
+obama is before 44th;497;bush served as the  president of the united states;44th
+ii is after War;1876;germany launched the world war in;1939
+ii is after War;2112;germany launched the world war in;1945
+ii is after War;1148;germany launched the world war in;1941
+ii is after War;1585;germany launched the world war in;1940
+ii is after war;194;germany launched the world war in;1914
+45 is the same of null;0;germany launched the world war in;1939
+ii is after War;1876;germany launched the world war in;1939
+ii is after War;2112;germany launched the world war in;1945
+ii is after War;1148;germany launched the world war in;1941
+ii is after War;1585;germany launched the world war in;1940
+ii is after war;194;germany launched the world war in;1914
+i is after War;131;germany launched the world war in;1945
+i is before 1941;164;germany launched the world war in;1941
+i is after War;200;germany launched the world war in;1940
+i is before World;1004;germany launched the world war in;1914
+ii is after War;1876;germany launched the world war in;1939
+ii is after War;2112;germany launched the world war in;1945
+ii is after War;1148;germany launched the world war in;1941
+ii is after War;1585;germany launched the world war in;1940
+ii is after war;194;germany launched the world war in;1914
+colorado is before Area;1263;the area code of the city durango in united states is;970
+colorado is after Durango;2004;the area code of the city durango in united states is;81301
+colorado is after Durango;788;the area code of the city durango in united states is;526
+colorado is after DURANGO;2093;the area code of the city durango in united states is;81302
+colorado is after Durango;532;the area code of the city durango in united states is;563
+colorado is after Code;25;the area code of the city durango in united states is;254
+iowa is after Durango;286;the area code of the city durango in united states is;563
+texas is before area;231;the area code of the city durango in united states is;254
+gotye is before Somebody;457;the song somebody that i used to know was released in;2011
+gotye is before Somebody;424;the song somebody that i used to know was released in;2013
+gotye is before Somebody;339;the song somebody that i used to know was released in;2012
+gotye is after Know;852;the song somebody that i used to know was released in;2000
+kimbra is before Somebody;208;the song somebody that i used to know was released in;2011
+kimbra is before Somebody;245;the song somebody that i used to know was released in;2013
+kimbra is after Know;169;the song somebody that i used to know was released in;2012
+kimbra is after Know;170;the song somebody that i used to know was released in;2000
+gotye is before Somebody;457;the song somebody that i used to know was released in;2011
+gotye is before Somebody;424;the song somebody that i used to know was released in;2013
+gotye is before Somebody;339;the song somebody that i used to know was released in;2012
+gotye is after Know;852;the song somebody that i used to know was released in;2000
+gotye is before Somebody;457;the song somebody that i used to know was released in;2011
+gotye is before Somebody;424;the song somebody that i used to know was released in;2013
+gotye is before Somebody;339;the song somebody that i used to know was released in;2012
+gotye is after Know;852;the song somebody that i used to know was released in;2000
+boston is after 1898;208;northeastern university was established in;1898
+shenyang is before Northeastern;490;northeastern university was established in;1923
+osaka is after opened;316;bampaku-kinen-koen station opened in;2005
+osaka is before station;41;bampaku-kinen-koen station opened in;2007
+osaka is after 1998;205;bampaku-kinen-koen station opened in;1998
+osaka is the same of Station;126;bampaku-kinen-koen station opened in;1927
+osaka is before Station;493;bampaku-kinen-koen station opened in;1990
+ibaraki is after Bampaku-kinen-kōen;415;bampaku-kinen-koen station opened in;2005
+ibaraki is after Station;128;bampaku-kinen-koen station opened in;1998
+dd-414 is after Russell;557;the class and type of uss russell is;Sims-class destroyer
+ddg-59 is after Russell;275;the class and type of uss russell is;arleigh burke class destroyer
+united kingdom is before George;284;george iv was died in;1811
+united kingdom is after IV;274;george iv was died in;1762
+united kingdom is after IV;263;george iv was died in;1830
+united kingdom is after IV;204;george iv was died in;1820
+united kingdom is after IV;228;george iv was died in;1223
+ireland is before George;39;george iv was died in;1811
+ireland is after IV;84;george iv was died in;1820
+georgia is before George;402;george iv was died in;1223
+rainbow is after the;1783;the album over the rainbow was released by;nelson
+rainbow is after the;1002;the album over the rainbow was released by;susan
+rainbow is after the;1287;the album over the rainbow was released by;john
+rainbow is after the;1132;the album over the rainbow was released by;universal sigma
+rainbow is after the;1001;the album over the rainbow was released by;linfair records
+angela chang is before album;390;the album over the rainbow was released by;linfair records
+1 is after Smile;284;smile was a  tv series;japanese
+1 is before Smile;250;smile was a  tv series;american
+1 is before Smile;316;smile was a  tv series;us
+1 is after TV;144;smile was a  tv series;british
+2 is after Boston;1021;smile was a  tv series;boston
+15 is after Boston;974;smile was a  tv series;boston
+st. john is after Tower;205;the architectural style of cabot tower is;gothic revival
+st. john is after Tower;111;the architectural style of cabot tower is;Medieval Revival
+bristol is after tower;374;the architectural style of cabot tower is;Neo-Gothic
+bristol is before Byzantine;196;the architectural style of cabot tower is;Byzantine
+kumi koda is after Secret;286;the album of secret was released by;rhythm zone
+ayumi hamasaki is before album;234;the album of secret was released by;avex trax

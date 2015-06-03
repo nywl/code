@@ -1,0 +1,388 @@
+{
+ "id": "/m/057m3sn",
+ "property": {
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Durango, Texas",
+     "lang": "en",
+     "value": "Durango, Texas",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2009-03-12T18:21:31.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Durango is an unincorporated community in western Falls County, Texas, United States. It lies...",
+     "lang": "en",
+     "id": "/m/057m3ss",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.001Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/20808835",
+         "lang": "",
+         "value": "http://wp/en/20808835",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-01-04T03:39:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Durango is an unincorporated community in western Falls County, Texas, United States. It lies...",
+         "lang": "en",
+         "value": "Durango is an unincorporated community in western Falls County, Texas, United States. It lies along Farm to Market Road 935.",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-01-04T03:39:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-01-04T03:39:11.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2009-01-04T03:39:11.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Durango is an unincorporated community in western Falls County, Texas, United States. It lies...",
+     "lang": "en",
+     "value": "Durango is an unincorporated community in western Falls County, Texas, United States. It lies along Farm to Market Road 935.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Durango,_Texas"
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=20808835",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=20808835",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.002Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Durango,_Texas",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Durango,_Texas",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-27T03:25:34.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/location/location/containedby": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Texas",
+     "lang": "en",
+     "id": "/m/07b_l",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:39.000Z"
+    },
+    {
+     "text": "Falls County",
+     "lang": "en",
+     "id": "/m/0mrw4",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:39.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/location/location/geolocation": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "31.205 - -97.130556 - maxim75 - Geocode",
+     "lang": "en",
+     "id": "/m/0dgcd23",
+     "creator": "/user/maxim75",
+     "timestamp": "2010-10-07T06:07:00.000Z",
+     "property": {
+      "/location/geocode/latitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "31.205",
+         "lang": "en",
+         "value": 31.205,
+         "creator": "/user/maxim75",
+         "timestamp": "2010-10-07T06:07:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/longitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "-97.130556",
+         "lang": "en",
+         "value": -97.130556,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-10T18:42:50.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "maxim75",
+         "lang": "en",
+         "id": "/m/0b7myw_",
+         "creator": "/user/maxim75",
+         "timestamp": "2010-10-07T06:07:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Geocode",
+         "lang": "en",
+         "id": "/location/geocode",
+         "creator": "/user/maxim75",
+         "timestamp": "2010-10-07T06:07:00.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/0gs8",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/20808835",
+     "lang": "",
+     "value": "/wikipedia/en_id/20808835",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Durango$002C_Texas",
+     "lang": "",
+     "value": "/wikipedia/en/Durango$002C_Texas",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.002Z"
+    },
+    {
+     "text": "/en/durango_texas",
+     "lang": "",
+     "value": "/en/durango_texas",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2009-02-28T08:46:56.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Durango$002C_Texas",
+     "lang": "",
+     "value": "/wikipedia/en_title/Durango$002C_Texas",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-27T03:25:34.000Z"
+    }
+   ],
+   "count": 4.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/057m3sn",
+     "lang": "",
+     "value": "/m/057m3sn"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Durango",
+     "lang": "en",
+     "value": "Durango",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2009-03-12T18:21:31.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Location",
+     "lang": "en",
+     "id": "/location/location",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:38.000Z"
+    },
+    {
+     "text": "Statistical region",
+     "lang": "en",
+     "id": "/location/statistical_region",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:38.000Z"
+    },
+    {
+     "text": "Dated location",
+     "lang": "en",
+     "id": "/location/dated_location",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:38.000Z"
+    },
+    {
+     "text": "City/Town/Village",
+     "lang": "en",
+     "id": "/location/citytown",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-01-13T01:12:39.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 5.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f800000000a798f14",
+     "lang": "",
+     "value": "#9202a8c04000641f800000000a798f14"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "mwcl_wikipedia_en",
+     "lang": "",
+     "id": "/user/mwcl_wikipedia_en",
+     "timestamp": "2009-01-04T03:39:11.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2009-01-04T03:39:11.001Z",
+     "lang": "en",
+     "value": "2009-01-04T03:39:11.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

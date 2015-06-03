@@ -1,0 +1,1350 @@
+{
+ "id": "/m/01gm69",
+ "property": {
+  "/business/brand/owner_s": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Hasbro - mikeshwe - Company-brand relationship",
+     "lang": "en",
+     "id": "/m/05yvvl9",
+     "creator": "/user/mikeshwe",
+     "timestamp": "2009-05-12T23:55:07.000Z",
+     "property": {
+      "/business/company_brand_relationship/company": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Hasbro",
+         "lang": "en",
+         "id": "/m/0hpt3",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2009-05-12T23:55:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mikeshwe",
+         "lang": "en",
+         "id": "/m/02nxmry",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2009-05-12T23:55:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Company-brand relationship",
+         "lang": "en",
+         "id": "/business/company_brand_relationship",
+         "creator": "/user/mikeshwe",
+         "timestamp": "2009-05-12T23:55:07.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/business/brand/products": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "G.I. JOE 25th Anniversary Set - COBRA Legions",
+     "lang": "en",
+     "id": "/m/05z1tt_",
+     "creator": "/user/mikeshwe",
+     "timestamp": "2009-05-18T17:12:00.000Z"
+    },
+    {
+     "text": "G.I. Joe: The Rise of Cobra",
+     "lang": "en",
+     "id": "/m/05h1zjt",
+     "creator": "/user/ansamcw",
+     "timestamp": "2009-05-20T18:02:29.000Z"
+    },
+    {
+     "text": "G.I. JOE 25th Anniversary GI JOE Set",
+     "lang": "en",
+     "id": "/m/05z3hn3",
+     "creator": "/user/ansamcw",
+     "timestamp": "2009-05-20T20:17:31.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/business/product_line/includes_product_lines": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "G.I. Joe: A Real American Hero",
+     "lang": "en",
+     "id": "/m/080c_2",
+     "creator": "/user/tfmorris",
+     "timestamp": "2010-07-06T17:41:55.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/business/product_line/themes": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Action figure",
+     "lang": "en",
+     "id": "/m/017h86",
+     "creator": "/user/gmackenz",
+     "timestamp": "2011-04-07T21:51:30.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "G.I. Joe is a line of action figures produced by the toy company Hasbro. The initial product...",
+     "lang": "en",
+     "id": "/m/01gm6l",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T13:24:34.007Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/28713688",
+         "lang": "",
+         "value": "http://wp/en/28713688",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2010-09-16T21:20:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "G.I. Joe is a line of action figures produced by the toy company Hasbro. The initial product...",
+         "lang": "en",
+         "value": "G.I. Joe is a line of action figures produced by the toy company Hasbro. The initial product offering represented four of the branches of the U.S. armed forces with the Action Soldier (U.S. Army), Action Sailor (U.S. Navy), Action Pilot (USAF), Action Marine (USMC) and later on, the Action Nurse. The term G.I. stands, in popular usage, for Government Issued and after the First World War became a generic term for U.S. soldiers. The origin of the term dates to World War I, when much of the equipment issued to U.S. soldiers was stamped \"G.I.\", meaning that it was made from galvanized iron.. The development of G.I. Joe led to the coining of the term \"action figure\". GI Joe's appeal to children has made it somewhat of an American icon among toys.\nThe G.I. Joe trademark has been used by Hasbro to title two different toy lines. The original 12-inch line that began in 1964 centered on realistic action figures. In the United Kingdom, this line was licensed to Palitoy and known as Action Man. In 1982, the line was relaunched in a 3?-inch scale complete with vehicles, playsets, and a complex background story involving an ongoing struggle between the G.I. Joe Team and the evil Cobra which",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2010-09-16T21:20:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T13:24:34.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T13:24:34.007Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "G.I. Joe is a line of action figures produced by the toy company Hasbro. The initial product...",
+     "lang": "en",
+     "value": "G.I. Joe is a line of action figures produced by the toy company Hasbro. The initial product offering represented four of the branches of the U.S. armed forces with the Action Soldier, Action Sailor, Action Pilot, Action Marine and later on, the Action Nurse. The term G.I. stands, in popular usage, for Government Issued and after the First World War became a generic term for U.S. soldiers. The origin of the term dates to World War I, when much of the equipment issued to U.S. soldiers was stamped \"G.I.\", meaning that it was made from galvanized iron. The development of G.I. Joe led to the coining of the term \"action figure\". G.I. Joe's appeal to children has made it an American icon among toys.\nThe G.I. Joe trademark has been used by Hasbro to title two different toy lines. The original 12-inch line that began in 1964 centered on realistic action figures. In the United Kingdom, this line was licensed to Palitoy and known as Action Man. In 1982, the line was relaunched in a 3?-inch scale complete with vehicles, playsets, and a complex background story involving an ongoing struggle between the G.I. Joe Team and the evil Cobra Command which seeks to take over the Free World through terrorism. As the American line evolved into the Real American Hero series, Action Man also changed, by using the same molds and being renamed as Action Force. Although the members of the G.I. Joe team are not superheroes, they all had expertise in areas such as martial arts, weapons and explosives.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/G.I._Joe"
+     }
+    }
+   ],
+   "count": 20.0
+  },
+  "/common/topic/image": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "1960s Action Soldier",
+     "lang": "en",
+     "id": "/m/03s8p1t",
+     "creator": "/user/mwcl_images",
+     "timestamp": "2008-03-14T02:02:03.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Collection category",
+     "lang": "en",
+     "id": "/interests/collection_category"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Collection category",
+     "lang": "en",
+     "id": "/interests/collection_category"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.gijoe.com/",
+     "lang": "",
+     "value": "http://www.gijoe.com/",
+     "creator": "/user/jon",
+     "timestamp": "2011-11-13T06:19:45.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=28713688",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=28713688",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-09-16T21:20:30.000Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/G.I._Joe",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/G.I._Joe",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T18:54:44.001Z"
+    },
+    {
+     "text": "http://sv.wikipedia.org/wiki/index.html?curid=149881",
+     "lang": "",
+     "value": "http://sv.wikipedia.org/wiki/index.html?curid=149881",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:16.000Z"
+    },
+    {
+     "text": "http://hi.wikipedia.org/wiki/??.??._??",
+     "lang": "",
+     "value": "http://hi.wikipedia.org/wiki/??.??._??",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:37.001Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/G.I._Joe",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/G.I._Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:53.000Z"
+    },
+    {
+     "text": "http://he.wikipedia.org/wiki/index.html?curid=615099",
+     "lang": "",
+     "value": "http://he.wikipedia.org/wiki/index.html?curid=615099",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:53.000Z"
+    },
+    {
+     "text": "http://sv.wikipedia.org/wiki/Action_Force",
+     "lang": "",
+     "value": "http://sv.wikipedia.org/wiki/Action_Force",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:57.000Z"
+    },
+    {
+     "text": "http://it.wikipedia.org/wiki/index.html?curid=499009",
+     "lang": "",
+     "value": "http://it.wikipedia.org/wiki/index.html?curid=499009",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:05.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/index.html?curid=1146579",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/index.html?curid=1146579",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:37.000Z"
+    },
+    {
+     "text": "http://ja.wikipedia.org/wiki/G.I.¥¸¥ç©`",
+     "lang": "",
+     "value": "http://ja.wikipedia.org/wiki/G.I.¥¸¥ç©`",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:44.001Z"
+    }
+   ],
+   "count": 40.0
+  },
+  "/interests/collection_category/parent_category": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Action figure",
+     "lang": "en",
+     "id": "/m/017h86",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:21:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/interests/collection_category/sub_categories": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "G.I. Joe: A Real American Hero",
+     "lang": "en",
+     "id": "/m/080c_2",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.000Z"
+    },
+    {
+     "text": "G.I. Joe: Timeless Collection",
+     "lang": "en",
+     "id": "/m/026c2vp",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.000Z"
+    },
+    {
+     "text": "G.I. Joe: Masterpiece Edition",
+     "lang": "en",
+     "id": "/m/0261_yt",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.000Z"
+    },
+    {
+     "text": "G.I. Joe: Classic Collection",
+     "lang": "en",
+     "id": "/m/0260_z6",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.000Z"
+    },
+    {
+     "text": "G.I. Joe vs. Cobra",
+     "lang": "en",
+     "id": "/m/02q2gyc",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.000Z"
+    },
+    {
+     "text": "G.I. Joe Adventure Team",
+     "lang": "en",
+     "id": "/m/0fvvjd",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:32:59.001Z"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T13:24:34.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/en/gi_joe",
+     "lang": "",
+     "value": "/en/gi_joe",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2007-08-13T17:51:58.001Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/0080-73ab",
+     "lang": "",
+     "value": "/user/avh/ellerdale/0080-73ab",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-09T08:10:50.000Z"
+    },
+    {
+     "text": "/wikipedia/en_id/28713688",
+     "lang": "",
+     "value": "/wikipedia/en_id/28713688",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2010-09-16T21:20:30.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/en_title/G$002EI$002E_Joe",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-24T18:54:44.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/ko/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:48:45.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C9C0$002E$C544$C774$002E$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/$C9C0$002E$C544$C774$002E$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:48:54.001Z"
+    },
+    {
+     "text": "/wikipedia/pt/GI_JOE",
+     "lang": "",
+     "value": "/wikipedia/pt/GI_JOE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:48:59.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_id/149881",
+     "lang": "",
+     "value": "/wikipedia/sv_id/149881",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:16.000Z"
+    },
+    {
+     "text": "/wikipedia/nl/G$002EI$002E_Joe_$0028speelgoed$0029",
+     "lang": "",
+     "value": "/wikipedia/nl/G$002EI$002E_Joe_$0028speelgoed$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:24.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Geyperman",
+     "lang": "",
+     "value": "/wikipedia/it/Geyperman",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:32.000Z"
+    },
+    {
+     "text": "/wikipedia/hi_title/$091C$0940$002E$0906$0908$002E_$091C$094B",
+     "lang": "",
+     "value": "/wikipedia/hi_title/$091C$0940$002E$0906$0908$002E_$091C$094B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:37.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/G$002EI$002E$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/G$002EI$002E$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:38.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/G$002E_I$002E_$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/G$002E_I$002E_$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:42.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/G$002EI$002E_$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/G$002EI$002E_$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:43.000Z"
+    },
+    {
+     "text": "/wikipedia/he_id/615099",
+     "lang": "",
+     "value": "/wikipedia/he_id/615099",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:53.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/pt_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:53.000Z"
+    },
+    {
+     "text": "/wikipedia/sv_title/Action_Force",
+     "lang": "",
+     "value": "/wikipedia/sv_title/Action_Force",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:49:57.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/499009",
+     "lang": "",
+     "value": "/wikipedia/it_id/499009",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:05.000Z"
+    },
+    {
+     "text": "/wikipedia/hi/$091C$0940$002E$0906$0908$002E_$091C$094B",
+     "lang": "",
+     "value": "/wikipedia/hi/$091C$0940$002E$0906$0908$002E_$091C$094B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:05.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/G$002EI$002E$30B8$30E7$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/G$002EI$002E$30B8$30E7$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:05.001Z"
+    },
+    {
+     "text": "/wikipedia/hi/$091C$0940$002E$0906$0908_$091C$094B",
+     "lang": "",
+     "value": "/wikipedia/hi/$091C$0940$002E$0906$0908_$091C$094B",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:05.002Z"
+    },
+    {
+     "text": "/wikipedia/sv/Action_Force",
+     "lang": "",
+     "value": "/wikipedia/sv/Action_Force",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:18.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_id/1146579",
+     "lang": "",
+     "value": "/wikipedia/ja_id/1146579",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:37.000Z"
+    },
+    {
+     "text": "/wikipedia/ja_title/G$002EI$002E$30B8$30E7$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja_title/G$002EI$002E$30B8$30E7$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:44.001Z"
+    },
+    {
+     "text": "/wikipedia/de/G$002EI$002E_Joe_$0028Action-Figur$0029",
+     "lang": "",
+     "value": "/wikipedia/de/G$002EI$002E_Joe_$0028Action-Figur$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:45.000Z"
+    },
+    {
+     "text": "/wikipedia/es/G$002EI$002EJoe",
+     "lang": "",
+     "value": "/wikipedia/es/G$002EI$002EJoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:50:50.000Z"
+    },
+    {
+     "text": "/wikipedia/nl_id/2881997",
+     "lang": "",
+     "value": "/wikipedia/nl_id/2881997",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:02.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Action_Joe",
+     "lang": "",
+     "value": "/wikipedia/it/Action_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:06.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/ru_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:07.000Z"
+    },
+    {
+     "text": "/wikipedia/ca_id/426293",
+     "lang": "",
+     "value": "/wikipedia/ca_id/426293",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:07.000Z"
+    },
+    {
+     "text": "/wikipedia/pl/G$002EI$002EJoe",
+     "lang": "",
+     "value": "/wikipedia/pl/G$002EI$002EJoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:09.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/GI_Joe",
+     "lang": "",
+     "value": "/wikipedia/pt/GI_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:21.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Comandos_em_A$00E7$00E3o",
+     "lang": "",
+     "value": "/wikipedia/pt/Comandos_em_A$00E7$00E3o",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:24.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Gijoe",
+     "lang": "",
+     "value": "/wikipedia/es/Gijoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:31.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/3715220",
+     "lang": "",
+     "value": "/wikipedia/ru_id/3715220",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:32.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/G$002Ei$002E_joe",
+     "lang": "",
+     "value": "/wikipedia/pt/G$002Ei$002E_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:36.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/GI$30B8$30E7$30FC",
+     "lang": "",
+     "value": "/wikipedia/ja/GI$30B8$30E7$30FC",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:50.000Z"
+    },
+    {
+     "text": "/wikipedia/id/G$002Ei$002E_joe",
+     "lang": "",
+     "value": "/wikipedia/id/G$002Ei$002E_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:52.000Z"
+    },
+    {
+     "text": "/wikipedia/hi_id/479987",
+     "lang": "",
+     "value": "/wikipedia/hi_id/479987",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:53.000Z"
+    },
+    {
+     "text": "/wikipedia/nl_title/G$002EI$002E_Joe_$0028speelgoed$0029",
+     "lang": "",
+     "value": "/wikipedia/nl_title/G$002EI$002E_Joe_$0028speelgoed$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:58.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/ru/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:51:59.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Gi_Joe",
+     "lang": "",
+     "value": "/wikipedia/es/Gi_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:06.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/830657",
+     "lang": "",
+     "value": "/wikipedia/fr_id/830657",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:11.000Z"
+    },
+    {
+     "text": "/wikipedia/es/G_I_Joe",
+     "lang": "",
+     "value": "/wikipedia/es/G_I_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:12.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Comandos_em_a$00E7$00E3o",
+     "lang": "",
+     "value": "/wikipedia/pt/Comandos_em_a$00E7$00E3o",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:14.000Z"
+    },
+    {
+     "text": "/wikipedia/it/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/it/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:14.001Z"
+    },
+    {
+     "text": "/wikipedia/he_title/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E_$05D2$0027$05D5",
+     "lang": "",
+     "value": "/wikipedia/he_title/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E_$05D2$0027$05D5",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:15.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C9C0_$C544$C774_$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/$C9C0_$C544$C774_$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:17.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/Gijoe",
+     "lang": "",
+     "value": "/wikipedia/ca/Gijoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:17.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/G$002Ei$002Ejoe",
+     "lang": "",
+     "value": "/wikipedia/pt/G$002Ei$002Ejoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:18.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/pt/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:20.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/it_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:28.001Z"
+    },
+    {
+     "text": "/wikipedia/es_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/es_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:42.000Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/G$002EI$002E_$C870",
+     "lang": "",
+     "value": "/wikipedia/ko_title/G$002EI$002E_$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:42.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/G$002EI$002E_Joe_$0028s$00E9rie_t$00E9l$00E9vis$00E9e$0029",
+     "lang": "",
+     "value": "/wikipedia/fr/G$002EI$002E_Joe_$0028s$00E9rie_t$00E9l$00E9vis$00E9e$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:46.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/ca/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:53.000Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/794668",
+     "lang": "",
+     "value": "/wikipedia/ko_id/794668",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:52:54.000Z"
+    },
+    {
+     "text": "/wikipedia/id_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/id_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:07.001Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/67187",
+     "lang": "",
+     "value": "/wikipedia/fi_id/67187",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:10.001Z"
+    },
+    {
+     "text": "/wikipedia/ko/$C9C0$C544$C774$C870",
+     "lang": "",
+     "value": "/wikipedia/ko/$C9C0$C544$C774$C870",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:17.000Z"
+    },
+    {
+     "text": "/wikipedia/id_id/415644",
+     "lang": "",
+     "value": "/wikipedia/id_id/415644",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:21.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/fr_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:23.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Gi_joe",
+     "lang": "",
+     "value": "/wikipedia/pt/Gi_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:38.000Z"
+    },
+    {
+     "text": "/wikipedia/ca_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/ca_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:46.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E_$05D2$0027$05D5",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E_$05D2$0027$05D5",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:48.000Z"
+    },
+    {
+     "text": "/wikipedia/es/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/es/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:49.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_id/1147549",
+     "lang": "",
+     "value": "/wikipedia/pl_id/1147549",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:51.000Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/624849",
+     "lang": "",
+     "value": "/wikipedia/pt_id/624849",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:51.000Z"
+    },
+    {
+     "text": "/wikipedia/es_id/286160",
+     "lang": "",
+     "value": "/wikipedia/es_id/286160",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:55.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/GI_Joe",
+     "lang": "",
+     "value": "/wikipedia/fr/GI_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:56.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Action_Force",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Action_Force",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:53:56.001Z"
+    },
+    {
+     "text": "/wikipedia/de_id/1687386",
+     "lang": "",
+     "value": "/wikipedia/de_id/1687386",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:01.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Action_Force",
+     "lang": "",
+     "value": "/wikipedia/fi/Action_Force",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:04.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Action_Man",
+     "lang": "",
+     "value": "/wikipedia/fi/Action_Man",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:12.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/fr/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:27.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/G$002EI$002E_Joe_$0028Action-Figur$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/G$002EI$002E_Joe_$0028Action-Figur$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:32.000Z"
+    },
+    {
+     "text": "/wikipedia/pt/Gijoe",
+     "lang": "",
+     "value": "/wikipedia/pt/Gijoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:35.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Gi_joe",
+     "lang": "",
+     "value": "/wikipedia/it/Gi_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:37.000Z"
+    },
+    {
+     "text": "/wikipedia/id/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/id/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:39.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/ActionMan",
+     "lang": "",
+     "value": "/wikipedia/fi/ActionMan",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:54:46.000Z"
+    },
+    {
+     "text": "/wikipedia/ja/$30A2$30AF$30B7$30E7$30F3$30DE$30F3",
+     "lang": "",
+     "value": "/wikipedia/ja/$30A2$30AF$30B7$30E7$30F3$30DE$30F3",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:55:05.000Z"
+    },
+    {
+     "text": "/wikipedia/pl/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/pl/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:55:12.000Z"
+    },
+    {
+     "text": "/wikipedia/pl_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/pl_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:55:20.000Z"
+    },
+    {
+     "text": "/wikipedia/he/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E$05D2$0027$05D5",
+     "lang": "",
+     "value": "/wikipedia/he/$05D2$0027$05D9$002E$05D0$05D9$05D9$002E$05D2$0027$05D5",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:55:34.000Z"
+    },
+    {
+     "text": "/wikipedia/ca/G$002Ei$002Ejoe",
+     "lang": "",
+     "value": "/wikipedia/ca/G$002Ei$002Ejoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-15T11:55:45.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Kung_fu_grip",
+     "lang": "",
+     "value": "/wikipedia/en/Kung_fu_grip",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:16.001Z"
+    },
+    {
+     "text": "/wikipedia/en/GI_Joes",
+     "lang": "",
+     "value": "/wikipedia/en/GI_Joes",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:18.000Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002EI$002EJoe",
+     "lang": "",
+     "value": "/wikipedia/en/G$002EI$002EJoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:19.000Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002E_I$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/G$002E_I$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:20.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Action_joe",
+     "lang": "",
+     "value": "/wikipedia/en/Action_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:22.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Gi_joe",
+     "lang": "",
+     "value": "/wikipedia/en/Gi_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:23.001Z"
+    },
+    {
+     "text": "/wikipedia/en/General_Issue_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/General_Issue_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:24.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Gi_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/Gi_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:26.000Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002EI$002E-Joe",
+     "lang": "",
+     "value": "/wikipedia/en/G$002EI$002E-Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:27.001Z"
+    },
+    {
+     "text": "/wikipedia/en/GI_joe",
+     "lang": "",
+     "value": "/wikipedia/en/GI_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:29.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Kung-fu_grip",
+     "lang": "",
+     "value": "/wikipedia/en/Kung-fu_grip",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:30.000Z"
+    },
+    {
+     "text": "/wikipedia/en/GI-Joe",
+     "lang": "",
+     "value": "/wikipedia/en/GI-Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:31.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Kung-Fu_Grip",
+     "lang": "",
+     "value": "/wikipedia/en/Kung-Fu_Grip",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:33.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Kung_Fu_Grip",
+     "lang": "",
+     "value": "/wikipedia/en/Kung_Fu_Grip",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:34.001Z"
+    },
+    {
+     "text": "/wikipedia/en/G_i_joe",
+     "lang": "",
+     "value": "/wikipedia/en/G_i_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:35.001Z"
+    },
+    {
+     "text": "/wikipedia/en/GI_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/GI_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:37.000Z"
+    },
+    {
+     "text": "/wikipedia/en/G_I_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/G_I_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Action_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/Action_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:39.002Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002EI$002E_Joe$003A_Super_Joe_Adventure_Team",
+     "lang": "",
+     "value": "/wikipedia/en/G$002EI$002E_Joe$003A_Super_Joe_Adventure_Team",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:41.001Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:42.001Z"
+    },
+    {
+     "text": "/wikipedia/en/GIJoe",
+     "lang": "",
+     "value": "/wikipedia/en/GIJoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:43.002Z"
+    },
+    {
+     "text": "/wikipedia/en/GI_JOE",
+     "lang": "",
+     "value": "/wikipedia/en/GI_JOE",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:45.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Group_Action_Joe",
+     "lang": "",
+     "value": "/wikipedia/en/Group_Action_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:46.002Z"
+    },
+    {
+     "text": "/wikipedia/en/Gijoe",
+     "lang": "",
+     "value": "/wikipedia/en/Gijoe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:48.000Z"
+    },
+    {
+     "text": "/wikipedia/en/G$002Ei_joe",
+     "lang": "",
+     "value": "/wikipedia/en/G$002Ei_joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-03T20:16:49.000Z"
+    },
+    {
+     "text": "/wikipedia/th_title/$0E08$0E35$0E44$0E2D$0E42$0E08",
+     "lang": "",
+     "value": "/wikipedia/th_title/$0E08$0E35$0E44$0E2D$0E42$0E08",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:04:24.000Z"
+    },
+    {
+     "text": "/wikipedia/no/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/no/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:05:32.000Z"
+    },
+    {
+     "text": "/wikipedia/th/$0E08$0E35$0E44$0E2D$0E42$0E08",
+     "lang": "",
+     "value": "/wikipedia/th/$0E08$0E35$0E44$0E2D$0E42$0E08",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:14:17.000Z"
+    },
+    {
+     "text": "/wikipedia/no_id/1131772",
+     "lang": "",
+     "value": "/wikipedia/no_id/1131772",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:18:24.000Z"
+    },
+    {
+     "text": "/wikipedia/no_title/G$002EI$002E_Joe",
+     "lang": "",
+     "value": "/wikipedia/no_title/G$002EI$002E_Joe",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:23:06.000Z"
+    },
+    {
+     "text": "/wikipedia/th_id/525007",
+     "lang": "",
+     "value": "/wikipedia/th_id/525007",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-10T20:23:17.000Z"
+    },
+    {
+     "text": "/wikipedia/ar_id/1646836",
+     "lang": "",
+     "value": "/wikipedia/ar_id/1646836",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T21:32:44.000Z"
+    },
+    {
+     "text": "/wikipedia/ar_title/$062C$064A_$0622$064A_$062C$0648",
+     "lang": "",
+     "value": "/wikipedia/ar_title/$062C$064A_$0622$064A_$062C$0648",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T21:32:57.003Z"
+    },
+    {
+     "text": "/wikipedia/ar/$062C$064A_$0622$064A_$062C$0648",
+     "lang": "",
+     "value": "/wikipedia/ar/$062C$064A_$0622$064A_$062C$0648",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-19T21:32:57.006Z"
+    }
+   ],
+   "count": 119.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/01gm69",
+     "lang": "",
+     "value": "/m/01gm69"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "G.I. Joe",
+     "lang": "en",
+     "value": "G.I. Joe",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T13:24:34.006Z"
+    }
+   ],
+   "count": 21.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Brand",
+     "lang": "en",
+     "id": "/business/brand",
+     "creator": "/user/mikeshwe",
+     "timestamp": "2009-05-12T23:54:52.000Z"
+    },
+    {
+     "text": "Product line",
+     "lang": "en",
+     "id": "/business/product_line",
+     "creator": "/user/tfmorris",
+     "timestamp": "2010-07-06T17:41:55.000Z"
+    },
+    {
+     "text": "Concept",
+     "lang": "en",
+     "id": "/base/tagit/concept",
+     "creator": "/user/arpim",
+     "timestamp": "2010-08-27T17:24:36.000Z"
+    },
+    {
+     "text": "Collection category",
+     "lang": "en",
+     "id": "/interests/collection_category",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-12-04T20:21:54.000Z"
+    },
+    {
+     "text": "Product category",
+     "lang": "en",
+     "id": "/business/product_category",
+     "creator": "/user/spencermountain",
+     "timestamp": "2012-07-12T12:52:25.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000174cc9",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000174cc9"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T13:24:34.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T13:24:34.006Z",
+     "lang": "en",
+     "value": "2006-10-22T13:24:34.006Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

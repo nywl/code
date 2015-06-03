@@ -1,0 +1,123 @@
+usa won team title at the 2011 world gymnastics championships in tokyo; usa;women;0.10143343551078797
+usa won team title at the 2011 world gymnastics championships in tokyo;
+usa;men;0.10143343551078797
+
+marie curie won the nobel prize in 1903; 1903;Physics;0.07348433526956466
+marie curie won the nobel prize in 1903; 1903;Chemistry;0.07348433526956466
+
+the film harry potter and the Deathly Hallows was released in 2011; 2011;part 2;0.10240437598636579
+the film harry potter and the Deathly Hallows was released in 2011; 2011;part 1;0.10240437598636579
+
+van der burgh won gold medal in men's 100m swimming in 2012 london olympic games; van der burgh;breaststroke;0.12263895720426043
+van der burgh won gold medal in men's 100m swimming in 2012 london olympic games; van der burgh;freestyle;0.12263895720426043
+van der burgh won gold medal in men's 100m swimming in 2012 london olympic games; van der burgh;Backstroke;0.12263895720426043
+van der burgh won gold medal in men's 100m swimming in 2012 london olympic games; van der burgh;Butterfly;0.12263895720426043
+
+the director of g.i. joe was stephen sommers; stephen sommers;2;0.06065681355406599
+the director of g.i. joe was stephen sommers; stephen sommers;last;0.06065681355406599
+the director of g.i. joe was stephen sommers; stephen sommers;I;0.06065681355406599
+the director of g.i. joe was stephen sommers; stephen sommers;3;0.06065681355406599
+
+the director of g.i. joe was stephen sommers; stephen sommers;the rise of cobra;0.08212826098699443
+the director of g.i. joe was stephen sommers; stephen sommers;Retaliation;0.08212826098699443
+
+thomas l. magnanti got his master's degree in 1938; 1938;George Dantzig;0.04628242621872371
+thomas l. magnanti got his master's degree in 1938; 1938;Tom;0.04628242621872371
+
+David Boudia won the gold medal of men's diving in 2012 London Olympic Games; David Boudia;platform;0.09749048655458463
+David Boudia won the gold medal of men's diving in 2012 London Olympic Games; David Boudia;springboard;0.09749048655458463
+
+the lord of the rings was released in 2001; 2001;the fellowship of the ring;0.0917999366880836
+the lord of the rings was released in 2001; 2001;the two towers;0.0917999366880836
+the lord of the rings was released in 2001; 2001;the return of the king;0.0917999366880836
+
+Hannah Kearney won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics; Hannah Kearney;moguls;0.1033211838866325
+Hannah Kearney won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics; Hannah Kearney;Ski Cross;0.1033211838866325
+Hannah Kearney won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics; Hannah Kearney;aerials;0.1033211838866325
+
+in 1992, the olympic games was held in barcelona; barcelona;Summer;0.08649633523016863
+in 1992, the olympic games was held in barcelona; barcelona;Winter;0.08649633523016863
+
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;72kg;0.09016977418536039
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;48kg;0.09016977418536039
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;63kg;0.09016977418536039
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;55kg;0.09016977418536039
+
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;Russia;0.10172100562205551
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;Bulgaria;0.10172100562205551
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;USA;0.10172100562205551
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;Ukraine;0.10172100562205551
+Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games; Natalia Vorobieva;Japan;0.10172100562205551
+
+microsoft research is located in bangalore; bangalore;India;0.10679486585913647
+microsoft research is located in bangalore; bangalore;China;0.10679486585913647
+
+disneyland park opened in 1955; 1955;July 17;0.0655332237460523
+disneyland park opened in 1955; 1955;12 April;0.0655332237460523
+
+disneyland park opened in 1955; 1955;Anaheim;0.09135166308114834
+disneyland park opened in 1955; 1955;Hong Kong;0.09135166308114834
+disneyland park opened in 1955; 1955;Tokyo;0.09135166308114834
+disneyland park opened in 1955; 1955;Paris;0.09135166308114834
+
+germany won the team silver medal of equestrian competition at 2012 london olympic games; germany;Dressage;0.07288353117253711
+germany won the team silver medal of equestrian competition at 2012 london olympic games; germany;eventing;0.07288353117253711
+germany won the team silver medal of equestrian competition at 2012 london olympic games; germany;jumping;0.07288353117253711
+
+the zipe code of china university of geosciences is 430074; 430074;Wuhan;0.08126339760856922
+the zipe code of china university of geosciences is 430074; 430074;Beijing;0.08126339760856922
+
+la ronde was directed by roger vadim; roger vadim;1964;0.06888215312937034
+la ronde was directed by roger vadim; roger vadim;1897;0.06888215312937034
+la ronde was directed by roger vadim; roger vadim;1950;0.06888215312937034
+
+the director of the omen was john moore; john moore;2006;0.08232414503764952
+the director of the omen was john moore; john moore;1976;0.08232414503764952
+
+queen elizabeth was born in 1533; 1533;I;0.102131476770453
+queen elizabeth was born in 1533; 1533;II;0.102131476770453
+
+bush served as the 41st president of the united states; 41st;George H. W.;0.08478205316023978
+bush served as the 41st president of the united states; 41st;George;0.08478205316023978
+bush served as the 41st president of the united states; 41st;Bill Clinton;0.08478205316023978
+bush served as the 41st president of the united states; 41st;George W.;0.08478205316023978
+bush served as the 41st president of the united states; 41st;Barack Obama;0.08478205316023978
+bush served as the 41st president of the united states; 41st;Obama;0.08478205316023978
+
+germany launched the world war in 1939; 1939;II;0.09337510180188022
+germany launched the world war in 1939; 1939;45;0.09337510180188022
+germany launched the world war in 1939; 1939;I;0.09337510180188022
+
+the area code of the city durango in united states is 970; 970;Colorado;0.09690387294361989
+the area code of the city durango in united states is 970; 970;Iowa;0.09690387294361989
+the area code of the city durango in united states is 970; 970;Texas;0.09690387294361989
+
+the song somebody that i used to know was released in 2011; 2011;Gotye;0.09868942549591815
+the song somebody that i used to know was released in 2011; 2011;Kimbra;0.09868942549591815
+
+northeastern university was established in 1898; 1898;Boston;0.07806783077097436
+northeastern university was established in 1898; 1898;Shenyang;0.07806783077097436
+
+bampaku-kinen-koen station opened in 2005; 2005;Osaka;0.06088361941606689
+bampaku-kinen-koen station opened in 2005; 2005;Ibaraki;0.06088361941606689
+
+the class and type of uss russell is Sims-class destroyer; Sims-class destroyer;DD-414;0.06980689478950117
+the class and type of uss russell is Sims-class destroyer; Sims-class destroyer;DDG-59;0.06980689478950117
+
+george iv was died in 1811; 1811;United Kingdom;0.0588534938151645
+george iv was died in 1811; 1811;Ireland;0.0588534938151645
+george iv was died in 1811; 1811;Georgia;0.0588534938151645
+
+the album over the rainbow was released by nelson; nelson;Rainbow;0.07597163185943141
+the album over the rainbow was released by nelson; nelson;Angela Chang;0.07597163185943141
+
+smile was a japanese tv series; japanese;1;0.06417069920798607
+smile was a japanese tv series; japanese;2;0.06417069920798607
+smile was a japanese tv series; japanese;15;0.06417069920798607
+
+the architectural style of cabot tower is gothic revival; gothic revival;St. John;0.06869190095108589
+the architectural style of cabot tower is gothic revival; gothic revival;Bristol;0.06869190095108589
+
+the album of secret was released by rhythm zone; rhythm zone;Kumi Koda;0.0628418819437718
+the album of secret was released by rhythm zone; rhythm zone;Ayumi Hamasaki;0.0628418819437718
+

@@ -1,0 +1,237 @@
+1	usa won team title at the 2011 world gymnastics championships in tokyo	women	usa	1
+1	us won team title at the 2011 world gymnastics championships in tokyo	women	us	1
+1	united states won team title at the 2011 world gymnastics championships in tokyo	women	united states	1
+1	alabama won team title at the 2011 world gymnastics championships in tokyo	women	alabama	1
+1	china won team title at the 2011 world gymnastics championships in tokyo	women	china	1
+2	usa won team title at the 2011 world gymnastics championships in tokyo	women	usa	1
+2	us won team title at the 2011 world gymnastics championships in tokyo	women	us	1
+2	united states won team title at the 2011 world gymnastics championships in tokyo	women	united states	1
+2	alabama won team title at the 2011 world gymnastics championships in tokyo	women	alabama	1
+2	china won team title at the 2011 world gymnastics championships in tokyo	women	china	1
+3	united states won team title at the 2011 world gymnastics championships in tokyo	men	united states	1
+3	china won team title at the 2011 world gymnastics championships in tokyo	men	china	1
+4	marie curie won the nobel prize in 1903	Physics	1903	1
+4	marie curie won the nobel prize in 1911	Physics	1911	1
+4	marie curie won the nobel prize in 1930	Physics	1930	1
+4	marie curie won the nobel prize in 1921	Physics	1921	1
+4	marie curie won the nobel prize in 1867	Physics	1867	1
+5	marie curie won the nobel prize in 1903	Chemistry	1903	1
+5	marie curie won the nobel prize in 1911	Chemistry	1911	1
+5	marie curie won the nobel prize in 1930	Chemistry	1930	1
+5	marie curie won the nobel prize in 1921	Chemistry	1921	1
+5	marie curie won the nobel prize in 1867	Chemistry	1867	1
+6	the film harry potter and the Deathly Hallows was released in 2011	part 2	2011	1
+6	the film harry potter and the Deathly Hallows was released in 2001	part 2	2001	1
+6	the film harry potter and the Deathly Hallows was released in 2009	part 2	2009	1
+6	the film harry potter and the Deathly Hallows was released in 2002	part 2	2002	1
+7	the film harry potter and the Deathly Hallows was released in 2001	part 1	2001	1
+7	the film harry potter and the Deathly Hallows was released in 2009	part 1	2009	1
+7	the film harry potter and the Deathly Hallows was released in 2010	part 1	2010	1
+7	the film harry potter and the Deathly Hallows was released in 2002	part 1	2002	1
+8	van der burgh won gold medal in men's 100m swimming in 2012 london olympic games	breaststroke	van der burgh	1
+9	nathan adrian won gold medal in men's 100m swimming in 2012 london olympic games	freestyle	nathan adrian	1
+9	james won gold medal in men's 100m swimming in 2012 london olympic games	freestyle	james	1
+10	matthew grevers won gold medal in men's 100m swimming in 2012 london olympic games	Backstroke	matthew grevers	1
+11	michael phelps won gold medal in men's 100m swimming in 2012 london olympic games	Butterfly	michael phelps	1
+12	the director of g.i. joe was stephen sommers	the rise of cobra	stephen sommers	1
+12	the director of g.i. joe was christopher	the rise of cobra	christopher	1
+13	the director of g.i. joe was jon m. chu	Retaliation	jon m. chu	1
+13	the director of g.i. joe was christopher	Retaliation	christopher	1
+13	the director of g.i. joe was johnson	Retaliation	johnson	1
+13	the director of g.i. joe was lee	Retaliation	lee	1
+14	thomas l. magnanti got his master's degree in 1938	George Dantzig	1938	-1
+15	thomas l. magnanti got his master's degree in 2011	Tom	2011	-1
+15	thomas l. magnanti got his master's degree in 2005	Tom	2005	-1
+16	David Boudia won the gold medal of men's diving in 2012 London Olympic Games	platform	David Boudia	1
+16	Peter Waterfield won the gold medal of men's diving in 2012 London Olympic Games	platform	Peter Waterfield	1
+16	Tom Daley won the gold medal of men's diving in 2012 London Olympic Games	platform	Tom Daley	1
+17	Ilya Zakharov won the gold medal of men's diving in 2012 London Olympic Games	springboard	Ilya Zakharov	1
+18	the lord of the rings was released in 2001	the fellowship of the ring	2001	1
+18	the lord of the rings was released in 2000	the fellowship of the ring	2000	1
+18	the lord of the rings was released in 2011	the fellowship of the ring	2011	1
+18	the lord of the rings was released in 2002	the fellowship of the ring	2002	1
+19	the lord of the rings was released in 2002	the two towers	2002	1
+20	the lord of the rings was released in 2004	the return of the king	2004	1
+20	the lord of the rings was released in 2003	the return of the king	2003	1
+21	Hannah Kearney won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	moguls	Hannah Kearney	1
+21	Jennifer Heil won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	moguls	Jennifer Heil	1
+22	Ashleigh McIvor won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	Ski Cross	Ashleigh McIvor	1
+23	Lydia Lassila won gold medal in the women's freestyle skiing competition of the 2010 Vancouver Winter Olympics	aerials	Lydia Lassila	1
+24	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+24	in 1992, the olympic games was held in albertville	Summer	albertville	1
+24	in 1992, the olympic games was held in greece	Summer	greece	1
+24	in 1992, the olympic games was held in london	Summer	london	1
+24	in 1992, the olympic games was held in sweden	Summer	sweden	1
+25	in 1992, the olympic games was held in barcelona	Winter	barcelona	1
+25	in 1992, the olympic games was held in albertville	Winter	albertville	1
+25	in 1992, the olympic games was held in greece	Winter	greece	1
+25	in 1992, the olympic games was held in london	Winter	london	1
+25	in 1992, the olympic games was held in sweden	Winter	sweden	1
+26	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+26	in 1992, the olympic games was held in albertville	Summer	albertville	1
+26	in 1992, the olympic games was held in greece	Summer	greece	1
+26	in 1992, the olympic games was held in london	Summer	london	1
+26	in 1992, the olympic games was held in sweden	Summer	sweden	1
+27	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+27	in 1992, the olympic games was held in albertville	Summer	albertville	1
+27	in 1992, the olympic games was held in greece	Summer	greece	1
+27	in 1992, the olympic games was held in london	Summer	london	1
+27	in 1992, the olympic games was held in sweden	Summer	sweden	1
+28	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+28	in 1992, the olympic games was held in albertville	Summer	albertville	1
+28	in 1992, the olympic games was held in greece	Summer	greece	1
+28	in 1992, the olympic games was held in london	Summer	london	1
+28	in 1992, the olympic games was held in sweden	Summer	sweden	1
+29	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+29	in 1992, the olympic games was held in albertville	Summer	albertville	1
+29	in 1992, the olympic games was held in greece	Summer	greece	1
+29	in 1992, the olympic games was held in london	Summer	london	1
+29	in 1992, the olympic games was held in sweden	Summer	sweden	1
+30	in 1992, the olympic games was held in barcelona	Summer	barcelona	1
+30	in 1992, the olympic games was held in albertville	Summer	albertville	1
+30	in 1992, the olympic games was held in greece	Summer	greece	1
+30	in 1992, the olympic games was held in london	Summer	london	1
+30	in 1992, the olympic games was held in sweden	Summer	sweden	1
+31	Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Russia	Natalia Vorobieva	-1
+32	Natalia Vorobieva won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Bulgaria	Natalia Vorobieva	-1
+33	Merleni won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	USA	Merleni	-1
+33	Saori Yoshida won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	USA	Saori Yoshida	-1
+34	Merleni won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Ukraine	Merleni	-1
+35	Hitomi Obara won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Japan	Hitomi Obara	-1
+35	Kaori Icho won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Japan	Kaori Icho	-1
+35	Saori Yoshida won the gold medal in women's freestyle wrestling at 2012 London Olympic Games	Japan	Saori Yoshida	-1
+36	microsoft research is located in bangalore	India	bangalore	1
+37	microsoft research is located in beijing	China	beijing	-1
+38	disneyland park opened in 1955	Anaheim	1955	1
+39	disneyland park opened in 2005	Hong Kong	2005	1
+40	disneyland park opened in 1983	Tokyo	1983	1
+41	disneyland park opened in 1992	Paris	1992	1
+42	germany won the team silver medal of equestrian competition at 2012 london olympic games	Dressage	germany	1
+42	great britain won the team silver medal of equestrian competition at 2012 london olympic games	Dressage	great britain	1
+42	american won the team silver medal of equestrian competition at 2012 london olympic games	Dressage	american	1
+42	mexico won the team silver medal of equestrian competition at 2012 london olympic games	Dressage	mexico	1
+42	Netherlands won the team silver medal of equestrian competition at 2012 london olympic games	Dressage	Netherlands	1
+43	germany won the team silver medal of equestrian competition at 2012 london olympic games	eventing	germany	1
+43	great britain won the team silver medal of equestrian competition at 2012 london olympic games	eventing	great britain	1
+43	american won the team silver medal of equestrian competition at 2012 london olympic games	eventing	american	1
+43	beijing won the team silver medal of equestrian competition at 2012 london olympic games	eventing	beijing	1
+44	great britain won the team silver medal of equestrian competition at 2012 london olympic games	jumping	great britain	1
+44	Netherlands won the team silver medal of equestrian competition at 2012 london olympic games	jumping	Netherlands	1
+45	the zipe code of china university of geosciences is 430074	Wuhan	430074	1
+45	the zipe code of china university of geosciences is 100080	Wuhan	100080	1
+45	the zipe code of china university of geosciences is 100029	Wuhan	100029	1
+45	the zipe code of china university of geosciences is 430200	Wuhan	430200	1
+46	the zipe code of china university of geosciences is 100083	Beijing	100083	1
+46	the zipe code of china university of geosciences is 100080	Beijing	100080	1
+46	the zipe code of china university of geosciences is 410008	Beijing	410008	1
+46	the zipe code of china university of geosciences is 100029	Beijing	100029	1
+46	the zipe code of china university of geosciences is 430200	Beijing	430200	1
+47	la ronde was directed by roger vadim	1964	roger vadim	1
+48	la ronde was directed by roger vadim	1897	roger vadim	-1
+49	la ronde was directed by max ophuls	1950	max ophuls	1
+49	la ronde was directed by david	1950	david	1
+50	the director of the omen was john moore	2006	john moore	1
+51	the director of the omen was richard donner	1976	richard donner	1
+51	the director of the omen was david	1976	david	1
+52	queen elizabeth was born in 1533	I	1533	1
+52	queen elizabeth was born in 1926	I	1926	1
+52	queen elizabeth was born in 1603	I	1603	1
+53	queen elizabeth was born in 1533	II	1533	1
+53	queen elizabeth was born in 1926	II	1926	1
+53	queen elizabeth was born in 1603	II	1603	1
+54	queen elizabeth was born in 1533	I	1533	1
+54	queen elizabeth was born in 1926	I	1926	1
+54	queen elizabeth was born in 1603	I	1603	1
+55	queen elizabeth was born in 1533	I	1533	1
+55	queen elizabeth was born in 1926	I	1926	1
+55	queen elizabeth was born in 1603	I	1603	1
+56	bush served as the 41st president of the united states	George H. W.	41st	1
+56	bush served as the 44th president of the united states	George H. W.	44th	1
+57	bush served as the 41st president of the united states	George	41st	-1
+57	bush served as the 43rd president of the united states	George	43rd	-1
+58	bush served as the 42nd president of the united states	Bill Clinton	42nd	-1
+59	bush served as the 42nd president of the united states	George W.	42nd	1
+59	bush served as the 43rd president of the united states	George W.	43rd	1
+60	bush served as the 44th president of the united states	Barack Obama	44th	-1
+61	bush served as the 44th president of the united states	Obama	44th	-1
+62	germany launched the world war in 1939	II	1939	1
+62	germany launched the world war in 1945	II	1945	1
+62	germany launched the world war in 1941	II	1941	1
+62	germany launched the world war in 1940	II	1940	1
+62	germany launched the world war in 1914	II	1914	1
+63	germany launched the world war in 1939	45	1939	-1
+64	germany launched the world war in 1939	II	1939	1
+64	germany launched the world war in 1945	II	1945	1
+64	germany launched the world war in 1941	II	1941	1
+64	germany launched the world war in 1940	II	1940	1
+64	germany launched the world war in 1914	II	1914	1
+65	germany launched the world war in 1945	I	1945	1
+65	germany launched the world war in 1941	I	1941	1
+65	germany launched the world war in 1940	I	1940	1
+65	germany launched the world war in 1914	I	1914	1
+66	germany launched the world war in 1939	II	1939	1
+66	germany launched the world war in 1945	II	1945	1
+66	germany launched the world war in 1941	II	1941	1
+66	germany launched the world war in 1940	II	1940	1
+66	germany launched the world war in 1914	II	1914	1
+67	the area code of the city durango in united states is 970	Colorado	970	1
+67	the area code of the city durango in united states is 81301	Colorado	81301	1
+67	the area code of the city durango in united states is 526	Colorado	526	1
+67	the area code of the city durango in united states is 81302	Colorado	81302	1
+67	the area code of the city durango in united states is 563	Colorado	563	1
+67	the area code of the city durango in united states is 254	Colorado	254	1
+68	the area code of the city durango in united states is 563	Iowa	563	1
+69	the area code of the city durango in united states is 254	Texas	254	1
+70	the song somebody that i used to know was released in 2011	Gotye	2011	1
+70	the song somebody that i used to know was released in 2013	Gotye	2013	1
+70	the song somebody that i used to know was released in 2012	Gotye	2012	1
+70	the song somebody that i used to know was released in 2000	Gotye	2000	1
+71	the song somebody that i used to know was released in 2011	Kimbra	2011	-1
+71	the song somebody that i used to know was released in 2013	Kimbra	2013	-1
+71	the song somebody that i used to know was released in 2012	Kimbra	2012	-1
+71	the song somebody that i used to know was released in 2000	Kimbra	2000	-1
+72	the song somebody that i used to know was released in 2011	Gotye	2011	1
+72	the song somebody that i used to know was released in 2013	Gotye	2013	1
+72	the song somebody that i used to know was released in 2012	Gotye	2012	1
+72	the song somebody that i used to know was released in 2000	Gotye	2000	1
+73	the song somebody that i used to know was released in 2011	Gotye	2011	1
+73	the song somebody that i used to know was released in 2013	Gotye	2013	1
+73	the song somebody that i used to know was released in 2012	Gotye	2012	1
+73	the song somebody that i used to know was released in 2000	Gotye	2000	1
+74	northeastern university was established in 1898	Boston	1898	1
+75	northeastern university was established in 1923	Shenyang	1923	1
+76	bampaku-kinen-koen station opened in 2005	Osaka	2005	1
+76	bampaku-kinen-koen station opened in 2007	Osaka	2007	1
+76	bampaku-kinen-koen station opened in 1998	Osaka	1998	1
+76	bampaku-kinen-koen station opened in 1927	Osaka	1927	1
+76	bampaku-kinen-koen station opened in 1990	Osaka	1990	1
+77	bampaku-kinen-koen station opened in 2005	Ibaraki	2005	1
+77	bampaku-kinen-koen station opened in 1998	Ibaraki	1998	1
+78	the class and type of uss russell is Sims-class destroyer	DD-414	Sims-class destroyer	-1
+79	the class and type of uss russell is arleigh burke class destroyer	DDG-59	arleigh burke class destroyer	1
+80	george iv was died in 1811	United Kingdom	1811	1
+80	george iv was died in 1762	United Kingdom	1762	1
+80	george iv was died in 1830	United Kingdom	1830	1
+80	george iv was died in 1820	United Kingdom	1820	1
+80	george iv was died in 1223	United Kingdom	1223	1
+81	george iv was died in 1811	Ireland	1811	-1
+81	george iv was died in 1820	Ireland	1820	-1
+82	george iv was died in 1223	Georgia	1223	1
+83	the album over the rainbow was released by nelson	Rainbow	nelson	1
+83	the album over the rainbow was released by susan	Rainbow	susan	1
+83	the album over the rainbow was released by john	Rainbow	john	1
+83	the album over the rainbow was released by universal sigma	Rainbow	universal sigma	1
+83	the album over the rainbow was released by linfair records	Rainbow	linfair records	1
+84	the album over the rainbow was released by linfair records	Angela Chang	linfair records	1
+85	smile was a japanese tv series	1	japanese	-1
+85	smile was a american tv series	1	american	-1
+85	smile was a us tv series	1	us	-1
+85	smile was a british tv series	1	british	-1
+86	smile was a boston tv series	2	boston	-1
+87	smile was a boston tv series	15	boston	-1
+88	the architectural style of cabot tower is gothic revival	St. John	gothic revival	1
+88	the architectural style of cabot tower is Medieval Revival	St. John	Medieval Revival	1
+89	the architectural style of cabot tower is Neo-Gothic	Bristol	Neo-Gothic	1
+89	the architectural style of cabot tower is Byzantine	Bristol	Byzantine	1
+90	the album of secret was released by rhythm zone	Kumi Koda	rhythm zone	1
+91	the album of secret was released by avex trax	Ayumi Hamasaki	avex trax	1

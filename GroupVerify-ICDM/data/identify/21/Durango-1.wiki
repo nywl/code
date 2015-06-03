@@ -1,0 +1,1793 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Durango, Colorado - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<meta name="robots" content="noindex,follow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Durango,_Colorado&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Durango,_Colorado&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/index.html?curid=108548" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Durango,_Colorado","wgTitle":"Durango, Colorado","wgCurRevisionId":577132695,"wgRevisionId":577132695,"wgArticleId":108548,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from March 2013","Articles needing additional references from February 2013","All articles needing additional references","Commons category with local link same as on Wikidata","Cities in La Plata County, Colorado","Cities in Colorado","County seats in Colorado","Company towns in Colorado","Populated places established in 1881","Durango, Colorado"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Durango,_Colorado","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-cn"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":108548,"title":"Durango, Colorado","namespace":0,"categories":["All articles needing additional references","Articles needing additional references from February 2013","Cities in Colorado","Cities in La Plata County, Colorado","Commons category with local link same as on Wikidata","Company towns in Colorado","County seats in Colorado","Durango, Colorado","Populated places established in 1881","Wikipedia articles needing clarification from March 2013"],"permissionLevel":false},"wgWikibaseItemId":"Q1012665"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Durango_Colorado skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Durango, Colorado</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" cellspacing="3" style="border-spacing:3px;width:22em;width:23em;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap;"><span class="fn org">City of Durango</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em;">
+<div class="floatnone"><a href="/wiki/File:Durango_CO_2.jpg" class="image" title="Downtown Durango, Colorado"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Durango_CO_2.jpg/250px-Durango_CO_2.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Durango_CO_2.jpg/375px-Durango_CO_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Durango_CO_2.jpg/500px-Durango_CO_2.jpg 2x" /></a></div>
+<small>Downtown Durango, Colorado</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center;">Motto: "Open Spaces and Familiar Faces"</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center;">
+<div class="floatnone"><a href="/wiki/File:La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg" class="image" title="Location in La Plata County and the State of Colorado"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg/250px-La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg.png" width="250" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg/375px-La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg/500px-La_Plata_County_Colorado_Incorporated_and_Unincorporated_areas_Durango_Highlighted.svg.png 2x" /></a></div>
+<small>Location in <a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata County</a> and the <a href="/wiki/State_of_Colorado" title="State of Colorado" class="mw-redirect">State of Colorado</a></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center;">Coordinates: <span style="white-space: nowrap;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Durango%2C_Colorado&amp;params=37_16_31_N_107_52_48_W_type:city(17069)_region:US-CO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°16′31″N</span> <span class="longitude">107°52′48″W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.27528°N 107.88000°W</span><span style="display:none">? / <span class="geo">37.27528; -107.88000</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Durango%2C_Colorado&amp;params=37_16_31_N_107_52_48_W_type:city(17069)_region:US-CO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°16′31″N</span> <span class="longitude">107°52′48″W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.27528°N 107.88000°W</span><span style="display:none">? / <span class="geo">37.27528; -107.88000</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;"><a href="/wiki/List_of_countries" title="List of countries" class="mw-redirect">Country</a></th>
+<td>United States</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Political_divisions_of_the_United_States" title="Political divisions of the United States">State</a></th>
+<td><a href="/wiki/Colorado" title="Colorado">Colorado</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><a href="/wiki/List_of_counties_in_Colorado" title="List of counties in Colorado">County</a></th>
+<td><a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata County</a><sup id="cite_ref-COMun_1-0" class="reference"><a href="#cite_note-COMun-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Municipal_corporation" title="Municipal corporation">Incorporated</a></th>
+<td>April 27, 1881<sup id="cite_ref-MuniIncCO_2-0" class="reference"><a href="#cite_note-MuniIncCO-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left;">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Type</th>
+<td><a href="/wiki/Colorado_municipalities#Home_Rule_Municipality" title="Colorado municipalities" class="mw-redirect">Home Rule Municipality</a><sup id="cite_ref-COMun_1-1" class="reference"><a href="#cite_note-COMun-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Mayor</th>
+<td>Doug Lyon<sup id="cite_ref-Current_City_Council_3-0" class="reference"><a href="#cite_note-Current_City_Council-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Mayor Pro Tempore</th>
+<td>Dick White<sup id="cite_ref-Current_City_Council_3-1" class="reference"><a href="#cite_note-Current_City_Council-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;City Manager</th>
+<td>Ron LeBlanc<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;City Council</th>
+<td>
+<p>Dick White<br />
+Christina Thompson<br />
+Doug Lyon<br />
+Paul Broderick<br /></p>
+Sweetie Marbury<sup id="cite_ref-Current_City_Council_3-2" class="reference"><a href="#cite_note-Current_City_Council-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left;">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Total</th>
+<td>6.8&#160;sq&#160;mi (17.7&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Land</th>
+<td>6.8&#160;sq&#160;mi (17.6&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Water</th>
+<td>0&#160;sq&#160;mi (0.1&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;">Elevation</th>
+<td>6,512&#160;ft (1,988&#160;m)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left;">Population <span style="font-weight:normal">(<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> 2011)</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Total</th>
+<td>17,069</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;Density</th>
+<td>2,047.4/sq&#160;mi (786.6/km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;">&#160;?&#160;<a href="/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>
+<p>Durangoan<br /></p>
+Durangotang<i>(informal)</i></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Mountain_Standard_Time" title="Mountain Standard Time" class="mw-redirect">MST</a> (<a href="/wiki/UTC-7" title="UTC-7" class="mw-redirect">UTC-7</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><span style="white-space:nowrap">&#160;?&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td><a href="/wiki/Mountain_Daylight_Time" title="Mountain Daylight Time" class="mw-redirect">MDT</a> (<a href="/wiki/UTC-6" title="UTC-6" class="mw-redirect">UTC-6</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;"><a href="/wiki/ZIP_code" title="ZIP code">ZIP codes</a><sup id="cite_ref-ZIPcode_6-0" class="reference"><a href="#cite_note-ZIPcode-6"><span>[</span>6<span>]</span></a></sup></th>
+<td class="adr"><span class="postal-code">81301-81303</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td><a href="/wiki/Area_code_970" title="Area code 970">970</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Federal_Information_Processing_Standard" title="Federal Information Processing Standard" class="mw-redirect">FIPS code</a></th>
+<td>08-22035</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="text-align:left;"><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">GNIS feature ID</a></th>
+<td>0202983</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="text-align:left;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.durangogov.org/">City of Durango</a></td>
+</tr>
+</table>
+<p>The <b>City of Durango</b> is a <a href="/wiki/Colorado_municipalities#Home_Rule_Municipality" title="Colorado municipalities" class="mw-redirect">Home Rule Municipality</a> that is the <a href="/wiki/County_seat" title="County seat">county seat</a> and the most populous city of <a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata County</a>, <a href="/wiki/Colorado" title="Colorado">Colorado</a>, <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-GR6_7-0" class="reference"><a href="#cite_note-GR6-7"><span>[</span>7<span>]</span></a></sup> The <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> reported a population of 16,887 in the <a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 census</a>.</p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Arts_and_Culture"><span class="tocnumber">4</span> <span class="toctext">Arts and Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Attractions"><span class="tocnumber">4.1</span> <span class="toctext">Attractions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Animas_River_Valley"><span class="tocnumber">4.1.1</span> <span class="toctext">Animas River Valley</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Durango_Mountain_Resort"><span class="tocnumber">4.1.2</span> <span class="toctext">Durango Mountain Resort</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Durango_.26_Silverton_Narrow_Gauge_Railroad"><span class="tocnumber">4.1.3</span> <span class="toctext">Durango &amp; Silverton Narrow Gauge Railroad</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Mountain_Bike_World_Championships"><span class="tocnumber">4.1.4</span> <span class="toctext">Mountain Bike World Championships</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Snowdown_Festival"><span class="tocnumber">4.1.5</span> <span class="toctext">Snowdown Festival</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Main_Avenue"><span class="tocnumber">4.1.6</span> <span class="toctext">Main Avenue</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Infrastructure"><span class="tocnumber">5</span> <span class="toctext">Infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Transportation"><span class="tocnumber">5.1</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Business"><span class="tocnumber">5.2</span> <span class="toctext">Business</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Colleges"><span class="tocnumber">6</span> <span class="toctext">Colleges</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Notable_people"><span class="tocnumber">7</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Sister_cities"><span class="tocnumber">8</span> <span class="toctext">Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References_in_Film"><span class="tocnumber">9</span> <span class="toctext">References in Film</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The town was organized in September 1881 by the <a href="/wiki/Denver_and_Rio_Grande_Railroad" title="Denver and Rio Grande Railroad" class="mw-redirect">Denver and Rio Grande Railroad</a> (D&amp;RG) to serve the San Juan mining district. The D&amp;RG chose a site south of Animas City for its depot after Animas City refused to pay a dowry<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (March 2013)">clarification needed</span></a></i>]</sup> to the D&amp;RG. The city is named after <a href="/wiki/Durango,_Durango" title="Durango, Durango">Durango, Mexico</a>, which was named after <a href="/wiki/Durango,_Spain" title="Durango, Spain" class="mw-redirect">Durango, Spain</a>. The word Durango originates from the <a href="/wiki/Basque_language" title="Basque language">Basque</a> word "Urango" meaning "water town".</p>
+<p>Area archaeological sites on the State and National historical registers include:</p>
+<ul>
+<li><a href="/wiki/Darkmold_Site" title="Darkmold Site" class="mw-redirect">Darkmold Site</a>, a <a href="/wiki/Basketmaker_culture" title="Basketmaker culture">Basketmaker culture</a></li>
+<li><a href="/wiki/Durango_Rock_Shelters_Archeology_Site" title="Durango Rock Shelters Archeology Site">Durango Rock Shelters Archeology Site</a>, a Basketmaker and <a href="/wiki/Ancient_Pueblo_People" title="Ancient Pueblo People" class="mw-redirect">Pueblo</a> culture</li>
+<li><a href="/wiki/Spring_Creek_Archeological_District" title="Spring Creek Archeological District" class="mw-redirect">Spring Creek Archeological District</a> (near Bayfield), another Basketmaker and Pueblo site</li>
+<li><a href="/wiki/Talus_Village" title="Talus Village" class="mw-redirect">Talus Village</a>, a Basketmaker site</li>
+</ul>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Durango is located at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Durango%2C_Colorado&amp;params=37_16_N_107_52_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°16′N</span> <span class="longitude">107°52′W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.267°N 107.867°W</span><span style="display:none">? / <span class="geo">37.267; -107.867</span></span></span></a></span> at an elevation of 1988 metres (6512&#160;feet). According to the <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>, the city has a total area of 6.8 square miles (18&#160;km<sup>2</sup>).</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=3" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellpadding="1" cellspacing="0" style="float: right; clear: right; margin: 0 0 1em 1em; text-align:right">
+<tr>
+<th colspan="4" bgcolor="#CCCCFF" style="background-color:#ccccff; padding-right:3px; padding-left:3px; font-size:110%; text-align:center">Historical populations</th>
+</tr>
+<tr style="font-size:95%">
+<th style="text-align:center; border-bottom:1px solid black">Census</th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Population">Pop.</abbr></th>
+<th style="text-align:center; border-bottom:1px solid black"></th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Percent change">%±</abbr></th>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1880_United_States_Census" title="1880 United States Census">1880</a></b></td>
+<td style="padding-left:8px">2,000</td>
+<td></td>
+<td style="padding-left:8px">
+<center>—</center>
+</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1890_United_States_Census" title="1890 United States Census">1890</a></b></td>
+<td style="padding-left:8px">2,726</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">36.3</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1900_United_States_Census" title="1900 United States Census">1900</a></b></td>
+<td style="padding-left:8px">3,317</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">21.7</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1910_United_States_Census" title="1910 United States Census">1910</a></b></td>
+<td style="padding-left:8px">4,686</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">41.3</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1920_United_States_Census" title="1920 United States Census">1920</a></b></td>
+<td style="padding-left:8px">4,116</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">?12.2</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1930_United_States_Census" title="1930 United States Census">1930</a></b></td>
+<td style="padding-left:8px">5,400</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">31.2</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1940_United_States_Census" title="1940 United States Census">1940</a></b></td>
+<td style="padding-left:8px">5,887</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">9.0</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1950_United_States_Census" title="1950 United States Census">1950</a></b></td>
+<td style="padding-left:8px">7,459</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">26.7</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1960_United_States_Census" title="1960 United States Census">1960</a></b></td>
+<td style="padding-left:8px">10,530</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">41.2</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1970_United_States_Census" title="1970 United States Census">1970</a></b></td>
+<td style="padding-left:8px">10,333</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">?1.9</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1980_United_States_Census" title="1980 United States Census">1980</a></b></td>
+<td style="padding-left:8px">11,649</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">12.7</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/1990_United_States_Census" title="1990 United States Census">1990</a></b></td>
+<td style="padding-left:8px">12,430</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">6.7</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/2000_United_States_Census" title="2000 United States Census">2000</a></b></td>
+<td style="padding-left:8px">13,922</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">12.0</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b><a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010</a></b></td>
+<td style="padding-left:8px">16,887</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">21.3</span>%</td>
+</tr>
+<tr>
+<td style="text-align:center"><b>Est. 2011</b></td>
+<td style="padding-left:8px">17,069</td>
+<td></td>
+<td style="padding-left:8px"><span style="white-space:nowrap">1.1</span>%</td>
+</tr>
+<tr>
+<td colspan="4" style="border-top:1px solid black; font-size:85%; text-align:left">
+<center><a rel="nofollow" class="external text" href="http://www.census.gov/prod/www/abs/decennial/">U.S. Decennial Census</a><br />
+<a rel="nofollow" class="external text" href="http://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-03-08.csv">2011 estimate</a></center>
+</td>
+</tr>
+</table>
+<p>As of the <a href="/wiki/Census" title="Census">census</a><sup id="cite_ref-GR2_8-0" class="reference"><a href="#cite_note-GR2-8"><span>[</span>8<span>]</span></a></sup> of 2000, there were 13,922 people, 5,492 households, and 2,603 families residing in the city. The <a href="/wiki/Population_density" title="Population density">population density</a> was 2,052.4 people per square mile (792.8/km2). There were 5,819 housing units at an average density of 857.8 per square mile (331.4/km2). The racial makeup of the city was 86.84% <a href="/wiki/White_(U.S._Census)" title="White (U.S. Census)" class="mw-redirect">White</a>, .5% <a href="/wiki/African_American_(U.S._Census)" title="African American (U.S. Census)" class="mw-redirect">African American</a>, 5.51% <a href="/wiki/Native_American_(U.S._Census)" title="Native American (U.S. Census)" class="mw-redirect">Native American</a>, 0.74% <a href="/wiki/Asian_(U.S._Census)" title="Asian (U.S. Census)" class="mw-redirect">Asian</a>, 0.11% <a href="/wiki/Pacific_Islander_(U.S._Census)" title="Pacific Islander (U.S. Census)" class="mw-redirect">Pacific Islander</a>, 4.12% from <a href="/wiki/Race_(United_States_Census)" title="Race (United States Census)" class="mw-redirect">other races</a>, and 2.17% from two or more races. <a href="/wiki/Hispanic_(U.S._Census)" title="Hispanic (U.S. Census)" class="mw-redirect">Hispanic</a> or <a href="/wiki/Latino_(U.S._Census)" title="Latino (U.S. Census)" class="mw-redirect">Latino</a> of any race were 10.31% of the population.</p>
+<p>There were 5,492 households out of which 22.4% had children under the age of 18 living with them, 34.2% were <a href="/wiki/Marriage" title="Marriage">married couples</a> living together, 9.4% had a female householder with no husband present, and 52.6% were non-families. 31.8% of all households were made up of individuals and 9.0% had someone living alone who was 65 years of age or older. The average household size was 2.23 and the average family size was 2.83.</p>
+<p>In the city, 16.6% of residents are under the age of 18, 26.1% from 18 to 24, 27.2% from 25 to 44, 19.4% from 45 to 64, and 10.7% who are 65 years of age or older. The median age is 29 years. For every 100 females there are 104.1 males. For every 100 females age 18 and over, there are 103.8 males.</p>
+<p>The median income for a household in the city is $34,892, and the median income for a family is $50,814. Males have a median income of $31,812 versus $25,022 for females. The <a href="/wiki/Per_capita_income" title="Per capita income">per capita income</a> for the city is $19,352. 17.2% of the population and 7.3% of families live below the <a href="/wiki/Poverty_line" title="Poverty line" class="mw-redirect">poverty line</a>. 11.2% of those younger than 18 and 8.9% of those 65 and older live below the poverty line.</p>
+<h2><span class="mw-headline" id="Arts_and_Culture">Arts and Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=4" title="Edit section: Arts and Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Attractions">Attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=5" title="Edit section: Attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Animas_River_Valley">Animas River Valley</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=6" title="Edit section: Animas River Valley">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Durango is nestled in the Animas River Valley surrounded by the <a href="/wiki/San_Juan_Mountains" title="San Juan Mountains">San Juan Mountains</a>. The <a href="/wiki/Animas_River" title="Animas River">Animas River</a>—El Río de las Animas—runs through downtown and boasts gold medal <a href="/wiki/Fly_fishing" title="Fly fishing">fly fishing</a> waters, and is popular for whitewater rafting, kayaking and canoeing. Durango is also popular for outdoor activities like hiking, mountain biking, road biking, backpacking, rock climbing, hunting, off-roading, year-round fishing, kayaking and golfing.</p>
+<h4><span class="mw-headline" id="Durango_Mountain_Resort">Durango Mountain Resort</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=7" title="Edit section: Durango Mountain Resort">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Durango is near five major ski areas, including <a href="/wiki/Durango_Mountain_Resort" title="Durango Mountain Resort">Purgatory at Durango Mountain Resort</a>, located twenty-five minutes north of downtown. Located thirty-five miles west of Durango is <a href="/wiki/Mesa_Verde_National_Park" title="Mesa Verde National Park">Mesa Verde National Park</a>, a <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> World Heritage Site known for its Ancestral Puebloan Cliff Dwellings.</p>
+<h4><span class="mw-headline" id="Durango_.26_Silverton_Narrow_Gauge_Railroad">Durango &amp; Silverton Narrow Gauge Railroad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=8" title="Edit section: Durango &amp; Silverton Narrow Gauge Railroad">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Durango is most known for the <a href="/wiki/Durango_%26_Silverton_Narrow_Gauge_Railroad" title="Durango &amp; Silverton Narrow Gauge Railroad" class="mw-redirect">Durango &amp; Silverton Narrow Gauge Railroad</a>, a <a href="/wiki/Heritage_railway" title="Heritage railway">heritage railway</a>, which travels from Durango to the historic mining town of <a href="/wiki/Silverton,_Colorado" title="Silverton, Colorado">Silverton, Colorado</a> on <a href="/wiki/Steam_locomotive" title="Steam locomotive">steam-powered trains</a> with rolling stock dating back to the 1920s and before.</p>
+<h4><span class="mw-headline" id="Mountain_Bike_World_Championships">Mountain Bike World Championships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=9" title="Edit section: Mountain Bike World Championships">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Durango hosted the first-ever <a href="/wiki/Mountain_Bike_World_Championships" title="Mountain Bike World Championships" class="mw-redirect">Mountain Bike World Championships</a> in 1990.</p>
+<h4><span class="mw-headline" id="Snowdown_Festival">Snowdown Festival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=10" title="Edit section: Snowdown Festival">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Durango is also home to the Snowdown Festival,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> an event which includes fireworks and a parade. The parade is the centerpiece and usually occurs the last Friday of January or the first Friday of February. Many local businesses hold competitions throughout the week, including a beard growing contest, joke off, hot wing eating contest, beer plunge, and many others. Along with the nearby town of <a href="/w/index.php?title=Pagosa_Spring,_Colorado&amp;action=edit&amp;redlink=1" class="new" title="Pagosa Spring, Colorado (page does not exist)">Pagosa Springs</a>, Durango also hosts the annual <a href="/wiki/Music_in_the_Mountains" title="Music in the Mountains">Music in the Mountains</a> summer music festival, which features performances by many of the world's finest classical musicians.</p>
+<h4><span class="mw-headline" id="Main_Avenue">Main Avenue</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=11" title="Edit section: Main Avenue">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Strater_Hotel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strater_Hotel.jpg/220px-Strater_Hotel.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strater_Hotel.jpg/330px-Strater_Hotel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strater_Hotel.jpg/440px-Strater_Hotel.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Strater_Hotel.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf20/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The Strater Hotel in 2010</div>
+</div>
+</div>
+<p>Main Avenue cuts through Downtown Durango, home to clothing <a href="/wiki/Boutique" title="Boutique">boutiques</a>, restaurants, <a href="/wiki/Newsagent" title="Newsagent" class="mw-redirect">newsstands</a>, tourist and gift shops, a mall, bars, lounges and other businesses. Many buildings downtown are several stories high and include apartments in the upper levels. Durango's two oldest hotels, The General Palmer and The Strater Hotel, are both at the South end of Main Avenue, one and two blocks away from the train station, respectively. It is also home to many restaurants. Many serve specialty foods including <a href="/wiki/Mexican_cuisine" title="Mexican cuisine">Mexican</a>, <a href="/wiki/Italian_cuisine" title="Italian cuisine">Italian</a>, <a href="/wiki/French_cuisine" title="French cuisine">French</a>, <a href="/wiki/Thai_cuisine" title="Thai cuisine">Thai</a> and <a href="/wiki/Japanese_cuisine" title="Japanese cuisine">Japanese</a> and others serve <a href="/wiki/Cuisine_of_the_United_States" title="Cuisine of the United States">American</a> favorites. Main Avenue is walked by thousands of tourists each week, making it the most popular shopping and relaxing tourist destination in Durango.</p>
+<h2><span class="mw-headline" id="Infrastructure">Infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=12" title="Edit section: Infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=13" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg/220px-D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg/330px-D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg/440px-D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:D%5ERGW_492_Durango_turntable_8-65x_-_Flickr_-_drewj1946.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf20/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/DRGW" title="DRGW" class="mw-redirect">DRGW</a> steam locomotive on the Durango <a href="/wiki/Railway_turntable" title="Railway turntable">turntable</a>, 1965.</div>
+</div>
+</div>
+<p>Durango is served by <a href="/wiki/U.S._Highway_160_(Colorado)" title="U.S. Highway 160 (Colorado)" class="mw-redirect">U.S. Highway 160</a> (the <a href="/wiki/Old_Spanish_Trail_(trade_route)" title="Old Spanish Trail (trade route)">Old Spanish Trail</a>) and <a href="/wiki/U.S._Highway_550_(Colorado)" title="U.S. Highway 550 (Colorado)" class="mw-redirect">U.S. Highway 550</a>. Part of U.S. 550 offers high-speed access (primarily a 4-lane, divided highway) to <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">Albuquerque, New Mexico</a>. North of Durango, 550 is nicknamed the <a href="/wiki/Million_Dollar_Highway" title="Million Dollar Highway" class="mw-redirect">Million Dollar Highway</a>.</p>
+<p>Durango is served by a major regional airport for southwestern Colorado — Durango-La Plata Regional Airport (actually located near Ignacio). <a href="/wiki/Durango-La_Plata_County_Airport" title="Durango-La Plata County Airport" class="mw-redirect">Durango-La Plata County Airport</a> is serviced by <a href="/w/index.php?title=Frontier_Express/Lynx_Aviation_(United_States)&amp;action=edit&amp;redlink=1" class="new" title="Frontier Express/Lynx Aviation (United States) (page does not exist)">Lynx Aviation</a> (<a href="/wiki/Frontier_Airlines" title="Frontier Airlines">Frontier Airlines</a>), <a href="/w/index.php?title=United_Express/SkyWest&amp;action=edit&amp;redlink=1" class="new" title="United Express/SkyWest (page does not exist)">United Express/SkyWest</a> (<a href="/wiki/United_Airlines" title="United Airlines">United Airlines</a>), <a href="/w/index.php?title=US_Airways_Express/Mesa_Air&amp;action=edit&amp;redlink=1" class="new" title="US Airways Express/Mesa Air (page does not exist)">US Airways Express/Mesa Air</a> (<a href="/wiki/US_Airways" title="US Airways">US Airways</a>), and <a href="/wiki/American_Eagle_Airlines" title="American Eagle Airlines">American Eagle</a> (<a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a>).</p>
+<p><a rel="nofollow" class="external text" href="http://www.durangogov.org/index.aspx?NID=333">Durango Transit</a> provides several bus routes that serve the community, including Fort Lewis College. Ignacio Road Runner provides bus service to the nearby towns of Ignacio and Bayfield with four trips daily on weekdays and one on Saturdays. Both services share the new Durango Transit Center (opened August 2010) as a hub.</p>
+<h3><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=14" title="Edit section: Business">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Durango has a regional shopping center (Durango Mall) as well as a <a href="/wiki/Wal-Mart" title="Wal-Mart" class="mw-redirect">Wal-Mart</a>, which is larger than the Durango Mall.</p>
+<h2><span class="mw-headline" id="Colleges">Colleges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=15" title="Edit section: Colleges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fort_Lewis_College" title="Fort Lewis College">Fort Lewis College</a> is situated on a 500&#160;ft <a href="/wiki/Mesa" title="Mesa">mesa</a> (bluff) overlooking downtown Durango, and is accredited by the Higher Learning Commission of the <a href="/wiki/North_Central_Association_of_Colleges_and_Schools" title="North Central Association of Colleges and Schools">North Central Association of Colleges and Schools</a>.</li>
+<li>Southwest Colorado Community College, a branch of <a href="/wiki/Pueblo_Community_College" title="Pueblo Community College">Pueblo Community College</a>, is located in the Central Business District, on Camino del Rio.</li>
+<li><a href="/w/index.php?title=San_Juan_Basin_Technical_College&amp;action=edit&amp;redlink=1" class="new" title="San Juan Basin Technical College (page does not exist)">San Juan Basin Technical College</a>, located outside of <a href="/wiki/Cortez,_Colorado" title="Cortez, Colorado">Cortez, Colorado</a>, 45 miles away, offers EMT certification in Durango.</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=16" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" style="" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" /></a></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(February 2013)</i></small> </span></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Ross_Anderson_(skier)" title="Ross Anderson (skier)">Ross Anderson</a>, World Cup/professional speed skier, All-American record holder</li>
+<li><a href="/wiki/Travis_Brown_(cyclist)" title="Travis Brown (cyclist)">Travis Brown</a></li>
+<li><a href="/wiki/Steve_Carlton" title="Steve Carlton">Steve Carlton</a> (former Major League baseball pitcher)</li>
+<li><a href="/wiki/John_Cole" title="John Cole">John Cole</a></li>
+<li><a href="/wiki/Tom_Danielson" title="Tom Danielson">Tom Danielson</a></li>
+<li><a href="/wiki/Missy_Giove" title="Missy Giove">Missy Giove</a></li>
+<li><a href="/wiki/Greg_Herbold" title="Greg Herbold">Greg Herbold</a> (First downhill mountain biking World Champion - Durango 1990)</li>
+<li><a href="/wiki/Will_Hobbs" title="Will Hobbs">Will Hobbs</a>, young adult fiction author</li>
+<li><a href="/wiki/Andrea_Jaeger" title="Andrea Jaeger">Andrea Jaeger</a> (former professional tennis player)</li>
+<li><a href="/wiki/Chris_Moss" title="Chris Moss">Chris Moss</a></li>
+<li><a href="/wiki/Ned_Overend" title="Ned Overend">Ned Overend</a></li>
+<li><a href="/wiki/Steve_Paxton" title="Steve Paxton">Steve Paxton</a></li>
+<li><a href="/wiki/Bob_Roll" title="Bob Roll">Bob Roll</a> (former Le Tour de France, Giro d'Italia, and World Cycling Championships cyclist; currently a cycling event broadcaster</li>
+<li><a href="/wiki/Greg_Ryder" title="Greg Ryder">Greg Ryder</a>, singer-songwriter in Durango</li>
+<li><a href="/wiki/Ed_Stasium" title="Ed Stasium">Ed Stasium</a></li>
+<li><a href="/wiki/Tom_Tully" title="Tom Tully">Tom Tully</a>, actor on <a href="/wiki/CBS" title="CBS">CBS</a>'s <i><a href="/wiki/The_Lineup_(TV_series)" title="The Lineup (TV series)">The Lineup</a></i></li>
+<li><a href="/wiki/Duane_Ward" title="Duane Ward">Duane Ward</a>, (Former Major League Baseball Pitcher - Won 2 <a href="/wiki/World_Series_ring" title="World Series ring">World Series rings</a> with the Toronto Blue Jays in 1992 and 1993)</li>
+<li><a href="/wiki/Shan_Wells" title="Shan Wells">Shan Wells</a></li>
+<li><a href="/wiki/Todd_Wells" title="Todd Wells">Todd Wells</a></li>
+<li><a href="/wiki/Elaine_Youngs" title="Elaine Youngs">Elaine Youngs</a></li>
+</ul>
+<h2><span class="mw-headline" id="Sister_cities">Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=17" title="Edit section: Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Durango has two <a href="/wiki/Sister_cities" title="Sister cities" class="mw-redirect">sister cities</a>, as designated by <a href="/wiki/Sister_Cities_International" title="Sister Cities International">Sister Cities International</a>:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" /></a></span> <a href="/wiki/Durango,_Durango" title="Durango, Durango">Durango</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></li>
+<li><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" /></a></span> <a href="/wiki/Durango,_Spain" title="Durango, Spain" class="mw-redirect">Durango</a>, <a href="/wiki/Spain" title="Spain">Spain</a></li>
+</ul>
+<h2><span class="mw-headline" id="References_in_Film">References in Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=18" title="Edit section: References in Film">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Part of the 1991 film <i><a href="/wiki/City_Slickers" title="City Slickers">City Slickers</a></i> was shot in Durango.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li>The 1999 movie <i>Durango Kids</i> describes a time tunnel in the old mines outside of Durango.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Terrestrial_globe.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/29px-Terrestrial_globe.svg.png" width="29" height="28" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/43px-Terrestrial_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/58px-Terrestrial_globe.svg.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography portal</a></td>
+</tr>
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:North_America_368x348.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/30px-North_America_368x348.png" width="30" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/44px-North_America_368x348.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/59px-North_America_368x348.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:North_America" title="Portal:North America">North America portal</a></td>
+</tr>
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" width="32" height="17" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></td>
+</tr>
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Flag_of_Colorado.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/32px-Flag_of_Colorado.svg.png" width="32" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/48px-Flag_of_Colorado.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/64px-Flag_of_Colorado.svg.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Colorado" title="Portal:Colorado">Colorado portal</a></td>
+</tr>
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Peak_of_the_Matterhorn,_seen_from_Zermatt,_Switzerland.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg/32px-Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg" width="32" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg/48px-Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg/64px-Peak_of_the_Matterhorn%2C_seen_from_Zermatt%2C_Switzerland.jpg 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Mountains" title="Portal:Mountains">Mountains portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Outline_of_Colorado" title="Outline of Colorado">Outline of Colorado</a>
+<ul>
+<li><a href="/wiki/Index_of_Colorado-related_articles" title="Index of Colorado-related articles">Index of Colorado-related articles</a></li>
+</ul>
+</li>
+<li><a href="/wiki/State_of_Colorado" title="State of Colorado" class="mw-redirect">State of Colorado</a>
+<ul>
+<li><a href="/wiki/Colorado_cities_and_towns" title="Colorado cities and towns" class="mw-redirect">Colorado cities and towns</a>
+<ul>
+<li><a href="/wiki/Colorado_municipalities" title="Colorado municipalities" class="mw-redirect">Colorado municipalities</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Colorado_counties" title="Colorado counties" class="mw-redirect">Colorado counties</a>
+<ul>
+<li><a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata County, Colorado</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Colorado_metropolitan_areas" title="Colorado metropolitan areas">Colorado metropolitan areas</a>
+<ul>
+<li><a href="/wiki/Durango,_CO_Micropolitan_Statistical_Area" title="Durango, CO Micropolitan Statistical Area" class="mw-redirect">Durango, CO Micropolitan Statistical Area</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Animas_River" title="Animas River">Animas River</a></li>
+<li><a href="/wiki/Durango_Herald" title="Durango Herald" class="mw-redirect">Durango Herald</a></li>
+<li><a href="/wiki/Durango_Mountain_Resort" title="Durango Mountain Resort">Durango Mountain Resort</a></li>
+<li><a href="/wiki/Durango-Silverton_Narrow-Gauge_Railroad_National_Historic_District" title="Durango-Silverton Narrow-Gauge Railroad National Historic District" class="mw-redirect">Durango-Silverton Narrow-Gauge Railroad National Historic District</a></li>
+<li><a href="/wiki/Durango_Telegraph" title="Durango Telegraph">Durango Telegraph</a></li>
+<li><a href="/wiki/Million_Dollar_Highway" title="Million Dollar Highway" class="mw-redirect">Million Dollar Highway</a></li>
+<li><a href="/wiki/Old_Spanish_National_Historic_Trail" title="Old Spanish National Historic Trail" class="mw-redirect">Old Spanish National Historic Trail</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-COMun-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-COMun_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-COMun_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.dola.state.co.us/dlg/local_governments/municipalities.html">"Active Colorado Municipalities"</a>. <a href="/wiki/Colorado" title="Colorado">State of Colorado</a>, Department of Local Affairs<span class="reference-accessdate">. Retrieved 2007-09-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=Active+Colorado+Municipalities&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.dola.state.co.us%2Fdlg%2Flocal_governments%2Fmunicipalities.html&amp;rft.pub=State+of+Colorado%2C+Department+of+Local+Affairs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MuniIncCO-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-MuniIncCO_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.colorado.gov/dpa/doit/archives/muninc.html">"Colorado Municipal Incorporations"</a>. <a href="/wiki/Colorado" title="Colorado">State of Colorado</a>, Department of Personnel &amp; Administration, Colorado State Archives. 2004-12-01<span class="reference-accessdate">. Retrieved 2007-09-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=Colorado+Municipal+Incorporations&amp;rft.date=2004-12-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.colorado.gov%2Fdpa%2Fdoit%2Farchives%2Fmuninc.html&amp;rft.pub=State+of+Colorado%2C+Department+of+Personnel+%26+Administration%2C+Colorado+State+Archives&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Current_City_Council-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Current_City_Council_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Current_City_Council_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Current_City_Council_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://durangogov.org/index.aspx?nid=169">"Current City Council"</a>. City of Durango.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=Current+City+Council&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdurangogov.org%2Findex.aspx%3Fnid%3D169&amp;rft.pub=City+of+Durango&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.durangogov.org/citymanager/information.cfm">"Current City Council"</a>. City of Durango.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=Current+City+Council&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.durangogov.org%2Fcitymanager%2Finformation.cfm&amp;rft.pub=City+of+Durango&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">U.S. Census Bureau</span></li>
+<li id="cite_note-ZIPcode-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZIPcode_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://zip4.usps.com/zip4/citytown.jsp">"ZIP Code Lookup"</a> (<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>/<a href="/wiki/HTML" title="HTML">HTML</a>). <a href="/wiki/United_States_Postal_Service" title="United States Postal Service">United States Postal Service</a><span class="reference-accessdate">. Retrieved September 8, 2007</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=ZIP+Code+Lookup&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fzip4.usps.com%2Fzip4%2Fcitytown.jsp&amp;rft.pub=United+States+Postal+Service&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GR6-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-GR6_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.naco.org/Counties/Pages/FindACounty.aspx">"Find a County"</a>. National Association of Counties<span class="reference-accessdate">. Retrieved 2011-06-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=Find+a+County&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.naco.org%2FCounties%2FPages%2FFindACounty.aspx&amp;rft.pub=National+Association+of+Counties&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GR2-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-GR2_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://factfinder.census.gov">"American FactFinder"</a>. <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a><span class="reference-accessdate">. Retrieved 2008-01-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADurango%2C+Colorado&amp;rft.btitle=American+FactFinder&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffactfinder.census.gov&amp;rft.pub=United+States+Census+Bureau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.snowdown.org/main07.html">Snowdown</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0101587/locations">IMDB: <i>City Slickers</i> (1991) - Filming locations</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0267455/">IMDB: <i>Durango Kids</i></a>, motion picture.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Durango,_Colorado" class="extiw" title="commons:Category:Durango, Colorado">Durango, Colorado</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.durangogov.org/">City of Durango website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dot.state.co.us/App_DTD_DataAccess/Downloads/CityMaps/Durango.pdf">CDOT map of the City of Durango</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.durangoherald.com/">The Durango Herald - local daily newspaper</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.durangodowntown.com/">DurangoDowntown.com - community web site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.durangotelegraph.com/">The Durango Telegraph - local weekly newspaper</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?codura">Durango Climate Summary</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.durangofilm.org/">The Durango Independent Film Festival</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:La_Plata_County,_Colorado" title="Template:La Plata County, Colorado"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:La_Plata_County,_Colorado" title="Template talk:La Plata County, Colorado"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:La_Plata_County,_Colorado&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="adr" style="font-size:110%;">Municipalities and communities of <a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado"><span class="region">La Plata County, Colorado</span></a>, <span class="country-name">United States</span></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><strong class="selflink"><span>Durango</span></strong></b></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/City" title="City">City</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><strong class="selflink">Durango</strong></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px;">
+<div>
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Map_of_Colorado_highlighting_La_Plata_County.svg/180px-Map_of_Colorado_highlighting_La_Plata_County.svg.png" width="180" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Map_of_Colorado_highlighting_La_Plata_County.svg/270px-Map_of_Colorado_highlighting_La_Plata_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Map_of_Colorado_highlighting_La_Plata_County.svg/360px-Map_of_Colorado_highlighting_La_Plata_County.svg.png 2x" /></div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Town" title="Town">Towns</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bayfield,_Colorado" title="Bayfield, Colorado">Bayfield</a></li>
+<li><a href="/wiki/Ignacio,_Colorado" title="Ignacio, Colorado">Ignacio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Census-designated_place" title="Census-designated place">CDP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Southern_Ute,_Colorado" title="Southern Ute, Colorado">Southern Ute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated<br />
+communities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Allison,_Colorado" title="Allison, Colorado">Allison</a></li>
+<li><a href="/w/index.php?title=Breen,_Colorado&amp;action=edit&amp;redlink=1" class="new" title="Breen, Colorado (page does not exist)">Breen</a></li>
+<li><a href="/wiki/Hesperus,_Colorado" title="Hesperus, Colorado">Hesperus</a></li>
+<li><a href="/wiki/Kline,_Colorado" title="Kline, Colorado">Kline</a></li>
+<li><a href="/wiki/Marvel,_Colorado" title="Marvel, Colorado">Marvel</a></li>
+<li><a href="/wiki/Mayday,_Colorado" title="Mayday, Colorado">Mayday</a></li>
+<li><a href="/w/index.php?title=Red_Mesa,_Colorado&amp;action=edit&amp;redlink=1" class="new" title="Red Mesa, Colorado (page does not exist)">Red Mesa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Indian_reservations" title="Indian reservations" class="mw-redirect">Indian<br />
+reservation</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Southern_Ute_Indian_Reservation" title="Southern Ute Indian Reservation">Southern Ute Indian Reservation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Colorado" title="Template:Colorado"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Colorado" title="Template talk:Colorado"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Colorado&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/23px-Flag_of_Colorado.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/35px-Flag_of_Colorado.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/46px-Flag_of_Colorado.svg.png 2x" />&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Colorado" title="Colorado">Colorado</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/Denver" title="Denver">Denver</a></b> (capital)</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Outline_of_Colorado" title="Outline of Colorado">Topics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Index_of_Colorado-related_articles" title="Index of Colorado-related articles">Index</a></li>
+<li><a href="/wiki/List_of_people_from_Colorado" title="List of people from Colorado">Coloradans</a></li>
+<li><a href="/wiki/List_of_federal_lands_in_Colorado" title="List of federal lands in Colorado">Federal lands</a></li>
+<li><a href="/wiki/Geography_of_Colorado" title="Geography of Colorado">Geography</a></li>
+<li><a href="/wiki/State_highways_in_Colorado" title="State highways in Colorado">Highways</a></li>
+<li><a href="/wiki/History_of_Colorado" title="History of Colorado">History</a></li>
+<li><a href="/wiki/Category:Images_of_Colorado" title="Category:Images of Colorado">Images</a></li>
+<li><a href="/wiki/Government_of_Colorado" title="Government of Colorado">Government</a></li>
+<li><a href="/wiki/Category:Military_in_Colorado" title="Category:Military in Colorado">Military</a></li>
+<li><a href="/wiki/Mountain_peaks_of_Colorado" title="Mountain peaks of Colorado">Mountains</a></li>
+<li><a href="/wiki/Category:Museums_in_Colorado" title="Category:Museums in Colorado">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_in_Colorado" title="List of rivers in Colorado" class="mw-redirect">Rivers</a></li>
+<li><a href="/wiki/List_of_Colorado_state_symbols" title="List of Colorado state symbols">Symbols</a></li>
+<li><a href="/wiki/Category:Visitor_attractions_in_Colorado" title="Category:Visitor attractions in Colorado">Visitor attractions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Society</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Category:Colorado_culture" title="Category:Colorado culture">Culture</a></li>
+<li><a href="/wiki/Crime_in_Colorado" title="Crime in Colorado">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Colorado" title="Demographics of Colorado" class="mw-redirect">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Colorado" title="Economy of Colorado">Economy</a></li>
+<li><a href="/wiki/Education_in_Colorado" title="Education in Colorado" class="mw-redirect">Education</a></li>
+<li><a href="/wiki/Politics_of_Colorado" title="Politics of Colorado">Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_regions_of_the_United_States#Colorado" title="List of regions of the United States">Regions</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Central_Colorado" title="Central Colorado">Central Colorado</a></li>
+<li><a href="/wiki/Colorado_Piedmont" title="Colorado Piedmont">Colorado Piedmont</a></li>
+<li><a href="/wiki/Colorado_Plateau" title="Colorado Plateau">Colorado Plateau</a></li>
+<li><a href="/wiki/Denver-Aurora_Metropolitan_Area" title="Denver-Aurora Metropolitan Area" class="mw-redirect">Denver-Aurora Metropolitan Area</a></li>
+<li><a href="/wiki/Colorado_Eastern_Plains" title="Colorado Eastern Plains">Eastern Plains</a></li>
+<li><a href="/wiki/Front_Range_Urban_Corridor" title="Front Range Urban Corridor">Front Range</a></li>
+<li><a href="/wiki/Grand_Valley_(Colorado)" title="Grand Valley (Colorado)">Grand Valley</a></li>
+<li><a href="/wiki/High_Rockies" title="High Rockies">High Rockies</a></li>
+<li><a href="/wiki/Colorado_Mineral_Belt" title="Colorado Mineral Belt">Mineral Belt</a></li>
+<li><a href="/wiki/Roaring_Fork_Valley" title="Roaring Fork Valley">Roaring Fork Valley</a></li>
+<li><a href="/wiki/Sangre_de_Cristo_Mountains" title="Sangre de Cristo Mountains">Sangre de Cristo Mountains</a></li>
+<li><a href="/wiki/San_Luis_Valley" title="San Luis Valley">San Luis Valley</a></li>
+<li><a href="/wiki/South-Central_Colorado" title="South-Central Colorado">South?Central Colorado</a></li>
+<li><a href="/wiki/Southwest_Colorado" title="Southwest Colorado">Southwest Colorado</a></li>
+<li><a href="/wiki/Uinta_Mountains" title="Uinta Mountains">Uinta Mountains</a></li>
+<li><a href="/wiki/Colorado_Western_Slope" title="Colorado Western Slope">Western Slope</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_cities_and_towns_in_Colorado" title="List of cities and towns in Colorado">Municipalities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Akron,_Colorado" title="Akron, Colorado">Akron</a></li>
+<li><a href="/wiki/Alamosa,_Colorado" title="Alamosa, Colorado">Alamosa</a></li>
+<li><a href="/wiki/Arvada,_Colorado" title="Arvada, Colorado">Arvada</a></li>
+<li><a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">Aspen</a></li>
+<li><a href="/wiki/Aurora,_Colorado" title="Aurora, Colorado">Aurora</a></li>
+<li><a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
+<li><a href="/wiki/Breckenridge,_Colorado" title="Breckenridge, Colorado">Breckenridge</a></li>
+<li><a href="/wiki/Brighton,_Colorado" title="Brighton, Colorado">Brighton</a></li>
+<li><a href="/wiki/Broomfield,_Colorado" title="Broomfield, Colorado">Broomfield</a></li>
+<li><a href="/wiki/Ca%C3%B1on_City,_Colorado" title="Ca?on City, Colorado">Ca?on City</a></li>
+<li><a href="/wiki/Castle_Rock,_Colorado" title="Castle Rock, Colorado">Castle Rock</a></li>
+<li><a href="/wiki/Centennial,_Colorado" title="Centennial, Colorado">Centennial</a></li>
+<li><a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></li>
+<li><a href="/wiki/Commerce_City,_Colorado" title="Commerce City, Colorado">Commerce City</a></li>
+<li><a href="/wiki/Cortez,_Colorado" title="Cortez, Colorado">Cortez</a></li>
+<li><a href="/wiki/Craig,_Colorado" title="Craig, Colorado">Craig</a></li>
+<li><a href="/wiki/Delta,_Colorado" title="Delta, Colorado">Delta</a></li>
+<li><a href="/wiki/Denver" title="Denver">Denver</a></li>
+<li><strong class="selflink">Durango</strong></li>
+<li><a href="/wiki/Englewood,_Colorado" title="Englewood, Colorado">Englewood</a></li>
+<li><a href="/wiki/Erie,_Colorado" title="Erie, Colorado">Erie</a></li>
+<li><a href="/wiki/Evans,_Colorado" title="Evans, Colorado">Evans</a></li>
+<li><a href="/wiki/Fairplay,_Colorado" title="Fairplay, Colorado">Fairplay</a></li>
+<li><a href="/wiki/Federal_Heights,_Colorado" title="Federal Heights, Colorado">Federal Heights</a></li>
+<li><a href="/wiki/Fort_Collins,_Colorado" title="Fort Collins, Colorado">Fort Collins</a></li>
+<li><a href="/wiki/Fort_Morgan,_Colorado" title="Fort Morgan, Colorado">Fort Morgan</a></li>
+<li><a href="/wiki/Fountain,_Colorado" title="Fountain, Colorado">Fountain</a></li>
+<li><a href="/wiki/Golden,_Colorado" title="Golden, Colorado">Golden</a></li>
+<li><a href="/wiki/Glenwood_Springs,_Colorado" title="Glenwood Springs, Colorado">Glenwood Springs</a></li>
+<li><a href="/wiki/Grand_Junction,_Colorado" title="Grand Junction, Colorado">Grand Junction</a></li>
+<li><a href="/wiki/Greeley,_Colorado" title="Greeley, Colorado">Greeley</a></li>
+<li><a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village</a></li>
+<li><a href="/wiki/Gunnison,_Colorado" title="Gunnison, Colorado">Gunnison</a></li>
+<li><a href="/wiki/Lafayette,_Colorado" title="Lafayette, Colorado">Lafayette</a></li>
+<li><a href="/wiki/La_Junta,_Colorado" title="La Junta, Colorado">La Junta</a></li>
+<li><a href="/wiki/Lakewood,_Colorado" title="Lakewood, Colorado">Lakewood</a></li>
+<li><a href="/wiki/Lamar,_Colorado" title="Lamar, Colorado">Lamar</a></li>
+<li><a href="/wiki/Leadville,_Colorado" title="Leadville, Colorado">Leadville</a></li>
+<li><a href="/wiki/Littleton,_Colorado" title="Littleton, Colorado">Littleton</a></li>
+<li><a href="/wiki/Longmont,_Colorado" title="Longmont, Colorado">Longmont</a></li>
+<li><a href="/wiki/Louisville,_Colorado" title="Louisville, Colorado">Louisville</a></li>
+<li><a href="/wiki/Loveland,_Colorado" title="Loveland, Colorado">Loveland</a></li>
+<li><a href="/wiki/Montrose,_Colorado" title="Montrose, Colorado">Montrose</a></li>
+<li><a href="/wiki/Northglenn,_Colorado" title="Northglenn, Colorado">Northglenn</a></li>
+<li><a href="/wiki/Parker,_Colorado" title="Parker, Colorado">Parker</a></li>
+<li><a href="/wiki/Platteville,_Colorado" title="Platteville, Colorado">Platteville</a></li>
+<li><a href="/wiki/Pueblo,_Colorado" title="Pueblo, Colorado">Pueblo</a></li>
+<li><a href="/wiki/Salida,_Colorado" title="Salida, Colorado">Salida</a></li>
+<li><a href="/wiki/Steamboat_Springs,_Colorado" title="Steamboat Springs, Colorado">Steamboat Springs</a></li>
+<li><a href="/wiki/Sterling,_Colorado" title="Sterling, Colorado">Sterling</a></li>
+<li><a href="/wiki/Superior,_Colorado" title="Superior, Colorado">Superior</a></li>
+<li><a href="/wiki/Thornton,_Colorado" title="Thornton, Colorado">Thornton</a></li>
+<li><a href="/wiki/Trinidad,_Colorado" title="Trinidad, Colorado">Trinidad</a></li>
+<li><a href="/wiki/Vail,_Colorado" title="Vail, Colorado">Vail</a></li>
+<li><a href="/wiki/Westminster,_Colorado" title="Westminster, Colorado">Westminster</a></li>
+<li><a href="/wiki/Wheat_Ridge,_Colorado" title="Wheat Ridge, Colorado">Wheat Ridge</a></li>
+<li><a href="/wiki/Windsor,_Colorado" title="Windsor, Colorado">Windsor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_counties_in_Colorado" title="List of counties in Colorado">Counties</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Adams_County,_Colorado" title="Adams County, Colorado">Adams</a></li>
+<li><a href="/wiki/Alamosa_County,_Colorado" title="Alamosa County, Colorado">Alamosa</a></li>
+<li><a href="/wiki/Arapahoe_County,_Colorado" title="Arapahoe County, Colorado">Arapahoe</a></li>
+<li><a href="/wiki/Archuleta_County,_Colorado" title="Archuleta County, Colorado">Archuleta</a></li>
+<li><a href="/wiki/Baca_County,_Colorado" title="Baca County, Colorado">Baca</a></li>
+<li><a href="/wiki/Bent_County,_Colorado" title="Bent County, Colorado">Bent</a></li>
+<li><a href="/wiki/Boulder_County,_Colorado" title="Boulder County, Colorado">Boulder</a></li>
+<li><a href="/wiki/Broomfield,_Colorado" title="Broomfield, Colorado">Broomfield</a></li>
+<li><a href="/wiki/Chaffee_County,_Colorado" title="Chaffee County, Colorado">Chaffee</a></li>
+<li><a href="/wiki/Cheyenne_County,_Colorado" title="Cheyenne County, Colorado">Cheyenne</a></li>
+<li><a href="/wiki/Clear_Creek_County,_Colorado" title="Clear Creek County, Colorado">Clear Creek</a></li>
+<li><a href="/wiki/Conejos_County,_Colorado" title="Conejos County, Colorado">Conejos</a></li>
+<li><a href="/wiki/Costilla_County,_Colorado" title="Costilla County, Colorado">Costilla</a></li>
+<li><a href="/wiki/Crowley_County,_Colorado" title="Crowley County, Colorado">Crowley</a></li>
+<li><a href="/wiki/Custer_County,_Colorado" title="Custer County, Colorado">Custer</a></li>
+<li><a href="/wiki/Delta_County,_Colorado" title="Delta County, Colorado">Delta</a></li>
+<li><a href="/wiki/Denver" title="Denver">Denver</a></li>
+<li><a href="/wiki/Dolores_County,_Colorado" title="Dolores County, Colorado">Dolores</a></li>
+<li><a href="/wiki/Douglas_County,_Colorado" title="Douglas County, Colorado">Douglas</a></li>
+<li><a href="/wiki/Eagle_County,_Colorado" title="Eagle County, Colorado">Eagle</a></li>
+<li><a href="/wiki/El_Paso_County,_Colorado" title="El Paso County, Colorado">El Paso</a></li>
+<li><a href="/wiki/Elbert_County,_Colorado" title="Elbert County, Colorado">Elbert</a></li>
+<li><a href="/wiki/Fremont_County,_Colorado" title="Fremont County, Colorado">Fremont</a></li>
+<li><a href="/wiki/Garfield_County,_Colorado" title="Garfield County, Colorado">Garfield</a></li>
+<li><a href="/wiki/Gilpin_County,_Colorado" title="Gilpin County, Colorado">Gilpin</a></li>
+<li><a href="/wiki/Grand_County,_Colorado" title="Grand County, Colorado">Grand</a></li>
+<li><a href="/wiki/Gunnison_County,_Colorado" title="Gunnison County, Colorado">Gunnison</a></li>
+<li><a href="/wiki/Hinsdale_County,_Colorado" title="Hinsdale County, Colorado">Hinsdale</a></li>
+<li><a href="/wiki/Huerfano_County,_Colorado" title="Huerfano County, Colorado">Huerfano</a></li>
+<li><a href="/wiki/Jackson_County,_Colorado" title="Jackson County, Colorado">Jackson</a></li>
+<li><a href="/wiki/Jefferson_County,_Colorado" title="Jefferson County, Colorado">Jefferson</a></li>
+<li><a href="/wiki/Kiowa_County,_Colorado" title="Kiowa County, Colorado">Kiowa</a></li>
+<li><a href="/wiki/Kit_Carson_County,_Colorado" title="Kit Carson County, Colorado">Kit Carson</a></li>
+<li><a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata</a></li>
+<li><a href="/wiki/Lake_County,_Colorado" title="Lake County, Colorado">Lake</a></li>
+<li><a href="/wiki/Larimer_County,_Colorado" title="Larimer County, Colorado">Larimer</a></li>
+<li><a href="/wiki/Las_Animas_County,_Colorado" title="Las Animas County, Colorado">Las Animas</a></li>
+<li><a href="/wiki/Lincoln_County,_Colorado" title="Lincoln County, Colorado">Lincoln</a></li>
+<li><a href="/wiki/Logan_County,_Colorado" title="Logan County, Colorado">Logan</a></li>
+<li><a href="/wiki/Mesa_County,_Colorado" title="Mesa County, Colorado">Mesa</a></li>
+<li><a href="/wiki/Mineral_County,_Colorado" title="Mineral County, Colorado">Mineral</a></li>
+<li><a href="/wiki/Moffat_County,_Colorado" title="Moffat County, Colorado">Moffat</a></li>
+<li><a href="/wiki/Montezuma_County,_Colorado" title="Montezuma County, Colorado">Montezuma</a></li>
+<li><a href="/wiki/Montrose_County,_Colorado" title="Montrose County, Colorado">Montrose</a></li>
+<li><a href="/wiki/Morgan_County,_Colorado" title="Morgan County, Colorado">Morgan</a></li>
+<li><a href="/wiki/Otero_County,_Colorado" title="Otero County, Colorado">Otero</a></li>
+<li><a href="/wiki/Ouray_County,_Colorado" title="Ouray County, Colorado">Ouray</a></li>
+<li><a href="/wiki/Park_County,_Colorado" title="Park County, Colorado">Park</a></li>
+<li><a href="/wiki/Phillips_County,_Colorado" title="Phillips County, Colorado">Phillips</a></li>
+<li><a href="/wiki/Pitkin_County,_Colorado" title="Pitkin County, Colorado">Pitkin</a></li>
+<li><a href="/wiki/Prowers_County,_Colorado" title="Prowers County, Colorado">Prowers</a></li>
+<li><a href="/wiki/Pueblo_County,_Colorado" title="Pueblo County, Colorado">Pueblo</a></li>
+<li><a href="/wiki/Rio_Blanco_County,_Colorado" title="Rio Blanco County, Colorado">Rio Blanco</a></li>
+<li><a href="/wiki/Rio_Grande_County,_Colorado" title="Rio Grande County, Colorado">Rio Grande</a></li>
+<li><a href="/wiki/Routt_County,_Colorado" title="Routt County, Colorado">Routt</a></li>
+<li><a href="/wiki/Saguache_County,_Colorado" title="Saguache County, Colorado">Saguache</a></li>
+<li><a href="/wiki/San_Juan_County,_Colorado" title="San Juan County, Colorado">San Juan</a></li>
+<li><a href="/wiki/San_Miguel_County,_Colorado" title="San Miguel County, Colorado">San Miguel</a></li>
+<li><a href="/wiki/Sedgwick_County,_Colorado" title="Sedgwick County, Colorado">Sedgwick</a></li>
+<li><a href="/wiki/Summit_County,_Colorado" title="Summit County, Colorado">Summit</a></li>
+<li><a href="/wiki/Teller_County,_Colorado" title="Teller County, Colorado">Teller</a></li>
+<li><a href="/wiki/Washington_County,_Colorado" title="Washington County, Colorado">Washington</a></li>
+<li><a href="/wiki/Weld_County,_Colorado" title="Weld County, Colorado">Weld</a></li>
+<li><a href="/wiki/Yuma_County,_Colorado" title="Yuma County, Colorado">Yuma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Million_Dollar_Highway" title="Template:Million Dollar Highway"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Million_Dollar_Highway" title="Template talk:Million Dollar Highway"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Million_Dollar_Highway&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;">The <a href="/wiki/U.S._Route_550" title="U.S. Route 550">Million Dollar Highway</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Passes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Coal_Bank_Pass" title="Coal Bank Pass">Coal Bank Pass</a></li>
+<li><a href="/wiki/Molas_Pass" title="Molas Pass">Molas Pass</a></li>
+<li><a href="/wiki/Red_Mountain_Pass_(San_Juan_Mountains)" title="Red Mountain Pass (San Juan Mountains)">Red Mountain Pass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Towns</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><strong class="selflink">Durango</strong></li>
+<li><a href="/wiki/Silverton,_Colorado" title="Silverton, Colorado">Silverton</a></li>
+<li><a href="/wiki/Ouray,_Colorado" title="Ouray, Colorado">Ouray</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/United_States_National_Forest" title="United States National Forest">National Forests</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/San_Juan_National_Forest" title="San Juan National Forest">San Juan National Forest</a></li>
+<li><a href="/wiki/Uncompahgre_National_Forest" title="Uncompahgre National Forest">Uncompahgre National Forest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Uncompahgre_Gorge" title="Uncompahgre Gorge">Uncompahgre Gorge</a></li>
+<li><a href="/wiki/San_Juan_Skyway" title="San Juan Skyway">San Juan Skyway</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible show navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#abdb75;;">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Protected_Areas_of_Colorado" title="Template:Protected Areas of Colorado"><span title="View this template" style=";background:#abdb75;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Protected_Areas_of_Colorado" title="Template talk:Protected Areas of Colorado"><span title="Discuss this template" style=";background:#abdb75;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Protected_Areas_of_Colorado&amp;action=edit"><span title="Edit this template" style=";background:#abdb75;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Protected_areas_of_the_United_States" title="Protected areas of the United States">Protected areas</a> of the <a href="/wiki/State_of_Colorado" title="State of Colorado" class="mw-redirect">State of Colorado</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#bbeb85;;"><a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">Federal</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_national_parks_of_the_United_States" title="List of national parks of the United States">National Parks</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Black_Canyon_of_the_Gunnison_National_Park" title="Black Canyon of the Gunnison National Park">Black Canyon of the Gunnison</a></li>
+<li><a href="/wiki/Great_Sand_Dunes_National_Park_and_Preserve" title="Great Sand Dunes National Park and Preserve">Great Sand Dunes</a></li>
+<li><a href="/wiki/Mesa_Verde_National_Park" title="Mesa Verde National Park">Mesa Verde</a></li>
+<li><a href="/wiki/Rocky_Mountain_National_Park" title="Rocky Mountain National Park">Rocky Mountain</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/National_Monument_(United_States)" title="National Monument (United States)">National Monuments</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Canyons_of_the_Ancients_National_Monument" title="Canyons of the Ancients National Monument">Canyons of the Ancients</a> (<a href="/wiki/Bureau_of_Land_Management" title="Bureau of Land Management">BLM</a>)</li>
+<li><a href="/wiki/Chimney_Rock_National_Monument" title="Chimney Rock National Monument">Chimney Rock</a> (<a href="/wiki/United_States_Forest_Service" title="United States Forest Service">USFS</a>)</li>
+<li><a href="/wiki/Colorado_National_Monument" title="Colorado National Monument">Colorado</a></li>
+<li><a href="/wiki/Dinosaur_National_Monument" title="Dinosaur National Monument">Dinosaur</a></li>
+<li><a href="/wiki/Florissant_Fossil_Beds_National_Monument" title="Florissant Fossil Beds National Monument">Florissant Fossil Beds</a></li>
+<li><a href="/wiki/Hovenweep_National_Monument" title="Hovenweep National Monument">Hovenweep</a></li>
+<li><a href="/wiki/Yucca_House_National_Monument" title="Yucca House National Monument">Yucca House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Recreation_Area" title="United States National Recreation Area" class="mw-redirect">National Recreation Areas</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Arapaho_National_Recreation_Area" title="Arapaho National Recreation Area">Arapaho</a> (<a href="/wiki/United_States_Forest_Service" title="United States Forest Service">USFS</a>)</li>
+<li><a href="/wiki/Curecanti_National_Recreation_Area" title="Curecanti National Recreation Area">Curecanti</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Historic_Site" title="United States National Historic Site" class="mw-redirect">National Historic Sites</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Bent%27s_Old_Fort_National_Historic_Site" title="Bent's Old Fort National Historic Site">Bent's Old Fort</a></li>
+<li><a href="/wiki/Sand_Creek_Massacre_National_Historic_Site" title="Sand Creek Massacre National Historic Site">Sand Creek Massacre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Historic_Trail" title="United States National Historic Trail" class="mw-redirect">National Historic Trails</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Old_Spanish_National_Historic_Trail" title="Old Spanish National Historic Trail" class="mw-redirect">Old Spanish Trail</a></li>
+<li><a href="/wiki/Pony_Express_National_Historic_Trail" title="Pony Express National Historic Trail" class="mw-redirect">Pony Express Trail</a></li>
+<li><a href="/wiki/Santa_Fe_National_Historic_Trail" title="Santa Fe National Historic Trail" class="mw-redirect">Santa Fe Trail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Scenic_Trail" title="United States National Scenic Trail" class="mw-redirect">National Scenic Trail</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Continental_Divide_National_Scenic_Trail" title="Continental Divide National Scenic Trail" class="mw-redirect">Continental Divide Trail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Forest" title="United States National Forest">National Forests</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Arapaho_National_Forest" title="Arapaho National Forest">Arapaho</a></li>
+<li><a href="/wiki/Grand_Mesa_National_Forest" title="Grand Mesa National Forest">Grand Mesa</a></li>
+<li><a href="/wiki/Gunnison_National_Forest" title="Gunnison National Forest">Gunnison</a></li>
+<li><a href="/wiki/Pike_National_Forest" title="Pike National Forest">Pike</a></li>
+<li><a href="/wiki/Rio_Grande_National_Forest" title="Rio Grande National Forest">Rio Grande</a></li>
+<li><a href="/wiki/Roosevelt_National_Forest" title="Roosevelt National Forest">Roosevelt</a></li>
+<li><a href="/wiki/Routt_National_Forest" title="Routt National Forest" class="mw-redirect">Routt</a></li>
+<li><a href="/wiki/San_Isabel_National_Forest" title="San Isabel National Forest">San Isabel</a></li>
+<li><a href="/wiki/San_Juan_National_Forest" title="San Juan National Forest">San Juan</a></li>
+<li><a href="/wiki/Uncompahgre_National_Forest" title="Uncompahgre National Forest">Uncompahgre</a></li>
+<li><a href="/wiki/White_River_National_Forest" title="White River National Forest">White River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Grassland" title="United States National Grassland">National Grasslands</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Comanche_National_Grassland" title="Comanche National Grassland">Comanche</a></li>
+<li><a href="/wiki/Pawnee_National_Grassland" title="Pawnee National Grassland">Pawnee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Wilderness_Area" title="United States National Wilderness Area" class="mw-redirect">National Wilderness</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Black_Canyon_of_the_Gunnison_National_Park" title="Black Canyon of the Gunnison National Park">Black Canyon of the Gunnison</a></li>
+<li><a href="/wiki/Black_Ridge_Canyons_Wilderness" title="Black Ridge Canyons Wilderness">Black Ridge Canyons</a></li>
+<li><a href="/wiki/Buffalo_Peaks_Wilderness" title="Buffalo Peaks Wilderness">Buffalo Peaks</a></li>
+<li><a href="/wiki/Byers_Peak_Wilderness" title="Byers Peak Wilderness">Byers Peak</a></li>
+<li><a href="/wiki/Cache_La_Poudre_Wilderness" title="Cache La Poudre Wilderness">Cache La Poudre</a></li>
+<li><a href="/wiki/Collegiate_Peaks_Wilderness" title="Collegiate Peaks Wilderness">Collegiate Peaks</a></li>
+<li><a href="/wiki/Comanche_Peak_Wilderness" title="Comanche Peak Wilderness">Comanche Peak</a></li>
+<li><a href="/wiki/Dominguez_Canyon_Wilderness" title="Dominguez Canyon Wilderness">Dominguez</a></li>
+<li><a href="/wiki/Eagles_Nest_Wilderness" title="Eagles Nest Wilderness">Eagles Nest</a></li>
+<li><a href="/wiki/Flat_Tops_Wilderness" title="Flat Tops Wilderness" class="mw-redirect">Flat Tops</a></li>
+<li><a href="/wiki/Fossil_Ridge_Wilderness" title="Fossil Ridge Wilderness">Fossil Ridge</a></li>
+<li><a href="/wiki/Great_Sand_Dunes_Wilderness" title="Great Sand Dunes Wilderness" class="mw-redirect">Great Sand Dunes</a></li>
+<li><a href="/wiki/Greenhorn_Mountain_Wilderness" title="Greenhorn Mountain Wilderness">Greenhorn Mountain</a></li>
+<li><a href="/wiki/Gunnison_Gorge_Wilderness" title="Gunnison Gorge Wilderness">Gunnison Gorge</a></li>
+<li><a href="/wiki/Holy_Cross_Wilderness" title="Holy Cross Wilderness">Holy Cross</a></li>
+<li><a href="/wiki/Hunter-Fryingpan_Wilderness" title="Hunter-Fryingpan Wilderness" class="mw-redirect">Hunter-Fryingpan</a></li>
+<li><a href="/wiki/Indian_Peaks_Wilderness" title="Indian Peaks Wilderness">Indian Peaks</a></li>
+<li><a href="/wiki/James_Peak_Wilderness" title="James Peak Wilderness">James Peak</a></li>
+<li><a href="/wiki/La_Garita_Wilderness" title="La Garita Wilderness">La Garita</a></li>
+<li><a href="/wiki/Lizard_Head_Wilderness" title="Lizard Head Wilderness">Lizard Head</a></li>
+<li><a href="/wiki/Lost_Creek_Wilderness" title="Lost Creek Wilderness">Lost Creek</a></li>
+<li><a href="/wiki/Maroon_Bells_%E2%80%93_Snowmass_Wilderness" title="Maroon Bells – Snowmass Wilderness" class="mw-redirect">Maroon Bells – Snowmass</a></li>
+<li><a href="/wiki/Mesa_Verde_Wilderness" title="Mesa Verde Wilderness">Mesa Verde</a></li>
+<li><a href="/wiki/Mount_Evans_Wilderness" title="Mount Evans Wilderness">Mount Evans</a></li>
+<li><a href="/wiki/Mount_Massive_Wilderness" title="Mount Massive Wilderness">Mount Massive</a></li>
+<li><a href="/wiki/Mount_Sneffels_Wilderness" title="Mount Sneffels Wilderness">Mount Sneffels</a></li>
+<li><a href="/wiki/Mount_Zirkel_Wilderness" title="Mount Zirkel Wilderness">Mount Zirkel</a></li>
+<li><a href="/wiki/Neota_Wilderness" title="Neota Wilderness">Neota</a></li>
+<li><a href="/wiki/Never_Summer_Wilderness" title="Never Summer Wilderness">Never Summer</a></li>
+<li><a href="/wiki/Platte_River_Wilderness" title="Platte River Wilderness">Platte River</a></li>
+<li><a href="/wiki/Powderhorn_Wilderness" title="Powderhorn Wilderness">Powderhorn</a></li>
+<li><a href="/wiki/Ptarmigan_Peak_Wilderness" title="Ptarmigan Peak Wilderness">Ptarmigan Peak</a></li>
+<li><a href="/wiki/Raggeds_Wilderness" title="Raggeds Wilderness">Raggeds</a></li>
+<li><a href="/wiki/Rawah_Wilderness" title="Rawah Wilderness">Rawah</a></li>
+<li><a href="/wiki/Sangre_de_Cristo_Wilderness" title="Sangre de Cristo Wilderness">Sangre de Cristo</a></li>
+<li><a href="/wiki/Sarvis_Creek_Wilderness" title="Sarvis Creek Wilderness">Sarvis Creek</a></li>
+<li><a href="/wiki/South_San_Juan_Wilderness" title="South San Juan Wilderness">South San Juan</a></li>
+<li><a href="/wiki/Spanish_Peaks_Wilderness" title="Spanish Peaks Wilderness">Spanish Peaks</a></li>
+<li><a href="/wiki/Uncompahgre_Wilderness" title="Uncompahgre Wilderness">Uncompahgre</a></li>
+<li><a href="/wiki/Vasquez_Peak_Wilderness" title="Vasquez Peak Wilderness">Vasquez Peak</a></li>
+<li><a href="/wiki/Weminuche_Wilderness" title="Weminuche Wilderness">Weminuche</a></li>
+<li><a href="/wiki/West_Elk_Wilderness" title="West Elk Wilderness">West Elk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/National_Conservation_Area" title="National Conservation Area">National Conservation Areas</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Dominguez-Escalante_National_Conservation_Area" title="Dominguez-Escalante National Conservation Area">Dominguez-Escalante</a></li>
+<li><a href="/wiki/Gunnison_Gorge_National_Conservation_Area" title="Gunnison Gorge National Conservation Area">Gunnison Gorge</a></li>
+<li><a href="/wiki/McInnis_Canyons_National_Conservation_Area" title="McInnis Canyons National Conservation Area">McInnis Canyons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/United_States_National_Wildlife_Refuge" title="United States National Wildlife Refuge" class="mw-redirect">National Wildlife Refuges</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Alamosa_National_Wildlife_Refuge" title="Alamosa National Wildlife Refuge">Alamosa</a></li>
+<li><a href="/wiki/Arapaho_National_Wildlife_Refuge" title="Arapaho National Wildlife Refuge">Arapaho</a></li>
+<li><a href="/wiki/Baca_National_Wildlife_Refuge" title="Baca National Wildlife Refuge">Baca</a></li>
+<li><a href="/wiki/Browns_Park_National_Wildlife_Refuge" title="Browns Park National Wildlife Refuge">Browns Park</a></li>
+<li><a href="/wiki/Monte_Vista_National_Wildlife_Refuge" title="Monte Vista National Wildlife Refuge">Monte Vista</a></li>
+<li><a href="/wiki/Rocky_Flats_National_Wildlife_Refuge" title="Rocky Flats National Wildlife Refuge">Rocky Flats</a></li>
+<li><a href="/wiki/Rocky_Mountain_Arsenal_National_Wildlife_Refuge" title="Rocky Mountain Arsenal National Wildlife Refuge">Rocky Mountain Arsenal</a></li>
+<li><a href="/wiki/Two_Ponds_National_Wildlife_Refuge" title="Two Ponds National Wildlife Refuge">Two Ponds</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Area_of_Critical_Environmental_Concern" title="Area of Critical Environmental Concern">BLM ACECs</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/List_of_Areas_of_Critical_Environmental_Concern_in_Colorado" title="List of Areas of Critical Environmental Concern in Colorado">66 Areas of Critical Environmental Concern</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#bbeb85;;"><a href="/wiki/Colorado" title="Colorado">State</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Colorado_state_parks" title="List of Colorado state parks">Colorado State Parks</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Arkansas_Headwaters_Recreation_Area" title="Arkansas Headwaters Recreation Area">Arkansas Headwaters</a></li>
+<li><a href="/wiki/Barr_Lake_State_Park" title="Barr Lake State Park">Barr Lake</a></li>
+<li><a href="/wiki/Bonny_Lake_State_Park" title="Bonny Lake State Park">Bonny Lake</a></li>
+<li><a href="/wiki/Boyd_Lake_State_Park" title="Boyd Lake State Park">Boyd Lake</a></li>
+<li><a href="/wiki/Castlewood_Canyon_State_Park" title="Castlewood Canyon State Park">Castlewood Canyon</a></li>
+<li><a href="/wiki/Chatfield_State_Park" title="Chatfield State Park">Chatfield</a></li>
+<li><a href="/wiki/Cherry_Creek_State_Park" title="Cherry Creek State Park">Cherry Creek</a></li>
+<li><a href="/wiki/Cheyenne_Mountain_State_Park" title="Cheyenne Mountain State Park">Cheyenne Mountain</a></li>
+<li><a href="/wiki/Crawford_State_Park_(Colorado)" title="Crawford State Park (Colorado)">Crawford</a></li>
+<li><a href="/wiki/Eldorado_Canyon_State_Park" title="Eldorado Canyon State Park">Eldorado Canyon</a></li>
+<li><a href="/wiki/Eleven_Mile_State_Park" title="Eleven Mile State Park">Eleven Mile</a></li>
+<li><a href="/wiki/Golden_Gate_Canyon_State_Park" title="Golden Gate Canyon State Park">Golden Gate Canyon</a></li>
+<li><a href="/wiki/Harvey_Gap_State_Park" title="Harvey Gap State Park">Harvey Gap</a></li>
+<li><a href="/wiki/Highline_Lake_State_Park" title="Highline Lake State Park">Highline Lake</a></li>
+<li><a href="/wiki/Jackson_Lake_State_Park_(Colorado)" title="Jackson Lake State Park (Colorado)">Jackson Lake</a></li>
+<li><a href="/wiki/James_M._Robb_%E2%80%93_Colorado_River_State_Park" title="James M. Robb – Colorado River State Park">James M. Robb - Colorado River</a></li>
+<li><a href="/wiki/John_Martin_Reservoir_State_Park" title="John Martin Reservoir State Park">John Martin Reservoir</a></li>
+<li><a href="/wiki/Lake_Pueblo_State_Park" title="Lake Pueblo State Park">Lake Pueblo</a></li>
+<li><a href="/wiki/Lathrop_State_Park" title="Lathrop State Park">Lathrop</a></li>
+<li><a href="/wiki/Lone_Mesa_State_Park" title="Lone Mesa State Park">Lone Mesa</a></li>
+<li><a href="/wiki/Lory_State_Park" title="Lory State Park">Lory</a></li>
+<li><a href="/wiki/Mancos_State_Park" title="Mancos State Park">Mancos</a></li>
+<li><a href="/wiki/Mueller_State_Park" title="Mueller State Park">Mueller</a></li>
+<li><a href="/wiki/Navajo_State_Park" title="Navajo State Park">Navajo</a></li>
+<li><a href="/wiki/North_Sterling_State_Park" title="North Sterling State Park">North Sterling</a></li>
+<li><a href="/wiki/Paonia_State_Park" title="Paonia State Park">Paonia</a></li>
+<li><a href="/wiki/Pearl_Lake_State_Park" title="Pearl Lake State Park">Pearl Lake</a></li>
+<li><a href="/wiki/Ridgway_State_Park" title="Ridgway State Park">Ridgway</a></li>
+<li><a href="/wiki/Rifle_Falls_State_Park" title="Rifle Falls State Park">Rifle Falls</a></li>
+<li><a href="/wiki/Rifle_Gap_State_Park" title="Rifle Gap State Park">Rifle Gap</a></li>
+<li><a href="/wiki/Roxborough_State_Park" title="Roxborough State Park">Roxborough</a></li>
+<li><a href="/wiki/San_Luis_State_Park" title="San Luis State Park">San Luis</a></li>
+<li><a href="/wiki/Spinney_Mountain_State_Park" title="Spinney Mountain State Park">Spinney Mountain</a></li>
+<li><a href="/wiki/St._Vrain_State_Park" title="St. Vrain State Park">St. Vrain</a></li>
+<li><a href="/wiki/Stagecoach_State_Park" title="Stagecoach State Park">Stagecoach</a></li>
+<li><a href="/wiki/State_Forest_State_Park" title="State Forest State Park">State Forest</a></li>
+<li><a href="/wiki/Staunton_State_Park" title="Staunton State Park">Staunton</a></li>
+<li><a href="/wiki/Steamboat_Lake_State_Park" title="Steamboat Lake State Park">Steamboat Lake</a></li>
+<li><a href="/wiki/Sweitzer_Lake_State_Park" title="Sweitzer Lake State Park">Sweitzer Lake</a></li>
+<li><a href="/wiki/Sylvan_Lake_State_Park" title="Sylvan Lake State Park">Sylvan Lake</a></li>
+<li><a href="/wiki/Trinidad_Lake_State_Park" title="Trinidad Lake State Park">Trinidad Lake</a></li>
+<li><a href="/wiki/Vega_State_Park" title="Vega State Park">Vega</a></li>
+<li><a href="/wiki/Yampa_River_State_Park" title="Yampa River State Park">Yampa River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Colorado_Natural_Areas" title="List of Colorado Natural Areas">Colorado Natural Areas</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/w/index.php?title=Aiken_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Aiken Canyon Natural Area (page does not exist)">Aiken&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Ant_Hill_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Ant Hill Natural Area (page does not exist)">Ant&#160;Hill</a></li>
+<li><a href="/w/index.php?title=Antero-Salt_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Antero-Salt Creek Natural Area (page does not exist)">Antero-Salt&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Arikaree_River_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Arikaree River Natural Area (page does not exist)">Arikaree&#160;River</a></li>
+<li><a href="/w/index.php?title=Badger_Wash_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Badger Wash Natural Area (page does not exist)">Badger&#160;Wash</a></li>
+<li><a href="/w/index.php?title=Blacks_Gulch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Blacks Gulch Natural Area (page does not exist)">Blacks&#160;Gulch</a></li>
+<li><a href="/w/index.php?title=Blue_Mountain_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Blue Mountain Natural Area (page does not exist)">Blue&#160;Mountain</a></li>
+<li><a href="/wiki/Bonny_Prairie_Natural_Area" title="Bonny Prairie Natural Area" class="mw-redirect">Bonny&#160;Prairie</a></li>
+<li><a href="/w/index.php?title=Boston_Peak_Fen_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Boston Peak Fen Natural Area (page does not exist)">Boston&#160;Peak&#160;Fen</a></li>
+<li><a href="/w/index.php?title=Boulder_Mountain_Park_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Boulder Mountain Park Natural Area (page does not exist)">Boulder&#160;Mountain&#160;Park</a></li>
+<li><a href="/w/index.php?title=Farm_in_Boulder_Valley_Heronry_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Farm in Boulder Valley Heronry Natural Area (page does not exist)">Boulder&#160;Valley&#160;Heronry</a></li>
+<li><a href="/w/index.php?title=Brush_Creek_Fen_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Brush Creek Fen Natural Area (page does not exist)">Brush&#160;Creek&#160;Fen</a></li>
+<li><a href="/w/index.php?title=California_Park_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="California Park Natural Area (page does not exist)">California&#160;Park</a></li>
+<li><a href="/wiki/Castlewood_Canyon_Natural_Area" title="Castlewood Canyon Natural Area" class="mw-redirect">Castlewood&#160;Canyon</a></li>
+<li><a href="/wiki/Chalk_Bluffs_Natural_Area" title="Chalk Bluffs Natural Area">Chalk&#160;Bluffs</a></li>
+<li><a href="/w/index.php?title=Colorado_Tallgrass_Prairie_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Colorado Tallgrass Prairie Natural Area (page does not exist)">Colorado&#160;Tallgrass&#160;Prairie</a></li>
+<li><a href="/wiki/Comanche_Grassland_Lesser_Prairie_Chicken_Natural_Area" title="Comanche Grassland Lesser Prairie Chicken Natural Area" class="mw-redirect">Comanche&#160;Grassland</a></li>
+<li><a href="/w/index.php?title=Copeland_Willow_Carr_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Copeland Willow Carr Natural Area (page does not exist)">Copeland&#160;Willow&#160;Carr</a></li>
+<li><a href="/w/index.php?title=Cross_Mountain_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Cross Mountain Canyon Natural Area (page does not exist)">Cross&#160;Mountain&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Daves_Draw_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Daves Draw Research Natural Area (page does not exist)">Daves&#160;Draw</a></li>
+<li><a href="/w/index.php?title=Deep_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Deep Creek Natural Area (page does not exist)">Deep&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Deer_Gulch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Deer Gulch Natural Area (page does not exist)">Deer&#160;Gulch</a></li>
+<li><a href="/wiki/Dakota_Hogback_Natural_Area" title="Dakota Hogback Natural Area" class="mw-redirect">Dinosaur&#160;Ridge</a></li>
+<li><a href="/w/index.php?title=Dome_Rock_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Dome Rock Natural Area (page does not exist)">Dome&#160;Rock</a></li>
+<li><a href="/w/index.php?title=Droney_Gulch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Droney Gulch Natural Area (page does not exist)">Droney&#160;Gulch</a></li>
+<li><a href="/w/index.php?title=Duck_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Duck Creek Natural Area (page does not exist)">Duck&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Dudley_Bluffs_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Dudley Bluffs Natural Area (page does not exist)">Dudley&#160;Bluffs</a></li>
+<li><a href="/w/index.php?title=East_Lost_Park_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="East Lost Park Natural Area (page does not exist)">East&#160;Lost&#160;Park</a></li>
+<li><a href="/wiki/East_Sand_Dunes_Natural_Area" title="East Sand Dunes Natural Area" class="mw-redirect">East&#160;Sand&#160;Dunes</a></li>
+<li><a href="/w/index.php?title=Elephant_Rocks_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Elephant Rocks Natural Area (page does not exist)">Elephant&#160;Rocks</a></li>
+<li><a href="/w/index.php?title=Elk_River_at_Moon_Hill_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Elk River at Moon Hill Natural Area (page does not exist)">Elk&#160;River</a></li>
+<li><a href="/w/index.php?title=Escalante_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Escalante Canyon Natural Area (page does not exist)">Escalante&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Escalante_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Escalante Creek Natural Area (page does not exist)">Escalante&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Fairview_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Fairview Natural Area (page does not exist)">Fairview</a></li>
+<li><a href="/w/index.php?title=Fourmile_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Fourmile Creek Natural Area (page does not exist)">Fourmile&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Fruita_Paleontological_Locality&amp;action=edit&amp;redlink=1" class="new" title="Fruita Paleontological Locality (page does not exist)">Fruita&#160;Paleontological</a></li>
+<li><a href="/wiki/Garden_Park_Fossil_Locality" title="Garden Park Fossil Locality" class="mw-redirect">Garden&#160;Park&#160;Fossil</a></li>
+<li><a href="/w/index.php?title=Gateway_Palisade_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Gateway Palisade Natural Area (page does not exist)">Gateway&#160;Palisade</a></li>
+<li><a href="/w/index.php?title=Geneva_Basin_Iron_Fens_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Geneva Basin Iron Fens Natural Area (page does not exist)">Geneva&#160;Basin&#160;Iron&#160;Fens</a></li>
+<li><a href="/w/index.php?title=Gothic_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Gothic Research Natural Area (page does not exist)">Gothic</a></li>
+<li><a href="/w/index.php?title=Gunnison_Gravels_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Gunnison Gravels Research Natural Area (page does not exist)">Gunnison&#160;Gravels</a></li>
+<li><a href="/w/index.php?title=Haviland_Lake_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Haviland Lake Natural Area (page does not exist)">Haviland&#160;Lake</a></li>
+<li><a href="/w/index.php?title=High_Creek_Fen_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="High Creek Fen Natural Area (page does not exist)">High&#160;Creek&#160;Fen</a></li>
+<li><a href="/w/index.php?title=High_Mesa_Grassland_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="High Mesa Grassland Natural Area (page does not exist)">High&#160;Mesa&#160;Grassland</a></li>
+<li><a href="/w/index.php?title=Hoosier_Ridge_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Hoosier Ridge Research Natural Area (page does not exist)">Hoosier&#160;Ridge</a></li>
+<li><a href="/w/index.php?title=Hurricane_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Hurricane Canyon Natural Area (page does not exist)">Hurricane&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Indian_Spring_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Indian Spring Natural Area (page does not exist)">Indian&#160;Spring</a></li>
+<li><a href="/w/index.php?title=Indian_Springs_Trace_Fossil_Locality&amp;action=edit&amp;redlink=1" class="new" title="Indian Springs Trace Fossil Locality (page does not exist)">Indian&#160;Springs&#160;Trace&#160;Fossil</a></li>
+<li><a href="/w/index.php?title=Irish_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Irish Canyon Natural Area (page does not exist)">Irish&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Jimmy_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Jimmy Creek Natural Area (page does not exist)">Jimmy&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Ken-Caryl_Ranch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Ken-Caryl Ranch Natural Area (page does not exist)">Ken-Caryl&#160;Ranch</a></li>
+<li><a href="/w/index.php?title=Kremmling_Cretaceous_Ammonite_Locality&amp;action=edit&amp;redlink=1" class="new" title="Kremmling Cretaceous Ammonite Locality (page does not exist)">Kremmling&#160;Cretaceous&#160;Ammonite</a></li>
+<li><a href="/w/index.php?title=Lake_Pasture_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Lake Pasture Natural Area (page does not exist)">Lake&#160;Pasture</a></li>
+<li><a href="/wiki/Lake_San_Cristobal_Natural_Area" title="Lake San Cristobal Natural Area" class="mw-redirect">Lake&#160;San&#160;Cristobal</a></li>
+<li><a href="/w/index.php?title=Limestone_Ridge_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Limestone Ridge Natural Area (page does not exist)">Limestone&#160;Ridge</a></li>
+<li><a href="/w/index.php?title=Lookout_Mountain_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Lookout Mountain Natural Area (page does not exist)">Lookout&#160;Mountain</a></li>
+<li><a href="/w/index.php?title=Lost_Park_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Lost Park Natural Area (page does not exist)">Lost&#160;Park</a></li>
+<li><a href="/w/index.php?title=Lower_Greasewood_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Lower Greasewood Creek Natural Area (page does not exist)">Lower&#160;Greasewood&#160;Creek</a></li>
+<li><a href="/w/index.php?title=McElmo_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="McElmo Natural Area (page does not exist)">McElmo</a></li>
+<li><a href="/w/index.php?title=Mexican_Cut_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mexican Cut Natural Area (page does not exist)">Mexican&#160;Cut</a></li>
+<li><a href="/w/index.php?title=Mini-Wheeler_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mini-Wheeler Natural Area (page does not exist)">Mini-Wheeler</a></li>
+<li><a href="/w/index.php?title=Miramonte_Reservoir_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Miramonte Reservoir Natural Area (page does not exist)">Miramonte&#160;Reservoir</a></li>
+<li><a href="/w/index.php?title=Mishak_Lakes_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mishak Lakes Natural Area (page does not exist)">Mishak&#160;Lakes</a></li>
+<li><a href="/w/index.php?title=Moosehead_Mountain_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Moosehead Mountain Natural Area (page does not exist)">Moosehead&#160;Mountain</a></li>
+<li><a href="/w/index.php?title=Mount_Callahan_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mount Callahan Natural Area (page does not exist)">Mount&#160;Callahan</a></li>
+<li><a href="/w/index.php?title=Mount_Callahan_Saddle_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mount Callahan Saddle Natural Area (page does not exist)">Mount&#160;Callahan&#160;Saddle</a></li>
+<li><a href="/w/index.php?title=Mount_Emmons_Iron_Fen_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mount Emmons Iron Fen Natural Area (page does not exist)">Mount&#160;Emmons&#160;Iron&#160;Fen</a></li>
+<li><a href="/w/index.php?title=Mount_Goliath_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Mount Goliath Natural Area (page does not exist)">Mount&#160;Goliath</a></li>
+<li><a href="/w/index.php?title=Narraguinnep_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Narraguinnep Natural Area (page does not exist)">Narraguinnep</a></li>
+<li><a href="/wiki/Needle_Rock_Natural_Area" title="Needle Rock Natural Area">Needle&#160;Rock</a></li>
+<li><a href="/w/index.php?title=North_Park_Phacelia_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="North Park Phacelia Natural Area (page does not exist)">North&#160;Park&#160;Phacelia</a></li>
+<li><a href="/w/index.php?title=Orient_Mine_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Orient Mine Natural Area (page does not exist)">Orient&#160;Mine</a></li>
+<li><a href="/w/index.php?title=Owl_Canyon_Pinyon_Grove_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Owl Canyon Pinyon Grove Natural Area (page does not exist)">Owl&#160;Canyon</a></li>
+<li><a href="/w/index.php?title=Paradise_Park_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Paradise Park Natural Area (page does not exist)">Paradise&#160;Park</a></li>
+<li><a href="/w/index.php?title=Park_Creek_Hogback_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Park Creek Hogback Natural Area (page does not exist)">Park&#160;Creek&#160;Hogback</a></li>
+<li><a href="/w/index.php?title=Park_Mesa_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Park Mesa Natural Area (page does not exist)">Park&#160;Mesa</a></li>
+<li><a href="/w/index.php?title=Pawnee_Woodlands_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Pawnee Woodlands Natural Area (page does not exist)">Pawnee&#160;Woodlands</a></li>
+<li><a href="/w/index.php?title=Pyramid_Rock_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Pyramid Rock Natural Area (page does not exist)">Pyramid&#160;Rock</a></li>
+<li><a href="/w/index.php?title=Rabbit_Valley_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Rabbit Valley Natural Area (page does not exist)">Rabbit&#160;Valley</a></li>
+<li><a href="/w/index.php?title=Rajadero_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Rajadero Canyon Natural Area (page does not exist)">Rajadero&#160;Canyon</a></li>
+<li><a href="/wiki/Raven_Ridge_Natural_Area" title="Raven Ridge Natural Area" class="mw-redirect">Raven&#160;Ridge</a></li>
+<li><a href="/wiki/Redcloud_Peak_Natural_Area" title="Redcloud Peak Natural Area" class="mw-redirect">Redcloud&#160;Peak</a></li>
+<li><a href="/w/index.php?title=Rocky_Mountain_Woodfrog_Pond_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Rocky Mountain Woodfrog Pond Natural Area (page does not exist)">Rocky&#160;Mountain&#160;Woodfrog&#160;Pond</a></li>
+<li><a href="/w/index.php?title=Rough_Canyon_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Rough Canyon Natural Area (page does not exist)">Rough&#160;Canyon</a></li>
+<li><a href="/wiki/Roxborough_Natural_Area" title="Roxborough Natural Area" class="mw-redirect">Roxborough</a></li>
+<li><a href="/w/index.php?title=Running_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Running Creek Natural Area (page does not exist)">Running&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Ryan_Gulch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Ryan Gulch Natural Area (page does not exist)">Ryan&#160;Gulch</a></li>
+<li><a href="/w/index.php?title=Saddle_Mountain_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Saddle Mountain Natural Area (page does not exist)">Saddle&#160;Mountain</a></li>
+<li><a href="/w/index.php?title=San_Miguel_River_at_Tabeguache_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="San Miguel River at Tabeguache Creek Natural Area (page does not exist)">San&#160;Miguel&#160;River</a></li>
+<li><a href="/w/index.php?title=Sand_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Sand Creek Natural Area (page does not exist)">Sand&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Shell_Duck_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Shell Duck Creek Natural Area (page does not exist)">Shell&#160;Duck&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Shell_Rock_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Shell Rock Natural Area (page does not exist)">Shell&#160;Rock</a></li>
+<li><a href="/w/index.php?title=Slumgullion_Earthflow_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Slumgullion Earthflow Natural Area (page does not exist)">Slumgullion&#160;Earthflow</a></li>
+<li><a href="/w/index.php?title=South_Beaver_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="South Beaver Creek Natural Area (page does not exist)">South&#160;Beaver&#160;Creek</a></li>
+<li><a href="/w/index.php?title=South_Boulder_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="South Boulder Creek Natural Area (page does not exist)">South&#160;Boulder&#160;Creek</a></li>
+<li><a href="/w/index.php?title=South_Cathedral_Bluffs_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="South Cathedral Bluffs Natural Area (page does not exist)">South&#160;Cathedral&#160;Bluffs</a></li>
+<li><a href="/w/index.php?title=Specimen_Mountain_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Specimen Mountain Research Natural Area (page does not exist)">Specimen&#160;Mountain</a></li>
+<li><a href="/wiki/Staunton_Natural_Area" title="Staunton Natural Area" class="mw-redirect">Staunton</a></li>
+<li><a href="/w/index.php?title=Tabeguache_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Tabeguache Natural Area (page does not exist)">Tabeguache</a></li>
+<li><a href="/w/index.php?title=Tamarack_Ranch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Tamarack Ranch Natural Area (page does not exist)">Tamarack&#160;Ranch</a></li>
+<li><a href="/w/index.php?title=Tern_Island_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Tern Island Natural Area (page does not exist)">Tern&#160;Island</a></li>
+<li><a href="/w/index.php?title=Treasurevault_Mountain_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Treasurevault Mountain Natural Area (page does not exist)">Treasurevault&#160;Mountain</a></li>
+<li><a href="/wiki/Trinidad_K-T_Boundary_Natural_Area" title="Trinidad K-T Boundary Natural Area" class="mw-redirect">Trinidad&#160;K-T&#160;Boundary</a></li>
+<li><a href="/w/index.php?title=Two_Buttes_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Two Buttes Natural Area (page does not exist)">Two&#160;Buttes</a></li>
+<li><a href="/w/index.php?title=Unaweep_Seep_Research_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Unaweep Seep Research Natural Area (page does not exist)">Unaweep&#160;Seep</a></li>
+<li><a href="/w/index.php?title=Uncompahgre_Fritillary_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Uncompahgre Fritillary Natural Area (page does not exist)">Uncompahgre&#160;Fritillary</a></li>
+<li><a href="/w/index.php?title=Wacker_Ranch_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Wacker Ranch Natural Area (page does not exist)">Wacker&#160;Ranch</a></li>
+<li><a href="/w/index.php?title=West_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="West Creek Natural Area (page does not exist)">West&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Wheeler_Geologic_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Wheeler Geologic Natural Area (page does not exist)">Wheeler&#160;Geologic</a></li>
+<li><a href="/w/index.php?title=White_Rocks_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="White Rocks Natural Area (page does not exist)">White&#160;Rocks</a></li>
+<li><a href="/w/index.php?title=Williams_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Williams Creek Natural Area (page does not exist)">Williams&#160;Creek</a></li>
+<li><a href="/w/index.php?title=Yanks_Gulch/Upper_Greasewood_Creek_Natural_Area&amp;action=edit&amp;redlink=1" class="new" title="Yanks Gulch/Upper Greasewood Creek Natural Area (page does not exist)">Yanks Gulch/Upper Greasewood Creek Natural Area</a></li>
+<li><a href="/wiki/Zapata_Falls_Natural_Area" title="Zapata Falls Natural Area" class="mw-redirect">Zapata&#160;Falls</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Colorado_state_wildlife_areas" title="Colorado state wildlife areas">State Wildlife Areas</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/List_of_Colorado_state_wildlife_areas" title="List of Colorado state wildlife areas" class="mw-redirect">307 Colorado State Wildlife Areas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/History_Colorado" title="History Colorado">History Colorado</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/History_Colorado_Center" title="History Colorado Center">History Colorado Center</a></li>
+<li><a href="/wiki/Byers-Evans_House" title="Byers-Evans House">Byers-Evans House</a></li>
+<li><a href="/wiki/El_Pueblo_History_Museum" title="El Pueblo History Museum">El Pueblo</a></li>
+<li><a href="/wiki/Fort_Garland_Museum" title="Fort Garland Museum" class="mw-redirect">Fort Garland</a></li>
+<li><a href="/wiki/Fort_Vasquez_Museum" title="Fort Vasquez Museum" class="mw-redirect">Fort Vasquez</a></li>
+<li><a href="/wiki/Georgetown_Loop_Historic_Mining_%26_Railroad_Park" title="Georgetown Loop Historic Mining &amp; Railroad Park" class="mw-redirect">Georgetown Loop</a></li>
+<li><a href="/wiki/Healy_House_Museum" title="Healy House Museum">Healy House Museum</a> and <a href="/wiki/Dexter_Cabin" title="Dexter Cabin">Dexter Cabin</a></li>
+<li><a href="/wiki/Pearce-McAllister_Cottage" title="Pearce-McAllister Cottage">Pearce-McAllister Cottage</a></li>
+<li><a href="/wiki/Pike_Stockade" title="Pike Stockade" class="mw-redirect">Pike Stockade</a></li>
+<li><a href="/wiki/Frank_G._Bloom_House" title="Frank G. Bloom House">Trinidad History Museum</a></li>
+<li><a href="/wiki/Ute_Indian_Museum" title="Ute Indian Museum">Ute Indian Museum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#bbeb85;;">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">National Historic Landmarks</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Beaver_Meadows_Visitor_Center" title="Beaver Meadows Visitor Center">Beaver Meadows</a></li>
+<li><a href="/wiki/Philadelphia_Toboggan_Company_Carousel_No._6" title="Philadelphia Toboggan Company Carousel No. 6" class="mw-redirect">Burlington Carousel</a></li>
+<li><a href="/wiki/Central_City/Black_Hawk_National_Historic_District" title="Central City/Black Hawk National Historic District" class="mw-redirect">Black Hawk</a></li>
+<li><a href="/wiki/Central_City/Black_Hawk_National_Historic_District" title="Central City/Black Hawk National Historic District" class="mw-redirect">Central City</a></li>
+<li><a href="/wiki/Colorado_Chautauqua_National_Historic_District" title="Colorado Chautauqua National Historic District" class="mw-redirect">Colorado Chautauqua</a></li>
+<li><a href="/wiki/Cripple_Creek_National_Historic_District" title="Cripple Creek National Historic District" class="mw-redirect">Cripple Creek</a></li>
+<li><a href="/wiki/Durango-Silverton_Narrow-Gauge_Railroad_National_Historic_District" title="Durango-Silverton Narrow-Gauge Railroad National Historic District" class="mw-redirect">Durango-Silverton Railroad</a></li>
+<li><a href="/wiki/Georgetown-Silver_Plume_National_Historic_District" title="Georgetown-Silver Plume National Historic District" class="mw-redirect">Georgetown</a></li>
+<li><a href="/wiki/Granada_Relocation_Center_National_Historic_Landmark" title="Granada Relocation Center National Historic Landmark" class="mw-redirect">Granada</a></li>
+<li><a href="/wiki/Leadville_National_Historic_District" title="Leadville National Historic District" class="mw-redirect">Leadville</a></li>
+<li><a href="/wiki/Lindenmeier_Site_National_Historic_Landmark" title="Lindenmeier Site National Historic Landmark" class="mw-redirect">Lindenmeier Site</a></li>
+<li><a href="/wiki/Lowry_Ruin_National_Historic_Landmark" title="Lowry Ruin National Historic Landmark" class="mw-redirect">Lowry Ruin</a></li>
+<li><a href="/wiki/Mesa_Verde_National_Park" title="Mesa Verde National Park">Mesa Verde</a></li>
+<li><a href="/wiki/Pikes_Peak" title="Pikes Peak">Pikes Peak</a></li>
+<li><a href="/wiki/Pike%27s_Stockade_National_Historic_Landmark" title="Pike's Stockade National Historic Landmark" class="mw-redirect">Pike's Stockade</a></li>
+<li><a href="/wiki/Raton_Pass_National_Historic_Landmark" title="Raton Pass National Historic Landmark" class="mw-redirect">Raton Pass</a></li>
+<li><a href="/wiki/Shenandoah-Dives_(Mayflower)_Mill" title="Shenandoah-Dives (Mayflower) Mill" class="mw-redirect">Shenandoah-Dives Mill</a></li>
+<li><a href="/wiki/Georgetown-Silver_Plume_National_Historic_District" title="Georgetown-Silver Plume National Historic District" class="mw-redirect">Silver Plume</a></li>
+<li><a href="/wiki/Silverton_National_Historic_District" title="Silverton National Historic District" class="mw-redirect">Silverton</a></li>
+<li><a href="/wiki/Telluride_National_Historic_District" title="Telluride National Historic District" class="mw-redirect">Telluride</a></li>
+<li><a href="/wiki/Trujillo_Homestead" title="Trujillo Homestead">Trujillo Homestead</a></li>
+<li><a href="/wiki/United_States_Air_Force_Academy" title="United States Air Force Academy">U.S. Air Force Academy Cadet Area</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/National_Natural_Landmark" title="National Natural Landmark">National Natural Landmarks</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Garden_of_the_Gods" title="Garden of the Gods">Garden of the Gods</a></li>
+<li><a href="/wiki/Garden_Park_Fossil_Area" title="Garden Park Fossil Area" class="mw-redirect">Garden Park Fossil Area</a></li>
+<li><a href="/wiki/Indian_Springs_Trace_Fossil" title="Indian Springs Trace Fossil" class="mw-redirect">Indian Springs Trace Fossil</a></li>
+<li><a href="/wiki/Lost_Creek_Scenic_Area" title="Lost Creek Scenic Area" class="mw-redirect">Lost Creek Scenic Area</a></li>
+<li><a href="/wiki/Dinosaur_Ridge" title="Dinosaur Ridge">Morrison Fossil Area</a></li>
+<li><a href="/wiki/Raton_Mesa" title="Raton Mesa">Raton Mesa</a></li>
+<li><a href="/wiki/Roxborough_State_Park" title="Roxborough State Park">Roxborough Park</a></li>
+<li><a href="/w/index.php?title=Russell_Lakes&amp;action=edit&amp;redlink=1" class="new" title="Russell Lakes (page does not exist)">Russell Lakes</a></li>
+<li><a href="/wiki/Sand_Creek_(Wyoming)" title="Sand Creek (Wyoming)">Sand Creek</a></li>
+<li><a href="/wiki/Slumgullion_Earthflow" title="Slumgullion Earthflow">Slumgullion Earthflow</a></li>
+<li><a href="/wiki/Spanish_Peaks" title="Spanish Peaks">Spanish Peaks</a></li>
+<li><a href="/wiki/Summit_Lake_Park" title="Summit Lake Park">Summit Lake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/List_of_Colorado_trails" title="List of Colorado trails">National and Regional Trails</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/American_Discovery_Trail" title="American Discovery Trail">American Discovery Trail</a></li>
+<li><a href="/wiki/Colorado_Trail" title="Colorado Trail">Colorado Trail</a></li>
+<li><a href="/wiki/Continental_Divide_National_Scenic_Trail" title="Continental Divide National Scenic Trail" class="mw-redirect">Continental Divide Trail</a></li>
+<li><a href="/wiki/Great_Divide_Mountain_Bike_Route" title="Great Divide Mountain Bike Route">Great Divide Trail</a></li>
+<li><a href="/wiki/Kokopelli%27s_Trail" title="Kokopelli's Trail" class="mw-redirect">Kokopelli's Trail</a></li>
+<li><a href="/wiki/Paradox_Trail" title="Paradox Trail">Paradox Trail</a></li>
+<li><a href="/w/index.php?title=Tabeguache_Trail&amp;action=edit&amp;redlink=1" class="new" title="Tabeguache Trail (page does not exist)">Tabeguache Trail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;background:#bbeb85;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Colorado_Scenic_and_Historic_Byways" title="Colorado Scenic and Historic Byways">Scenic and Historic Byways</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Alpine_Loop_National_Back_Country_Byway" title="Alpine Loop National Back Country Byway">Alpine Loop</a></li>
+<li><a href="/w/index.php?title=Cache_la_Poudre-North_Park_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Cache la Poudre-North Park Scenic and Historic Byway (page does not exist)">Cache la Poudre-North Park</a></li>
+<li><a href="/w/index.php?title=Colorado_River_Headwaters_Byway&amp;action=edit&amp;redlink=1" class="new" title="Colorado River Headwaters Byway (page does not exist)">Colorado River Headwaters</a></li>
+<li><a href="/wiki/Dinosaur_Diamond_Scenic_Byway" title="Dinosaur Diamond Scenic Byway">Dinosaur Diamond</a></li>
+<li><a href="/w/index.php?title=Flat_Tops_Trail_Scenic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Flat Tops Trail Scenic Byway (page does not exist)">Flat Tops</a></li>
+<li><a href="/w/index.php?title=Frontier_Pathways_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Frontier Pathways Scenic and Historic Byway (page does not exist)">Frontier Pathways</a></li>
+<li><a href="/wiki/Gold_Belt_Byway" title="Gold Belt Byway">Gold Belt</a></li>
+<li><a href="/wiki/Grand_Mesa_Scenic_and_Historic_Byway" title="Grand Mesa Scenic and Historic Byway">Grand Mesa</a></li>
+<li><a href="/wiki/Guanella_Pass" title="Guanella Pass">Guanella Pass</a></li>
+<li><a href="/wiki/Colorado_State_Highway_12" title="Colorado State Highway 12">Highway of Legends</a></li>
+<li><a href="/wiki/Lariat_Loop_Scenic_%26_Historic_Byway" title="Lariat Loop Scenic &amp; Historic Byway">Lariat Loop</a></li>
+<li><a href="/w/index.php?title=Los_Caminos_Antiguos_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Los Caminos Antiguos Scenic and Historic Byway (page does not exist)">Los Caminos Antiguos</a></li>
+<li><a href="/wiki/Mount_Evans_Scenic_Byway" title="Mount Evans Scenic Byway">Mount Evans</a></li>
+<li><a href="/w/index.php?title=Pawnee_Pioneer_Trails&amp;action=edit&amp;redlink=1" class="new" title="Pawnee Pioneer Trails (page does not exist)">Pawnee Pioneer</a></li>
+<li><a href="/w/index.php?title=Peak_to_Peak_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Peak to Peak Scenic and Historic Byway (page does not exist)">Peak to Peak</a></li>
+<li><a href="/wiki/San_Juan_Skyway" title="San Juan Skyway">San Juan Skyway</a></li>
+<li><a href="/wiki/Santa_Fe_Trail" title="Santa Fe Trail">Santa Fe Trail</a></li>
+<li><a href="/w/index.php?title=Silver_Thread_Scenic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Silver Thread Scenic Byway (page does not exist)">Silver Thread</a></li>
+<li><a href="/w/index.php?title=South_Platte_River_Trail_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="South Platte River Trail Scenic and Historic Byway (page does not exist)">South Platte River Trail</a></li>
+<li><a href="/wiki/Top_of_the_Rockies" title="Top of the Rockies">Top of the Rockies</a></li>
+<li><a href="/wiki/Trail_of_the_Ancients" title="Trail of the Ancients">Trail of the Ancients</a></li>
+<li><a href="/wiki/Trail_Ridge_Road" title="Trail Ridge Road">Trail Ridge</a></li>
+<li><a href="/w/index.php?title=Unaweep/Tabeguache_Scenic_and_Historic_Byway&amp;action=edit&amp;redlink=1" class="new" title="Unaweep/Tabeguache Scenic and Historic Byway (page does not exist)">Unaweep/Tabeguache</a></li>
+<li><a href="/w/index.php?title=West_Elk_Loop_Scenic_Byway&amp;action=edit&amp;redlink=1" class="new" title="West Elk Loop Scenic Byway (page does not exist)">West Elk Loop</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background:#bbeb85;;">
+<div><a href="/wiki/Colorado_Department_of_Natural_Resources" title="Colorado Department of Natural Resources">Colorado Department of Natural Resources</a> (<a rel="nofollow" class="external text" href="http://dnr.state.co.us/">web</a>)</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 2.484 seconds
+Real time usage: 2.632 seconds
+Preprocessor visited node count: 10442/1000000
+Preprocessor generated node count: 51091/1500000
+Post‐expand include size: 282552/2048000 bytes
+Template argument size: 45966/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 8/500
+Lua time usage: 0.139s
+Lua memory usage: 3.01 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:108548-0!*!0!!en!4!* and timestamp 20131014134858
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Durango,_Colorado&amp;oldid=577132695">http://en.wikipedia.org/w/index.php?title=Durango,_Colorado&amp;oldid=577132695</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_La_Plata_County,_Colorado" title="Category:Cities in La Plata County, Colorado">Cities in La Plata County, Colorado</a></li><li><a href="/wiki/Category:Cities_in_Colorado" title="Category:Cities in Colorado">Cities in Colorado</a></li><li><a href="/wiki/Category:County_seats_in_Colorado" title="Category:County seats in Colorado">County seats in Colorado</a></li><li><a href="/wiki/Category:Company_towns_in_Colorado" title="Category:Company towns in Colorado">Company towns in Colorado</a></li><li><a href="/wiki/Category:Populated_places_established_in_1881" title="Category:Populated places established in 1881">Populated places established in 1881</a></li><li><a href="/wiki/Category:Durango,_Colorado" title="Category:Durango, Colorado">Durango, Colorado</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2013" title="Category:Wikipedia articles needing clarification from March 2013">Wikipedia articles needing clarification from March 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2013" title="Category:Articles needing additional references from February 2013">Articles needing additional references from February 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Durango%2C+Colorado&amp;returntoquery=curid%3D108548&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Durango%2C+Colorado&amp;returntoquery=curid%3D108548" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Durango,_Colorado"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Durango,_Colorado"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Durango,_Colorado" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Durango,_Colorado&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Durango,_Colorado&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Durango,_Colorado" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Durango,_Colorado" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Durango,_Colorado&amp;oldid=577132695" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Durango,_Colorado&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1012665" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Durango%2C_Colorado&amp;id=577132695" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Durango%2C+Colorado">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Durango%2C+Colorado&amp;oldid=577132695&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Durango,_Colorado&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%B0%D0%BD%D0%B3%D0%BE_(%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE)" title="Дуранго (Колорадо) – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Catalan" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/Kin_%C5%81%C3%A1n%C3%AD_(Dib%C3%A9_Nitsaa_Hahoodzo)" title="Kin ?ání (Dibé Nitsaa Hahoodzo) – Navajo" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Estonian" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Spanish" lang="es" hreflang="es">Espa?ol</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A7%D9%86%DA%AF%D9%88%D8%8C_%DA%A9%D9%84%D8%B1%D8%A7%D8%AF%D9%88" title="???????? ?????? – Persian" lang="fa" hreflang="fa">?????</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Italian" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%B0%D0%BD%D0%B3%D0%BE_(%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE)" title="Дуранго (Колорадо) – Kazakh" lang="kk" hreflang="kk">?аза?ша</a></li>
+			<li class="interwiki-mg"><a href="//mg.wikipedia.org/wiki/Durango,_Colorado" title="Durango, Colorado – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3%E3%82%B4_(%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E)" title="デュランゴ (コロラド州) – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Norwegian (bokm?l)" lang="no" hreflang="no">Norsk bokm?l</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Durango_(Kolorado)" title="Durango (Kolorado) – Polish" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%B0%D0%BD%D0%B3%D0%BE_(%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE)" title="Дуранго (Колорадо) – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Durango,_Colorado" title="Durango, Colorado – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Durango,_Colorado" title="Durango, Colorado – Vietnamese" lang="vi" hreflang="vi">Ti?ng Vi?t</a></li>
+			<li class="interwiki-vo"><a href="//vo.wikipedia.org/wiki/Durango_(Colorado)" title="Durango (Colorado) – Volapük" lang="vo" hreflang="vo">Volapük</a></li>
+			<li class="interwiki-war"><a href="//war.wikipedia.org/wiki/Durango,_Colorado" title="Durango, Colorado – Waray" lang="war" hreflang="war">Winaray</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9D%9C%E5%85%B0%E6%88%88_(%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E)" title="杜兰戈 (科罗拉多州) – Chinese" lang="zh" hreflang="zh">中文</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1012665#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 October 2013 at 13:48.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Durango,_Colorado" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1172 in 0.200 secs. -->
+	</body>
+</html>

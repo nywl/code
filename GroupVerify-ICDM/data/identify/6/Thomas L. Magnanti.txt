@@ -1,0 +1,742 @@
+{
+ "id": "/m/02q67vn",
+ "property": {
+  "/book/author/works_written": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Network Flows: Theory, Algorithms, and Applications",
+     "lang": "en",
+     "id": "/m/04_6tjk",
+     "creator": "/user/esplana",
+     "timestamp": "2008-12-07T17:31:22.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/business/board_member/leader_of": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Singapore University of Technology and Design - President - President - jasmeetk - Organization leadership",
+     "lang": "en",
+     "id": "/m/0n4rlfw",
+     "creator": "/user/jasmeetk",
+     "timestamp": "2012-10-06T07:15:26.000Z",
+     "property": {
+      "/organization/leadership/organization": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Singapore University of Technology and Design",
+         "lang": "en",
+         "id": "/m/09gh_cr",
+         "creator": "/user/jasmeetk",
+         "timestamp": "2012-10-06T07:15:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/organization/leadership/role": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/jasmeetk",
+         "timestamp": "2012-10-06T07:15:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/organization/leadership/title": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "value": "President",
+         "creator": "/user/jasmeetk",
+         "timestamp": "2012-10-06T07:15:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jasmeetk",
+         "lang": "en",
+         "id": "/m/0kdrnxz",
+         "creator": "/user/jasmeetk",
+         "timestamp": "2012-10-06T07:15:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Organization leadership",
+         "lang": "en",
+         "id": "/organization/leadership",
+         "creator": "/user/jasmeetk",
+         "timestamp": "2012-10-06T07:15:26.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/business/board_member/organization_board_memberships": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Fairchild Semiconductor International, Inc. - ts_bot - Organization governorship",
+     "lang": "en",
+     "id": "/m/03wztvy",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2010-07-30T00:57:18.000Z",
+     "property": {
+      "/organization/organization_board_membership/organization": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Fairchild Semiconductor International, Inc.",
+         "lang": "en",
+         "id": "/m/03p23dy",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2010-07-30T00:57:18.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "ts_bot",
+         "lang": "en",
+         "id": "/m/03hxgh_",
+         "creator": "/user/ts_bot",
+         "timestamp": "2008-03-31T18:33:29.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Organization governorship",
+         "lang": "en",
+         "id": "/organization/organization_board_membership",
+         "creator": "/user/gardening_bot",
+         "timestamp": "2010-07-30T00:57:18.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Thomas L Magnanti",
+     "lang": "en",
+     "value": "Thomas L Magnanti",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-03-28T00:17:49.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Thomas L. Magnanti (born 1945) is an American engineer and Institute Professor and former Dean...",
+     "lang": "en",
+     "id": "/m/02q67vr",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/10240759",
+         "lang": "",
+         "value": "http://wp/en/10240759",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2007-07-28T01:26:58.023Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Thomas L. Magnanti (born 1945) is an American engineer and Institute Professor and former Dean...",
+         "lang": "en",
+         "value": "Thomas L. Magnanti (born 1945) is an American engineer and Institute Professor and former Dean of the School of Engineering at the Massachusetts Institute of Technology. Magnanti is currently President of the Singapore University of Technology and Design established in collaboration with MIT.\nMagnanti received an undergraduate degree in Chemical Engineering from Syracuse University (1967) and master's degrees in both Statistics (1969) and Mathematics (1971) from Stanford University, where he also received his doctorate in Operations Research (1972).\nDr. Magnanti is Institute Professor and former Dean of the School of Engineering at the Massachusetts Institute of Technology. He has served on thesis committees for approximately 70 doctoral students, supervising over 25. He is slated to be the president of Singapore's fourth university, Singapore University of Technology and Design when it opens in 2011.\nMagnanti has been Editor-in-Chief of the journal Operations Research.\nMagnanti is a member of the National Academy of Engineering and the American Academy of Arts and Sciences. He was a founding co-director of MIT's Leaders for Manufacturing Program (now the Leaders for Global",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2007-07-28T01:26:58.023Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2007-07-28T01:26:58.023Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2007-07-28T01:26:58.023Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Thomas L. Magnanti is an American engineer and Institute Professor and former Dean of the School...",
+     "lang": "en",
+     "value": "Thomas L. Magnanti is an American engineer and Institute Professor and former Dean of the School of Engineering at the Massachusetts Institute of Technology. Magnanti is currently President of the Singapore University of Technology and Design established in collaboration with MIT.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Thomas_L._Magnanti"
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Organization leader",
+     "lang": "en",
+     "id": "/business/board_member"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Organization leader",
+     "lang": "en",
+     "id": "/business/board_member"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=10240759",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=10240759",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z"
+    },
+    {
+     "text": "http://croctail.corpwatch.org/#cw_305566,cw_305566",
+     "lang": "",
+     "value": "http://croctail.corpwatch.org/#cw_305566,cw_305566",
+     "creator": "/user/ts_bot",
+     "timestamp": "2009-12-30T00:43:32.000Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/Thomas_L._Magnanti",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Thomas_L._Magnanti",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T21:51:32.000Z"
+    },
+    {
+     "text": "http://croctail.corpwatch.org/#cw_305566,cw_{key}",
+     "lang": "",
+     "value": "http://croctail.corpwatch.org/#cw_305566,cw_{key}"
+    },
+    {
+     "text": "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1263846&owner=include",
+     "lang": "",
+     "value": "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1263846&owner=include",
+     "creator": "/user/ts_bot"
+    },
+    {
+     "text": "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001263846&owner=include",
+     "lang": "",
+     "value": "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001263846&owner=include",
+     "creator": "/user/ts_bot"
+    }
+   ],
+   "count": 6.0
+  },
+  "/education/academic/advisors": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "George Dantzig",
+     "lang": "en",
+     "id": "/m/03fhn",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T19:43:40.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/date_of_birth": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1945",
+     "lang": "",
+     "value": "1945",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2011-05-18T17:36:06.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/education": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Stanford University - Freebase Data Team - Education",
+     "lang": "en",
+     "id": "/m/03kwf60",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T05:01:40.009Z",
+     "property": {
+      "/education/education/institution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Stanford University",
+         "lang": "en",
+         "id": "/m/06pwq",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/03jtjff",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.009Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Syracuse University - Freebase Data Team - Education",
+     "lang": "en",
+     "id": "/m/03kwf65",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-02-09T05:01:40.010Z",
+     "property": {
+      "/education/education/institution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Syracuse University",
+         "lang": "en",
+         "id": "/m/078bz",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.010Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/03jtjff",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-02-09T05:01:40.010Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/people/person/employment_history": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Massachusetts Institute of Technology - mw_prop_bot - Employment tenure",
+     "lang": "en",
+     "id": "/m/04hkkh7",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2008-08-20T15:23:59.003Z",
+     "property": {
+      "/business/employment_tenure/company": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Massachusetts Institute of Technology",
+         "lang": "en",
+         "id": "/m/04rwx",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T15:23:59.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mw_prop_bot",
+         "lang": "en",
+         "id": "/m/04hf6p6",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T15:23:59.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/mw_prop_bot",
+         "timestamp": "2008-08-20T15:23:59.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/gender": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Male",
+     "lang": "en",
+     "id": "/m/05zppz",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-04-02T00:12:19.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/nationality": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-06T05:09:09.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/place_of_birth": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/fact_farm_wikimapper_intersector",
+     "timestamp": "2013-01-01T19:01:06.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/people/person/profession": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Engineer",
+     "lang": "en",
+     "id": "/m/09j9h",
+     "creator": "/user/mw_prop_bot",
+     "timestamp": "2007-10-06T07:22:24.002Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/0gs8",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/10240759",
+     "lang": "",
+     "value": "/wikipedia/en_id/10240759",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z"
+    },
+    {
+     "text": "/wikipedia/en/Thomas_L$002E_Magnanti",
+     "lang": "",
+     "value": "/wikipedia/en/Thomas_L$002E_Magnanti",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.024Z"
+    },
+    {
+     "text": "/wikipedia/en/Thomas_Magnanti",
+     "lang": "",
+     "value": "/wikipedia/en/Thomas_Magnanti",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T06:13:21.000Z"
+    },
+    {
+     "text": "/business/cik/1263846",
+     "lang": "",
+     "value": "/business/cik/1263846",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-03-28T00:17:49.000Z"
+    },
+    {
+     "text": "/en/thomas_l_magnanti",
+     "lang": "",
+     "value": "/en/thomas_l_magnanti",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-12T11:35:22.002Z"
+    },
+    {
+     "text": "/source/corpwatch/305566",
+     "lang": "",
+     "value": "/source/corpwatch/305566",
+     "creator": "/user/ts_bot",
+     "timestamp": "2009-12-30T00:43:32.000Z"
+    },
+    {
+     "text": "/business/cik/0001263846",
+     "lang": "",
+     "value": "/business/cik/0001263846",
+     "creator": "/user/ts_bot",
+     "timestamp": "2010-01-21T23:44:08.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Thomas_L$002E_Magnanti",
+     "lang": "",
+     "value": "/wikipedia/en_title/Thomas_L$002E_Magnanti",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-23T21:51:32.000Z"
+    }
+   ],
+   "count": 8.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/02q67vn",
+     "lang": "",
+     "value": "/m/02q67vn"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Thomas L. Magnanti",
+     "lang": "en",
+     "value": "Thomas L. Magnanti",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Person",
+     "lang": "en",
+     "id": "/people/person",
+     "creator": "/user/mw_typer",
+     "timestamp": "2007-08-07T23:04:45.001Z"
+    },
+    {
+     "text": "Organization leader",
+     "lang": "en",
+     "id": "/business/board_member",
+     "creator": "/user/ts_bot",
+     "timestamp": "2008-03-31T18:33:29.001Z"
+    },
+    {
+     "text": "Influence Node",
+     "lang": "en",
+     "id": "/influence/influence_node",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-11-27T01:23:45.002Z"
+    },
+    {
+     "text": "Author",
+     "lang": "en",
+     "id": "/book/author",
+     "creator": "/user/esplana",
+     "timestamp": "2008-12-07T17:31:22.001Z"
+    },
+    {
+     "text": "Academic",
+     "lang": "en",
+     "id": "/education/academic",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2009-06-12T20:27:17.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/mwcl_wikipedia_en"
+    }
+   ],
+   "count": 6.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000005631f54",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000005631f54"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "mwcl_wikipedia_en",
+     "lang": "",
+     "id": "/user/mwcl_wikipedia_en",
+     "timestamp": "2007-07-28T01:26:58.023Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2007-07-28T01:26:58.023Z",
+     "lang": "en",
+     "value": "2007-07-28T01:26:58.023Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

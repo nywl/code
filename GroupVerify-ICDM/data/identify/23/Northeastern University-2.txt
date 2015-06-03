@@ -1,0 +1,3716 @@
+{
+ "id": "/m/0225v9",
+ "property": {
+  "/award/ranked_item/appears_in_ranked_lists": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "US News & World Report: National University Rankings - 62 - 2012 - vivieradollosa - Ranking",
+     "lang": "en",
+     "id": "/m/0h72k7h",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:56:22.000Z",
+     "property": {
+      "/award/ranking/list": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "US News & World Report: National University Rankings",
+         "lang": "en",
+         "id": "/m/0h615f8",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:56:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/ranking/rank": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "62",
+         "lang": "en",
+         "value": 62.0,
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:56:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/award/ranking/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2012",
+         "lang": "",
+         "value": "2012",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:56:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vivieradollosa",
+         "lang": "en",
+         "id": "/m/0dlqx47",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:56:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ranking",
+         "lang": "en",
+         "id": "/award/ranking",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:56:22.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/business/employer/employees": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Eileen McDonagh - krsalis - Employment tenure",
+     "lang": "en",
+     "id": "/m/0dg7c7v",
+     "creator": "/user/krsalis",
+     "timestamp": "2010-10-05T19:36:24.000Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Eileen McDonagh",
+         "lang": "en",
+         "id": "/m/0dg7c40",
+         "creator": "/user/krsalis",
+         "timestamp": "2010-10-05T19:36:24.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "krsalis",
+         "lang": "en",
+         "id": "/m/02ws9p2",
+         "creator": "/user/krsalis",
+         "timestamp": "2010-10-05T19:36:24.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/krsalis",
+         "timestamp": "2010-10-05T19:36:24.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1982 - Stephen R. Barley - 1982 - scottvanduyne - Employment tenure",
+     "lang": "en",
+     "id": "/m/0g6cjrw",
+     "creator": "/user/scottvanduyne",
+     "timestamp": "2011-01-22T07:09:40.001Z",
+     "property": {
+      "/business/employment_tenure/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1982",
+         "lang": "",
+         "value": "1982",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-01-22T07:09:40.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Stephen R. Barley",
+         "lang": "en",
+         "id": "/m/0539mgp",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-01-22T07:09:40.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/business/employment_tenure/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1982",
+         "lang": "",
+         "value": "1982",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-01-22T07:09:40.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "scottvanduyne",
+         "lang": "en",
+         "id": "/m/063sg09",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-01-22T07:09:40.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-01-22T07:09:40.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "1987 - Fred Turner - 1992 - scottvanduyne - Employment tenure",
+     "lang": "en",
+     "id": "/m/0g9lwn2",
+     "creator": "/user/scottvanduyne",
+     "timestamp": "2011-02-06T18:49:33.000Z",
+     "property": {
+      "/business/employment_tenure/from": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1987",
+         "lang": "",
+         "value": "1987",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-02-06T18:49:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Fred Turner",
+         "lang": "en",
+         "id": "/m/0264sd1",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-02-06T18:49:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/business/employment_tenure/to": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1992",
+         "lang": "",
+         "value": "1992",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-02-06T18:49:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "scottvanduyne",
+         "lang": "en",
+         "id": "/m/063sg09",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-02-06T18:49:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/scottvanduyne",
+         "timestamp": "2011-02-06T18:49:33.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "M. X Lesser - krsalis - Employment tenure",
+     "lang": "en",
+     "id": "/m/0hj9vkp",
+     "creator": "/user/krsalis",
+     "timestamp": "2011-12-04T04:33:29.000Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "M. X Lesser",
+         "lang": "en",
+         "id": "/m/05w8n0f",
+         "creator": "/user/krsalis",
+         "timestamp": "2011-12-04T04:33:29.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "krsalis",
+         "lang": "en",
+         "id": "/m/02ws9p2",
+         "creator": "/user/krsalis",
+         "timestamp": "2011-12-04T04:33:29.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/krsalis",
+         "timestamp": "2011-12-04T04:33:29.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Joseph Reagle - /namespace/kgraph/wikimappers/2013-08-12 - Employment tenure",
+     "lang": "en",
+     "id": "/m/0wkkjlg",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-08-15T13:45:33.000Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Joseph Reagle",
+         "lang": "en",
+         "id": "/m/0k2d6rr",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "/namespace/kgraph/wikimappers/2013-08-12",
+         "lang": "en",
+         "id": "/m/0wjx872",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:33.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:33.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Joseph Aoun - /namespace/kgraph/wikimappers/2013-08-12 - Employment tenure",
+     "lang": "en",
+     "id": "/m/0wkkjm6",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-08-15T13:45:36.000Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Joseph Aoun",
+         "lang": "en",
+         "id": "/m/0dmv3c",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "/namespace/kgraph/wikimappers/2013-08-12",
+         "lang": "en",
+         "id": "/m/0wjx872",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-15T13:45:36.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Belle Adler - /namespace/kgraph/wikimappers/2013-08-13 - Employment tenure",
+     "lang": "en",
+     "id": "/m/0wlc6dg",
+     "creator": "/user/wikimapper",
+     "timestamp": "2013-08-16T18:02:29.006Z",
+     "property": {
+      "/business/employment_tenure/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Belle Adler",
+         "lang": "en",
+         "id": "/m/0ndjl9g",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-16T18:02:29.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "/namespace/kgraph/wikimappers/2013-08-13",
+         "lang": "en",
+         "id": "/m/0wk9wzj",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-16T18:02:29.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Employment tenure",
+         "lang": "en",
+         "id": "/business/employment_tenure",
+         "creator": "/user/wikimapper",
+         "timestamp": "2013-08-16T18:02:29.006Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 7.0
+  },
+  "/common/topic/alias": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Northeastern University, Boston",
+     "lang": "en",
+     "value": "Northeastern University, Boston",
+     "creator": "/user/spencermountain",
+     "timestamp": "2011-12-05T15:06:40.000Z"
+    },
+    {
+     "text": "NU",
+     "lang": "en",
+     "value": "NU",
+     "creator": "/user/gisellesantos",
+     "timestamp": "2012-05-17T14:44:43.000Z"
+    },
+    {
+     "text": "Northeastern University, main campus",
+     "lang": "en",
+     "value": "Northeastern University, main campus",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:34.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Northeastern University (NU), is a private, secular, coeducational research university in...",
+     "lang": "en",
+     "id": "/m/0225vj",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2006-10-22T15:25:52.006Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/385997",
+         "lang": "",
+         "value": "http://wp/en/385997",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:25:52.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Northeastern University (NU), is a private, secular, coeducational research university in...",
+         "lang": "en",
+         "value": "Northeastern University (NU), is a private, secular, coeducational research university in Boston, Massachusetts. Northeastern has eight colleges and offers undergraduate majors in 65 departments. At the graduate level, the university offers more than 125 programs and awards masters, doctoral, and professional degrees.\nFounded in 1898, Northeastern describes itself as a leader in interdisciplinary research, urban engagement, and the integration of classroom learning with real-world experience. The university is the home of more than 35 specialized research and education centers. Northeastern is classified as a RU/H institution (high research activity) by the Carnegie Foundation for the Advancement of Teaching. Northeastern's faculty members have garnered international recognition:. Several Guggenheim Fellows are currently or have been previously associated with Northeastern. Among Northeastern's other distinguished faculty are a MacArthur Foundation \"Genius Award\" winner, a former Democratic nominee for President of the United States, and a Pulitzer Prize winner. In 2012, Northeastern received 44,189 applications for the 2,800 seats of the fall freshman class, a new record",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:25:52.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0gs8",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:25:52.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/mwcl_wikipedia_en",
+         "timestamp": "2006-10-22T15:25:52.005Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Northeastern University, is a private, secular, coeducational research university in Boston,...",
+     "lang": "en",
+     "value": "Northeastern University, is a private, secular, coeducational research university in Boston, Massachusetts. Northeastern offers undergraduate degrees in 96 majors and master's, doctoral, and professional degrees in 158 programs from 9 colleges and schools.\nFounded in 1898, the university is the home of more than 35 specialized research and education centers. Its main campus is located in the Fenway Cultural District of Boston. Northeastern is classified as a RU/H institution by the Carnegie Foundation for the Advancement of Teaching. Among Northeastern's past and present faculty are several Guggenheim Fellows and a MacArthur Foundation \"Genius Award\" winner, a former Democratic nominee for President of the United States, and a Pulitzer Prize winner.\nIn 2012, Northeastern received 44,189 applications for the 2,800 seats of the fall freshman class. 32% of that year's applicants were accepted. The upward trend in application continues in 2013 where 47,322 students applied for the 2,800 freshman seats. Northeastern's cooperative education program was one of the first of its kind in the world, with many corporate and non-profit co-op partners both in the United States and abroad. Employers have included major newspapers, popular television shows, international law firms, banks, government offices, and corporations and many Fortune 500 companies.",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Northeastern_University"
+     }
+    }
+   ],
+   "count": 15.0
+  },
+  "/common/topic/notable_for": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "College/University",
+     "lang": "en",
+     "id": "/education/university"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/notable_types": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "College/University",
+     "lang": "en",
+     "id": "/education/university"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/official_website": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://www.northeastern.edu/",
+     "lang": "",
+     "value": "http://www.northeastern.edu/",
+     "creator": "/user/gardening_bot",
+     "timestamp": "2011-10-08T05:04:22.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=385997",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=385997",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:25:52.005Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/index.html?curid=1428155",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/index.html?curid=1428155",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:53:55.002Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/index.html?curid=145767",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/index.html?curid=145767",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T10:11:05.001Z"
+    },
+    {
+     "text": "http://fr.wikipedia.org/wiki/index.html?curid=290320",
+     "lang": "",
+     "value": "http://fr.wikipedia.org/wiki/index.html?curid=290320",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T22:59:16.000Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/index.html?curid=2487706",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/index.html?curid=2487706",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T18:07:36.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/index.html?curid=2135662",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/index.html?curid=2135662",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T08:14:06.001Z"
+    },
+    {
+     "text": "http://pt.wikipedia.org/wiki/Northeastern_University",
+     "lang": "",
+     "value": "http://pt.wikipedia.org/wiki/Northeastern_University",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T01:40:48.001Z"
+    },
+    {
+     "text": "http://es.wikipedia.org/wiki/Universidad_Northeastern",
+     "lang": "",
+     "value": "http://es.wikipedia.org/wiki/Universidad_Northeastern",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T02:04:30.000Z"
+    },
+    {
+     "text": "http://ru.wikipedia.org/wiki/§³§Ö§Ó§Ö§â§à-§£§à§ã§ä§à§é§ß§í§Û_§å§ß§Ú§Ó§Ö§â§ã§Ú§ä§Ö§ä",
+     "lang": "",
+     "value": "http://ru.wikipedia.org/wiki/§³§Ö§Ó§Ö§â§à-§£§à§ã§ä§à§é§ß§í§Û_§å§ß§Ú§Ó§Ö§â§ã§Ú§ä§Ö§ä",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T04:25:11.000Z"
+    },
+    {
+     "text": "http://de.wikipedia.org/wiki/Northeastern_University_(Boston)",
+     "lang": "",
+     "value": "http://de.wikipedia.org/wiki/Northeastern_University_(Boston)",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T19:33:53.000Z"
+    }
+   ],
+   "count": 32.0
+  },
+  "/education/educational_institution/campuses": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Northeastern University",
+     "lang": "en",
+     "id": "/m/0225v9",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/colors": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Black",
+     "lang": "en",
+     "id": "/m/019sc",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-06-11T20:30:02.000Z"
+    },
+    {
+     "text": "Red",
+     "lang": "en",
+     "id": "/m/06fvc",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-06-11T20:30:03.000Z"
+    },
+    {
+     "text": "Grey",
+     "lang": "en",
+     "id": "/m/036k5h",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:53:20.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/education/educational_institution/faculty": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1032 - 2010 - nces_university_attr - /dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_faculty_faculty_167358_2010 - Dated Integer",
+     "lang": "en",
+     "id": "/m/0k917pz",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-22T19:06:53.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "1032",
+         "lang": "en",
+         "value": 1032.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-23T09:20:27.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T06:39:26.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nces_university_attr",
+         "lang": "en",
+         "id": "/m/0k78r1v",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T06:39:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/key": {
+       "valuetype": "key",
+       "values": [
+        {
+         "text": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_faculty_faculty_167358_2010",
+         "lang": "",
+         "value": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_faculty_faculty_167358_2010",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T06:39:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T06:56:50.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/honorary_degrees_awarded": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1988 - Doctor of Humanities - Stephen Jay Gould - nanette - Topic",
+     "lang": "en",
+     "id": "/m/0bh55qb",
+     "creator": "/user/nanette",
+     "timestamp": "2010-04-10T15:50:36.000Z",
+     "property": {
+      "/education/honorary_degree/awarded_on": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "1988",
+         "lang": "",
+         "value": "1988",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/honorary_degree/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Doctor of Humanities",
+         "lang": "en",
+         "id": "/m/0bh55qj",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/honorary_degree/recipient": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Stephen Jay Gould",
+         "lang": "en",
+         "id": "/m/06y7d",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nanette",
+         "lang": "en",
+         "id": "/m/044fcvk",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Topic",
+         "lang": "en",
+         "id": "/base/honorarydegrees/topic",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.000Z"
+        },
+        {
+         "text": "Honorary Degree",
+         "lang": "en",
+         "id": "/education/honorary_degree",
+         "creator": "/user/nanette",
+         "timestamp": "2010-04-10T15:50:36.000Z"
+        }
+       ],
+       "count": 2.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/mascot": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Paws",
+     "lang": "en",
+     "id": "/m/04172d9",
+     "creator": "/user/dianne_castaneda",
+     "timestamp": "2013-04-10T08:24:59.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/newspaper": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "The Huntington News",
+     "lang": "en",
+     "id": "/m/04jmr2k",
+     "creator": "/user/ggrimalt",
+     "timestamp": "2012-02-02T10:31:33.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/nickname": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Huskies",
+     "lang": "en",
+     "value": "Huskies",
+     "creator": "/user/deleted_08_29_2011_01",
+     "timestamp": "2009-03-01T18:08:31.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/phone_number": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "1 - 6173732000 - pidge - Phone Number",
+     "lang": "en",
+     "id": "/m/04hzx85",
+     "creator": "/user/pidge",
+     "timestamp": "2008-08-24T01:00:18.000Z",
+     "property": {
+      "/common/phone_number/country_code": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "1",
+         "lang": "",
+         "value": "1",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:38:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/phone_number/number": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "6173732000",
+         "lang": "",
+         "value": "6173732000",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:30.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "pidge",
+         "lang": "en",
+         "id": "/m/04hzwx_",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:18.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Phone Number",
+         "lang": "en",
+         "id": "/common/phone_number",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:18.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/school_type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Private school",
+     "lang": "en",
+     "id": "/m/01rs41",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-06-11T20:30:03.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/sports_teams": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Northeastern Huskies men's basketball",
+     "lang": "en",
+     "id": "/m/0j65xwr",
+     "creator": "/user/madfinn13",
+     "timestamp": "2013-07-03T08:44:11.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/educational_institution/students_graduates": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Dan Ross - Freebase Data Team - Education",
+     "lang": "en",
+     "id": "/m/02kymyr",
+     "creator": "/user/mwcl_infobox",
+     "timestamp": "2007-06-27T04:45:21.001Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dan Ross",
+         "lang": "en",
+         "id": "/m/025sr5q",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-27T04:42:12.005Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/0jsg18",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-27T04:35:45.009Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mwcl_infobox",
+         "timestamp": "2007-06-27T04:35:45.009Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Bachelor of Science - 2006-11 - Finance & Accounting - 2006-10 - Adam Pieniazek - adampieniazek - Education",
+     "lang": "en",
+     "id": "/m/02nq3x_",
+     "creator": "/user/adampieniazek",
+     "timestamp": "2007-07-11T08:30:03.001Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Bachelor of Science",
+         "lang": "en",
+         "id": "/m/02h4rq6",
+         "creator": "/user/merge_bot",
+         "timestamp": "2008-08-29T22:01:31.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/end_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2006-11",
+         "lang": "",
+         "value": "2006-11",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/major_field_of_study": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Finance & Accounting",
+         "lang": "en",
+         "id": "/m/02nq3y2",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/start_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2006-10",
+         "lang": "",
+         "value": "2006-10",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Adam Pieniazek",
+         "lang": "en",
+         "id": "/m/02nq3t2",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "adampieniazek",
+         "lang": "en",
+         "id": "/m/02nq351",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/adampieniazek",
+         "timestamp": "2007-07-11T08:30:03.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "MBA - Erez Ofer - jon - Education",
+     "lang": "en",
+     "id": "/m/02t98gy",
+     "creator": "/user/jon",
+     "timestamp": "2007-08-10T00:06:50.000Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "MBA",
+         "lang": "en",
+         "id": "/m/07s6fsf",
+         "creator": "/user/gmackenz",
+         "timestamp": "2011-04-18T20:09:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Erez Ofer",
+         "lang": "en",
+         "id": "/m/02t98cj",
+         "creator": "/user/jon",
+         "timestamp": "2007-08-10T00:06:50.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "jon",
+         "lang": "en",
+         "id": "/m/0jsfry",
+         "creator": "/user/jon",
+         "timestamp": "2007-08-10T00:06:50.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/jon",
+         "timestamp": "2007-08-10T00:06:50.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Jeffrey P. McCarthy - mgutierrezt - Education",
+     "lang": "en",
+     "id": "/m/02_3h8v",
+     "creator": "/user/mgutierrezt",
+     "timestamp": "2007-10-16T05:12:15.000Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Jeffrey P. McCarthy",
+         "lang": "en",
+         "id": "/m/02_3h5t",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2007-10-16T05:12:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mgutierrezt",
+         "lang": "en",
+         "id": "/m/02yxl2_",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2007-10-16T05:12:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mgutierrezt",
+         "timestamp": "2007-10-16T05:12:15.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Master of Science - Electrical engineering - Ram Appalaraju - lisasinglem - Education",
+     "lang": "en",
+     "id": "/m/02_7772",
+     "creator": "/user/lisasinglem",
+     "timestamp": "2007-10-25T21:02:05.000Z",
+     "property": {
+      "/education/education/degree": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Master of Science",
+         "lang": "en",
+         "id": "/m/03bwzr4",
+         "creator": "/user/merge_bot",
+         "timestamp": "2010-08-06T19:47:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/major_field_of_study": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Electrical engineering",
+         "lang": "en",
+         "id": "/m/02lp1",
+         "creator": "/user/lisasinglem",
+         "timestamp": "2007-10-25T21:02:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ram Appalaraju",
+         "lang": "en",
+         "id": "/m/02_6z0c",
+         "creator": "/user/lisasinglem",
+         "timestamp": "2007-10-25T21:02:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "lisasinglem",
+         "lang": "en",
+         "id": "/m/02_5g1y",
+         "creator": "/user/lisasinglem",
+         "timestamp": "2007-10-25T21:02:05.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/lisasinglem",
+         "timestamp": "2007-10-25T21:02:05.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Ryan Gibbons - alexander - Education",
+     "lang": "en",
+     "id": "/m/040m0ck",
+     "creator": "/user/pipeline",
+     "timestamp": "2008-04-25T02:27:18.004Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Ryan Gibbons",
+         "lang": "en",
+         "id": "/m/03c_llf",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T02:27:18.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "alexander",
+         "lang": "en",
+         "id": "/m/040fy4s",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T02:27:18.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T02:27:18.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Jos¨¦ Juan Barea - alexander - Education",
+     "lang": "en",
+     "id": "/m/040sw3g",
+     "creator": "/user/pipeline",
+     "timestamp": "2008-04-25T03:19:54.006Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Jos¨¦ Juan Barea",
+         "lang": "en",
+         "id": "/m/0fg6ng",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:19:54.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "alexander",
+         "lang": "en",
+         "id": "/m/040fy4s",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:19:54.006Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:19:54.006Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Reggie Lewis - alexander - Education",
+     "lang": "en",
+     "id": "/m/040t8dn",
+     "creator": "/user/pipeline",
+     "timestamp": "2008-04-25T03:23:04.002Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Reggie Lewis",
+         "lang": "en",
+         "id": "/m/0306_l",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:23:04.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "alexander",
+         "lang": "en",
+         "id": "/m/040fy4s",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:23:04.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:23:04.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Robert J. Dolan - alexander - Education",
+     "lang": "en",
+     "id": "/m/040ts7t",
+     "creator": "/user/pipeline",
+     "timestamp": "2008-04-25T03:26:55.010Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Robert J. Dolan",
+         "lang": "en",
+         "id": "/m/0ks8cy",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:26:55.011Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "alexander",
+         "lang": "en",
+         "id": "/m/040fy4s",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:26:55.010Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/pipeline",
+         "timestamp": "2008-04-25T03:26:55.011Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "Sharon Tomiko Santos - Freebase Data Team - Education",
+     "lang": "en",
+     "id": "/m/045z_cr",
+     "creator": "/user/mw_template_bot",
+     "timestamp": "2008-06-11T23:47:12.000Z",
+     "property": {
+      "/education/education/student": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Sharon Tomiko Santos",
+         "lang": "en",
+         "id": "/m/0286ff7",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-06-11T23:47:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "en",
+         "id": "/m/03jtjff",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-06-11T23:47:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Education",
+         "lang": "en",
+         "id": "/education/education",
+         "creator": "/user/mw_template_bot",
+         "timestamp": "2008-06-11T23:47:12.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 253.0
+  },
+  "/education/educational_institution/subsidiary_or_constituent_schools": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Bouv¨¦ College of Health Sciences",
+     "lang": "en",
+     "id": "/m/0cpbkkw",
+     "creator": "/user/tfmorris",
+     "timestamp": "2010-09-10T06:10:10.000Z"
+    },
+    {
+     "text": "D'Amore-McKim School of Business",
+     "lang": "en",
+     "id": "/m/02vz1k7",
+     "creator": "/user/kalimero",
+     "timestamp": "2013-01-09T18:14:29.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/education/educational_institution_campus/educational_institution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Northeastern University",
+     "lang": "en",
+     "id": "/m/0225v9",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:35.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/university/acceptance_rate": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "35.0 - 2010 - mbaker - Acceptance rate",
+     "lang": "en",
+     "id": "/m/0h743z_",
+     "creator": "/user/mbaker",
+     "timestamp": "2011-10-11T20:01:43.002Z",
+     "property": {
+      "/education/acceptance_rate/rate": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "35.0",
+         "lang": "en",
+         "value": 35.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-21T23:58:59.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/acceptance_rate/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-11T20:01:43.002Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mbaker",
+         "lang": "en",
+         "id": "/m/0h743x7",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-11T20:01:43.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Acceptance rate",
+         "lang": "en",
+         "id": "/education/acceptance_rate",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-11T20:01:43.002Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "34.5 - 2011 - dianne_castaneda - Acceptance rate",
+     "lang": "en",
+     "id": "/m/0sglvq3",
+     "creator": "/user/dianne_castaneda",
+     "timestamp": "2013-04-10T08:33:28.000Z",
+     "property": {
+      "/education/acceptance_rate/rate": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "34.5",
+         "lang": "en",
+         "value": 34.5,
+         "creator": "/user/dianne_castaneda",
+         "timestamp": "2013-04-10T08:33:28.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/acceptance_rate/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2011",
+         "lang": "",
+         "value": "2011",
+         "creator": "/user/dianne_castaneda",
+         "timestamp": "2013-04-10T08:33:28.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "dianne_castaneda",
+         "lang": "en",
+         "id": "/m/0hpsmk_",
+         "creator": "/user/dianne_castaneda",
+         "timestamp": "2013-04-10T08:33:28.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Acceptance rate",
+         "lang": "en",
+         "id": "/education/acceptance_rate",
+         "creator": "/user/dianne_castaneda",
+         "timestamp": "2013-04-10T08:33:28.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "32.0 - 2012 - hgfm27 - Acceptance rate",
+     "lang": "en",
+     "id": "/m/0w2xx6d",
+     "creator": "/user/hgfm27",
+     "timestamp": "2013-07-01T03:05:41.000Z",
+     "property": {
+      "/education/acceptance_rate/rate": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "32.0",
+         "lang": "en",
+         "value": 32.0,
+         "creator": "/user/hgfm27",
+         "timestamp": "2013-07-01T03:05:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/education/acceptance_rate/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2012",
+         "lang": "",
+         "value": "2012",
+         "creator": "/user/hgfm27",
+         "timestamp": "2013-07-01T03:05:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "hgfm27",
+         "lang": "en",
+         "id": "/m/0g973t2",
+         "creator": "/user/hgfm27",
+         "timestamp": "2013-07-01T03:05:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Acceptance rate",
+         "lang": "en",
+         "id": "/education/acceptance_rate",
+         "creator": "/user/hgfm27",
+         "timestamp": "2013-07-01T03:05:41.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 3.0
+  },
+  "/education/university/domestic_tuition": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "36792.0 - United States Dollar - 2010 - mbaker - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0h6_7c8",
+     "creator": "/user/mbaker",
+     "timestamp": "2011-10-09T00:00:48.001Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "36792.0",
+         "lang": "en",
+         "value": 36792.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T19:05:07.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mbaker",
+         "lang": "en",
+         "id": "/m/0h6z3w6",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "35362.0 - United States Dollar - 2009 - nces_university_attr - /dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2009 - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0k7hn1k",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-22T12:28:52.001Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "35362.0",
+         "lang": "en",
+         "value": 35362.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:53.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T12:29:08.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2009",
+         "lang": "",
+         "value": "2009",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-21T06:15:41.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nces_university_attr",
+         "lang": "en",
+         "id": "/m/0k78r1v",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/key": {
+       "valuetype": "key",
+       "values": [
+        {
+         "text": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2009",
+         "lang": "",
+         "value": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2009",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T11:21:03.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "38252.0 - United States Dollar - 2011 - nces_university_attr - /dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2011 - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0k7hn22",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-23T00:01:38.000Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "38252.0",
+         "lang": "en",
+         "value": 38252.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T19:06:37.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-21T23:59:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2011",
+         "lang": "",
+         "value": "2011",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:15:51.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nces_university_attr",
+         "lang": "en",
+         "id": "/m/0k78r1v",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:54.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/key": {
+       "valuetype": "key",
+       "values": [
+        {
+         "text": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2011",
+         "lang": "",
+         "value": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2011",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:54.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:14:57.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "33721.0 - United States Dollar - 2008 - nces_university_attr - /dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2008 - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0k9j7f9",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-23T00:01:51.000Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "33721.0",
+         "lang": "en",
+         "value": 33721.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-23T00:01:49.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-23T09:20:06.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2008",
+         "lang": "",
+         "value": "2008",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T19:04:27.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nces_university_attr",
+         "lang": "en",
+         "id": "/m/0k78r1v",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T19:04:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/key": {
+       "valuetype": "key",
+       "values": [
+        {
+         "text": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2008",
+         "lang": "",
+         "value": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_domestic_tuition_domestic_tuition_167358_2008",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T19:04:23.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T20:16:08.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 4.0
+  },
+  "/education/university/fraternities_and_sororities": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Alpha Delta Phi",
+     "lang": "en",
+     "id": "/m/03tx10",
+     "creator": "/user/jargonjustin",
+     "timestamp": "2008-01-16T22:06:51.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/university/local_tuition": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "36380.0 - United States Dollar - 2010 - mbaker - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0h6_7c1",
+     "creator": "/user/mbaker",
+     "timestamp": "2011-10-09T00:00:48.000Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "36380.0",
+         "lang": "en",
+         "value": 36380.0,
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mbaker",
+         "lang": "en",
+         "id": "/m/0h6z3w6",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-09T00:00:48.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/education/university/number_of_postgraduates": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "3539 - 2009 - vivieradollosa - Dated Integer",
+     "lang": "en",
+     "id": "/m/0h72jm_",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:34:22.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "3539",
+         "lang": "en",
+         "value": 3539.0,
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:34:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2009",
+         "lang": "",
+         "value": "2009",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:34:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vivieradollosa",
+         "lang": "en",
+         "id": "/m/0dlqx47",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:34:22.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:34:22.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "10084 - 2010 - vivieradollosa - Dated Integer",
+     "lang": "en",
+     "id": "/m/0h72k55",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:51:42.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "10084",
+         "lang": "en",
+         "value": 10084.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-22T12:30:12.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:51:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vivieradollosa",
+         "lang": "en",
+         "id": "/m/0dlqx47",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:51:42.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:51:42.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/education/university/number_of_undergraduates": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "19129 - 2009 - mbaker - Dated Integer",
+     "lang": "en",
+     "id": "/m/0h77tvp",
+     "creator": "/user/mbaker",
+     "timestamp": "2011-10-13T13:02:19.001Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "19129",
+         "lang": "en",
+         "value": 19129.0,
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-13T13:02:19.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2009",
+         "lang": "",
+         "value": "2009",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-13T13:02:19.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "mbaker",
+         "lang": "en",
+         "id": "/m/0h77srg",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-13T13:02:19.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/mbaker",
+         "timestamp": "2011-10-13T13:02:19.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    },
+    {
+     "text": "19435 - 2010 - nces_university_attr - /dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_number_of_undergraduates_number_of_undergraduates_167358_2010 - Dated Integer",
+     "lang": "en",
+     "id": "/m/0k7ch6w",
+     "creator": "/user/googlebot",
+     "timestamp": "2012-07-22T06:37:57.000Z",
+     "property": {
+      "/measurement_unit/dated_integer/number": {
+       "valuetype": "int",
+       "values": [
+        {
+         "text": "19435",
+         "lang": "en",
+         "value": 19435.0,
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T10:13:38.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_integer/year": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T05:25:50.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "nces_university_attr",
+         "lang": "en",
+         "id": "/m/0k78r1v",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T05:25:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/key": {
+       "valuetype": "key",
+       "values": [
+        {
+         "text": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_number_of_undergraduates_number_of_undergraduates_167358_2010",
+         "lang": "",
+         "value": "/dataworld/freeq/job_aa7b73bc-23b7-4836-925f-3235a8a42bdb_var_google_nces_university_number_of_undergraduates_number_of_undergraduates_167358_2010",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-20T05:25:48.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Integer",
+         "lang": "en",
+         "id": "/measurement_unit/dated_integer",
+         "creator": "/user/googlebot",
+         "timestamp": "2012-07-21T23:57:38.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 2.0
+  },
+  "/location/location/containedby": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "United States of America",
+     "lang": "en",
+     "id": "/m/09c7w0",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:34.001Z"
+    },
+    {
+     "text": "Boston",
+     "lang": "en",
+     "id": "/m/01cx_",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:34.001Z"
+    },
+    {
+     "text": "Massachusetts",
+     "lang": "en",
+     "id": "/m/05k7sb",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:35.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/location/location/geolocation": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "42.338889 - -71.090278 - /namespace/kgraph-dev/wikimappers/experiments/frankchen/geocode/2013-07-29 - Geocode",
+     "lang": "en",
+     "id": "/m/0wmhr19",
+     "creator": "/user/geocode_bot",
+     "timestamp": "2013-08-16T19:54:19.004Z",
+     "property": {
+      "/location/geocode/latitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "42.338889",
+         "lang": "en",
+         "value": 42.338889,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:54:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/geocode/longitude": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "-71.090278",
+         "lang": "en",
+         "value": -71.090278,
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:54:19.004Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "/namespace/kgraph-dev/wikimappers/experiments/frankchen/geocode/2013-07-29",
+         "lang": "en",
+         "id": "/m/0wjjk0m",
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:54:19.003Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Geocode",
+         "lang": "en",
+         "id": "/location/geocode",
+         "creator": "/user/geocode_bot",
+         "timestamp": "2013-08-16T19:54:19.004Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/endowed_organization/endowment": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "521000000.0 - United States Dollar - 2010 - vivieradollosa - Dated Money Value",
+     "lang": "en",
+     "id": "/m/0h72jrz",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:39:56.000Z",
+     "property": {
+      "/measurement_unit/dated_money_value/amount": {
+       "valuetype": "float",
+       "values": [
+        {
+         "text": "521000000.0",
+         "lang": "en",
+         "value": 5.21E8,
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:39:56.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/currency": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States Dollar",
+         "lang": "en",
+         "id": "/m/09nqf",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:39:56.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/measurement_unit/dated_money_value/valid_date": {
+       "valuetype": "datetime",
+       "values": [
+        {
+         "text": "2010",
+         "lang": "",
+         "value": "2010",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:39:56.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vivieradollosa",
+         "lang": "en",
+         "id": "/m/0dlqx47",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:39:56.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Dated Money Value",
+         "lang": "en",
+         "id": "/measurement_unit/dated_money_value",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:39:56.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/organization/board_members": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Jeffrey S.  Bornstein - earlye - Organization governorship",
+     "lang": "en",
+     "id": "/m/04hf131",
+     "creator": "/user/earlye",
+     "timestamp": "2008-08-20T05:33:35.001Z",
+     "property": {
+      "/organization/organization_board_membership/member": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Jeffrey S.  Bornstein",
+         "lang": "en",
+         "id": "/m/049x709",
+         "creator": "/user/earlye",
+         "timestamp": "2008-08-20T05:33:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "earlye",
+         "lang": "en",
+         "id": "/m/02_5dlr",
+         "creator": "/user/earlye",
+         "timestamp": "2008-08-20T05:33:35.001Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Organization governorship",
+         "lang": "en",
+         "id": "/organization/organization_board_membership",
+         "creator": "/user/earlye",
+         "timestamp": "2008-08-20T05:33:35.001Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/organization/date_founded": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "1898",
+     "lang": "",
+     "value": "1898",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-07-29T21:33:00.001Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/organization/headquarters": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Boston - United States of America - 02115 - Massachusetts - 360 Huntington Avenue - pidge - Location",
+     "lang": "en",
+     "id": "/m/04hzx7s",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-07-29T21:33:01.000Z",
+     "property": {
+      "/location/mailing_address/citytown": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Boston",
+         "lang": "en",
+         "id": "/m/01cx_",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/mailing_address/country": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "United States of America",
+         "lang": "en",
+         "id": "/m/09c7w0",
+         "creator": "/user/thohar",
+         "timestamp": "2013-09-16T02:29:11.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/mailing_address/postal_code": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "02115",
+         "lang": "en",
+         "id": "/m/01_hc6r",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/mailing_address/state_province_region": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Massachusetts",
+         "lang": "en",
+         "id": "/m/05k7sb",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/mailing_address/street_address": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "360 Huntington Avenue",
+         "lang": "en",
+         "value": "360 Huntington Avenue",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/location/mailing_address/street_address_2": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/location/mailing_address/street_address_3": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/location/mailing_address/street_address_4": {
+       "values": [],
+       "count": 0.0,
+       "status": "has_no_value"
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "pidge",
+         "lang": "en",
+         "id": "/m/04hzwx_",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Location",
+         "lang": "en",
+         "id": "/location/location",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        },
+        {
+         "text": "Address",
+         "lang": "en",
+         "id": "/location/mailing_address",
+         "creator": "/user/pidge",
+         "timestamp": "2008-08-24T01:00:00.000Z"
+        }
+       ],
+       "count": 2.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/organization/organization/leadership": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Joseph Aoun - President - President - vivieradollosa - Organization leadership",
+     "lang": "en",
+     "id": "/m/0h72k61",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:54:15.000Z",
+     "property": {
+      "/organization/leadership/person": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Joseph Aoun",
+         "lang": "en",
+         "id": "/m/0dmv3c",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:54:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/organization/leadership/role": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "id": "/m/060c4",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:54:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/organization/leadership/title": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "President",
+         "lang": "en",
+         "value": "President",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:54:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "vivieradollosa",
+         "lang": "en",
+         "id": "/m/0dlqx47",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:54:15.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Organization leadership",
+         "lang": "en",
+         "id": "/organization/leadership",
+         "creator": "/user/vivieradollosa",
+         "timestamp": "2011-10-10T17:54:15.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Staff",
+     "lang": "en",
+     "id": "/m/05q",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:25:52.005Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_id/385997",
+     "lang": "",
+     "value": "/wikipedia/en_id/385997",
+     "creator": "/user/metaweb",
+     "timestamp": "2006-10-22T15:25:52.005Z"
+    },
+    {
+     "text": "/en/northeastern_university_boston",
+     "lang": "",
+     "value": "/en/northeastern_university_boston",
+     "creator": "/user/topicns_loader",
+     "timestamp": "2008-12-12T00:06:02.001Z"
+    },
+    {
+     "text": "/user/avh/ellerdale/009b-6694",
+     "lang": "",
+     "value": "/user/avh/ellerdale/009b-6694",
+     "creator": "/user/avh",
+     "timestamp": "2009-12-19T01:45:13.000Z"
+    },
+    {
+     "text": "/authority/nces/ipeds/167358",
+     "lang": "",
+     "value": "/authority/nces/ipeds/167358",
+     "creator": "/user/mw_od_bot",
+     "timestamp": "2010-08-08T21:50:35.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/fr/Northeastern_University",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T01:04:04.001Z"
+    },
+    {
+     "text": "/wikipedia/ru_id/1428155",
+     "lang": "",
+     "value": "/wikipedia/ru_id/1428155",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T07:53:55.002Z"
+    },
+    {
+     "text": "/wikipedia/es_id/145767",
+     "lang": "",
+     "value": "/wikipedia/es_id/145767",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T10:11:05.001Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$0435$0432$0435$0440$043E-$0412$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$0435$0432$0435$0440$043E-$0412$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T13:50:04.006Z"
+    },
+    {
+     "text": "/wikipedia/fr_id/290320",
+     "lang": "",
+     "value": "/wikipedia/fr_id/290320",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-23T22:59:16.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Universidad_Northeastern",
+     "lang": "",
+     "value": "/wikipedia/es/Universidad_Northeastern",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-25T22:42:11.001Z"
+    },
+    {
+     "text": "/wikipedia/pt_id/2487706",
+     "lang": "",
+     "value": "/wikipedia/pt_id/2487706",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-26T18:07:36.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Northeastern_University_$0028Boston$0029",
+     "lang": "",
+     "value": "/wikipedia/de/Northeastern_University_$0028Boston$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-28T16:16:40.000Z"
+    },
+    {
+     "text": "/wikipedia/de_id/2135662",
+     "lang": "",
+     "value": "/wikipedia/de_id/2135662",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T08:14:06.001Z"
+    },
+    {
+     "text": "/wikipedia/pt/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/pt/Northeastern_University",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2010-09-29T17:44:33.001Z"
+    },
+    {
+     "text": "/wikipedia/pt_title/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/pt_title/Northeastern_University",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T01:40:48.001Z"
+    },
+    {
+     "text": "/wikipedia/es_title/Universidad_Northeastern",
+     "lang": "",
+     "value": "/wikipedia/es_title/Universidad_Northeastern",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T02:04:30.000Z"
+    },
+    {
+     "text": "/wikipedia/ru_title/$0421$0435$0432$0435$0440$043E-$0412$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "lang": "",
+     "value": "/wikipedia/ru_title/$0421$0435$0432$0435$0440$043E-$0412$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T04:25:11.000Z"
+    },
+    {
+     "text": "/wikipedia/de_title/Northeastern_University_$0028Boston$0029",
+     "lang": "",
+     "value": "/wikipedia/de_title/Northeastern_University_$0028Boston$0029",
+     "creator": "/user/wikipedia_intl",
+     "timestamp": "2011-05-22T19:33:53.000Z"
+    },
+    {
+     "text": "/wikipedia/en_title/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/en_title/Northeastern_University",
+     "creator": "/user/mwcl_wikipedia_en",
+     "timestamp": "2011-05-25T17:34:39.000Z"
+    },
+    {
+     "text": "/base/ranker/rankerurlname/northeastern-university$002F1690848",
+     "lang": "",
+     "value": "/base/ranker/rankerurlname/northeastern-university$002F1690848",
+     "creator": "/user/ravi_ranker",
+     "timestamp": "2012-01-01T13:31:03.000Z"
+    },
+    {
+     "text": "/wikipedia/no/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/no/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:51:25.000Z"
+    },
+    {
+     "text": "/wikipedia/cs_title/Northeastern_University_$0028Boston$0029",
+     "lang": "",
+     "value": "/wikipedia/cs_title/Northeastern_University_$0028Boston$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:51:26.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B_$0627$064A$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B_$0627$064A$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:51:48.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A_$0627$064A$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A_$0627$064A$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:52:06.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Northeastern_University$002C_Boston",
+     "lang": "",
+     "value": "/wikipedia/it/Northeastern_University$002C_Boston",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:52:39.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_id/2850235",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_id/2850235",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:52:53.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/Northeastern_University_$0028Boston$0029",
+     "lang": "",
+     "value": "/wikipedia/cs/Northeastern_University_$0028Boston$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:52:58.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B_$0627$06CC$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B_$0627$06CC$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:52:59.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A_$0627$06CC$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A_$0627$06CC$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:14.000Z"
+    },
+    {
+     "text": "/wikipedia/fa_id/152685",
+     "lang": "",
+     "value": "/wikipedia/fa_id/152685",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:16.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn_title/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn_title/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:16.000Z"
+    },
+    {
+     "text": "/wikipedia/fi/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/fi/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:25.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_title/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/fi_title/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:26.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_id/2850235",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_id/2850235",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:27.000Z"
+    },
+    {
+     "text": "/wikipedia/ko_id/685861",
+     "lang": "",
+     "value": "/wikipedia/ko_id/685861",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:35.000Z"
+    },
+    {
+     "text": "/wikipedia/ru/$0421$0435$0432$0435$0440$043E-$0432$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "lang": "",
+     "value": "/wikipedia/ru/$0421$0435$0432$0435$0440$043E-$0432$043E$0441$0442$043E$0447$043D$044B$0439_$0443$043D$0438$0432$0435$0440$0441$0438$0442$0435$0442",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:37.000Z"
+    },
+    {
+     "text": "/wikipedia/it_id/4095428",
+     "lang": "",
+     "value": "/wikipedia/it_id/4095428",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:44.000Z"
+    },
+    {
+     "text": "/wikipedia/cs_id/411379",
+     "lang": "",
+     "value": "/wikipedia/cs_id/411379",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:50.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A$200C$0627$06CC$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A$200C$0627$06CC$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:53:51.000Z"
+    },
+    {
+     "text": "/wikipedia/tr_id/1409819",
+     "lang": "",
+     "value": "/wikipedia/tr_id/1409819",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:54:06.000Z"
+    },
+    {
+     "text": "/wikipedia/ko/$B178$C2A4$C774$C2A4$D134_$B300$D559$AD50",
+     "lang": "",
+     "value": "/wikipedia/ko/$B178$C2A4$C774$C2A4$D134_$B300$D559$AD50",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:54:24.000Z"
+    },
+    {
+     "text": "/wikipedia/cs/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/cs/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:54:27.000Z"
+    },
+    {
+     "text": "/wikipedia/it_title/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/it_title/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:54:47.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-cn/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-cn/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:54:50.000Z"
+    },
+    {
+     "text": "/wikipedia/de/Northeastern_University$002C_Boston",
+     "lang": "",
+     "value": "/wikipedia/de/Northeastern_University$002C_Boston",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:01.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Universit$00E9_NorthEastern",
+     "lang": "",
+     "value": "/wikipedia/fr/Universit$00E9_NorthEastern",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:04.000Z"
+    },
+    {
+     "text": "/wikipedia/it/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/it/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:21.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:30.000Z"
+    },
+    {
+     "text": "/wikipedia/es/Universidad_de_Northeastern",
+     "lang": "",
+     "value": "/wikipedia/es/Universidad_de_Northeastern",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:35.001Z"
+    },
+    {
+     "text": "/wikipedia/es/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/es/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:55.000Z"
+    },
+    {
+     "text": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B$200C$0627$06CC$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062B$200C$0627$06CC$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:55:56.000Z"
+    },
+    {
+     "text": "/wikipedia/fa_title/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A$200C$0627$06CC$0633$062A$0631$0646",
+     "lang": "",
+     "value": "/wikipedia/fa_title/$062F$0627$0646$0634$06AF$0627$0647_$0646$0648$0631$062A$200C$0627$06CC$0633$062A$0631$0646",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:30.000Z"
+    },
+    {
+     "text": "/wikipedia/tr/Northeastern_$00DCniversitesi",
+     "lang": "",
+     "value": "/wikipedia/tr/Northeastern_$00DCniversitesi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:39.000Z"
+    },
+    {
+     "text": "/wikipedia/ko_title/$B178$C2A4$C774$C2A4$D134_$B300$D559$AD50",
+     "lang": "",
+     "value": "/wikipedia/ko_title/$B178$C2A4$C774$C2A4$D134_$B300$D559$AD50",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:46.000Z"
+    },
+    {
+     "text": "/wikipedia/no_id/448593",
+     "lang": "",
+     "value": "/wikipedia/no_id/448593",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:49.000Z"
+    },
+    {
+     "text": "/wikipedia/zh-tw_title/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "lang": "",
+     "value": "/wikipedia/zh-tw_title/$4E1C$5317$5927$5B66_$0028$7F8E$56FD$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:50.000Z"
+    },
+    {
+     "text": "/wikipedia/fi_id/442550",
+     "lang": "",
+     "value": "/wikipedia/fi_id/442550",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:56:51.000Z"
+    },
+    {
+     "text": "/wikipedia/fr/Universit$00E9_Northeastern",
+     "lang": "",
+     "value": "/wikipedia/fr/Universit$00E9_Northeastern",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:57:03.000Z"
+    },
+    {
+     "text": "/wikipedia/no_title/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/no_title/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:57:07.000Z"
+    },
+    {
+     "text": "/wikipedia/tr_title/Northeastern_$00DCniversitesi",
+     "lang": "",
+     "value": "/wikipedia/tr_title/Northeastern_$00DCniversitesi",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-02-14T14:57:34.000Z"
+    },
+    {
+     "text": "/wikipedia/fr_title/Universit$00E9_Northeastern",
+     "lang": "",
+     "value": "/wikipedia/fr_title/Universit$00E9_Northeastern",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-04-05T20:33:10.003Z"
+    },
+    {
+     "text": "/wikipedia/en/African-American_Institute_$0028Northeastern_University$0029",
+     "lang": "",
+     "value": "/wikipedia/en/African-American_Institute_$0028Northeastern_University$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:29.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:30.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_College_of_Law",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_College_of_Law",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:31.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_university",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_university",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:33.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Dodge_Hall",
+     "lang": "",
+     "value": "/wikipedia/en/Dodge_Hall",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:34.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeast_University",
+     "lang": "",
+     "value": "/wikipedia/en/Northeast_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:35.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Brudnick_Center_on_Conflict_and_Violence",
+     "lang": "",
+     "value": "/wikipedia/en/Brudnick_Center_on_Conflict_and_Violence",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:36.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeast_University_$0028disambiguation$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Northeast_University_$0028disambiguation$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:37.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University$002C_School_of_Engineering_Technology",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University$002C_School_of_Engineering_Technology",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:38.000Z"
+    },
+    {
+     "text": "/wikipedia/en/North_Eastern_University",
+     "lang": "",
+     "value": "/wikipedia/en/North_Eastern_University",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:39.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University_of_the_Boston_YMCA",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University_of_the_Boston_YMCA",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:41.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_Univeristy",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_Univeristy",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:42.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University_$0028Boston$002C_Massachusetts$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University_$0028Boston$002C_Massachusetts$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:43.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University$002C_Boston",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University$002C_Boston",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:44.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_University_$0028Boston$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_University_$0028Boston$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:45.001Z"
+    },
+    {
+     "text": "/wikipedia/en/Northeastern_Unversity",
+     "lang": "",
+     "value": "/wikipedia/en/Northeastern_Unversity",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-31T00:27:47.000Z"
+    }
+   ],
+   "count": 77.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/0225v9",
+     "lang": "",
+     "value": "/m/0225v9"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Northeastern University",
+     "lang": "en",
+     "value": "Northeastern University",
+     "creator": "/user/tfmorris",
+     "timestamp": "2010-09-10T06:10:23.000Z"
+    }
+   ],
+   "count": 15.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Educational Institution",
+     "lang": "en",
+     "id": "/education/educational_institution",
+     "creator": "/user/wp_typer",
+     "timestamp": "2007-02-02T06:13:04.000Z"
+    },
+    {
+     "text": "College/University",
+     "lang": "en",
+     "id": "/education/university",
+     "creator": "/user/wp_typer",
+     "timestamp": "2007-02-20T01:48:10.000Z"
+    },
+    {
+     "text": "Employer",
+     "lang": "en",
+     "id": "/business/employer",
+     "creator": "/user/adampieniazek",
+     "timestamp": "2007-07-11T08:30:03.002Z"
+    },
+    {
+     "text": "Organization",
+     "lang": "en",
+     "id": "/organization/organization",
+     "creator": "/user/earlye",
+     "timestamp": "2008-08-20T05:33:35.001Z"
+    },
+    {
+     "text": "Thing",
+     "lang": "en",
+     "id": "/m/0cgxpqv",
+     "creator": "/user/arpim",
+     "timestamp": "2010-07-20T04:09:56.001Z"
+    },
+    {
+     "text": "dbpedia_import",
+     "lang": "en",
+     "id": "/user/maxim75/default_domain/dbpedia_import",
+     "creator": "/user/maxim75",
+     "timestamp": "2010-08-30T01:50:10.000Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/base/academia/topic",
+     "creator": "/user/tim_mcnamara",
+     "timestamp": "2010-11-17T01:32:07.002Z"
+    },
+    {
+     "text": "Endowed Organization",
+     "lang": "en",
+     "id": "/organization/endowed_organization",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:39:09.000Z"
+    },
+    {
+     "text": "Ranked item",
+     "lang": "en",
+     "id": "/award/ranked_item",
+     "creator": "/user/vivieradollosa",
+     "timestamp": "2011-10-10T17:54:38.000Z"
+    },
+    {
+     "text": "Educational institution extra",
+     "lang": "en",
+     "id": "/base/schemastaging/educational_institution_extra",
+     "creator": "/user/sgrancioso",
+     "timestamp": "2012-03-10T05:02:14.000Z"
+    },
+    {
+     "text": "Educational Institution Campus",
+     "lang": "en",
+     "id": "/education/educational_institution_campus",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:34.001Z"
+    },
+    {
+     "text": "Location",
+     "lang": "en",
+     "id": "/location/location",
+     "creator": "/user/merge_bot",
+     "timestamp": "2012-05-25T23:06:34.001Z"
+    },
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/metaweb"
+    }
+   ],
+   "count": 13.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000000211749",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000000211749"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "metaweb",
+     "lang": "",
+     "id": "/user/metaweb",
+     "timestamp": "2006-10-22T15:25:52.005Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2006-10-22T15:25:52.005Z",
+     "lang": "en",
+     "value": "2006-10-22T15:25:52.005Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

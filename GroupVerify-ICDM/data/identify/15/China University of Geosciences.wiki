@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>China University of Geosciences - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<meta name="robots" content="noindex,follow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/index.html?curid=2790409" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"China_University_of_Geosciences","wgTitle":"China University of Geosciences","wgCurRevisionId":572131756,"wgRevisionId":572131756,"wgArticleId":2790409,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing simplified Chinese-language text","Articles containing traditional Chinese-language text","Universities and colleges in Beijing","People's Republic of China articles missing geocoordinate data","All articles needing coordinates","Project 211","Universities and colleges in Wuhan","Educational institutions established in 1952","Geosciences University of China","1952 establishments in China","Haidian District","Geology of China"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"China_University_of_Geosciences","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-cn"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2790409,"title":"China University of Geosciences","namespace":0,"categories":["1952 establishments in China","All articles needing coordinates","Articles containing simplified Chinese-language text","Articles containing traditional Chinese-language text","Educational institutions established in 1952","Geology of China","Geosciences University of China","Haidian District","People's Republic of China articles missing geocoordinate data","Project 211","Universities and colleges in Beijing","Universities and colleges in Wuhan"],"permissionLevel":false},"wgWikibaseItemId":"Q1074097"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-China_University_of_Geosciences skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">China University of Geosciences</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;">China University of Geosciences</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">中国地质大学</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:CUG_Image.png" class="image" title="China University of Geosciences"><img alt="China University of Geosciences" src="//upload.wikimedia.org/wikipedia/en/thumb/6/64/CUG_Image.png/150px-CUG_Image.png" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/64/CUG_Image.png/225px-CUG_Image.png 1.5x, //upload.wikimedia.org/wikipedia/en/6/64/CUG_Image.png 2x" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Motto</th>
+<td>艰苦朴素 求真务实</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Motto in English</th>
+<td>Being austere and simple, keeping on practice and acting for truth</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Established</th>
+<td>October 1952</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Type</th>
+<td><a href="/wiki/National_university" title="National university">National</a> <a href="/wiki/Public_university" title="Public university">Public</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Location</th>
+<td class="adr"><span class="locality"><a href="/wiki/Beijing" title="Beijing">Beijing</a> and <a href="/wiki/Wuhan" title="Wuhan">Wuhan</a></span>, <span class="country-name"><a href="/wiki/China" title="China">China</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Campus</th>
+<td><a href="/wiki/Urban_area" title="Urban area">Urban</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Affiliations</th>
+<td><a href="/wiki/Project_211" title="Project 211">Project 211</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.cugb.edu.cn/">www.cugb.edu.cn (Beijing)</a><br />
+<a rel="nofollow" class="external text" href="http://www.cug.edu.cn/">www.cug.edu.cn (Wuhan)</a></td>
+</tr>
+</table>
+<p>The <b>China University of Geosciences</b> (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>: <span lang="zh-Hans" xml:lang="zh-Hans">中国地质大学</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>: <span lang="zh-Hant" xml:lang="zh-Hant">中國地質大學</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <em>Zhōngguó Dìzhì Dàxué</em>; colloquially 地大; ) is a key national university directly under the administration of the <a href="/wiki/Education_Ministry_of_the_People%27s_Republic_of_China" title="Education Ministry of the People's Republic of China" class="mw-redirect">Education Ministry of the People's Republic of China</a>. It consists of two campuses, one is located in <a href="/wiki/Haidian_District" title="Haidian District">Haidian District</a> in <a href="/wiki/Beijing" title="Beijing">Beijing</a>, and the other in <a href="/wiki/Wuhan" title="Wuhan">Wuhan</a>, the capital of Central China's <a href="/wiki/Hubei_Province" title="Hubei Province" class="mw-redirect">Hubei Province</a>.<sup id="cite_ref-en_1-0" class="reference"><a href="#cite_note-en-1"><span>[</span>1<span>]</span></a></sup> <sup id="cite_ref-br_2-0" class="reference"><a href="#cite_note-br-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>It is regarded as a top university specialized in geosciences in China and exerts considerable influence within the Chinese mining and oil industry. Its notable alumni include <a href="/wiki/Wen_Jiabao" title="Wen Jiabao">Wen Jiabao</a>, the <a href="/wiki/Premier" title="Premier">Premier</a> of <a href="/wiki/China%27s_State_Council" title="China's State Council" class="mw-redirect">China's State Council</a>, who attended the Beijing Campus when it was known as the Beijing Institute of Geology (BIG).<sup id="cite_ref-en_1-1" class="reference"><a href="#cite_note-en-1"><span>[</span>1<span>]</span></a></sup> <sup id="cite_ref-br_2-1" class="reference"><a href="#cite_note-br-2"><span>[</span>2<span>]</span></a></sup></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Campuses"><span class="tocnumber">1</span> <span class="toctext">Campuses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Beijing_Campus"><span class="tocnumber">1.1</span> <span class="toctext">Beijing Campus</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Wuhan_Campus"><span class="tocnumber">1.2</span> <span class="toctext">Wuhan Campus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Image_gallery"><span class="tocnumber">3</span> <span class="toctext">Image gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Wuhan_Campus_2"><span class="tocnumber">3.1</span> <span class="toctext">Wuhan Campus</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Beijing_Campus_2"><span class="tocnumber">3.2</span> <span class="toctext">Beijing Campus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Alumni"><span class="tocnumber">4</span> <span class="toctext">Alumni</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Campuses">Campuses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=1" title="Edit section: Campuses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Beijing_Campus"><a rel="nofollow" class="external text" href="http://www.cugb.edu.cn">Beijing Campus</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=2" title="Edit section: Beijing Campus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Beijing Campus is located in the original campus of former Beijing Institute of Geology, Xueyuan Road, with a concentration of 8 famous universities and academic tradition.<sup id="cite_ref-en_1-2" class="reference"><a href="#cite_note-en-1"><span>[</span>1<span>]</span></a></sup> <sup id="cite_ref-br_2-2" class="reference"><a href="#cite_note-br-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Wuhan_Campus"><a rel="nofollow" class="external text" href="http://www.cug.edu.cn/">Wuhan Campus</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=3" title="Edit section: Wuhan Campus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Wuhan Campus is located in No. 388 Lumo Road, Wuhan, with a scenic view and a large campus area. It has a larger annual enrollment and provides more available majors other than geosciences.<sup id="cite_ref-en_1-3" class="reference"><a href="#cite_note-en-1"><span>[</span>1<span>]</span></a></sup> <sup id="cite_ref-br_2-3" class="reference"><a href="#cite_note-br-2"><span>[</span>2<span>]</span></a></sup> Its Yifu Museum is known for housing China’s top ranked displays of dinosaur fossils, mineral and rock specimens.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The history of China University of Geosciences dates back to <b>Beijing Institute of Geology</b> (BIG)(<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>: <span lang="zh-Hans" xml:lang="zh-Hans">北京地质学院</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>: <span lang="zh-Hant" xml:lang="zh-Hant">北京地質學院</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <em>Běijīng Dìzhì Xuéyuàn</em>) which was a merger of the geology departments of <a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a>, <a href="/wiki/Peking_University" title="Peking University">Peking University</a>, <a href="/wiki/Tianjin_University" title="Tianjin University">Tianjin University</a> and <a href="/wiki/Southwest_Jiaotong_University" title="Southwest Jiaotong University">Tangshan Railway College</a>. It was among China's first 16 key universities back in the 1950s. The university suspended operations from 1966-1970 due to the <a href="/wiki/Cultural_Revolution" title="Cultural Revolution">Cultural Revolution</a>, and reopened in <a href="/wiki/Jiangling_County" title="Jiangling County">Jiangling County</a>, Hubei Province, in 1970 as <b>Hubei Institute of Geology</b> (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>: <span lang="zh-Hans" xml:lang="zh-Hans">湖北地质学院</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>: <span lang="zh-Hant" xml:lang="zh-Hant">湖北地質學院</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <em>Húběi Dìzhì Xuéyuàn</em>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>In 1975 the campus was moved to <a href="/wiki/Wuhan" title="Wuhan">Wuhan</a>, and the school was renamed <b>Wuhan Institute of Geology</b> (WIG) (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>: <span lang="zh-Hans" xml:lang="zh-Hans">武汉地质学院</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>: <span lang="zh-Hant" xml:lang="zh-Hant">武漢地質學院</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <em>Wǔhàn Dìzhì Xuéyuàn</em>). In 1978 BIG reopened in Beijing with the help of <a href="/wiki/Deng_Xiaoping" title="Deng Xiaoping">Deng Xiaoping</a>. In 1986 the Chinese Government ratified the foundation of the Graduate School of WIG. It was ranked as one of the first 33 Graduate Schools nationwide. Later in 1987 BIG and WIG were renamed <b>China University of Geosciences （Beijing）</b>and <b>China University of Geosciences （Wuhan）</b>, respectively. CUG is among the first batch of 15 universities in <a href="/wiki/Project_211" title="Project 211">project 211 for Higher Education</a>.<sup id="cite_ref-en_1-4" class="reference"><a href="#cite_note-en-1"><span>[</span>1<span>]</span></a></sup> <sup id="cite_ref-br_2-4" class="reference"><a href="#cite_note-br-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=5" title="Edit section: Image gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Wuhan_Campus_2">Wuhan Campus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=6" title="Edit section: Wuhan Campus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cug_01.jpg" class="image"><img alt="Cug 01.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cug_01.jpg/120px-Cug_01.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cug_2.JPG" class="image"><img alt="Cug 2.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cug_2.JPG/120px-Cug_2.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cug_3.JPG" class="image"><img alt="Cug 3.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cug_3.JPG/120px-Cug_3.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cug_4.JPG" class="image"><img alt="Cug 4.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cug_4.JPG/120px-Cug_4.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cug_5.jpg" class="image"><img alt="Cug 5.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cug_5.jpg/120px-Cug_5.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E5%8C%97%E5%8C%BA%E5%87%89%E4%BA%AD.JPG" class="image"><img alt="中国地质大学（武汉）北区凉亭.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E5%8C%97%E5%8C%BA%E5%87%89%E4%BA%AD.JPG/120px-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E5%8C%97%E5%8C%BA%E5%87%89%E4%BA%AD.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E4%B8%9C%E5%8C%BA%E5%8C%96%E7%9F%B3%E6%9E%97.JPG" class="image"><img alt="中国地质大学（武汉）东区化石林.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E4%B8%9C%E5%8C%BA%E5%8C%96%E7%9F%B3%E6%9E%97.JPG/120px-%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%AD%A6%E6%B1%89%EF%BC%89%E4%B8%9C%E5%8C%BA%E5%8C%96%E7%9F%B3%E6%9E%97.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Beijing_Campus_2">Beijing Campus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=7" title="Edit section: Beijing Campus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Geosciences_International_Conference_Centre_in_Beijing_CUG_01.JPG" class="image"><img alt="Geosciences International Conference Centre in Beijing CUG 01.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geosciences_International_Conference_Centre_in_Beijing_CUG_01.JPG/80px-Geosciences_International_Conference_Centre_in_Beijing_CUG_01.JPG" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:A_climbing_wall_in_CUG_Beijing.jpg" class="image"><img alt="A climbing wall in CUG Beijing.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/A_climbing_wall_in_CUG_Beijing.jpg/80px-A_climbing_wall_in_CUG_Beijing.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:CUG_Beijing_Gate.jpg" class="image"><img alt="CUG Beijing Gate.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CUG_Beijing_Gate.jpg/120px-CUG_Beijing_Gate.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Library_in_Beijing_CUG.jpg" class="image"><img alt="Library in Beijing CUG.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Library_in_Beijing_CUG.jpg/120px-Library_in_Beijing_CUG.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Natatorium_in_Beijing_CUG.jpg" class="image"><img alt="Natatorium in Beijing CUG.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Natatorium_in_Beijing_CUG.jpg/120px-Natatorium_in_Beijing_CUG.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:38px auto;"><a href="/wiki/File:Stadium_in_CUG_Beijing.jpg" class="image"><img alt="Stadium in CUG Beijing.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Stadium_in_CUG_Beijing.jpg/120px-Stadium_in_CUG_Beijing.jpg" width="120" height="74" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Jiao_5_in_CUG_Beijing.jpg" class="image"><img alt="Jiao 5 in CUG Beijing.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jiao_5_in_CUG_Beijing.jpg/120px-Jiao_5_in_CUG_Beijing.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Alumni">Alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=8" title="Edit section: Alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Wen_Jiabao" title="Wen Jiabao">Wen Jiabao</a>, Premier of China</li>
+<li><a href="/wiki/Zhang_Wenyue" title="Zhang Wenyue">Zhang Wenyue</a>, Governor of Liaoning Province</li>
+<li><a href="/wiki/Ouyang_Ziyuan" title="Ouyang Ziyuan">Ouyang Ziyuan</a>, Chief Scientist of Chinese Lunar Project</li>
+<li><a href="/wiki/Gao_Ling" title="Gao Ling">Gao Ling</a>，a female badminton player</li>
+<li><a href="/wiki/Wang_Fuzhou" title="Wang Fuzhou">Wang Fuzhou</a>,a famous Chinese mountain climber</li>
+<li><a href="/wiki/Li_Zhixin" title="Li Zhixin">Li Zhixin</a>,a leading Chinese mountaineer</li>
+<li><a href="/wiki/Wang_Yongfeng" title="Wang Yongfeng">Wang Yongfeng</a>，a famous Chinese mountain climber</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Beijing-name.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing-name.svg/32px-Beijing-name.svg.png" width="32" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing-name.svg/48px-Beijing-name.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing-name.svg/64px-Beijing-name.svg.png 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:Beijing" title="Portal:Beijing">Beijing portal</a></td>
+</tr>
+<tr valign="middle">
+<td style="text-align:center;"><a href="/wiki/File:Platopainting.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/23px-Platopainting.jpg" width="23" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/34px-Platopainting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/46px-Platopainting.jpg 2x" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:University" title="Portal:University">University portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Geology_of_China" title="Geology of China">Geology of China</a></li>
+<li><a href="/wiki/China_Geological_Survey" title="China Geological Survey">China Geological Survey</a></li>
+<li><a href="/wiki/Geological_Museum_of_China" title="Geological Museum of China">Geological Museum of China</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-en-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-en_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-en_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-en_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-en_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-en_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://en.cug.edu.cn/cug/Content.asp?ID=4569&amp;ClassID=500">History of China University of Geosciences</a></span></li>
+<li id="cite_note-br-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-br_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-br_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-br_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-br_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-br_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cugb.edu.cn/jianjie/jianjie.asp">A brief Introduction in Chinese</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(English)</span> <a rel="nofollow" class="external text" href="http://en.cug.edu.cn/cug/Content.asp?ID=4569&amp;ClassID=500">History Review of China University of Geosciences</a></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cugb.edu.cn">Home Page of Beijing campus in Chinese</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cug.edu.cn">Home Page of Wuhan campus in Chinese</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cug.edu.cn/en04/info/list.asp?id=384">Wuhan Campus Map</a></li>
+<li><a rel="nofollow" class="external text" href="http://cugb.6dxy.com/">Beijing Campus real three-dimensional map</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Project_211" title="Template:Project 211"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Project_211" title="Template talk:Project 211"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Project_211&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Project_211" title="Project 211">Project 211</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/Higher_education_in_China" title="Higher education in China">Higher education</a> and <a href="/wiki/List_of_universities_in_China" title="List of universities in China">Universities in China</a></b></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Beijing" title="Beijing">Beijing</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Beijing_Foreign_Studies_University" title="Beijing Foreign Studies University">Beijing Foreign Studies University</a></li>
+<li><a href="/wiki/Beijing_Forestry_University" title="Beijing Forestry University">Beijing Forestry University</a></li>
+<li><a href="/wiki/Beijing_Institute_of_Technology" title="Beijing Institute of Technology">Beijing Institute of Technology</a></li>
+<li><a href="/wiki/Beijing_Jiaotong_University" title="Beijing Jiaotong University">Beijing Jiaotong University</a></li>
+<li><a href="/wiki/Beijing_Normal_University" title="Beijing Normal University">Beijing Normal University</a></li>
+<li><a href="/wiki/Beihang_University" title="Beihang University">Beihang University</a></li>
+<li><a href="/wiki/Beijing_University_of_Chemical_Technology" title="Beijing University of Chemical Technology">Beijing University of Chemical Technology</a></li>
+<li><a href="/wiki/Beijing_University_of_Chinese_Medicine" title="Beijing University of Chinese Medicine">Beijing University of Chinese Medicine</a></li>
+<li><a href="/wiki/Beijing_University_of_Posts_and_Telecommunications" title="Beijing University of Posts and Telecommunications">Beijing University of Posts and Telecommunications</a></li>
+<li><a href="/wiki/Beijing_University_of_Technology" title="Beijing University of Technology">Beijing University of Technology</a></li>
+<li><a href="/wiki/Peking_Union_Medical_College" title="Peking Union Medical College">Peking Union Medical College</a></li>
+<li><a href="/wiki/Peking_University" title="Peking University">Peking University</a></li>
+<li><a href="/wiki/Renmin_University_of_China" title="Renmin University of China">Renmin University of China</a></li>
+<li><a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></li>
+<li><a href="/wiki/Central_Conservatory_of_Music" title="Central Conservatory of Music">Central Conservatory of Music</a></li>
+<li><a href="/wiki/Central_University_of_Finance_and_Economics" title="Central University of Finance and Economics">Central University of Finance and Economics</a></li>
+<li><a href="/wiki/China_Agricultural_University" title="China Agricultural University">China Agricultural University</a></li>
+<li><strong class="selflink">China University of Geosciences</strong></li>
+<li><a href="/wiki/China_University_of_Mining_and_Technology" title="China University of Mining and Technology">China University of Mining and Technology</a></li>
+<li><a href="/wiki/China_University_of_Political_Science_and_Law" title="China University of Political Science and Law">China University of Political Science and Law</a></li>
+<li><a href="/wiki/Communication_University_of_China" title="Communication University of China">Communication University of China</a></li>
+<li><a href="/wiki/University_of_International_Business_and_Economics" title="University of International Business and Economics">University of International Business and Economics</a></li>
+<li><a href="/wiki/University_of_Science_and_Technology_Beijing" title="University of Science and Technology Beijing">University of Science and Technology Beijing</a></li>
+<li><a href="/wiki/Minzu_University_of_China" title="Minzu University of China">Minzu University of China</a></li>
+<li><a href="/wiki/North_China_Electric_Power_University" title="North China Electric Power University">North China Electric Power University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Shanghai_International_Studies_University" title="Shanghai International Studies University">Shanghai International Studies University</a></li>
+<li><a href="/wiki/Shanghai_Jiao_Tong_University" title="Shanghai Jiao Tong University">Shanghai Jiao Tong University</a></li>
+<li><a href="/wiki/Shanghai_University" title="Shanghai University">Shanghai University</a></li>
+<li><a href="/wiki/Shanghai_University_of_Finance_and_Economics" title="Shanghai University of Finance and Economics">Shanghai University of Finance and Economics</a></li>
+<li><a href="/wiki/Fudan_University" title="Fudan University">Fudan University</a></li>
+<li><a href="/wiki/Donghua_University" title="Donghua University">Donghua University</a></li>
+<li><a href="/wiki/East_China_Normal_University" title="East China Normal University">East China Normal University</a></li>
+<li><a href="/wiki/East_China_University_of_Science_and_Technology" title="East China University of Science and Technology">East China University of Science and Technology</a></li>
+<li><a href="/wiki/Tongji_University" title="Tongji University">Tongji University</a></li>
+<li><a href="/wiki/Second_Military_Medical_University" title="Second Military Medical University">Second Military Medical University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Tianjin" title="Tianjin">Tianjin</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Tianjin_Medical_University" title="Tianjin Medical University">Tianjin Medical University</a></li>
+<li><a href="/wiki/Tianjin_University" title="Tianjin University">Tianjin University</a></li>
+<li><a href="/wiki/Nankai_University" title="Nankai University">Nankai University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Chongqing" title="Chongqing">Chongqing</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Chongqing_University" title="Chongqing University">Chongqing University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Anhui" title="Anhui">Anhui</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Anhui_University" title="Anhui University">Anhui University</a></li>
+<li><a href="/wiki/Hefei_University_of_Technology" title="Hefei University of Technology">Hefei University of Technology</a></li>
+<li><a href="/wiki/University_of_Science_and_Technology_of_China" title="University of Science and Technology of China">University of Science and Technology of China</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Fujian" title="Fujian">Fujian</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Xiamen_University" title="Xiamen University">Xiamen University</a></li>
+<li><a href="/wiki/Fuzhou_University" title="Fuzhou University">Fuzhou University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Guangdong" title="Guangdong">Guangdong</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Sun_Yat-sen_University" title="Sun Yat-sen University">Sun Yat-sen University</a></li>
+<li><a href="/wiki/South_China_University_of_Technology" title="South China University of Technology">South China University of Technology</a></li>
+<li><a href="/wiki/Jinan_University" title="Jinan University">Jinan University</a></li>
+<li><a href="/wiki/South_China_Normal_University" title="South China Normal University">South China Normal University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Guizhou" title="Guizhou">Guizhou</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Guizhou_University" title="Guizhou University">Guizhou University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Gansu" title="Gansu">Gansu</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Lanzhou_University" title="Lanzhou University">Lanzhou University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Hainan" title="Hainan">Hainan</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hainan_University" title="Hainan University">Hainan University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Hebei" title="Hebei">Hebei</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hebei_University_of_Technology" title="Hebei University of Technology">Hebei University of Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Heilongjiang" title="Heilongjiang">Heilongjiang</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Harbin_Engineering_University" title="Harbin Engineering University">Harbin Engineering University</a></li>
+<li><a href="/wiki/Harbin_Institute_of_Technology" title="Harbin Institute of Technology">Harbin Institute of Technology</a></li>
+<li><a href="/wiki/Northeast_Agricultural_University" title="Northeast Agricultural University">Northeast Agricultural University</a></li>
+<li><a href="/wiki/Northeast_Forestry_University" title="Northeast Forestry University">Northeast Forestry University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Henan" title="Henan">Henan</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Zhengzhou_University" title="Zhengzhou University">Zhengzhou University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Hubei" title="Hubei">Hubei</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Wuhan_University" title="Wuhan University">Wuhan University</a></li>
+<li><a href="/wiki/Wuhan_University_of_Technology" title="Wuhan University of Technology">Wuhan University of Technology</a></li>
+<li><a href="/wiki/Huazhong_Agricultural_University" title="Huazhong Agricultural University">Huazhong Agricultural University</a></li>
+<li><a href="/wiki/Huazhong_Normal_University" title="Huazhong Normal University" class="mw-redirect">Huazhong Normal University</a></li>
+<li><a href="/wiki/Zhongnan_University_of_Economics_and_Law" title="Zhongnan University of Economics and Law">Zhongnan University of Economics and Law</a></li>
+<li><a href="/wiki/Huazhong_University_of_Science_and_Technology" title="Huazhong University of Science and Technology">Huazhong University of Science and Technology</a></li>
+<li><strong class="selflink">China University of Geosciences</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Hunan" title="Hunan">Hunan</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Central_South_University" title="Central South University">Central South University</a></li>
+<li><a href="/wiki/Hunan_Normal_University" title="Hunan Normal University">Hunan Normal University</a></li>
+<li><a href="/wiki/Hunan_University" title="Hunan University">Hunan University</a></li>
+<li><a href="/wiki/National_University_of_Defense_Technology" title="National University of Defense Technology">National University of Defense Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Jiangsu" title="Jiangsu">Jiangsu</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Southeast_University" title="Southeast University">Southeast University</a></li>
+<li><a href="/wiki/Nanjing_Agricultural_University" title="Nanjing Agricultural University">Nanjing Agricultural University</a></li>
+<li><a href="/wiki/Nanjing_Normal_University" title="Nanjing Normal University">Nanjing Normal University</a></li>
+<li><a href="/wiki/Nanjing_University" title="Nanjing University">Nanjing University</a></li>
+<li><a href="/wiki/Nanjing_Aeronautics_and_Astronautics_University" title="Nanjing Aeronautics and Astronautics University" class="mw-redirect">Nanjing Aeronautics and Astronautics University</a></li>
+<li><a href="/wiki/Nanjing_University_of_Science_and_Technology" title="Nanjing University of Science and Technology">Nanjing University of Science and Technology</a></li>
+<li><a href="/wiki/Soochow_University_(Suzhou)" title="Soochow University (Suzhou)">Soochow University</a></li>
+<li><a href="/wiki/China_Pharmaceutical_University" title="China Pharmaceutical University">China Pharmaceutical University</a></li>
+<li><a href="/wiki/Jiangnan_University" title="Jiangnan University">Jiangnan University</a></li>
+<li><a href="/wiki/Hohai_University" title="Hohai University">Hohai University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Jiangxi" title="Jiangxi">Jiangxi</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Nanchang_University" title="Nanchang University">Nanchang University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Jilin" title="Jilin">Jilin</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Jilin_University" title="Jilin University">Jilin University</a></li>
+<li><a href="/wiki/Yanbian_University" title="Yanbian University">Yanbian University</a></li>
+<li><a href="/wiki/Northeast_Normal_University" title="Northeast Normal University">Northeast Normal University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Liaoning" title="Liaoning">Liaoning</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Liaoning_University" title="Liaoning University">Liaoning University</a></li>
+<li><a href="/wiki/Dalian_Maritime_University" title="Dalian Maritime University">Dalian Maritime University</a></li>
+<li><a href="/wiki/Dalian_University_of_Technology" title="Dalian University of Technology">Dalian University of Technology</a></li>
+<li><a href="/wiki/Northeastern_University_(Shenyang,_China)" title="Northeastern University (Shenyang, China)" class="mw-redirect">Northeastern University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Shaanxi" title="Shaanxi">Shaanxi</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Chang%27an_University" title="Chang'an University">Chang'an University</a></li>
+<li><a href="/wiki/Xi%27an_Jiaotong_University" title="Xi'an Jiaotong University">Xi'an Jiaotong University</a></li>
+<li><a href="/wiki/Xidian_University" title="Xidian University">Xidian University</a></li>
+<li><a href="/wiki/Fourth_Military_Medical_University" title="Fourth Military Medical University">Fourth Military Medical University</a></li>
+<li><a href="/wiki/Northwest_Agriculture_and_Forestry_University" title="Northwest Agriculture and Forestry University" class="mw-redirect">Northwest A&amp;F University</a></li>
+<li><a href="/wiki/Northwest_University_(China)" title="Northwest University (China)">Northwest University</a></li>
+<li><a href="/wiki/Northwestern_Polytechnical_University" title="Northwestern Polytechnical University">Northwestern Polytechnical University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Shandong" title="Shandong">Shandong</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/China_University_of_Petroleum" title="China University of Petroleum">China University of Petroleum</a></li>
+<li><a href="/wiki/Shandong_University" title="Shandong University">Shandong University</a></li>
+<li><a href="/wiki/Ocean_University_of_China" title="Ocean University of China">Ocean University of China</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Shanxi" title="Shanxi">Shanxi</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Taiyuan_University_of_Technology" title="Taiyuan University of Technology">Taiyuan University of Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Sichuan" title="Sichuan">Sichuan</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/University_of_Electronic_Science_and_Technology_of_China" title="University of Electronic Science and Technology of China">University of Electronic Science and Technology of China</a></li>
+<li><a href="/wiki/Sichuan_Agricultural_University" title="Sichuan Agricultural University">Sichuan Agricultural University</a></li>
+<li><a href="/wiki/Sichuan_University" title="Sichuan University">Sichuan University</a></li>
+<li><a href="/wiki/Southwest_Jiaotong_University" title="Southwest Jiaotong University">Southwest Jiaotong University</a></li>
+<li><a href="/wiki/Southwestern_University_of_Finance_and_Economics" title="Southwestern University of Finance and Economics">Southwestern University of Finance and Economics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Yunnan" title="Yunnan">Yunnan</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Yunnan_University" title="Yunnan University">Yunnan University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Guangxi" title="Guangxi">Guangxi</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Guangxi_University" title="Guangxi University">Guangxi University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Inner_Mongolia" title="Inner Mongolia">Inner Mongolia</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Inner_Mongolia_University" title="Inner Mongolia University">Inner Mongolia University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Tibet_Autonomous_Region" title="Tibet Autonomous Region">Tibet</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Tibet_University" title="Tibet University">Tibet University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Xinjiang_University" title="Xinjiang University">Xinjiang University</a></li>
+<li><a href="/wiki/Shihezi_University" title="Shihezi University">Shihezi University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/Project_985" title="Project 985">Project 985</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Universities_and_colleges_in_Beijing" title="Template:Universities and colleges in Beijing"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Universities_and_colleges_in_Beijing" title="Template talk:Universities and colleges in Beijing"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_and_colleges_in_Beijing&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg" class="image"><img alt="Flag of the People's Republic of China.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/20px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/30px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/40px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" /></a> <a href="/wiki/List_of_universities_and_colleges_in_Beijing" title="List of universities and colleges in Beijing">Universities and colleges</a> in <a href="/wiki/Beijing" title="Beijing">Beijing</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Education_in_China" title="Education in China">Education</a>, <a href="/wiki/Higher_education_in_China" title="Higher education in China">Higher education</a>, and <a href="/wiki/List_of_universities_in_China" title="List of universities in China">Universities in China</a></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/National_university" title="National university">National</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Peking_University" title="Peking University">Peking University</a></li>
+<li><a href="/wiki/Renmin_University_of_China" title="Renmin University of China">Renmin University of China</a></li>
+<li><a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></li>
+<li><a href="/wiki/Beijing_Electronic_Science_and_Technology_Institute" title="Beijing Electronic Science and Technology Institute">Beijing Electronic Science and Technology Institute</a></li>
+<li><a href="/wiki/Beijing_Foreign_Studies_University" title="Beijing Foreign Studies University">Beijing Foreign Studies University</a></li>
+<li><a href="/wiki/Beijing_Forestry_University" title="Beijing Forestry University">Beijing Forestry University</a></li>
+<li><a href="/wiki/Beijing_Institute_of_Technology" title="Beijing Institute of Technology">Beijing Institute of Technology</a></li>
+<li><a href="/wiki/Beijing_Jiaotong_University" title="Beijing Jiaotong University">Beijing Jiaotong University</a></li>
+<li><a href="/wiki/Beijing_Language_and_Culture_University" title="Beijing Language and Culture University">Beijing Language and Culture University</a></li>
+<li><a href="/wiki/Beijing_Normal_University" title="Beijing Normal University">Beijing Normal University</a></li>
+<li><a href="/wiki/Beijing_People%27s_Police_College" title="Beijing People's Police College">Beijing People's Police College</a></li>
+<li><a href="/wiki/Beihang_University" title="Beihang University">Beijing University of Aeronautics and Astronautics</a></li>
+<li><a href="/wiki/Beijing_University_of_Chemical_Technology" title="Beijing University of Chemical Technology">Beijing University of Chemical Technology</a></li>
+<li><a href="/wiki/Beijing_University_of_Chinese_Medicine" title="Beijing University of Chinese Medicine">Beijing University of Chinese Medicine</a></li>
+<li><a href="/wiki/Beijing_University_of_Petroleum" title="Beijing University of Petroleum" class="mw-redirect">Beijing University of Petroleum</a></li>
+<li><a href="/wiki/Beijing_University_of_Physical_Education" title="Beijing University of Physical Education" class="mw-redirect">Beijing University of Physical Education</a></li>
+<li><a href="/wiki/Beijing_University_of_Posts_and_Telecommunications" title="Beijing University of Posts and Telecommunications">Beijing University of Posts and Telecommunications</a></li>
+<li><a href="/wiki/Central_Academy_of_Drama" title="Central Academy of Drama">Central Academy of Drama</a></li>
+<li><a href="/wiki/Central_Conservatory_of_Music" title="Central Conservatory of Music">Central Conservatory of Music</a></li>
+<li><a href="/wiki/Central_University_of_Finance_and_Economics" title="Central University of Finance and Economics">Central University of Finance and Economics</a></li>
+<li><a href="/wiki/China_Agricultural_University" title="China Agricultural University">China Agricultural University</a></li>
+<li><a href="/wiki/China_Central_Academy_of_Fine_Arts" title="China Central Academy of Fine Arts">China Central Academy of Fine Arts</a></li>
+<li><a href="/wiki/China_Foreign_Affairs_University" title="China Foreign Affairs University">China Foreign Affairs University</a></li>
+<li><a href="/wiki/China_Institute_of_Industrial_Relations" title="China Institute of Industrial Relations">China Institute of Industrial Relations</a></li>
+<li><strong class="selflink">China University of Geosciences (Beijing campus)</strong></li>
+<li><a href="/wiki/China_University_of_Mining_and_Technology" title="China University of Mining and Technology">China University of Mining and Technology (Beijing campus)</a></li>
+<li><a href="/wiki/China_University_of_Political_Science_and_Law" title="China University of Political Science and Law">China University of Political Science and Law</a></li>
+<li><a href="/wiki/China_Women%27s_University" title="China Women's University">China Women's University</a></li>
+<li><a href="/wiki/China_Youth_University_for_Political_Sciences" title="China Youth University for Political Sciences">China Youth University for Political Sciences</a></li>
+<li><a href="/wiki/Chinese_People%27s_Public_Security_University" title="Chinese People's Public Security University">Chinese People's Public Security University</a></li>
+<li><a href="/wiki/Communications_University_of_China" title="Communications University of China" class="mw-redirect">Communications University of China</a></li>
+<li><a href="/wiki/Minzu_University_of_China" title="Minzu University of China">Minzu University of China</a></li>
+<li><a href="/wiki/North_China_Electric_Power_University" title="North China Electric Power University">North China Electric Power University (Beijing campus)</a></li>
+<li><a href="/wiki/North_China_University_of_Technology" title="North China University of Technology">North China University of Technology</a></li>
+<li><a href="/wiki/Open_University_of_China" title="Open University of China">Open University of China</a></li>
+<li><a href="/wiki/Peking_Union_Medical_College" title="Peking Union Medical College">Peking Union Medical College</a></li>
+<li><a href="/wiki/University_of_the_Chinese_Academy_of_Sciences" title="University of the Chinese Academy of Sciences">University of Chinese Academy of Sciences</a></li>
+<li><a href="/wiki/University_of_International_Business_and_Economics" title="University of International Business and Economics">University of International Business and Economics</a></li>
+<li><a href="/wiki/University_of_International_Relations" title="University of International Relations">University of International Relations</a></li>
+<li><a href="/wiki/University_of_Science_and_Technology_Beijing" title="University of Science and Technology Beijing">University of Science and Technology Beijing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Public_university" title="Public university">Municipal</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Beijing_International_Studies_University" title="Beijing International Studies University">Beijing International Studies University</a></li>
+<li><a href="/wiki/Beijing_Information_Science_%26_Technology_University" title="Beijing Information Science &amp; Technology University">Beijing Information Science and Technology University</a></li>
+<li><a href="/wiki/Beijing_Technology_and_Business_University" title="Beijing Technology and Business University">Beijing Technology and Business University</a></li>
+<li><a href="/wiki/Beijing_University_of_Technology" title="Beijing University of Technology">Beijing University of Technology</a></li>
+<li><a href="/wiki/Beijing_University_of_Agriculture" title="Beijing University of Agriculture" class="mw-redirect">Beijing University of Agriculture</a></li>
+<li><a href="/wiki/Beijing_Materials_University" title="Beijing Materials University" class="mw-redirect">Beijing Materials University</a></li>
+<li><a href="/wiki/Capital_University_of_Economics_and_Business" title="Capital University of Economics and Business">Capital University of Economics and Business</a></li>
+<li><a href="/wiki/Capital_University_of_Medical_Sciences" title="Capital University of Medical Sciences">Capital University of Medical Sciences</a></li>
+<li><a href="/wiki/Capital_Normal_University" title="Capital Normal University">Capital Normal University</a></li>
+<li><a href="/wiki/North_China_University_of_Technology" title="North China University of Technology">North China University of Technology</a></li>
+<li><a href="/wiki/China_College_of_Music" title="China College of Music" class="mw-redirect">China College of Music</a></li>
+<li><a href="/wiki/Beijing_Dance_Academy" title="Beijing Dance Academy">Beijing Dance Academy</a></li>
+<li><a href="/wiki/Beijing_Film_Academy" title="Beijing Film Academy">Beijing Film Academy</a></li>
+<li><a href="/wiki/Beijing_Institute_of_Clothing_Technology" title="Beijing Institute of Clothing Technology">Beijing Institute of Clothing Technology</a></li>
+<li><a href="/wiki/Beijing_Institute_of_Petrochemical_Technology" title="Beijing Institute of Petrochemical Technology">Beijing Institute of Petrochemical Technology</a></li>
+<li><a href="/wiki/Beijing_Institute_of_Machinery" title="Beijing Institute of Machinery">Beijing Institute of Machinery</a></li>
+<li><a href="/wiki/Beijing_Union_University" title="Beijing Union University">Beijing Union University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Private_university" title="Private university">Private</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">Beijing City College</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>See also:</b> <img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/24px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/32px-Symbol_list_class.svg.png 2x" /> <a href="/wiki/List_of_universities_in_China" title="List of universities in China">List of universities in China</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Universities_and_colleges_in_Hubei" title="Template:Universities and colleges in Hubei"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Universities_and_colleges_in_Hubei" title="Template talk:Universities and colleges in Hubei"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_and_colleges_in_Hubei&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/List_of_universities_and_colleges_in_Hubei" title="List of universities and colleges in Hubei">Universities and colleges</a> in <a href="/wiki/Hubei" title="Hubei">Hubei</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/National_university" title="National university">National</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Wuhan_University" title="Wuhan University">Wuhan University</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/Huazhong_University_of_Science_and_Technology" title="Huazhong University of Science and Technology">Huazhong University of Science and Technology</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/Wuhan_University_of_Technology" title="Wuhan University of Technology">Wuhan University of Technology</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><strong class="selflink">China University of Geosciences</strong> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/Huazhong_Agricultural_University" title="Huazhong Agricultural University">Huazhong Agricultural University</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/Huazhong_Normal_University" title="Huazhong Normal University" class="mw-redirect">Central China Normal University</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/Zhongnan_University_of_Economics_and_Law" title="Zhongnan University of Economics and Law">Zhongnan University of Economics and Law</a> <a href="/wiki/National_Key_Universities" title="National Key Universities">Ω</a></li>
+<li><a href="/wiki/South_Central_University_for_Nationalities" title="South Central University for Nationalities">South Central University for Nationalities</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Public_university" title="Public university">Other Public</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">In <a href="/wiki/Wuhan" title="Wuhan">Wuhan</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hubei_University" title="Hubei University">Hubei University</a></li>
+<li><a href="/wiki/Jianghan_University" title="Jianghan University">Jianghan University</a></li>
+<li><a href="/wiki/Wuhan_University_of_Science_and_Technology" title="Wuhan University of Science and Technology">Wuhan University of Science and Technology</a></li>
+<li><a href="/wiki/Hubei_University_of_Technology" title="Hubei University of Technology">Hubei University of Technology</a></li>
+<li><a href="/wiki/Wuhan_Institute_of_Technology" title="Wuhan Institute of Technology">Wuhan Institute of Technology</a></li>
+<li><a href="/w/index.php?title=Wuhan_Textile_University&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Textile University (page does not exist)">Wuhan Textile University</a></li>
+<li><a href="/wiki/Hubei_University_of_Chinese_Medicine" title="Hubei University of Chinese Medicine">Hubei University of Chinese Medicine</a></li>
+<li><a href="/wiki/Wuhan_Polytechnic_University" title="Wuhan Polytechnic University">Wuhan Polytechnic University</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Education&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Education (page does not exist)">Hubei University of Education</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Economics&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Economics (page does not exist)">Hubei University of Economics</a></li>
+<li><a href="/wiki/Wuhan_Institute_of_Physical_Education" title="Wuhan Institute of Physical Education">Wuhan Institute of Physical Education</a></li>
+<li><a href="/wiki/Hubei_Institute_of_Fine_Arts" title="Hubei Institute of Fine Arts">Hubei Institute of Fine Arts</a></li>
+<li><a href="/wiki/Wuhan_Conservatory_of_Music" title="Wuhan Conservatory of Music">Wuhan Conservatory of Music</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Police&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Police (page does not exist)">Hubei University of Police</a></li>
+<li><a href="/wiki/Yangtze_University" title="Yangtze University">Yangtze University</a> <small>(Wuhan Campus)</small></li>
+<li><a href="/w/index.php?title=Wuhan_Business_University&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Business University (page does not exist)">Wuhan Business University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Elsewhere</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Yangtze_University" title="Yangtze University">Yangtze University</a></li>
+<li><a href="/wiki/China_Three_Gorges_University" title="China Three Gorges University">China Three Gorges University</a></li>
+<li><a href="/w/index.php?title=Hubei_Institute_for_Nationalities&amp;action=edit&amp;redlink=1" class="new" title="Hubei Institute for Nationalities (page does not exist)">Hubei Institute for Nationalities</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Arts_and_Science&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Arts and Science (page does not exist)">Hubei University of Arts and Science</a></li>
+<li><a href="/w/index.php?title=Hubei_Engineering_University&amp;action=edit&amp;redlink=1" class="new" title="Hubei Engineering University (page does not exist)">Hubei Engineering University</a></li>
+<li><a href="/w/index.php?title=Yunyang_Medical_College&amp;action=edit&amp;redlink=1" class="new" title="Yunyang Medical College (page does not exist)">Yunyang Medical College</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Automotive_Technology&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Automotive Technology (page does not exist)">Hubei University of Automotive Technology</a></li>
+<li><a href="/wiki/Huanggang_Normal_University" title="Huanggang Normal University">Huanggang Normal University</a></li>
+<li><a href="/w/index.php?title=Huangshi_Institute_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="Huangshi Institute of Technology (page does not exist)">Huangshi Institute of Technology</a></li>
+<li><a href="/w/index.php?title=Hubei_Normal_University&amp;action=edit&amp;redlink=1" class="new" title="Hubei Normal University (page does not exist)">Hubei Normal University</a></li>
+<li><a href="/w/index.php?title=Jingchu_University_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="Jingchu University of Technology (page does not exist)">Jingchu University of Technology</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Science_and_Technology&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Science and Technology (page does not exist)">Hubei University of Science and Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Private_university" title="Private university">Private</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Independent</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Hankou_University" title="Hankou University">Hankou University</a></li>
+<li><a href="/w/index.php?title=Wuhan_Yangtze_Business_University&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Yangtze Business University (page does not exist)">Wuhan Yangtze Business University</a></li>
+<li><a href="/w/index.php?title=Wuhan_Donghu_University&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Donghu University (page does not exist)">Wuhan Donghu University</a></li>
+<li><a href="/w/index.php?title=Wuchang_University_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="Wuchang University of Technology (page does not exist)">Wuchang University of Technology</a></li>
+<li><a href="/w/index.php?title=Wuchang_Institute_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="Wuchang Institute of Technology (page does not exist)">Wuchang Institute of Technology</a></li>
+<li><a href="/w/index.php?title=Wuhan_Bioengineering_Institute&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Bioengineering Institute (page does not exist)">Wuhan Bioengineering Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Affiliated</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/w/index.php?title=Huazhong_University_of_Science_and_Technology_Wenhua_College&amp;action=edit&amp;redlink=1" class="new" title="Huazhong University of Science and Technology Wenhua College (page does not exist)">Huazhong University of Science and Technology Wenhua College</a></li>
+<li><a href="/w/index.php?title=Huazhong_University_of_Science_and_Technology_Wuchang_Branch&amp;action=edit&amp;redlink=1" class="new" title="Huazhong University of Science and Technology Wuchang Branch (page does not exist)">Huazhong University of Science and Technology Wuchang Branch</a></li>
+<li><a href="/w/index.php?title=Jiang_Cheng_College,_China_University_of_Geosciences&amp;action=edit&amp;redlink=1" class="new" title="Jiang Cheng College, China University of Geosciences (page does not exist)">Jiang Cheng College, China University of Geosciences</a></li>
+<li><a href="/w/index.php?title=Wuhan_University_of_Technology_Huaxia_College&amp;action=edit&amp;redlink=1" class="new" title="Wuhan University of Technology Huaxia College (page does not exist)">Wuhan University of Technology Huaxia College</a></li>
+<li><a href="/w/index.php?title=Zhixing_College_of_Hubei_University&amp;action=edit&amp;redlink=1" class="new" title="Zhixing College of Hubei University (page does not exist)">Zhixing College of Hubei University</a></li>
+<li><a href="/w/index.php?title=City_College,_Wuhan_University_of_Science_and_Technology&amp;action=edit&amp;redlink=1" class="new" title="City College, Wuhan University of Science and Technology (page does not exist)">City College, Wuhan University of Science and Technology</a></li>
+<li><a href="/w/index.php?title=Hubei_University_of_Technology_Engineering_and_Technology_College&amp;action=edit&amp;redlink=1" class="new" title="Hubei University of Technology Engineering and Technology College (page does not exist)">Hubei University of Technology Engineering and Technology College</a></li>
+<li><a href="/w/index.php?title=Business_College,_Hubei_University_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="Business College, Hubei University of Technology (page does not exist)">Business College, Hubei University of Technology</a></li>
+<li><a href="/w/index.php?title=International_Business_Economic_College_Wuhan_Textile_University&amp;action=edit&amp;redlink=1" class="new" title="International Business Economic College Wuhan Textile University (page does not exist)">International Business Economic College Wuhan Textile University</a></li>
+<li><a href="/w/index.php?title=The_College_of_Post_and_Telecommunication_of_Wuhan_Institute_of_Technology&amp;action=edit&amp;redlink=1" class="new" title="The College of Post and Telecommunication of Wuhan Institute of Technology (page does not exist)">The College of Post and Telecommunication of Wuhan Institute of Technology</a></li>
+<li><a href="/w/index.php?title=College_of_Law_and_Business_of_Hubei_University_of_Economics&amp;action=edit&amp;redlink=1" class="new" title="College of Law and Business of Hubei University of Economics (page does not exist)">College of Law and Business of Hubei University of Economics</a></li>
+<li><a href="/w/index.php?title=Zhongnan_University_of_Economics_and_Law_Wuhan_College&amp;action=edit&amp;redlink=1" class="new" title="Zhongnan University of Economics and Law Wuhan College (page does not exist)">Zhongnan University of Economics and Law Wuhan College</a></li>
+<li><a href="/wiki/Chutian_College_Hubei_Agricultural_University" title="Chutian College Hubei Agricultural University">Chutian College Hubei Agricultural University</a></li>
+<li><a href="/wiki/Luojia_College,_Wuhan_University" title="Luojia College, Wuhan University">Luojia College, Wuhan University</a></li>
+<li><a href="/w/index.php?title=Wuhan_Media_and_Communication_College_of_Huazhong_Normal_University&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Media and Communication College of Huazhong Normal University (page does not exist)">Wuhan Media and Communication College of Huazhong Normal University</a></li>
+<li><a href="/w/index.php?title=College_of_Arts_and_Sciences_of_Jianghan_University&amp;action=edit&amp;redlink=1" class="new" title="College of Arts and Sciences of Jianghan University (page does not exist)">College of Arts and Sciences of Jianghan University</a></li>
+<li><a href="/w/index.php?title=Wuhan_Institute_of_Physical_Education_School_of_Sport_Science_and_Technology&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Institute of Physical Education School of Sport Science and Technology (page does not exist)">Wuhan Institute of Physical Education School of Sport Science and Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Military</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/w/index.php?title=Naval_Engeering_University&amp;action=edit&amp;redlink=1" class="new" title="Naval Engeering University (page does not exist)">Naval Engeering University</a></li>
+<li><a href="/w/index.php?title=College_of_Second_Artillery_Corps_Officers&amp;action=edit&amp;redlink=1" class="new" title="College of Second Artillery Corps Officers (page does not exist)">College of Second Artillery Corps Officers</a></li>
+<li><a href="/w/index.php?title=Defense_Information_College&amp;action=edit&amp;redlink=1" class="new" title="Defense Information College (page does not exist)">Defense Information College</a></li>
+<li><a href="/w/index.php?title=Military_College_of_Economics&amp;action=edit&amp;redlink=1" class="new" title="Military College of Economics (page does not exist)">Military College of Economics</a></li>
+<li><a href="/w/index.php?title=College_of_Air_Force_Detection&amp;action=edit&amp;redlink=1" class="new" title="College of Air Force Detection (page does not exist)">College of Air Force Detection</a></li>
+<li><a href="/w/index.php?title=College_of_People%27s_Armed_Police_Officers&amp;action=edit&amp;redlink=1" class="new" title="College of People's Armed Police Officers (page does not exist)">College of People's Armed Police Officers</a></li>
+<li><a href="/w/index.php?title=Wuhan_School_of_Ordnance_Officers&amp;action=edit&amp;redlink=1" class="new" title="Wuhan School of Ordnance Officers (page does not exist)">Wuhan School of Ordnance Officers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Vocational</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/w/index.php?title=Wuhan_Commercial_Service_College&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Commercial Service College (page does not exist)">Wuhan Commercial Service College</a></li>
+<li><a href="/wiki/Wuhan_Vocational_College_of_Software_and_Engineering" title="Wuhan Vocational College of Software and Engineering">Wuhan Vocational College of Software and Engineering</a></li>
+<li><a href="/w/index.php?title=Wuhan_Electrical_Technical_Power_College&amp;action=edit&amp;redlink=1" class="new" title="Wuhan Electrical Technical Power College (page does not exist)">Wuhan Electrical Technical Power College</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>See also: <a href="/wiki/List_of_universities_in_China" title="List of universities in China">List of universities in China</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="coordinates" class="metadata coord-missing"></span></p>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 1.080 seconds
+Real time usage: 1.329 seconds
+Preprocessor visited node count: 4074/1000000
+Preprocessor generated node count: 11376/1500000
+Post‐expand include size: 158614/2048000 bytes
+Template argument size: 9594/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 10/500
+Lua time usage: 0.087s
+Lua memory usage: 1.77 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2790409-0!*!0!!en!4!* and timestamp 20131021025413
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=China_University_of_Geosciences&amp;oldid=572131756">http://en.wikipedia.org/w/index.php?title=China_University_of_Geosciences&amp;oldid=572131756</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Universities_and_colleges_in_Beijing" title="Category:Universities and colleges in Beijing">Universities and colleges in Beijing</a></li><li><a href="/wiki/Category:Project_211" title="Category:Project 211">Project 211</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_Wuhan" title="Category:Universities and colleges in Wuhan">Universities and colleges in Wuhan</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_1952" title="Category:Educational institutions established in 1952">Educational institutions established in 1952</a></li><li><a href="/wiki/Category:Geosciences_University_of_China" title="Category:Geosciences University of China">Geosciences University of China</a></li><li><a href="/wiki/Category:1952_establishments_in_China" title="Category:1952 establishments in China">1952 establishments in China</a></li><li><a href="/wiki/Category:Haidian_District" title="Category:Haidian District">Haidian District</a></li><li><a href="/wiki/Category:Geology_of_China" title="Category:Geology of China">Geology of China</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_simplified_Chinese-language_text" title="Category:Articles containing simplified Chinese-language text">Articles containing simplified Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_traditional_Chinese-language_text" title="Category:Articles containing traditional Chinese-language text">Articles containing traditional Chinese-language text</a></li><li><a href="/wiki/Category:People%27s_Republic_of_China_articles_missing_geocoordinate_data" title="Category:People's Republic of China articles missing geocoordinate data">People's Republic of China articles missing geocoordinate data</a></li><li><a href="/wiki/Category:All_articles_needing_coordinates" title="Category:All articles needing coordinates">All articles needing coordinates</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=China+University+of+Geosciences&amp;returntoquery=curid%3D2790409&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=China+University+of+Geosciences&amp;returntoquery=curid%3D2790409" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/China_University_of_Geosciences"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:China_University_of_Geosciences"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/China_University_of_Geosciences" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/China_University_of_Geosciences" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/China_University_of_Geosciences" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=China_University_of_Geosciences&amp;oldid=572131756" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=China_University_of_Geosciences&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1074097" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=China_University_of_Geosciences&amp;id=572131756" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=China+University+of+Geosciences">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=China+University+of+Geosciences&amp;oldid=572131756&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=China_University_of_Geosciences&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Chinesische_Universit%C3%A4t_f%C3%BCr_Geowissenschaften" title="Chinesische Universit?t für Geowissenschaften – German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Universidad_de_Geociencias_de_China" title="Universidad de Geociencias de China – Spanish" lang="es" hreflang="es">Espa?ol</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_des_g%C3%A9osciences_de_Chine" title="Université des géosciences de Chine – French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B3%AA%E5%A4%A7%E5%AD%A6" title="中国地質大学 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%E1%BB%8Ba_ch%E1%BA%A5t_Trung_Qu%E1%BB%91c" title="??i h?c ??a ch?t Trung Qu?c – Vietnamese" lang="vi" hreflang="vi">Ti?ng Vi?t</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E8%B4%A8%E5%A4%A7%E5%AD%A6" title="中国地质大学 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1074097#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 September 2013 at 01:31.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/China_University_of_Geosciences" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1086 in 0.258 secs. -->
+	</body>
+</html>

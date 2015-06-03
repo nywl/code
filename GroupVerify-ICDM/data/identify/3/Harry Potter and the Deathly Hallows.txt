@@ -1,0 +1,233 @@
+{
+ "id": "/m/0t_dp72",
+ "property": {
+  "/common/topic/article": {
+   "valuetype": "compound",
+   "values": [
+    {
+     "text": "Harry Potter and Deathly Hallows is the seventh instalment in the Harry Potter film series which...",
+     "lang": "en",
+     "id": "/m/0t_dp77",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.001Z",
+     "property": {
+      "/common/document/source_uri": {
+       "valuetype": "uri",
+       "values": [
+        {
+         "text": "http://wp/en/31939515",
+         "lang": "",
+         "value": "http://wp/en/31939515",
+         "creator": "/user/wikirecon_bot",
+         "timestamp": "2013-05-07T04:09:54.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/common/document/text": {
+       "valuetype": "string",
+       "values": [
+        {
+         "text": "Harry Potter and Deathly Hallows is the seventh instalment in the Harry Potter film series which...",
+         "lang": "en",
+         "value": "Harry Potter and Deathly Hallows is the seventh instalment in the Harry Potter film series which was released as two separate films:",
+         "creator": "/user/wikirecon_bot",
+         "timestamp": "2013-05-07T04:09:54.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/attribution": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Freebase Data Team",
+         "lang": "",
+         "id": "/m/0t_by5c",
+         "creator": "/user/wikirecon_bot",
+         "timestamp": "2013-05-07T04:09:54.000Z"
+        }
+       ],
+       "count": 1.0
+      },
+      "/type/object/type": {
+       "valuetype": "object",
+       "values": [
+        {
+         "text": "Document",
+         "lang": "",
+         "id": "/common/document",
+         "creator": "/user/wikirecon_bot",
+         "timestamp": "2013-05-07T04:09:54.000Z"
+        }
+       ],
+       "count": 1.0
+      }
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/description": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Harry Potter and the Deathly Hallows refers to the two-part film adaptation of Harry Potter and...",
+     "lang": "en",
+     "value": "Harry Potter and the Deathly Hallows refers to the two-part film adaptation of Harry Potter and the Deathly Hallows, written by J. K. Rowling.\n?Harry Potter and the Deathly Hallows - Part 1 - the first installment, released on November 19, 2010\n?Harry Potter and the Deathly Hallows - Part 2 - the second installment, released on July 7, 2011 and July 15",
+     "creator": "/user/wikirecon_bot",
+     "project": "wikirecon",
+     "dataset": "/m/0kj4zz_",
+     "citation": {
+      "provider": "Wikipedia",
+      "statement": "Description licensed under the Creative Commons Attribution-ShareAlike License (http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).",
+      "uri": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)"
+     }
+    }
+   ],
+   "count": 1.0
+  },
+  "/common/topic/topic_equivalent_webpage": {
+   "valuetype": "uri",
+   "values": [
+    {
+     "text": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    },
+    {
+     "text": "http://en.wikipedia.org/wiki/index.html?curid=31939515",
+     "lang": "",
+     "value": "http://en.wikipedia.org/wiki/index.html?curid=31939515",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 2.0
+  },
+  "/type/object/attribution": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Freebase Data Team",
+     "lang": "en",
+     "id": "/m/0t_by5c",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/key": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/wikipedia/en_title/Harry_Potter_and_the_Deathly_Hallows_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/en_title/Harry_Potter_and_the_Deathly_Hallows_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en_id/31939515",
+     "lang": "",
+     "value": "/wikipedia/en_id/31939515",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    },
+    {
+     "text": "/wikipedia/en/Harry_Potter_and_the_Deathly_Hallows_$0028film$0029",
+     "lang": "",
+     "value": "/wikipedia/en/Harry_Potter_and_the_Deathly_Hallows_$0028film$0029",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:55.000Z"
+    }
+   ],
+   "count": 3.0
+  },
+  "/type/object/mid": {
+   "valuetype": "key",
+   "values": [
+    {
+     "text": "/m/0t_dp72",
+     "lang": "",
+     "value": "/m/0t_dp72"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/name": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "Harry Potter and the Deathly Hallows",
+     "lang": "en",
+     "value": "Harry Potter and the Deathly Hallows",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/type": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "Topic",
+     "lang": "en",
+     "id": "/common/topic",
+     "creator": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/guid": {
+   "valuetype": "string",
+   "values": [
+    {
+     "text": "#9202a8c04000641f8000000033f654e2",
+     "lang": "",
+     "value": "#9202a8c04000641f8000000033f654e2"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/creator": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "wikirecon_bot",
+     "lang": "",
+     "id": "/user/wikirecon_bot",
+     "timestamp": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/timestamp": {
+   "valuetype": "datetime",
+   "values": [
+    {
+     "text": "2013-05-07T04:09:54.000Z",
+     "lang": "en",
+     "value": "2013-05-07T04:09:54.000Z"
+    }
+   ],
+   "count": 1.0
+  },
+  "/type/object/permission": {
+   "valuetype": "object",
+   "values": [
+    {
+     "text": "/boot/all_permission",
+     "lang": "",
+     "id": "/boot/all_permission"
+    }
+   ],
+   "count": 1.0
+  }
+ }
+}

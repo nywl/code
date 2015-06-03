@@ -1,0 +1,7 @@
+microsoft research is located in [new york]
+microsoft research is located in [cambridge]
+microsoft research is located in [california]
+microsoft research is located in [mountain view]
+microsoft research is located in [bangalore]
+microsoft research is located in [beijing]
+microsoft research is located in [Seattle]

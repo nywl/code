@@ -1,0 +1,2568 @@
+1
+@@@ 2011 world artistic gymnastics championships;women;1
+@@@ team title;women;11
+@@@ 2011 world artistic gymnastics championships;Gold;65
+@@@ team title;Gold;24
+@@@ 2011 world artistic gymnastics championships;Japan;4
+@@@ 2011 world artistic gymnastics championships;Japan;1
+@@@ team title;Japan;150
+@@@ 2011 world artistic gymnastics championships;medal;66
+@@@ team title;medal;185
+@@@ 2011 world artistic gymnastics championships;all;55
+@@@ team title;all;2552
+@@@ 2011 world artistic gymnastics championships;Artistic;51
+@@@ team title;Artistic;43
+@@@ 2011 world artistic gymnastics championships;Jordyn Wieber;124
+@@@ team title;Jordyn Wieber;2647
+@@@ 2011 world artistic gymnastics championships;men;110
+@@@ team title;men;0
+@@@ 2011 world artistic gymnastics championships;Wieber;124
+@@@ team title;Wieber;28
+@@@ 2011 world artistic gymnastics championships;Olympic;71
+@@@ team title;Olympic;5382
+@@@ 2011 world artistic gymnastics championships;during;700
+@@@ team title;during;2748
+@@@ 2011 world artistic gymnastics championships;their;395
+@@@ team title;their;4025
+@@@ 2011 world artistic gymnastics championships;women;1
+@@@ team title;women;11
+@@@ 2011 world artistic gymnastics championships;Gold;65
+@@@ team title;Gold;24
+@@@ 2011 world artistic gymnastics championships;Japan;4
+@@@ 2011 world artistic gymnastics championships;Japan;1
+@@@ team title;Japan;150
+@@@ 2011 world artistic gymnastics championships;medal;66
+@@@ team title;medal;185
+@@@ 2011 world artistic gymnastics championships;all;55
+@@@ team title;all;2552
+@@@ 2011 world artistic gymnastics championships;Artistic;51
+@@@ team title;Artistic;43
+@@@ 2011 world artistic gymnastics championships;Jordyn Wieber;124
+@@@ team title;Jordyn Wieber;2647
+@@@ 2011 world artistic gymnastics championships;men;110
+@@@ team title;men;0
+@@@ 2011 world artistic gymnastics championships;Metropolitan;12
+@@@ 2011 world artistic gymnastics championships;Metropolitan;5
+@@@ team title;Metropolitan;5722
+@@@ 2011 world artistic gymnastics championships;Gymnasium;13
+@@@ 2011 world artistic gymnastics championships;Gymnasium;4
+@@@ team title;Gymnasium;5721
+@@@ 2011 world artistic gymnastics championships;held;1
+@@@ 2011 world artistic gymnastics championships;held;1
+@@@ team title;held;1788
+@@@ 2011 world artistic gymnastics championships;Wieber;124
+@@@ team title;Wieber;28
+@@@ 2011 world artistic gymnastics championships;women;1
+@@@ team title;women;11
+@@@ 2011 world artistic gymnastics championships;gold;65
+@@@ team title;gold;24
+@@@ 2011 world artistic gymnastics championships;Japan;4
+@@@ 2011 world artistic gymnastics championships;Japan;1
+@@@ team title;Japan;150
+@@@ 2011 world artistic gymnastics championships;out;3161
+@@@ team title;out;692
+@@@ 2011 world artistic gymnastics championships;men;110
+@@@ team title;men;0
+@@@ 2011 world artistic gymnastics championships;beat;90
+@@@ team title;beat;4813
+@@@ 2011 world artistic gymnastics championships;competition;80
+@@@ team title;competition;690
+@@@ 2011 world artistic gymnastics championships;final;36
+@@@ team title;final;3
+@@@ 2011 world artistic gymnastics championships;women;1
+@@@ team title;women;11
+@@@ 2011 world artistic gymnastics championships;Results;3
+@@@ team title;Results;4
+@@@ 2011 world artistic gymnastics championships;Japan;4
+@@@ 2011 world artistic gymnastics championships;Japan;1
+@@@ team title;Japan;150
+@@@ 2011 world artistic gymnastics championships;gold;65
+@@@ team title;gold;24
+@@@ 2011 world artistic gymnastics championships;Artistic;51
+@@@ team title;Artistic;43
+@@@ 2011 world artistic gymnastics championships;National;396
+@@@ team title;National;4154
+@@@ 2011 world artistic gymnastics championships;Metropolitan;12
+@@@ 2011 world artistic gymnastics championships;Metropolitan;5
+@@@ team title;Metropolitan;5722
+@@@ 2011 world artistic gymnastics championships;Gymnasium;13
+@@@ 2011 world artistic gymnastics championships;Gymnasium;4
+@@@ team title;Gymnasium;5721
+@@@ 2011 world artistic gymnastics championships;fifth;102
+@@@ team title;fifth;13
+@@@ 2011 world artistic gymnastics championships;men;110
+@@@ team title;men;0
+@@@ 2011 world artistic gymnastics championships;Japan;4
+@@@ 2011 world artistic gymnastics championships;Japan;1
+@@@ team title;Japan;150
+@@@ 2011 world artistic gymnastics championships;medal;66
+@@@ team title;medal;185
+@@@ 2011 world artistic gymnastics championships;fifth;102
+@@@ team title;fifth;13
+@@@ 2011 world artistic gymnastics championships;women;1
+@@@ team title;women;11
+@@@ 2011 world artistic gymnastics championships;Chinese;175
+@@@ team title;Chinese;5559
+@@@ 2011 world artistic gymnastics championships;Artistic;51
+@@@ team title;Artistic;43
+@@@ 2011 world artistic gymnastics championships;time;335
+@@@ team title;time;193
+@@@ 2011 world artistic gymnastics championships;day;370
+@@@ team title;day;1749
+2
+@@@ marie curie;Physics;136
+@@@ nobel prize;Physics;1
+@@@ marie curie;science;278
+@@@ marie curie;Pierre;102
+@@@ marie curie;chemistry;118
+@@@ nobel prize;chemistry;1
+@@@ marie curie;Henri Becquerel;47
+@@@ marie curie;two;101
+@@@ nobel prize;awarded;4
+@@@ marie curie;I;58
+@@@ marie curie;more;0
+@@@ nobel prize;more;0
+@@@ nobel prize;other;7
+@@@ marie curie;Chemistry;118
+@@@ nobel prize;Chemistry;1
+@@@ marie curie;physics;136
+@@@ nobel prize;physics;1
+@@@ marie curie;science;278
+@@@ marie curie;study;158
+@@@ nobel prize;awarded;4
+@@@ marie curie;person;15
+@@@ nobel prize;person;97
+@@@ marie curie;radioactivity;111
+@@@ marie curie;more;0
+@@@ nobel prize;more;0
+@@@ marie curie;I;58
+@@@ marie curie;two;101
+@@@ marie curie;life;558
+@@@ marie curie;physics;136
+@@@ nobel prize;physics;1
+@@@ marie curie;Chemistry;118
+@@@ nobel prize;Chemistry;1
+@@@ marie curie;radium;97
+@@@ marie curie;born;203
+@@@ marie curie;radioactivity;111
+@@@ marie curie;Science;278
+@@@ marie curie;Woman;218
+@@@ marie curie;Pierre;102
+@@@ nobel prize;Times;9
+@@@ marie curie;Poland;190
+@@@ nobel prize;most;5
+@@@ marie curie;two;101
+@@@ marie curie;Physics;136
+@@@ nobel prize;Physics;1
+@@@ marie curie;Radium;97
+@@@ marie curie;chemistry;118
+@@@ nobel prize;chemistry;1
+@@@ marie curie;physicist;20
+@@@ marie curie;which;69
+@@@ marie curie;Science;278
+@@@ marie curie;radioactivity;111
+@@@ marie curie;Research;63
+@@@ marie curie;Discovery;103
+@@@ marie curie;I;58
+@@@ marie curie;1934;540
+@@@ marie curie;Born;203
+@@@ marie curie;Famous;270
+@@@ marie curie;chemist;271
+@@@ nobel prize;chemist;38
+@@@ marie curie;Physics;136
+@@@ nobel prize;Physics;1
+@@@ marie curie;two;101
+@@@ nobel prize;awarded;4
+@@@ marie curie;Chemistry;118
+@@@ nobel prize;Chemistry;1
+3
+@@@ harry potter and the deathly hallows;part 2;1
+@@@ film;part 2;38
+@@@ harry potter and the deathly hallows;part 2;1
+@@@ film;part 2;38
+@@@ harry potter and the deathly hallows;part 1;1
+@@@ film;part 1;20
+@@@ harry potter and the deathly hallows;J.K. Rowling;1
+@@@ harry potter and the deathly hallows;two;60
+@@@ film;two;5
+@@@ harry potter and the deathly hallows;part 2;1
+@@@ film;part 2;38
+@@@ harry potter and the deathly hallows;part 1;1
+@@@ film;part 1;20
+@@@ harry potter and the deathly hallows;two;60
+@@@ film;two;5
+@@@ harry potter and the deathly hallows;part 1;1
+@@@ film;part 1;20
+@@@ harry potter and the deathly hallows;part 2;1
+@@@ film;part 2;38
+@@@ harry potter and the deathly hallows;part 1;1
+@@@ film;part 1;20
+@@@ harry potter and the deathly hallows;two;60
+@@@ film;two;5
+4
+@@@ 2012 summer olympics;breaststroke;96
+@@@ gold medal;breaststroke;265
+@@@ men's 100m;breaststroke;0
+@@@ swimming;breaststroke;1108
+@@@ 2012 summer olympics;I;753
+@@@ gold medal;I;1229
+@@@ men's 100m;I;2403
+@@@ swimming;I;758
+@@@ 2012 summer olympics;100;4
+@@@ gold medal;100;498
+@@@ men's 100m;100;215
+@@@ swimming;100;1341
+@@@ 2012 summer olympics;France;251
+@@@ gold medal;France;727
+@@@ men's 100m;France;1901
+@@@ swimming;France;256
+@@@ 2012 summer olympics;South;264
+@@@ gold medal;South;740
+@@@ men's 100m;South;1914
+@@@ swimming;South;269
+@@@ 2012 summer olympics;Sports;702
+@@@ gold medal;Sports;3591
+@@@ men's 100m;Sports;3308
+@@@ swimming;Sports;1528
+@@@ 2012 summer olympics;freestyle;67
+@@@ gold medal;freestyle;236
+@@@ men's 100m;freestyle;0
+@@@ swimming;freestyle;1079
+@@@ 2012 summer olympics;100;4
+@@@ gold medal;100;498
+@@@ men's 100m;100;215
+@@@ swimming;100;1341
+@@@ 2012 summer olympics;United;5
+@@@ gold medal;United;228
+@@@ men's 100m;United;1402
+@@@ swimming;United;2
+@@@ 2012 summer olympics;Sports;702
+@@@ gold medal;Sports;3591
+@@@ men's 100m;Sports;3308
+@@@ swimming;Sports;1528
+@@@ 2012 summer olympics;Backstroke;111
+@@@ gold medal;Backstroke;280
+@@@ men's 100m;Backstroke;0
+@@@ swimming;Backstroke;1123
+@@@ 2012 summer olympics;100;4
+@@@ gold medal;100;498
+@@@ men's 100m;100;215
+@@@ swimming;100;1341
+@@@ 2012 summer olympics;event;15
+@@@ gold medal;event;2809
+@@@ men's 100m;event;2526
+@@@ swimming;event;746
+@@@ 2012 summer olympics;Aquatics;749
+@@@ gold medal;Aquatics;2458
+@@@ men's 100m;Aquatics;3632
+@@@ swimming;Aquatics;1987
+@@@ 2012 summer olympics;freestyle;67
+@@@ gold medal;freestyle;236
+@@@ men's 100m;freestyle;0
+@@@ swimming;freestyle;1079
+@@@ 2012 summer olympics;4;2
+@@@ gold medal;4;500
+@@@ men's 100m;4;217
+@@@ swimming;4;1343
+@@@ 2012 summer olympics;during;125
+@@@ gold medal;during;2741
+@@@ men's 100m;during;2458
+@@@ swimming;during;678
+@@@ 2012 summer olympics;women;1
+@@@ gold medal;women;3
+@@@ men's 100m;women;72
+@@@ swimming;women;6
+@@@ 2012 summer olympics;Butterfly;81
+@@@ gold medal;Butterfly;250
+@@@ men's 100m;Butterfly;0
+@@@ swimming;Butterfly;1093
+@@@ 2012 summer olympics;individual;2
+@@@ gold medal;individual;1
+@@@ men's 100m;individual;29
+@@@ swimming;individual;9
+@@@ 2012 summer olympics;medley;5
+@@@ gold medal;medley;1
+@@@ men's 100m;medley;1091
+@@@ swimming;medley;10
+@@@ 2012 summer olympics;done;157
+@@@ gold medal;done;2709
+@@@ men's 100m;done;2426
+@@@ swimming;done;646
+5
+@@@ g.i. joe;Film;0
+@@@ director;Film;1441
+@@@ g.i. joe;2;1
+@@@ director;2;1250
+@@@ g.i. joe;Rise;2
+@@@ g.i. joe;Rise;2
+@@@ director;Rise;654
+@@@ g.i. joe;last;23
+@@@ director;last;2071
+@@@ g.i. joe;Direct;6
+@@@ director;Direct;1059
+@@@ g.i. joe;Cobra;2
+@@@ g.i. joe;Cobra;0
+@@@ director;Cobra;320
+@@@ g.i. joe;the rise of cobra;1
+@@@ g.i. joe;the rise of cobra;1
+@@@ director;the rise of cobra;652
+@@@ g.i. joe;Sequel;0
+@@@ director;Sequel;1963
+@@@ g.i. joe;I;12
+@@@ g.i. joe;I;4
+@@@ director;I;18
+@@@ g.i. joe;Retaliation;1
+@@@ director;Retaliation;429
+@@@ g.i. joe;3;6
+@@@ g.i. joe;3;1
+@@@ director;3;1507
+@@@ g.i. joe;direct;6
+@@@ director;direct;1059
+@@@ g.i. joe;Masters;72
+@@@ director;Masters;3260
+@@@ g.i. joe;Universe;131
+@@@ director;Universe;3367
+@@@ g.i. joe;Up;1
+@@@ director;Up;846
+@@@ g.i. joe;Made;5
+@@@ g.i. joe;Made;2
+@@@ director;Made;103
+@@@ g.i. joe;Paramount;63
+@@@ director;Paramount;1678
+@@@ g.i. joe;comics;0
+@@@ director;comics;410
+@@@ g.i. joe;film;0
+@@@ director;film;1441
+@@@ g.i. joe;the rise of cobra;1
+@@@ g.i. joe;the rise of cobra;1
+@@@ director;the rise of cobra;652
+@@@ g.i. joe;Film;0
+@@@ director;Film;1441
+@@@ g.i. joe;Retaliation;1
+@@@ director;Retaliation;429
+@@@ g.i. joe;World;14
+@@@ g.i. joe;World;2
+@@@ director;World;1058
+@@@ g.i. joe;star;17
+@@@ director;star;1455
+@@@ g.i. joe;Movies;1
+@@@ director;Movies;1453
+@@@ g.i. joe;Joseph Gordon-Levitt;14
+@@@ director;Joseph Gordon-Levitt;1773
+@@@ g.i. joe;2009;7
+@@@ director;2009;612
+@@@ g.i. joe;I;12
+@@@ g.i. joe;I;4
+@@@ director;I;18
+@@@ g.i. joe;Retaliation;1
+@@@ director;Retaliation;429
+@@@ g.i. joe;Rock;75
+@@@ director;Rock;2803
+@@@ g.i. joe;Framed;25
+@@@ director;Framed;1991
+@@@ g.i. joe;2;1
+@@@ director;2;1250
+@@@ g.i. joe;News;6
+@@@ director;News;2431
+@@@ g.i. joe;Stars;5
+@@@ director;Stars;112
+@@@ g.i. joe;new;0
+@@@ director;new;142
+@@@ g.i. joe;up;1
+@@@ director;up;846
+@@@ g.i. joe;characters;0
+@@@ director;characters;158
+@@@ g.i. joe;Retaliation;1
+@@@ director;Retaliation;429
+@@@ g.i. joe;movie;0
+@@@ director;movie;506
+@@@ g.i. joe;2;1
+@@@ director;2;1250
+@@@ g.i. joe;Hollywood;4
+@@@ director;Hollywood;1737
+@@@ g.i. joe;2013;5
+@@@ director;2013;400
+@@@ g.i. joe;Action;1
+@@@ g.i. joe;Action;1
+@@@ director;Action;128
+@@@ g.i. joe;American;3
+@@@ g.i. joe;American;2
+@@@ director;American;163
+@@@ g.i. joe;Storm;6
+@@@ director;Storm;316
+6
+@@@ thomas l. magnanti;Dr;97
+@@@ master's degrees;Dr;23
+@@@ thomas l. magnanti;MIT;37
+@@@ master's degrees;MIT;13
+@@@ thomas l. magnanti;MIT;3
+@@@ master's degrees;MIT;32
+@@@ thomas l. magnanti;free;3
+@@@ master's degrees;free;117
+@@@ thomas l. magnanti;Engineering;14
+@@@ master's degrees;Engineering;5
+@@@ thomas l. magnanti;Engineering;0
+@@@ master's degrees;Engineering;5
+@@@ thomas l. magnanti;Professor;6
+@@@ master's degrees;Professor;24
+@@@ thomas l. magnanti;Professor;8
+@@@ master's degrees;Professor;27
+@@@ thomas l. magnanti;Dean;3
+@@@ master's degrees;Dean;27
+@@@ thomas l. magnanti;Dean;5
+@@@ master's degrees;Dean;30
+@@@ thomas l. magnanti;engineering;14
+@@@ master's degrees;engineering;5
+@@@ thomas l. magnanti;engineering;0
+@@@ master's degrees;engineering;5
+@@@ thomas l. magnanti;free;3
+@@@ master's degrees;free;117
+@@@ thomas l. magnanti;Dean;3
+@@@ master's degrees;Dean;27
+@@@ thomas l. magnanti;Dean;5
+@@@ master's degrees;Dean;30
+@@@ thomas l. magnanti;MIT;37
+@@@ master's degrees;MIT;13
+@@@ thomas l. magnanti;MIT;3
+@@@ master's degrees;MIT;32
+@@@ thomas l. magnanti;Professor;6
+@@@ master's degrees;Professor;24
+@@@ thomas l. magnanti;Professor;8
+@@@ master's degrees;Professor;27
+@@@ thomas l. magnanti;show;10
+@@@ master's degrees;show;571
+@@@ thomas l. magnanti;you;260
+@@@ master's degrees;you;845
+@@@ thomas l. magnanti;engineering;14
+@@@ master's degrees;engineering;5
+@@@ thomas l. magnanti;engineering;0
+@@@ master's degrees;engineering;5
+@@@ thomas l. magnanti;free;3
+@@@ master's degrees;free;117
+@@@ thomas l. magnanti;dean;3
+@@@ master's degrees;dean;27
+@@@ thomas l. magnanti;dean;5
+@@@ master's degrees;dean;30
+@@@ thomas l. magnanti;born;0
+@@@ master's degrees;born;52
+@@@ thomas l. magnanti;born;0
+@@@ master's degrees;born;71
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;17
+@@@ master's degrees;Massachusetts Institute of Technology;30
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;19
+@@@ master's degrees;Massachusetts Institute of Technology;38
+@@@ thomas l. magnanti;mathematics;60
+@@@ master's degrees;mathematics;5
+@@@ thomas l. magnanti;mathematics;2
+@@@ master's degrees;mathematics;5
+@@@ thomas l. magnanti;Education;257
+@@@ master's degrees;Education;455
+@@@ thomas l. magnanti;Education;243
+@@@ master's degrees;Education;338
+@@@ thomas l. magnanti;State;300
+@@@ master's degrees;State;885
+@@@ thomas l. magnanti;George Dantzig;210
+@@@ master's degrees;George Dantzig;408
+@@@ thomas l. magnanti;View;173
+@@@ master's degrees;View;758
+@@@ thomas l. magnanti;Professor;6
+@@@ master's degrees;Professor;24
+@@@ thomas l. magnanti;Professor;8
+@@@ master's degrees;Professor;27
+@@@ thomas l. magnanti;research;73
+@@@ master's degrees;research;18
+@@@ thomas l. magnanti;research;7
+@@@ master's degrees;research;18
+@@@ thomas l. magnanti;Tom;19
+@@@ master's degrees;Tom;562
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;17
+@@@ master's degrees;Massachusetts Institute of Technology;30
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;19
+@@@ master's degrees;Massachusetts Institute of Technology;38
+@@@ thomas l. magnanti;former;4
+@@@ master's degrees;former;26
+@@@ thomas l. magnanti;former;10
+@@@ master's degrees;former;29
+@@@ thomas l. magnanti;work;44
+@@@ master's degrees;work;27
+@@@ thomas l. magnanti;Professor;6
+@@@ master's degrees;Professor;24
+@@@ thomas l. magnanti;Professor;8
+@@@ master's degrees;Professor;27
+@@@ thomas l. magnanti;Technology;20
+@@@ master's degrees;Technology;20
+@@@ thomas l. magnanti;Technology;3
+@@@ master's degrees;Technology;39
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;17
+@@@ master's degrees;Massachusetts Institute of Technology;30
+@@@ thomas l. magnanti;Massachusetts Institute of Technology;19
+@@@ master's degrees;Massachusetts Institute of Technology;38
+@@@ thomas l. magnanti;View;173
+@@@ master's degrees;View;758
+@@@ thomas l. magnanti;Tom;19
+@@@ master's degrees;Tom;562
+@@@ thomas l. magnanti;2004;7
+@@@ master's degrees;2004;445
+@@@ thomas l. magnanti;MIT;37
+@@@ master's degrees;MIT;13
+@@@ thomas l. magnanti;MIT;3
+@@@ master's degrees;MIT;32
+@@@ thomas l. magnanti;history;174
+@@@ master's degrees;history;759
+@@@ thomas l. magnanti;free;3
+@@@ master's degrees;free;117
+@@@ thomas l. magnanti;Technology;20
+@@@ master's degrees;Technology;20
+@@@ thomas l. magnanti;Technology;3
+@@@ master's degrees;Technology;39
+@@@ thomas l. magnanti;dean;3
+@@@ master's degrees;dean;27
+@@@ thomas l. magnanti;dean;5
+@@@ master's degrees;dean;30
+@@@ thomas l. magnanti;MIT;37
+@@@ master's degrees;MIT;13
+@@@ thomas l. magnanti;MIT;3
+@@@ master's degrees;MIT;32
+@@@ thomas l. magnanti;program;63
+@@@ master's degrees;program;112
+@@@ thomas l. magnanti;program;195
+@@@ master's degrees;program;121
+@@@ thomas l. magnanti;Dr;97
+@@@ master's degrees;Dr;23
+@@@ thomas l. magnanti;professor;6
+@@@ master's degrees;professor;24
+@@@ thomas l. magnanti;professor;8
+@@@ master's degrees;professor;27
+@@@ thomas l. magnanti;School;3
+@@@ master's degrees;School;30
+@@@ thomas l. magnanti;School;2
+@@@ master's degrees;School;33
+@@@ thomas l. magnanti;Biography;42
+@@@ master's degrees;Biography;16
+@@@ thomas l. magnanti;free;3
+@@@ master's degrees;free;117
+@@@ thomas l. magnanti;Mathematics;60
+@@@ master's degrees;Mathematics;5
+@@@ thomas l. magnanti;Mathematics;2
+@@@ master's degrees;Mathematics;5
+7
+@@@ 2012 summer olympics;platform;112
+@@@ gold medal;platform;281
+@@@ diving at the 2012 summer olympics;platform;4
+@@@ 2012 summer olympics;10;2
+@@@ gold medal;10;4
+@@@ diving at the 2012 summer olympics;10;2
+@@@ 2012 summer olympics;summer;19
+@@@ gold medal;summer;6
+@@@ diving at the 2012 summer olympics;summer;20
+@@@ diving at the 2012 summer olympics;divers;237
+@@@ 2012 summer olympics;during;125
+@@@ gold medal;during;2727
+@@@ 2012 summer olympics;champion;105
+@@@ gold medal;champion;2747
+@@@ 2012 summer olympics;Aquatics;749
+@@@ gold medal;Aquatics;2458
+@@@ diving at the 2012 summer olympics;Aquatics;25
+@@@ 2012 summer olympics;Stadium;71
+@@@ gold medal;Stadium;2781
+@@@ diving at the 2012 summer olympics;one;193
+@@@ 2012 summer olympics;15;12
+@@@ gold medal;15;207
+@@@ diving at the 2012 summer olympics;15;384
+@@@ 2012 summer olympics;metres;5
+@@@ gold medal;metres;483
+@@@ 2012 summer olympics;Athletics;2
+@@@ gold medal;Athletics;400
+@@@ 2012 summer olympics;Russia;278
+@@@ gold medal;Russia;754
+@@@ diving at the 2012 summer olympics;springboard;4
+@@@ diving at the 2012 summer olympics;3m;217
+@@@ 2012 summer olympics;metre;3
+@@@ gold medal;metre;3
+@@@ diving at the 2012 summer olympics;metre;3
+@@@ 2012 summer olympics;China;4
+@@@ gold medal;China;14
+@@@ 2012 summer olympics;three;153
+@@@ gold medal;three;2699
+@@@ diving at the 2012 summer olympics;three;70
+@@@ 2012 summer olympics;took;35
+@@@ gold medal;took;2817
+@@@ diving at the 2012 summer olympics;took;154
+@@@ diving at the 2012 summer olympics;synchronized;2
+@@@ 2012 summer olympics;Platform;112
+@@@ gold medal;Platform;281
+@@@ diving at the 2012 summer olympics;Platform;4
+@@@ 2012 summer olympics;10;2
+@@@ gold medal;10;4
+@@@ diving at the 2012 summer olympics;10;2
+@@@ 2012 summer olympics;United Kingdom;4
+@@@ gold medal;United Kingdom;408
+@@@ 2012 summer olympics;China;4
+@@@ gold medal;China;14
+@@@ diving at the 2012 summer olympics;10m;222
+@@@ 2012 summer olympics;platform;112
+@@@ gold medal;platform;281
+@@@ diving at the 2012 summer olympics;platform;4
+@@@ diving at the 2012 summer olympics;10m;222
+@@@ 2012 summer olympics;bronze;5
+@@@ gold medal;bronze;91
+@@@ 2012 summer olympics;China;4
+@@@ gold medal;China;14
+@@@ 2012 summer olympics;I;753
+@@@ gold medal;I;1229
+8
+@@@ the lord of the rings;Movies;71
+@@@ the lord of the rings;the fellowship of the ring;0
+@@@ the lord of the rings;one;29
+@@@ the lord of the rings;Peter Jackson;9
+@@@ the lord of the rings;trilogy;2
+@@@ the lord of the rings;two;1
+@@@ the lord of the rings;fantasy;6
+@@@ the lord of the rings;adventure;5
+@@@ the lord of the rings;directed;12
+@@@ the lord of the rings;Line;24
+@@@ the lord of the rings;based;3
+@@@ the lord of the rings;New;23
+@@@ the lord of the rings;film;2
+@@@ the lord of the rings;the fellowship of the ring;0
+@@@ the lord of the rings;trilogy;2
+@@@ the lord of the rings;Tolkien;0
+@@@ the lord of the rings;movies;71
+@@@ the lord of the rings;New;23
+@@@ the lord of the rings;King;4
+@@@ the lord of the rings;Return;1
+@@@ the lord of the rings;fantasy;6
+@@@ the lord of the rings;the return of the king;0
+@@@ the lord of the rings;War;206
+@@@ the lord of the rings;the fellowship of the ring;0
+@@@ the lord of the rings;Extended;78
+@@@ the lord of the rings;film;2
+@@@ the lord of the rings;Trilogy;2
+@@@ the lord of the rings;New;23
+@@@ the lord of the rings;Movies;71
+@@@ the lord of the rings;film;2
+@@@ the lord of the rings;the two towers;0
+@@@ the lord of the rings;the fellowship of the ring;0
+@@@ the lord of the rings;one;29
+@@@ the lord of the rings;Peter Jackson;9
+@@@ the lord of the rings;Tolkien;0
+@@@ the lord of the rings;trilogy;2
+@@@ the lord of the rings;New;23
+@@@ the lord of the rings;free;196
+@@@ the lord of the rings;Fellowship;1
+@@@ the lord of the rings;adventure;5
+@@@ the lord of the rings;the return of the king;0
+@@@ the lord of the rings;film;2
+@@@ the lord of the rings;Middle-Earth;97
+@@@ the lord of the rings;DVD;82
+@@@ the lord of the rings;Trilogy;2
+@@@ the lord of the rings;the return of the king;0
+@@@ the lord of the rings;film;2
+@@@ the lord of the rings;one;29
+@@@ the lord of the rings;free;196
+@@@ the lord of the rings;Peter Jackson;9
+@@@ the lord of the rings;trilogy;2
+@@@ the lord of the rings;year;84
+@@@ the lord of the rings;DVD;82
+9
+@@@ 2010 winter olympics;moguls;2
+@@@ freestyle skiing;moguls;7
+@@@ gold medal;moguls;1
+@@@ freestyle skiing at the 2010 winter olympics;moguls;2
+@@@ freestyle skiing;moguls;2
+@@@ 2010 winter olympics;Canada;5
+@@@ freestyle skiing;Canada;1
+@@@ gold medal;Canada;78
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ 2010 winter olympics;Games;5
+@@@ freestyle skiing;Games;82
+@@@ gold medal;Games;1142
+@@@ 2010 winter olympics;ski;132
+@@@ freestyle skiing;ski;239
+@@@ gold medal;ski;818
+@@@ freestyle skiing at the 2010 winter olympics;ski;10
+@@@ freestyle skiing;ski;15
+@@@ freestyle skiing at the 2010 winter olympics;ski;15
+@@@ freestyle skiing;ski;20
+@@@ freestyle skiing at the 2010 winter olympics;ski;3
+@@@ freestyle skiing;ski;3
+@@@ 2010 winter olympics;Cypress;134
+@@@ freestyle skiing;Cypress;241
+@@@ gold medal;Cypress;816
+@@@ freestyle skiing at the 2010 winter olympics;Cypress;8
+@@@ freestyle skiing;Cypress;13
+@@@ freestyle skiing at the 2010 winter olympics;Cypress;13
+@@@ freestyle skiing;Cypress;18
+@@@ freestyle skiing at the 2010 winter olympics;Cypress;9
+@@@ freestyle skiing;Cypress;14
+@@@ 2010 winter olympics;Mountain;133
+@@@ freestyle skiing;Mountain;240
+@@@ gold medal;Mountain;817
+@@@ freestyle skiing at the 2010 winter olympics;Mountain;116
+@@@ freestyle skiing;Mountain;116
+@@@ freestyle skiing at the 2010 winter olympics;Mountain;159
+@@@ freestyle skiing;Mountain;164
+@@@ freestyle skiing at the 2010 winter olympics;Mountain;169
+@@@ freestyle skiing;Mountain;174
+@@@ freestyle skiing at the 2010 winter olympics;I;157
+@@@ freestyle skiing;I;157
+@@@ freestyle skiing at the 2010 winter olympics;I;34
+@@@ freestyle skiing;I;39
+@@@ freestyle skiing at the 2010 winter olympics;I;328
+@@@ freestyle skiing;I;333
+@@@ 2010 winter olympics;ski;132
+@@@ freestyle skiing;ski;239
+@@@ gold medal;ski;818
+@@@ freestyle skiing at the 2010 winter olympics;ski;10
+@@@ freestyle skiing;ski;15
+@@@ freestyle skiing at the 2010 winter olympics;ski;15
+@@@ freestyle skiing;ski;20
+@@@ freestyle skiing at the 2010 winter olympics;ski;3
+@@@ freestyle skiing;ski;3
+@@@ freestyle skiing at the 2010 winter olympics;took;3
+@@@ freestyle skiing;took;8
+@@@ freestyle skiing at the 2010 winter olympics;took;3
+@@@ freestyle skiing;took;8
+@@@ freestyle skiing at the 2010 winter olympics;took;3
+@@@ freestyle skiing;took;8
+@@@ 2010 winter olympics;Games;5
+@@@ freestyle skiing;Games;82
+@@@ gold medal;Games;1142
+@@@ freestyle skiing at the 2010 winter olympics;Hi;331
+@@@ freestyle skiing;Hi;336
+@@@ freestyle skiing at the 2010 winter olympics;ski cross;2
+@@@ freestyle skiing;ski cross;2
+@@@ 2010 winter olympics;Canada;5
+@@@ freestyle skiing;Canada;1
+@@@ gold medal;Canada;78
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ 2010 winter olympics;Games;5
+@@@ freestyle skiing;Games;82
+@@@ gold medal;Games;1142
+@@@ 2010 winter olympics;British Columbia;14
+@@@ freestyle skiing;British Columbia;2535
+@@@ gold medal;British Columbia;2546
+@@@ freestyle skiing at the 2010 winter olympics;I;157
+@@@ freestyle skiing;I;157
+@@@ freestyle skiing at the 2010 winter olympics;I;34
+@@@ freestyle skiing;I;39
+@@@ freestyle skiing at the 2010 winter olympics;I;328
+@@@ freestyle skiing;I;333
+@@@ 2010 winter olympics;12;7
+@@@ freestyle skiing;12;505
+@@@ gold medal;12;516
+@@@ freestyle skiing at the 2010 winter olympics;12;438
+@@@ freestyle skiing;12;438
+@@@ 2010 winter olympics;Canada;5
+@@@ freestyle skiing;Canada;1
+@@@ gold medal;Canada;78
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ freestyle skiing at the 2010 winter olympics;Canada;2
+@@@ freestyle skiing;Canada;7
+@@@ 2010 winter olympics;Moguls;2
+@@@ freestyle skiing;Moguls;7
+@@@ gold medal;Moguls;1
+@@@ freestyle skiing at the 2010 winter olympics;Moguls;2
+@@@ freestyle skiing;Moguls;2
+@@@ freestyle skiing at the 2010 winter olympics;I;157
+@@@ freestyle skiing;I;157
+@@@ freestyle skiing at the 2010 winter olympics;I;34
+@@@ freestyle skiing;I;39
+@@@ freestyle skiing at the 2010 winter olympics;I;328
+@@@ freestyle skiing;I;333
+@@@ 2010 winter olympics;Games;5
+@@@ freestyle skiing;Games;82
+@@@ gold medal;Games;1142
+@@@ 2010 winter olympics;Silver;4
+@@@ freestyle skiing;Silver;9
+@@@ gold medal;Silver;91
+@@@ 2010 winter olympics;2006;20
+@@@ freestyle skiing;2006;2479
+@@@ gold medal;2006;2490
+@@@ freestyle skiing at the 2010 winter olympics;2006;196
+@@@ freestyle skiing;2006;196
+@@@ 2010 winter olympics;Turin;24
+@@@ freestyle skiing;Turin;2488
+@@@ gold medal;Turin;2499
+@@@ freestyle skiing at the 2010 winter olympics;aerials;2
+@@@ freestyle skiing;aerials;2
+@@@ 2010 winter olympics;Australia;199
+@@@ freestyle skiing;Australia;537
+@@@ gold medal;Australia;520
+@@@ freestyle skiing at the 2010 winter olympics;Australia;61
+@@@ freestyle skiing;Australia;66
+@@@ 2010 winter olympics;Games;5
+@@@ freestyle skiing;Games;82
+@@@ gold medal;Games;1142
+@@@ freestyle skiing at the 2010 winter olympics;final;23
+@@@ freestyle skiing;final;28
+10
+@@@ olympic games;Summer;2
+@@@ olympic games;Sports;7
+@@@ olympic games;which;0
+@@@ olympic games;Winter;0
+@@@ olympic games;all;60
+@@@ olympic games;Winter;0
+@@@ olympic games;Summer;2
+@@@ olympic games;Summer;2
+@@@ olympic games;ancient;0
+@@@ olympic games;Winter;0
+@@@ olympic games;Modern;0
+@@@ olympic games;Olympia;3
+@@@ olympic games;sports;7
+@@@ olympic games;years;4
+@@@ olympic games;international;3
+@@@ olympic games;every;2
+@@@ olympic games;four;3
+@@@ olympic games;Summer;2
+@@@ olympic games;Winter;0
+@@@ olympic games;Sports;7
+@@@ olympic games;Every;2
+@@@ olympic games;Winter;0
+@@@ olympic games;Summer;2
+@@@ olympic games;all;60
+@@@ olympic games;ice;12
+11
+@@@ wrestling at the 2012 summer olympics;72kg;3
+@@@ 2012 summer olympics;Russia;278
+@@@ gold medal;Russia;754
+@@@ wrestling at the 2012 summer olympics;Russia;139
+@@@ wrestling at the 2012 summer olympics;final;8
+@@@ wrestling at the 2012 summer olympics;Thursday;124
+@@@ wrestling at the 2012 summer olympics;Bulgaria;35
+@@@ wrestling at the 2012 summer olympics;48kg;6
+@@@ 2012 summer olympics;I;753
+@@@ gold medal;I;1229
+@@@ 2012 summer olympics;bronze;5
+@@@ gold medal;bronze;91
+@@@ wrestling at the 2012 summer olympics;bronze;17
+@@@ wrestling at the 2012 summer olympics;USA;188
+@@@ wrestling at the 2012 summer olympics;Wednesday;149
+@@@ 2012 summer olympics;men;1
+@@@ gold medal;men;3
+@@@ wrestling at the 2012 summer olympics;men;33
+@@@ wrestling at the 2012 summer olympics;Clarissa Chun;191
+@@@ wrestling at the 2012 summer olympics;Ukraine;160
+@@@ 2012 summer olympics;event;15
+@@@ gold medal;event;2795
+@@@ wrestling at the 2012 summer olympics;event;92
+@@@ 2012 summer olympics;Chun;286
+@@@ gold medal;Chun;3026
+@@@ wrestling at the 2012 summer olympics;Chun;191
+@@@ 2012 summer olympics;0;96
+@@@ gold medal;0;572
+@@@ wrestling at the 2012 summer olympics;0;39
+@@@ wrestling at the 2012 summer olympics;Japan;98
+@@@ wrestling at the 2012 summer olympics;48kg;6
+@@@ 2012 summer olympics;I;753
+@@@ gold medal;I;1229
+@@@ wrestling at the 2012 summer olympics;Wednesday;149
+@@@ 2012 summer olympics;3;1298
+@@@ gold medal;3;4173
+@@@ wrestling at the 2012 summer olympics;3;11
+@@@ wrestling at the 2012 summer olympics;Japan;98
+@@@ wrestling at the 2012 summer olympics;63kg;5
+@@@ 2012 summer olympics;three;153
+@@@ gold medal;three;2699
+@@@ 2012 summer olympics;I;753
+@@@ gold medal;I;1229
+@@@ wrestling at the 2012 summer olympics;Wednesday;149
+@@@ 2012 summer olympics;China;4
+@@@ gold medal;China;14
+@@@ wrestling at the 2012 summer olympics;China;47
+@@@ wrestling at the 2012 summer olympics;Final;8
+@@@ wrestling at the 2012 summer olympics;Japan;98
+@@@ wrestling at the 2012 summer olympics;55kg;2
+@@@ 2012 summer olympics;three;153
+@@@ gold medal;three;2699
+@@@ wrestling at the 2012 summer olympics;USA;188
+@@@ wrestling at the 2012 summer olympics;Thursday;124
+@@@ wrestling at the 2012 summer olympics;wrestlers;150
+@@@ 2012 summer olympics;Sports;702
+@@@ gold medal;Sports;3577
+12
+@@@ microsoft research;labs;0
+@@@ microsoft research;City;37
+@@@ microsoft research;City;0
+@@@ microsoft research;Center;52
+@@@ microsoft research;Center;5
+@@@ microsoft research;up;22
+@@@ microsoft research;up;19
+@@@ microsoft research;other;38
+@@@ microsoft research;other;0
+@@@ microsoft research;Data;41
+@@@ microsoft research;Data;36
+@@@ microsoft research;founded;2
+@@@ microsoft research;Machine;830
+@@@ microsoft research;Machine;17
+@@@ microsoft research;Learning;18
+@@@ microsoft research;office;0
+@@@ microsoft research;Center;52
+@@@ microsoft research;Center;5
+@@@ microsoft research;Massachusetts;28
+@@@ microsoft research;Massachusetts;5
+@@@ microsoft research;New England;0
+@@@ microsoft research;one;5
+@@@ microsoft research;Development;807
+@@@ microsoft research;Development;13
+@@@ microsoft research;innovation;15
+@@@ microsoft research;New;6
+@@@ microsoft research;New;0
+@@@ microsoft research;world;18
+@@@ microsoft research;world;19
+@@@ microsoft research;established;1
+@@@ microsoft research;campus;0
+@@@ microsoft research;software;96
+@@@ microsoft research;software;22
+@@@ microsoft research;centers;47
+@@@ microsoft research;centers;3
+@@@ microsoft research;worldwide;454
+@@@ microsoft research;worldwide;36
+@@@ microsoft research;information;86
+@@@ microsoft research;free;3
+@@@ microsoft research;links;5
+@@@ microsoft research;founded;2
+@@@ microsoft research;campus;0
+@@@ microsoft research;Silicon Valley;0
+@@@ microsoft research;Campus;0
+@@@ microsoft research;software;96
+@@@ microsoft research;software;22
+@@@ microsoft research;one;5
+@@@ microsoft research;Building;12
+@@@ microsoft research;free;3
+@@@ microsoft research;established;1
+@@@ microsoft research;India;0
+@@@ microsoft research;Facility;15
+@@@ microsoft research;free;3
+@@@ microsoft research;established;1
+@@@ microsoft research;lab;441
+@@@ microsoft research;lab;8
+@@@ microsoft research;software;96
+@@@ microsoft research;software;22
+@@@ microsoft research;Technology;4
+@@@ microsoft research;Centers;47
+@@@ microsoft research;Centers;3
+@@@ microsoft research;China;6
+@@@ microsoft research;Asia;0
+@@@ microsoft research;New;6
+@@@ microsoft research;New;0
+@@@ microsoft research;City;37
+@@@ microsoft research;City;0
+@@@ microsoft research;Redmond;31
+@@@ microsoft research;Redmond;0
+@@@ microsoft research;established;1
+@@@ microsoft research;Technology;4
+@@@ microsoft research;Redmond;31
+@@@ microsoft research;Redmond;0
+@@@ microsoft research;center;52
+@@@ microsoft research;center;5
+@@@ microsoft research;free;3
+@@@ microsoft research;Windows;85
+@@@ microsoft research;office;0
+@@@ microsoft research;one;5
+@@@ microsoft research;software;96
+@@@ microsoft research;software;22
+13
+@@@ disneyland park;California;2
+@@@ disneyland park;California;4
+@@@ disneyland park;Walt Disney;7
+@@@ disneyland park;Walt Disney;0
+@@@ disneyland park;day;15
+@@@ disneyland park;July 17;19
+@@@ disneyland park;theme;6
+@@@ disneyland park;theme;7
+@@@ disneyland park;History;288
+@@@ disneyland park;Resort;3
+@@@ disneyland park;Resort;1
+@@@ disneyland park;Anaheim;1
+@@@ disneyland park;Anaheim;3
+@@@ disneyland park;World;9
+@@@ disneyland park;World;15
+@@@ disneyland park;years;248
+@@@ disneyland park;set;19
+@@@ disneyland park;go;237
+@@@ disneyland park;Walt;7
+@@@ disneyland park;Walt;0
+@@@ disneyland park;Hong Kong;6
+@@@ disneyland park;Disney;3
+@@@ disneyland park;Disney;0
+@@@ disneyland park;I;549
+@@@ disneyland park;California;2
+@@@ disneyland park;California;4
+@@@ disneyland park;theme;6
+@@@ disneyland park;theme;7
+@@@ disneyland park;Resort;3
+@@@ disneyland park;Resort;1
+@@@ disneyland park;50th;308
+@@@ disneyland park;southern;7
+@@@ disneyland park;Anniversary;2
+@@@ disneyland park;July 17;19
+@@@ disneyland park;city;209
+@@@ disneyland park;other;67
+@@@ disneyland park;other;4
+@@@ disneyland park;world;9
+@@@ disneyland park;world;15
+@@@ disneyland park;Tokyo;4
+@@@ disneyland park;Disney;3
+@@@ disneyland park;Disney;0
+@@@ disneyland park;New;20
+@@@ disneyland park;New;36
+@@@ disneyland park;I;549
+@@@ disneyland park;History;288
+@@@ disneyland park;Fantasyland;31
+@@@ disneyland park;Resort;3
+@@@ disneyland park;Resort;1
+@@@ disneyland park;Week;301
+@@@ disneyland park;Kingdom;5
+@@@ disneyland park;Kingdom;24
+@@@ disneyland park;Magic;4
+@@@ disneyland park;Magic;4
+@@@ disneyland park;days;155
+@@@ disneyland park;Paris;0
+@@@ disneyland park;Paris;0
+@@@ disneyland park;Disney;3
+@@@ disneyland park;Disney;0
+@@@ disneyland park;Resort;3
+@@@ disneyland park;Resort;1
+@@@ disneyland park;Euro;1
+@@@ disneyland park;Theme;6
+@@@ disneyland park;Theme;7
+@@@ disneyland park;one;34
+@@@ disneyland park;days;155
+@@@ disneyland park;built;5
+@@@ disneyland park;built;9
+@@@ disneyland park;worldwide;7
+@@@ disneyland park;magical;409
+@@@ disneyland park;12 April;15
+@@@ disneyland park;Passport;125
+14
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ 2012 summer olympics;dressage;69
+@@@ silver;dressage;837
+@@@ team;dressage;204
+@@@ equestrian at the 2012 summer olympics;dressage;0
+@@@ equestrian;dressage;5
+@@@ silver;dressage;2
+@@@ team;dressage;0
+@@@ 2012 summer olympics;Eventing;83
+@@@ silver;Eventing;823
+@@@ team;Eventing;218
+@@@ equestrian at the 2012 summer olympics;Eventing;5
+@@@ equestrian;Eventing;10
+@@@ silver;Eventing;20
+@@@ team;Eventing;0
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ equestrian at the 2012 summer olympics;added;469
+@@@ equestrian;added;289
+@@@ silver;added;492
+@@@ team;added;6
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ 2012 summer olympics;eventing;83
+@@@ silver;eventing;823
+@@@ team;eventing;218
+@@@ equestrian at the 2012 summer olympics;eventing;5
+@@@ equestrian;eventing;10
+@@@ silver;eventing;20
+@@@ team;eventing;0
+@@@ 2012 summer olympics;dressage;69
+@@@ silver;dressage;837
+@@@ team;dressage;204
+@@@ equestrian at the 2012 summer olympics;dressage;0
+@@@ equestrian;dressage;5
+@@@ silver;dressage;2
+@@@ team;dressage;0
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ 2012 summer olympics;jumping;97
+@@@ silver;jumping;809
+@@@ team;jumping;232
+@@@ equestrian at the 2012 summer olympics;jumping;10
+@@@ equestrian;jumping;5
+@@@ silver;jumping;14
+@@@ team;jumping;0
+@@@ equestrian at the 2012 summer olympics;show;65
+@@@ equestrian;show;33
+@@@ silver;show;27
+@@@ team;show;16
+@@@ 2012 summer olympics;I;753
+@@@ silver;I;900
+@@@ team;I;2696
+@@@ 2012 summer olympics;Greenwich Park;799
+@@@ silver;Greenwich Park;2216
+@@@ team;Greenwich Park;4012
+@@@ equestrian at the 2012 summer olympics;Greenwich Park;8
+@@@ equestrian;Greenwich Park;2
+@@@ silver;Greenwich Park;44
+@@@ team;Greenwich Park;10
+@@@ equestrian at the 2012 summer olympics;two;75
+@@@ equestrian;two;16
+@@@ silver;two;4
+@@@ team;two;2
+@@@ equestrian at the 2012 summer olympics;William Fox-Pitt;436
+@@@ equestrian;William Fox-Pitt;153
+@@@ silver;William Fox-Pitt;171
+@@@ team;William Fox-Pitt;54
+@@@ equestrian at the 2012 summer olympics;their;716
+@@@ equestrian;their;528
+@@@ silver;their;138
+@@@ team;their;0
+@@@ 2012 summer olympics;Dressage;69
+@@@ silver;Dressage;837
+@@@ team;Dressage;204
+@@@ equestrian at the 2012 summer olympics;Dressage;0
+@@@ equestrian;Dressage;5
+@@@ silver;Dressage;2
+@@@ team;Dressage;0
+@@@ 2012 summer olympics;Canadian;658
+@@@ silver;Canadian;4045
+@@@ team;Canadian;616
+@@@ 2012 summer olympics;I;753
+@@@ silver;I;900
+@@@ team;I;2696
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ 2012 summer olympics;eventing;83
+@@@ silver;eventing;823
+@@@ team;eventing;218
+@@@ equestrian at the 2012 summer olympics;eventing;5
+@@@ equestrian;eventing;10
+@@@ silver;eventing;20
+@@@ team;eventing;0
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ equestrian at the 2012 summer olympics;2011;177
+@@@ equestrian;2011;7
+@@@ silver;2011;427
+@@@ team;2011;19
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ 2012 summer olympics;eventing;83
+@@@ silver;eventing;823
+@@@ team;eventing;218
+@@@ equestrian at the 2012 summer olympics;eventing;5
+@@@ equestrian;eventing;10
+@@@ silver;eventing;20
+@@@ team;eventing;0
+@@@ 2012 summer olympics;sports;702
+@@@ silver;sports;4089
+@@@ team;sports;660
+@@@ equestrian at the 2012 summer olympics;sports;168
+@@@ equestrian;sports;0
+@@@ silver;sports;440
+@@@ team;sports;32
+@@@ equestrian at the 2012 summer olympics;2008;1
+@@@ equestrian;2008;1
+@@@ silver;2008;87
+@@@ team;2008;11
+@@@ 2012 summer olympics;I;753
+@@@ silver;I;900
+@@@ team;I;2696
+@@@ 2012 summer olympics;Canada;802
+@@@ silver;Canada;2515
+@@@ team;Canada;865
+@@@ equestrian at the 2012 summer olympics;Show;65
+@@@ equestrian;Show;33
+@@@ silver;Show;27
+@@@ team;Show;16
+@@@ 2012 summer olympics;athletes;78
+@@@ silver;athletes;3286
+@@@ team;athletes;141
+@@@ equestrian at the 2012 summer olympics;athletes;69
+@@@ equestrian;athletes;25
+@@@ silver;athletes;168
+@@@ team;athletes;9
+@@@ 2012 summer olympics;summer;19
+@@@ silver;summer;6
+@@@ team;summer;3
+@@@ equestrian at the 2012 summer olympics;summer;3
+@@@ equestrian;summer;1
+@@@ silver;summer;81
+@@@ team;summer;5
+@@@ 2012 summer olympics;Count;7
+@@@ silver;Count;7
+@@@ team;Count;9
+@@@ equestrian at the 2012 summer olympics;Count;34
+@@@ equestrian;Count;34
+@@@ silver;Count;555
+@@@ team;Count;147
+@@@ equestrian at the 2012 summer olympics;set;39
+@@@ equestrian;set;44
+@@@ silver;set;184
+@@@ team;set;39
+@@@ 2012 summer olympics;Dressage;69
+@@@ silver;Dressage;837
+@@@ team;Dressage;204
+@@@ equestrian at the 2012 summer olympics;Dressage;0
+@@@ equestrian;Dressage;5
+@@@ silver;Dressage;2
+@@@ team;Dressage;0
+@@@ 2012 summer olympics;I;753
+@@@ silver;I;900
+@@@ team;I;2696
+@@@ 2012 summer olympics;Canadian;658
+@@@ silver;Canadian;4045
+@@@ team;Canadian;616
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ equestrian at the 2012 summer olympics;Over;493
+@@@ equestrian;Over;313
+@@@ silver;Over;410
+@@@ team;Over;0
+@@@ 2012 summer olympics;athletes;78
+@@@ silver;athletes;3286
+@@@ team;athletes;141
+@@@ equestrian at the 2012 summer olympics;athletes;69
+@@@ equestrian;athletes;25
+@@@ silver;athletes;168
+@@@ team;athletes;9
+@@@ 2012 summer olympics;men;1
+@@@ silver;men;3
+@@@ team;men;0
+@@@ 2012 summer olympics;Sports;702
+@@@ silver;Sports;4089
+@@@ team;Sports;660
+@@@ equestrian at the 2012 summer olympics;Sports;168
+@@@ equestrian;Sports;0
+@@@ silver;Sports;440
+@@@ team;Sports;32
+@@@ 2012 summer olympics;eventing;83
+@@@ silver;eventing;823
+@@@ team;eventing;218
+@@@ equestrian at the 2012 summer olympics;eventing;5
+@@@ equestrian;eventing;10
+@@@ silver;eventing;20
+@@@ team;eventing;0
+@@@ 2012 summer olympics;gold;5
+@@@ silver;gold;92
+@@@ team;gold;530
+@@@ equestrian at the 2012 summer olympics;gold;76
+@@@ equestrian;gold;3
+@@@ silver;gold;0
+@@@ team;gold;3
+@@@ 2012 summer olympics;dressage;69
+@@@ silver;dressage;837
+@@@ team;dressage;204
+@@@ equestrian at the 2012 summer olympics;dressage;0
+@@@ equestrian;dressage;5
+@@@ silver;dressage;2
+@@@ team;dressage;0
+@@@ 2012 summer olympics;I;753
+@@@ silver;I;900
+@@@ team;I;2696
+@@@ 2012 summer olympics;jumping;97
+@@@ silver;jumping;809
+@@@ team;jumping;232
+@@@ equestrian at the 2012 summer olympics;jumping;10
+@@@ equestrian;jumping;5
+@@@ silver;jumping;14
+@@@ team;jumping;0
+@@@ equestrian at the 2012 summer olympics;show;65
+@@@ equestrian;show;33
+@@@ silver;show;27
+@@@ team;show;16
+@@@ equestrian at the 2012 summer olympics;Zara Phillips;446
+@@@ equestrian;Zara Phillips;163
+@@@ silver;Zara Phillips;161
+@@@ team;Zara Phillips;44
+@@@ 2012 summer olympics;Summer;19
+@@@ silver;Summer;6
+@@@ team;Summer;3
+@@@ equestrian at the 2012 summer olympics;Summer;3
+@@@ equestrian;Summer;1
+@@@ silver;Summer;81
+@@@ team;Summer;5
+15
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;27;250
+@@@ china university of geosciences;science;2
+@@@ china university of geosciences;Address;100
+@@@ china university of geosciences;Hubei;42
+@@@ china university of geosciences;Hubei;9
+@@@ china university of geosciences;International;19
+@@@ china university of geosciences;388;99
+@@@ china university of geosciences;388;57
+@@@ china university of geosciences;86;21
+@@@ china university of geosciences;Lumo;98
+@@@ china university of geosciences;Lumo;56
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Address;100
+@@@ china university of geosciences;one;24
+@@@ china university of geosciences;one;15
+@@@ china university of geosciences;review;1
+@@@ china university of geosciences;29;9
+@@@ china university of geosciences;86;21
+@@@ china university of geosciences;Engineering;23
+@@@ china university of geosciences;Organization;4
+@@@ china university of geosciences;Organization;418
+@@@ china university of geosciences;Post;43
+@@@ china university of geosciences;City;11
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Haidian;28
+@@@ china university of geosciences;Haidian;43
+@@@ china university of geosciences;one;24
+@@@ china university of geosciences;one;15
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;district;29
+@@@ china university of geosciences;district;44
+@@@ china university of geosciences;CUG;2
+@@@ china university of geosciences;Haidian District;28
+@@@ china university of geosciences;Haidian District;43
+@@@ china university of geosciences;administration;8
+@@@ china university of geosciences;administration;23
+@@@ china university of geosciences;Contents;122
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;state;77
+@@@ china university of geosciences;state;98
+@@@ china university of geosciences;GEOLOGY;93
+@@@ china university of geosciences;GEOLOGY;6
+@@@ china university of geosciences;technology;0
+@@@ china university of geosciences;Science;2
+@@@ china university of geosciences;Petroleum;43
+@@@ china university of geosciences;administration;8
+@@@ china university of geosciences;administration;23
+@@@ china university of geosciences;one;24
+@@@ china university of geosciences;one;15
+@@@ china university of geosciences;Address;100
+@@@ china university of geosciences;Mineral;10
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;10;7
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Address;100
+@@@ china university of geosciences;86;21
+@@@ china university of geosciences;GEOLOGY;93
+@@@ china university of geosciences;GEOLOGY;6
+@@@ china university of geosciences;Phone;27
+@@@ china university of geosciences;INSTITUTE;91
+@@@ china university of geosciences;INSTITUTE;3
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Wuhan;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Beijing;0
+@@@ china university of geosciences;Address;100
+@@@ china university of geosciences;27;250
+@@@ china university of geosciences;86;21
+@@@ china university of geosciences;GEOLOGY;93
+@@@ china university of geosciences;GEOLOGY;6
+@@@ china university of geosciences;engineering;23
+16
+@@@ la ronde;film;3
+@@@ la ronde;film;0
+@@@ la ronde;1964;0
+@@@ la ronde;Drama;509
+@@@ la ronde;Drama;80
+@@@ la ronde;Circle;1
+@@@ la ronde;Love;49
+@@@ la ronde;Love;3
+@@@ la ronde;Arthur Schnitzler;7
+@@@ la ronde;Arthur Schnitzler;0
+@@@ la ronde;based;9
+@@@ la ronde;based;1
+@@@ la ronde;1897;6
+@@@ la ronde;1897;0
+@@@ la ronde;same;17
+@@@ la ronde;same;9
+@@@ la ronde;movies;132
+@@@ la ronde;name;18
+@@@ la ronde;name;18
+@@@ la ronde;Starring;8
+@@@ la ronde;Films;5
+@@@ la ronde;1950;2
+@@@ la ronde;1950;0
+@@@ la ronde;Simone Signoret;447
+@@@ la ronde;Simone Signoret;9
+@@@ la ronde;Oph邦ls;7
+@@@ la ronde;Oph邦ls;2
+@@@ la ronde;Anton Walbrook;119
+@@@ la ronde;Anton Walbrook;6
+@@@ la ronde;works;91
+@@@ la ronde;Starring;8
+@@@ la ronde;one;70
+@@@ la ronde;one;83
+@@@ la ronde;Series;45
+@@@ la ronde;Series;65
+@@@ la ronde;plays;137
+@@@ la ronde;Arthur Schnitzler;7
+@@@ la ronde;Arthur Schnitzler;0
+@@@ la ronde;PROJECT;42
+@@@ la ronde;Set;41
+@@@ la ronde;Stage;13
+@@@ la ronde;Movies;132
+@@@ la ronde;Sound;2
+@@@ la ronde;AGAIN;15
+@@@ la ronde;HELLO;14
+@@@ la ronde;Arthur Schnitzler;7
+@@@ la ronde;Arthur Schnitzler;0
+@@@ la ronde;play;5
+@@@ la ronde;play;10
+@@@ la ronde;Room;20
+@@@ la ronde;Blue;19
+@@@ la ronde;Films;5
+@@@ la ronde;I;54
+@@@ la ronde;1950;2
+@@@ la ronde;1950;0
+17
+@@@ the omen;movie;231
+@@@ the omen;Julia Stiles;12
+@@@ the omen;2006;2
+@@@ the omen;2006;5
+@@@ the omen;remake;3
+@@@ the omen;remake;0
+@@@ the omen;20th;388
+@@@ the omen;20th;236
+@@@ the omen;Liev Schreiber;13
+@@@ the omen;Fox;390
+@@@ the omen;Fox;238
+@@@ the omen;Century;389
+@@@ the omen;Century;237
+@@@ the omen;David Thewlis;215
+@@@ the omen;movies;61
+@@@ the omen;movies;75
+@@@ the omen;Seamus Davey-Fitzpatrick;18
+@@@ the omen;film;10
+@@@ the omen;film;1
+@@@ the omen;1976;1
+@@@ the omen;1976;2
+@@@ the omen;Gregory Peck;14
+@@@ the omen;Lee Remick;16
+@@@ the omen;David Warner;18
+@@@ the omen;American;33
+@@@ the omen;American;3
+@@@ the omen;horror;34
+@@@ the omen;horror;5
+@@@ the omen;Directed;0
+@@@ the omen;Directed;7
+@@@ the omen;20th;388
+@@@ the omen;20th;236
+@@@ the omen;Original;524
+@@@ the omen;USA;438
+@@@ the omen;USA;259
+@@@ the omen;Damien;84
+@@@ the omen;Damien;21
+@@@ the omen;II;19
+@@@ the omen;Film;10
+@@@ the omen;Film;1
+@@@ the omen;movies;61
+@@@ the omen;movies;75
+@@@ the omen;actor;236
+@@@ the omen;actor;805
+@@@ the omen;DVD;83
+@@@ the omen;DVD;279
+@@@ the omen;actress;1192
+@@@ the omen;Movie;231
+@@@ the omen;1976;1
+@@@ the omen;1976;2
+@@@ the omen;Seltzer;8
+@@@ the omen;Seltzer;6
+@@@ the omen;horror;34
+@@@ the omen;horror;5
+@@@ the omen;2;6
+@@@ the omen;2;28
+@@@ the omen;Gregory Peck;14
+@@@ the omen;Stars;11
+@@@ the omen;Stars;3
+@@@ the omen;2006;2
+@@@ the omen;2006;5
+@@@ the omen;Lee Remick;16
+@@@ the omen;Damien;84
+@@@ the omen;Damien;21
+@@@ the omen;Warner;18
+18
+@@@ queen elizabeth;I;12
+@@@ X;I;251
+@@@ elizabeth;England;2
+@@@ queen elizabeth;England;14
+@@@ X;England;26
+@@@ elizabeth;Father;69
+@@@ elizabeth;II;0
+@@@ queen elizabeth;II;24
+@@@ X;II;239
+@@@ queen elizabeth;wife;98
+@@@ X;wife;95
+@@@ elizabeth;London;37
+@@@ elizabeth;II;0
+@@@ queen elizabeth;II;24
+@@@ X;II;239
+@@@ elizabeth;London;37
+@@@ elizabeth;Royal;29
+@@@ queen elizabeth;Royal;2
+@@@ X;Royal;29
+@@@ elizabeth;England;2
+@@@ queen elizabeth;England;14
+@@@ X;England;26
+@@@ elizabeth;Princess;0
+@@@ elizabeth;York;1
+@@@ queen elizabeth;York;55
+@@@ X;York;31
+@@@ elizabeth;Commonwealth;3
+@@@ queen elizabeth;Commonwealth;33
+@@@ X;Commonwealth;229
+@@@ queen elizabeth;I;12
+@@@ X;I;251
+@@@ queen elizabeth;UK;15
+@@@ X;UK;7
+@@@ queen elizabeth;I;12
+@@@ X;I;251
+@@@ elizabeth;England;2
+@@@ queen elizabeth;England;14
+@@@ X;England;26
+@@@ elizabeth;II;0
+@@@ queen elizabeth;II;24
+@@@ X;II;239
+@@@ queen elizabeth;History;158
+@@@ X;History;268
+@@@ elizabeth;reigned;48
+@@@ queen elizabeth;reigned;21
+@@@ X;reigned;242
+@@@ elizabeth;London;37
+19
+@@@ president of the united states;George H. W.;1005
+@@@ Bush;George H. W.;0
+@@@ president of the united states;George;2
+@@@ Bush;George;1
+@@@ president of the united states;America;1
+@@@ Bush;America;3
+@@@ president of the united states;George W.;371
+@@@ Bush;George W.;0
+@@@ president of the united states;Bill Clinton;829
+@@@ Bush;Bill Clinton;85
+@@@ president of the united states;George W.;371
+@@@ Bush;George W.;0
+@@@ president of the united states;II;36
+@@@ Bush;II;383
+@@@ president of the united states;George W.;371
+@@@ Bush;George W.;0
+@@@ president of the united states;George;2
+@@@ Bush;George;1
+@@@ president of the united states;George H. W.;1005
+@@@ Bush;George H. W.;0
+@@@ president of the united states;Barack Obama;15
+@@@ Bush;Barack Obama;68
+@@@ president of the united states;America;1
+@@@ Bush;America;3
+@@@ president of the united states;George H. W.;1005
+@@@ Bush;George H. W.;0
+@@@ president of the united states;Obama;16
+@@@ Bush;Obama;68
+@@@ president of the united states;class;181
+@@@ Bush;class;7466
+@@@ president of the united states;White;335
+@@@ Bush;White;34
+20
+@@@ world war;II;0
+@@@ world war;II;0
+@@@ world war;began;4
+@@@ world war;history;31
+@@@ world war;history;6
+@@@ world war;Poland;247
+@@@ world war;Poland;14
+@@@ world war;WWII;3
+@@@ world war;September;8
+@@@ world war;Nazi;618
+@@@ world war;45;94
+@@@ world war;45;123
+@@@ world war;conflict;28
+@@@ world war;conflict;3
+@@@ world war;Invasion;12
+@@@ world war;II;0
+@@@ world war;II;0
+@@@ world war;History;31
+@@@ world war;History;6
+@@@ world war;events;50
+@@@ world war;Nazi;618
+@@@ world war;Europe;6
+@@@ world war;Europe;56
+@@@ world war;more;1
+@@@ world war;more;43
+@@@ world war;forces;82
+@@@ world war;WW2;5
+@@@ world war;II;0
+@@@ world war;II;0
+@@@ world war;History;31
+@@@ world war;History;6
+@@@ world war;Invasion;12
+@@@ world war;Soviet Union;64
+@@@ world war;German;79
+@@@ world war;United States;125
+@@@ world war;United States;65
+@@@ world war;events;50
+@@@ world war;I;0
+@@@ world war;Nazi;618
+@@@ world war;Europe;6
+@@@ world war;Europe;56
+@@@ world war;Two;32
+@@@ world war;Two;25
+@@@ world war;History;31
+@@@ world war;History;6
+@@@ world war;events;50
+@@@ world war;France;46
+@@@ world war;France;15
+@@@ world war;Europe;6
+@@@ world war;Europe;56
+@@@ world war;more;1
+@@@ world war;more;43
+@@@ world war;I;0
+@@@ world war;German;79
+@@@ world war;Nazi;618
+@@@ world war;Battle;157
+@@@ world war;Battle;13
+@@@ world war;Hitler;1002
+@@@ world war;I;0
+@@@ world war;History;31
+@@@ world war;History;6
+@@@ world war;1918;10
+@@@ world war;Europe;6
+@@@ world war;Europe;56
+@@@ world war;great;2
+@@@ world war;great;22
+@@@ world war;Place;108
+@@@ world war;two;32
+@@@ world war;two;25
+@@@ world war;offensive;19
+@@@ world war;Russia;48
+@@@ world war;Russia;115
+@@@ world war;between;35
+21
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;map;2
+@@@ area code;map;1827
+@@@ durango;search;2
+@@@ area code;search;174
+@@@ durango;search;0
+@@@ area code;search;102
+@@@ durango;search;9
+@@@ area code;search;52
+@@@ durango;Zip;19
+@@@ area code;Zip;5
+@@@ durango;Zip;13
+@@@ area code;Zip;2
+@@@ durango;Zip;6
+@@@ area code;Zip;2
+@@@ durango;information;86
+@@@ area code;information;2971
+@@@ durango;information;175
+@@@ area code;information;972
+@@@ durango;information;208
+@@@ area code;information;265
+@@@ durango;Country;49
+@@@ area code;Country;119
+@@@ durango;Country;33
+@@@ area code;Country;62
+@@@ durango;Country;3
+@@@ area code;Country;18
+@@@ durango;location;29
+@@@ durango;location;7
+@@@ area code;location;161
+@@@ durango;location;1
+@@@ durango;location;1
+@@@ area code;location;98
+@@@ durango;location;15
+@@@ durango;location;53
+@@@ area code;location;110
+@@@ durango;Grand;14
+@@@ area code;Grand;1948
+@@@ durango;you;161
+@@@ area code;you;3046
+@@@ durango;you;242
+@@@ area code;you;1039
+@@@ durango;you;61
+@@@ area code;you;118
+@@@ durango;US;6
+@@@ area code;US;1256
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;ZIP;19
+@@@ area code;ZIP;5
+@@@ durango;ZIP;13
+@@@ area code;ZIP;2
+@@@ durango;ZIP;6
+@@@ area code;ZIP;2
+@@@ durango;Government;40
+@@@ area code;Government;100
+@@@ durango;Information;86
+@@@ area code;Information;2971
+@@@ durango;Information;175
+@@@ area code;Information;972
+@@@ durango;Information;208
+@@@ area code;Information;265
+@@@ durango;county;1
+@@@ durango;county;1
+@@@ area code;county;25
+@@@ durango;county;1
+@@@ durango;county;5
+@@@ area code;county;15
+@@@ durango;county;7
+@@@ durango;county;7
+@@@ area code;county;10
+@@@ durango;U.S.;2
+@@@ area code;U.S.;405
+@@@ durango;household;90
+@@@ area code;household;585
+@@@ durango;household;75
+@@@ durango;household;166
+@@@ area code;household;299
+@@@ durango;local;2
+@@@ area code;local;590
+@@@ durango;near;1
+@@@ area code;near;245
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;ZIP;19
+@@@ area code;ZIP;5
+@@@ durango;ZIP;13
+@@@ area code;ZIP;2
+@@@ durango;ZIP;6
+@@@ area code;ZIP;2
+@@@ durango;country;49
+@@@ area code;country;119
+@@@ durango;country;33
+@@@ area code;country;62
+@@@ durango;country;3
+@@@ area code;country;18
+@@@ durango;Mexico;0
+@@@ durango;Mexico;0
+@@@ area code;Mexico;196
+@@@ durango;US;6
+@@@ area code;US;1256
+@@@ durango;52;10
+@@@ durango;52;209
+@@@ area code;52;554
+@@@ durango;52;122
+@@@ durango;information;86
+@@@ area code;information;2971
+@@@ durango;information;175
+@@@ area code;information;972
+@@@ durango;information;208
+@@@ area code;information;265
+@@@ durango;see;3
+@@@ area code;see;130
+@@@ durango;search;2
+@@@ area code;search;174
+@@@ durango;search;0
+@@@ area code;search;102
+@@@ durango;search;9
+@@@ area code;search;52
+@@@ durango;household;90
+@@@ area code;household;585
+@@@ durango;household;75
+@@@ durango;household;166
+@@@ area code;household;299
+@@@ durango;all;17
+@@@ area code;all;561
+@@@ durango;all;74
+@@@ durango;all;46
+@@@ area code;all;114
+@@@ durango;all;149
+@@@ area code;all;206
+@@@ durango;Pages;82
+@@@ area code;Pages;2967
+@@@ durango;Pages;171
+@@@ area code;Pages;968
+@@@ durango;Pages;204
+@@@ area code;Pages;261
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;ZIP;19
+@@@ area code;ZIP;5
+@@@ durango;ZIP;13
+@@@ area code;ZIP;2
+@@@ durango;ZIP;6
+@@@ area code;ZIP;2
+@@@ durango;household;90
+@@@ area code;household;585
+@@@ durango;household;75
+@@@ durango;household;166
+@@@ area code;household;299
+@@@ durango;information;86
+@@@ area code;information;2971
+@@@ durango;information;175
+@@@ area code;information;972
+@@@ durango;information;208
+@@@ area code;information;265
+@@@ durango;county;1
+@@@ durango;county;1
+@@@ area code;county;25
+@@@ durango;county;1
+@@@ durango;county;5
+@@@ area code;county;15
+@@@ durango;county;7
+@@@ durango;county;7
+@@@ area code;county;10
+@@@ durango;most;7
+@@@ durango;most;1
+@@@ area code;most;29
+@@@ durango;Country;49
+@@@ area code;Country;119
+@@@ durango;Country;33
+@@@ area code;Country;62
+@@@ durango;Country;3
+@@@ area code;Country;18
+@@@ durango;population;29
+@@@ durango;population;30
+@@@ area code;population;33
+@@@ durango;population;20
+@@@ durango;population;20
+@@@ area code;population;30
+@@@ durango;Iowa;0
+@@@ durango;Iowa;0
+@@@ area code;Iowa;16
+@@@ durango;Zip;19
+@@@ area code;Zip;5
+@@@ durango;Zip;13
+@@@ area code;Zip;2
+@@@ durango;Zip;6
+@@@ area code;Zip;2
+@@@ durango;Country;49
+@@@ area code;Country;119
+@@@ durango;Country;33
+@@@ area code;Country;62
+@@@ durango;Country;3
+@@@ area code;Country;18
+@@@ durango;Information;86
+@@@ area code;Information;2971
+@@@ durango;Information;175
+@@@ area code;Information;972
+@@@ durango;Information;208
+@@@ area code;Information;265
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;Map;2
+@@@ area code;Map;1827
+@@@ durango;Help;15
+@@@ area code;Help;1431
+@@@ durango;Help;153
+@@@ area code;Help;950
+@@@ durango;Help;18
+@@@ area code;Help;41
+@@@ durango;you;161
+@@@ area code;you;3046
+@@@ durango;you;242
+@@@ area code;you;1039
+@@@ durango;you;61
+@@@ area code;you;118
+@@@ durango;country;49
+@@@ area code;country;119
+@@@ durango;country;33
+@@@ area code;country;62
+@@@ durango;country;3
+@@@ area code;country;18
+@@@ durango;US;6
+@@@ area code;US;1256
+@@@ durango;map;2
+@@@ area code;map;1827
+@@@ durango;search;2
+@@@ area code;search;174
+@@@ durango;search;0
+@@@ area code;search;102
+@@@ durango;search;9
+@@@ area code;search;52
+@@@ durango;Texas;0
+@@@ durango;Texas;0
+@@@ area code;Texas;11
+@@@ durango;Colorado;0
+@@@ durango;Colorado;0
+@@@ area code;Colorado;36
+@@@ durango;information;86
+@@@ area code;information;2971
+@@@ durango;information;175
+@@@ area code;information;972
+@@@ durango;information;208
+@@@ area code;information;265
+@@@ durango;Mexico;0
+@@@ durango;Mexico;0
+@@@ area code;Mexico;196
+@@@ durango;you;161
+@@@ area code;you;3046
+@@@ durango;you;242
+@@@ area code;you;1039
+@@@ durango;you;61
+@@@ area code;you;118
+@@@ durango;Zip;19
+@@@ area code;Zip;5
+@@@ durango;Zip;13
+@@@ area code;Zip;2
+@@@ durango;Zip;6
+@@@ area code;Zip;2
+@@@ durango;1;6
+@@@ durango;1;1
+@@@ area code;1;35
+@@@ durango;1;6
+@@@ durango;1;16
+@@@ area code;1;45
+@@@ durango;1;6
+@@@ durango;1;85
+@@@ area code;1;148
+22
+@@@ somebody that i used to know;Gotye;19
+@@@ song;Gotye;1
+@@@ somebody that i used to know;singer;342
+@@@ song;singer;2
+@@@ somebody that i used to know;Australian;1109
+@@@ song;Australian;103
+@@@ somebody that i used to know;Kimbra;2
+@@@ song;Kimbra;1
+@@@ somebody that i used to know;video;159
+@@@ song;video;5
+@@@ somebody that i used to know;songwriter;347
+@@@ song;songwriter;7
+@@@ somebody that i used to know;studio;74
+@@@ song;studio;21
+@@@ somebody that i used to know;album;75
+@@@ song;album;5
+@@@ somebody that i used to know;I;14
+@@@ song;I;5
+@@@ song;I;141
+@@@ somebody that i used to know;lyrics;138
+@@@ song;lyrics;0
+@@@ somebody that i used to know;third;73
+@@@ song;third;20
+@@@ somebody that i used to know;New Zealand;47
+@@@ song;New Zealand;3
+@@@ somebody that i used to know;Featuring;1
+@@@ song;Featuring;5
+@@@ somebody that i used to know;Making;76
+@@@ song;Making;23
+@@@ somebody that i used to know;Gotye;19
+@@@ song;Gotye;1
+@@@ somebody that i used to know;Kimbra;2
+@@@ song;Kimbra;1
+@@@ somebody that i used to know;I;14
+@@@ song;I;5
+@@@ song;I;141
+@@@ somebody that i used to know;singer;342
+@@@ song;singer;2
+@@@ somebody that i used to know;Australian;1109
+@@@ song;Australian;103
+@@@ somebody that i used to know;album;75
+@@@ song;album;5
+@@@ somebody that i used to know;video;159
+@@@ song;video;5
+@@@ somebody that i used to know;songwriter;347
+@@@ song;songwriter;7
+@@@ somebody that i used to know;feat;519
+@@@ song;feat;3
+@@@ somebody that i used to know;Making;76
+@@@ song;Making;23
+@@@ somebody that i used to know;Gotye;19
+@@@ song;Gotye;1
+@@@ somebody that i used to know;I;14
+@@@ song;I;5
+@@@ song;I;141
+@@@ somebody that i used to know;Kimbra;2
+@@@ song;Kimbra;1
+@@@ somebody that i used to know;singer;342
+@@@ song;singer;2
+@@@ somebody that i used to know;Australian;1109
+@@@ song;Australian;103
+@@@ somebody that i used to know;album;75
+@@@ song;album;5
+@@@ somebody that i used to know;year;162
+@@@ song;year;2
+@@@ somebody that i used to know;songwriter;347
+@@@ song;songwriter;7
+@@@ somebody that i used to know;Featuring;1
+@@@ song;Featuring;5
+@@@ somebody that i used to know;pop;148
+@@@ song;pop;1
+@@@ somebody that i used to know;Gotye;19
+@@@ song;Gotye;1
+@@@ somebody that i used to know;I;14
+@@@ song;I;5
+@@@ song;I;141
+@@@ somebody that i used to know;video;159
+@@@ song;video;5
+@@@ somebody that i used to know;you;188
+@@@ song;you;3
+@@@ somebody that i used to know;album;75
+@@@ song;album;5
+@@@ somebody that i used to know;Kimbra;2
+@@@ song;Kimbra;1
+@@@ somebody that i used to know;lyrics;138
+@@@ song;lyrics;0
+@@@ somebody that i used to know;Australian;1109
+@@@ song;Australian;103
+@@@ somebody that i used to know;singer;342
+@@@ song;singer;2
+@@@ somebody that i used to know;making;76
+@@@ song;making;23
+@@@ somebody that i used to know;chart;2
+@@@ song;chart;28
+23
+@@@ northeastern university;school;21
+@@@ X;school;1676
+@@@ northeastern university;Boston;0
+@@@ X;Boston;312
+@@@ northeastern university;private;2
+@@@ X;private;371
+@@@ northeastern university;institution;42
+@@@ northeastern university;institution;16
+@@@ X;institution;514
+@@@ northeastern university;Massachusetts;9
+@@@ X;Massachusetts;441
+@@@ northeastern university;Law;24
+@@@ northeastern university;Law;190
+@@@ X;Law;858
+@@@ northeastern university;State;32
+@@@ northeastern university;campus;1
+@@@ northeastern university;campus;1
+@@@ X;campus;343
+@@@ northeastern university;main;0
+@@@ northeastern university;main;0
+@@@ X;main;342
+@@@ northeastern university;located;52
+@@@ X;located;720
+@@@ northeastern university;United States;83
+@@@ X;United States;567
+@@@ northeastern university;public;2
+@@@ northeastern university;learning;59
+@@@ X;learning;490
+@@@ northeastern university;institution;42
+@@@ northeastern university;institution;16
+@@@ X;institution;514
+@@@ northeastern university;History;74
+@@@ northeastern university;state;32
+@@@ northeastern university;located;52
+@@@ X;located;720
+@@@ northeastern university;Us;778
+@@@ X;Us;442
+@@@ northeastern university;campus;1
+@@@ northeastern university;campus;1
+@@@ X;campus;343
+@@@ northeastern university;Team;40
+@@@ northeastern university;Team;40
+@@@ X;Team;611
+@@@ northeastern university;public;2
+@@@ northeastern university;Fall;63
+@@@ X;Fall;588
+@@@ northeastern university;NU;0
+@@@ X;NU;327
+@@@ northeastern university;main;0
+@@@ northeastern university;main;0
+@@@ X;main;342
+@@@ northeastern university;State;32
+@@@ northeastern university;students;20
+@@@ northeastern university;students;144
+@@@ X;students;812
+@@@ northeastern university;School;21
+@@@ X;School;1676
+@@@ northeastern university;Program;155
+@@@ X;Program;823
+@@@ northeastern university;Massachusetts;9
+@@@ X;Massachusetts;441
+@@@ northeastern university;located;52
+@@@ X;located;720
+@@@ northeastern university;research;5
+@@@ X;research;374
+@@@ northeastern university;campus;1
+@@@ northeastern university;campus;1
+@@@ X;campus;343
+@@@ northeastern university;graduate;24
+@@@ X;graduate;455
+@@@ northeastern university;institution;42
+@@@ northeastern university;institution;16
+@@@ X;institution;514
+@@@ northeastern university;public;2
+@@@ northeastern university;History;74
+@@@ northeastern university;students;20
+@@@ northeastern university;students;144
+@@@ X;students;812
+@@@ northeastern university;which;11
+@@@ northeastern university;China;0
+@@@ northeastern university;Shenyang;0
+@@@ northeastern university;located;52
+@@@ X;located;720
+@@@ northeastern university;NEU;109
+@@@ northeastern university;campus;1
+@@@ northeastern university;campus;1
+@@@ X;campus;343
+@@@ northeastern university;April 26;25
+@@@ northeastern university;Liaoning Province;3
+@@@ northeastern university;one;23
+@@@ northeastern university;one;157
+@@@ X;one;825
+@@@ northeastern university;institution;42
+@@@ northeastern university;institution;16
+@@@ X;institution;514
+@@@ northeastern university;Northeast China;0
+24
+@@@ bampaku-kinenk身en station;Line;18
+@@@ bampaku-kinenk身en station;Line;32
+@@@ bampaku-kinenk身en station;Ibaraki;6
+@@@ bampaku-kinenk身en station;Osaka;3
+@@@ bampaku-kinenk身en station;main;31
+@@@ bampaku-kinenk身en station;Railway;28
+@@@ bampaku-kinenk身en station;Line;18
+@@@ bampaku-kinenk身en station;Line;32
+@@@ bampaku-kinenk身en station;Ibaraki;6
+@@@ bampaku-kinenk身en station;Monorail;2
+@@@ bampaku-kinenk身en station;Japan;5
+@@@ bampaku-kinenk身en station;Japan;297
+@@@ bampaku-kinenk身en station;31;117
+@@@ bampaku-kinenk身en station;31;167
+@@@ bampaku-kinenk身en station;Osaka;3
+@@@ bampaku-kinenk身en station;1;6
+@@@ bampaku-kinenk身en station;1;6
+25
+@@@ uss russell;DD-414;0
+@@@ uss russell;II;80
+@@@ uss russell;Navy;6
+@@@ uss russell;Navy;15
+@@@ uss russell;ships;57
+@@@ uss russell;United States Navy;6
+@@@ uss russell;United States Navy;13
+@@@ uss russell;DDG-59;0
+@@@ uss russell;51;9
+@@@ uss russell;ship;15
+@@@ uss russell;ship;29
+@@@ uss russell;commissioned;59
+@@@ uss russell;DDG-59;0
+26
+@@@ george iv;Queen;17
+@@@ george iv;United Kingdom;2
+@@@ george iv;Regent;13
+@@@ george iv;father;20
+@@@ george iv;Prince;16
+@@@ george iv;III;22
+@@@ george iv;became;119
+@@@ george iv;King;7
+@@@ george iv;King;1
+@@@ george iv;United Kingdom;2
+@@@ george iv;III;22
+@@@ george iv;son;4
+@@@ george iv;British;75
+@@@ george iv;London;113
+@@@ george iv;Prince;16
+@@@ george iv;Royal;84
+@@@ george iv;father;20
+@@@ george iv;King;7
+@@@ george iv;King;1
+@@@ george iv;William;1235
+@@@ george iv;years;32
+@@@ george iv;became;119
+@@@ george iv;III;22
+@@@ george iv;United Kingdom;2
+@@@ george iv;father;20
+@@@ george iv;forms;71
+@@@ george iv;King;7
+@@@ george iv;King;1
+@@@ george iv;III;22
+@@@ george iv;father;20
+@@@ george iv;United Kingdom;2
+@@@ george iv;son;4
+@@@ george iv;Ireland;7
+@@@ george iv;British;75
+@@@ george iv;Prince;16
+@@@ george iv;age;118
+@@@ george iv;Regent;13
+@@@ george iv;king;7
+@@@ george iv;king;1
+@@@ george iv;Georgia;1
+@@@ george iv;Lasha;0
+@@@ george iv;United Kingdom;2
+@@@ george iv;son;4
+@@@ george iv;1213;8
+@@@ george iv;Georgian;4
+@@@ george iv;Georgian;27
+@@@ george iv;mother;30
+@@@ george iv;III;22
+@@@ george iv;Windsor;98
+@@@ george iv;1191;327
+27
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;music;6
+@@@ album;music;13
+@@@ over the rainbow;music;12
+@@@ album;music;28
+@@@ over the rainbow;pop;33
+@@@ album;pop;74
+@@@ over the rainbow;more;21
+@@@ album;more;28
+@@@ over the rainbow;Artist;42
+@@@ album;Artist;25
+@@@ over the rainbow;Artist;3
+@@@ album;Artist;6
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;Music;6
+@@@ album;Music;13
+@@@ over the rainbow;Music;12
+@@@ album;Music;28
+@@@ over the rainbow;under;26
+@@@ album;under;3
+@@@ over the rainbow;under;26
+@@@ album;under;40
+@@@ over the rainbow;Songs;56
+@@@ album;Songs;16
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;music;6
+@@@ album;music;13
+@@@ over the rainbow;music;12
+@@@ album;music;28
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;songs;56
+@@@ album;songs;16
+@@@ over the rainbow;music;6
+@@@ album;music;13
+@@@ over the rainbow;music;12
+@@@ album;music;28
+@@@ over the rainbow;known;15
+@@@ album;known;22
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;Music;6
+@@@ album;Music;13
+@@@ over the rainbow;Music;12
+@@@ album;Music;28
+@@@ over the rainbow;Korean;6
+@@@ album;Korean;2
+@@@ over the rainbow;three;75
+@@@ album;three;8
+@@@ over the rainbow;group;4
+@@@ album;group;4
+@@@ over the rainbow;Rainbow;3
+@@@ album;Rainbow;4
+@@@ over the rainbow;Rainbow;20
+@@@ album;Rainbow;5
+@@@ over the rainbow;songs;56
+@@@ album;songs;16
+@@@ over the rainbow;debut;2
+@@@ album;debut;1
+@@@ over the rainbow;debut;5
+@@@ album;debut;3
+@@@ over the rainbow;studio;4
+@@@ album;studio;0
+@@@ over the rainbow;music;6
+@@@ album;music;13
+@@@ over the rainbow;music;12
+@@@ album;music;28
+@@@ over the rainbow;under;26
+@@@ album;under;3
+@@@ over the rainbow;under;26
+@@@ album;under;40
+@@@ over the rainbow;Angela Chang;4
+@@@ album;Angela Chang;4
+28
+@@@ smile;drama;4
+@@@ TV;drama;12
+@@@ smile;I;12
+@@@ TV;I;162
+@@@ smile;2009;4
+@@@ TV;2009;89
+@@@ smile;English;447
+@@@ TV;English;26
+@@@ smile;1;2
+@@@ TV;1;6
+@@@ smile;1;2
+@@@ TV;1;6
+@@@ smile;shows;52
+@@@ TV;shows;18
+@@@ smile;television;65
+@@@ TV;television;13
+@@@ smile;television;3
+@@@ TV;television;5
+@@@ smile;Season;1
+@@@ TV;Season;27
+@@@ smile;Season;1
+@@@ TV;Season;26
+@@@ smile;Episode;53
+@@@ TV;Episode;37
+@@@ smile;Episode;55
+@@@ TV;Episode;39
+@@@ smile;Episode;53
+@@@ TV;Episode;37
+@@@ smile;Episode;55
+@@@ TV;Episode;39
+@@@ smile;Come;39
+@@@ TV;Come;267
+@@@ smile;drama;4
+@@@ TV;drama;12
+@@@ smile;Episode;53
+@@@ TV;Episode;37
+@@@ smile;Episode;55
+@@@ TV;Episode;39
+@@@ smile;1;2
+@@@ TV;1;6
+@@@ smile;1;2
+@@@ TV;1;6
+@@@ smile;Episode;53
+@@@ TV;Episode;37
+@@@ smile;Episode;55
+@@@ TV;Episode;39
+@@@ smile;Season;1
+@@@ TV;Season;27
+@@@ smile;Season;1
+@@@ TV;Season;26
+@@@ smile;2;2
+@@@ TV;2;6
+@@@ smile;2;37
+@@@ TV;2;21
+@@@ smile;15;2
+@@@ TV;15;9
+@@@ smile;15;69
+@@@ TV;15;53
+@@@ smile;sports;41
+@@@ TV;sports;185
+@@@ smile;your;32
+@@@ TV;your;210
+@@@ smile;episode;53
+@@@ TV;episode;37
+@@@ smile;episode;55
+@@@ TV;episode;39
+@@@ smile;I;12
+@@@ TV;I;162
+@@@ smile;Shows;52
+@@@ TV;Shows;18
+@@@ smile;television;65
+@@@ TV;television;13
+@@@ smile;television;3
+@@@ TV;television;5
+@@@ smile;CBBC;5
+@@@ TV;CBBC;17
+@@@ smile;Your;32
+@@@ TV;Your;210
+29
+@@@ cabot tower;world;0
+@@@ cabot tower;Newfoundland;6
+@@@ cabot tower;England;5
+@@@ cabot tower;Bristol;0
+@@@ cabot tower;St. John;4
+@@@ cabot tower;William Venn Gough;68
+@@@ cabot tower;Bristol;0
+@@@ cabot tower;city;16
+@@@ cabot tower;most;20
+@@@ cabot tower;Bristol;0
+@@@ cabot tower;most;20
+@@@ cabot tower;one;0
+@@@ cabot tower;new;1
+@@@ cabot tower;Bristol;0
+@@@ cabot tower;England;5
+@@@ cabot tower;world;0
+30
+@@@ secret;just;8
+@@@ album;just;7
+@@@ secret;songs;29
+@@@ album;songs;4
+@@@ secret;cover;26
+@@@ album;cover;1
+@@@ secret;Music;91
+@@@ album;Music;74
+@@@ secret;Music;308
+@@@ album;Music;53
+@@@ secret;Recorded;14
+@@@ album;Recorded;12
+@@@ secret;rock;349
+@@@ album;rock;94
+@@@ secret;music;91
+@@@ album;music;74
+@@@ secret;music;308
+@@@ album;music;53
+@@@ secret;You;34
+@@@ album;You;103
+@@@ secret;You;10
+@@@ album;You;27
+@@@ secret;free;6
+@@@ album;free;3
+@@@ secret;rock;349
+@@@ album;rock;94
+@@@ secret;Universe;4
+@@@ album;Universe;10
+@@@ secret;All;135
+@@@ album;All;9
+@@@ secret;All;24
+@@@ album;All;2
+@@@ secret;studio;3
+@@@ album;studio;0
+@@@ secret;studio;0
+@@@ album;studio;0
+@@@ secret;studio;3
+@@@ album;studio;0
+@@@ secret;Live;3
+@@@ album;Live;26
+@@@ secret;pop;169
+@@@ album;pop;177
+@@@ secret;pop;7
+@@@ album;pop;2
+@@@ secret;fourth;2
+@@@ album;fourth;1
+@@@ secret;fourth;2
+@@@ album;fourth;1
+@@@ secret;CD;8
+@@@ album;CD;8
+@@@ secret;CD;20
+@@@ album;CD;8
+@@@ secret;free;6
+@@@ album;free;3
+@@@ secret;four;13
+@@@ album;four;3
+@@@ secret;four;20
+@@@ album;four;3
+@@@ secret;Japanese;6
+@@@ album;Japanese;1
+@@@ secret;Kumi Koda;6
+@@@ album;Kumi Koda;4
+@@@ secret;Kumi Koda;0
+@@@ album;Kumi Koda;0
+@@@ secret;music;91
+@@@ album;music;74
+@@@ secret;music;308
+@@@ album;music;53
+@@@ secret;Japan;33
+@@@ album;Japan;63
+@@@ secret;Japan;11
+@@@ album;Japan;4
+@@@ secret;Japan;20
+@@@ album;Japan;1
+@@@ secret;Life;23
+@@@ album;Life;40
+@@@ secret;Lyrics;90
+@@@ album;Lyrics;73
+@@@ secret;Lyrics;2
+@@@ album;Lyrics;0
+@@@ secret;can;147
+@@@ album;can;102
+@@@ secret;Songs;29
+@@@ album;Songs;4
+@@@ secret;music;91
+@@@ album;music;74
+@@@ secret;music;308
+@@@ album;music;53
+@@@ secret;video;4
+@@@ album;video;22
+@@@ secret;video;40
+@@@ album;video;23
+@@@ secret;free;6
+@@@ album;free;3
+@@@ secret;There;33
+@@@ album;There;50
+@@@ secret;1;6
+@@@ album;1;5
+@@@ secret;1;20
+@@@ album;1;18
+@@@ secret;1;6
+@@@ album;1;5
+@@@ secret;singer;8
+@@@ album;singer;3
+@@@ secret;singer;8
+@@@ album;singer;3
+@@@ secret;Ayumi Hamasaki;0
+@@@ album;Ayumi Hamasaki;0
+@@@ secret;Ayumi Hamasaki;5
+@@@ album;Ayumi Hamasaki;4
+@@@ secret;label;23
+@@@ album;label;21
+@@@ secret;studio;3
+@@@ album;studio;0
+@@@ secret;studio;0
+@@@ album;studio;0
+@@@ secret;studio;3
+@@@ album;studio;0
+@@@ secret;Japanese;6
+@@@ album;Japanese;1
+@@@ secret;Japan;33
+@@@ album;Japan;63
+@@@ secret;Japan;11
+@@@ album;Japan;4
+@@@ secret;Japan;20
+@@@ album;Japan;1
+@@@ secret;free;6
+@@@ album;free;3
+@@@ secret;pop;169
+@@@ album;pop;177
+@@@ secret;pop;7
+@@@ album;pop;2
+@@@ secret;2006;18
+@@@ album;2006;1
+@@@ secret;songs;29
+@@@ album;songs;4
+@@@ secret;singles;1
+@@@ album;singles;45
+@@@ secret;Group;63
+@@@ album;Group;16
+@@@ secret;version;434
+@@@ album;version;86
+@@@ secret;2009;37
+@@@ album;2009;60
+@@@ secret;eighth;2
+@@@ album;eighth;1

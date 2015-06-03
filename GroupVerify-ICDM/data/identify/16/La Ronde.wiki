@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>La Ronde (1950 film) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22wmf21" />
+<meta name="robots" content="noindex,follow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/index.html?curid=1923722" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"La_Ronde_(1950_film)","wgTitle":"La Ronde (1950 film)","wgCurRevisionId":552997106,"wgRevisionId":552997106,"wgArticleId":1923722,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1950 films","French-language films","1950s drama films","Anthology films","Films based on plays","Films based on works by Arthur Schnitzler","Films directed by Max Oph¨¹ls","Films set in the 1890s","French films","French drama films","1950s French film stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"La_Ronde_(1950_film)","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf21/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-cn"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1923722,"title":"La Ronde (1950 film)","namespace":0,"categories":["1950 films","1950s French film stubs","1950s drama films","Anthology films","Films based on plays","Films based on works by Arthur Schnitzler","Films directed by Max Oph¨¹ls","Films set in the 1890s","French-language films","French drama films","French films"],"permissionLevel":false},"wgWikibaseItemId":"Q1196452"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots"
+:0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f518b864f4c01710d57ac85913b8c7f0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf21/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-La_Ronde_1950_film skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto"><i>La Ronde</i> (1950 film)</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" cellspacing="3" style="border-spacing:3px;width:22em;font-size: 90%;;">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size: 110%; font-style: italic;">La Ronde</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Larondeposter.jpg" class="image"><img alt="Larondeposter.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Larondeposter.jpg/220px-Larondeposter.jpg" width="220" height="304" srcset="//upload.wikimedia.org/wikipedia/en/c/c5/Larondeposter.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/c/c5/Larondeposter.jpg 2x" /></a><br />
+<div style="font-size: 95%; line-height: 1.5em;">Theatrical poster</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Directed by</th>
+<td><a href="/wiki/Max_Oph%C3%BCls" title="Max Oph¨¹ls">Max Oph¨¹ls</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Produced by</th>
+<td><a href="/wiki/Ralph_Baum" title="Ralph Baum">Ralph Baum</a><br />
+Sacha Gordine</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Screenplay by</th>
+<td>Louis Ducreux<br />
+<a href="/wiki/Kurt_Feltz" title="Kurt Feltz">Kurt Feltz</a><br />
+<a href="/wiki/Jacques_Natanson" title="Jacques Natanson">Jacques Natanson</a><br />
+Max Oph¨¹ls</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Based on</th>
+<td><i><a href="/wiki/La_Ronde_(play)" title="La Ronde (play)">La Ronde</a></i>&#160;<br />
+by <a href="/wiki/Arthur_Schnitzler" title="Arthur Schnitzler">Arthur Schnitzler</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Narrated by</th>
+<td><a href="/wiki/Anton_Walbrook" title="Anton Walbrook">Anton Walbrook</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Starring</th>
+<td><a href="/wiki/Simone_Signoret" title="Simone Signoret">Simone Signoret</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Music by</th>
+<td><a href="/wiki/Oscar_Straus_(composer)" title="Oscar Straus (composer)">Oscar Straus</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Cinematography</th>
+<td><a href="/wiki/Christian_Matras_(cinematographer)" title="Christian Matras (cinematographer)">Christian Matras</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Editing by</th>
+<td>L¨¦onide Azar</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Distributed by</th>
+<td>Commercial Pictures <i>(US)</i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Release date(s)</th>
+<td>
+<div class="plainlist" style="margin-left: 0em;">
+<ul>
+<li>27&#160;September&#160;1950<span style="display:none">&#160;(<span class="bday dtstart published updated">1950-09-27</span>)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Running time</th>
+<td>95 minutes</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Country</th>
+<td>France</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap;;">Language</th>
+<td><a href="/wiki/French_language" title="French language">French</a></td>
+</tr>
+</table>
+<p><i><b>La Ronde</b></i> is a 1950 film directed by <a href="/wiki/Max_Oph%C3%BCls" title="Max Oph¨¹ls">Max Oph¨¹ls</a> and based on <a href="/wiki/Arthur_Schnitzler" title="Arthur Schnitzler">Arthur Schnitzler</a>'s 1897 <a href="/wiki/La_Ronde_(play)" title="La Ronde (play)">play of the same name</a>. The title means "the round-dance".</p>
+<p>The film was nominated for two <a href="/wiki/Academy_Award" title="Academy Award">Academy Awards</a>; for <a href="/wiki/Academy_Award_for_Best_Writing_(Adapted_Screenplay)" title="Academy Award for Best Writing (Adapted Screenplay)">Best Writing</a> and <a href="/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction" class="mw-redirect">Best Art Direction</a> (<a href="/wiki/Jean_d%27Eaubonne" title="Jean d'Eaubonne">Jean d'Eaubonne</a>). <sup id="cite_ref-NY_Times_1-0" class="reference"><a href="#cite_note-NY_Times-1"><span>[</span>1<span>]</span></a></sup></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It tells a series of stories about love affairs or illicit meetings involving a prostitute, a soldier, a chambermaid, her employer's son, a married woman, her husband, a young girl, a poet, an actress and a count. At the end of each encounter, one of the partners forms a liaison with another person, and so on.</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit&amp;section=2" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Anton_Walbrook" title="Anton Walbrook">Anton Walbrook</a> as Raconteur</li>
+<li><a href="/wiki/Simone_Signoret" title="Simone Signoret">Simone Signoret</a> as Leocadie, the Prostitute</li>
+<li><a href="/wiki/Serge_Reggiani" title="Serge Reggiani">Serge Reggiani</a> as Franz, the Soldier</li>
+<li><a href="/wiki/Simone_Simon" title="Simone Simon">Simone Simon</a> as Marie, the Housemaid</li>
+<li><a href="/wiki/Daniel_G%C3%A9lin" title="Daniel G¨¦lin">Daniel G¨¦lin</a> as Alfred</li>
+<li><a href="/wiki/Danielle_Darrieux" title="Danielle Darrieux">Danielle Darrieux</a> as Emma Breitkopf</li>
+<li><a href="/wiki/Fernand_Gravey" title="Fernand Gravey">Fernand Gravey</a> as Charles Breitkopf, Emma's Husband</li>
+<li><a href="/wiki/Odette_Joyeux" title="Odette Joyeux">Odette Joyeux</a> as Anna, the Grisette</li>
+<li><a href="/wiki/Jean-Louis_Barrault" title="Jean-Louis Barrault">Jean-Louis Barrault</a> as Robert Kuhlenkampf, the Poet</li>
+<li><a href="/wiki/Isa_Miranda" title="Isa Miranda">Isa Miranda</a> as Charlotte, the Actress</li>
+<li><a href="/wiki/G%C3%A9rard_Philipe" title="G¨¦rard Philipe">G¨¦rard Philipe</a> as The Count</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/La_Ronde_(1964_film)" title="La Ronde (1964 film)" class="mw-redirect"><i>La Ronde</i> (1964 film)</a>, directed by <a href="/wiki/Roger_Vadim" title="Roger Vadim">Roger Vadim</a>, based on the same play</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-NY_Times-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-NY_Times_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://movies.nytimes.com/movie/65979/La-Ronde/details">"NY Times: La Ronde"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved 21 December 2008</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALa+Ronde+%281950+film%29&amp;rft.atitle=NY+Times%3A+La+Ronde&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmovies.nytimes.com%2Fmovie%2F65979%2FLa-Ronde%2Fdetails&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0042906/"><i>La Ronde</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.allrovi.com/movies/movie/v65979"><i>La Ronde</i></a> at <a href="/wiki/AllRovi" title="AllRovi">AllRovi</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Max_Oph%C3%BCls" title="Template:Max Oph¨¹ls"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Max_Oph%C3%BCls" title="Template talk:Max Oph¨¹ls"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Max_Oph%C3%BCls&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;">Films directed by <a href="/wiki/Max_Oph%C3%BCls" title="Max Oph¨¹ls">Max Oph¨¹ls</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Bartered_Bride_(1932_film)" title="The Bartered Bride (1932 film)">The Bartered Bride</a></i> (1932)</li>
+<li><i><a href="/wiki/The_Merry_Heirs" title="The Merry Heirs">The Merry Heirs</a></i> (1933)</li>
+<li><i><a href="/wiki/Liebelei" title="Liebelei" class="mw-redirect">Liebelei</a></i> (1933)</li>
+<li><i><a href="/wiki/Everybody%27s_Woman" title="Everybody's Woman">Everybody's Woman</a></i> (1934)</li>
+<li><i><a href="/wiki/The_Trouble_With_Money" title="The Trouble With Money">The Trouble With Money</a></i> (1936)</li>
+<li><i><a href="/wiki/Yoshiwara_(film)" title="Yoshiwara (film)">Yoshiwara</a></i> (1937)</li>
+<li><i><a href="/wiki/Vendetta_(1950_film)" title="Vendetta (1950 film)">Vendetta</a></i> (fired)</li>
+<li><i><a href="/wiki/The_Exile_(1947_film)" title="The Exile (1947 film)">The Exile</a></i> (1947)</li>
+<li><i><a href="/wiki/Letter_from_an_Unknown_Woman_(1948_film)" title="Letter from an Unknown Woman (1948 film)">Letter from an Unknown Woman</a></i> (1948)</li>
+<li><i><a href="/wiki/Caught_(1949_film)" title="Caught (1949 film)">Caught</a></i> (1949)</li>
+<li><i><a href="/wiki/The_Reckless_Moment" title="The Reckless Moment">The Reckless Moment</a></i> (1949)</li>
+<li><i><strong class="selflink">La Ronde</strong></i> (1950)</li>
+<li><i><a href="/wiki/Le_Plaisir" title="Le Plaisir">Le Plaisir</a></i> (1952)</li>
+<li><i><a href="/wiki/The_Earrings_of_Madame_de..." title="The Earrings of Madame de...">The Earrings of Madame de...</a></i> (1953)</li>
+<li><i><a href="/wiki/Lola_Mont%C3%A8s" title="Lola Mont¨¨s">Lola Mont¨¨s</a></i> (1955)</li>
+<li><i><a href="/wiki/The_Lovers_of_Montparnasse" title="The Lovers of Montparnasse">The Lovers of Montparnasse</a></i> (unfinished)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #BDB76B;">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BAFTA_Best_Film" title="Template:BAFTA Best Film"><span title="View this template" style="background: #BDB76B;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:BAFTA_Best_Film" title="Template talk:BAFTA Best Film"><span title="Discuss this template" style="background: #BDB76B;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BAFTA_Best_Film&amp;action=edit"><span title="Edit this template" style="background: #BDB76B;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/BAFTA_Award_for_Best_Film" title="BAFTA Award for Best Film">BAFTA Award for Best Film</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #BDB76B;">Best Film<br />
+from Any Source<br />
+1948¨C1968</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Best_Years_of_Our_Lives" title="The Best Years of Our Lives">The Best Years of Our Lives</a></i> (1948)</li>
+<li><i><a href="/wiki/Hamlet_(1948_film)" title="Hamlet (1948 film)">Hamlet</a></i> (1949)</li>
+<li><i><a href="/wiki/Bicycle_Thieves" title="Bicycle Thieves">Bicycle Thieves</a></i> (1950)</li>
+<li><i><a href="/wiki/All_About_Eve" title="All About Eve">All About Eve</a></i> (1951)</li>
+<li><i><strong class="selflink">La Ronde</strong></i> (1952)</li>
+<li><i><a href="/wiki/The_Sound_Barrier" title="The Sound Barrier">The Sound Barrier</a></i> (1953)</li>
+<li><i><a href="/wiki/Forbidden_Games" title="Forbidden Games">Forbidden Games</a></i> (1954)</li>
+<li><i><a href="/wiki/The_Wages_of_Fear" title="The Wages of Fear">The Wages of Fear</a></i> (1955)</li>
+<li><i><a href="/wiki/Richard_III_(1955_film)" title="Richard III (1955 film)">Richard III</a></i> (1956)</li>
+<li><i><a href="/wiki/Gervaise" title="Gervaise">Gervaise</a></i> (1957)</li>
+<li><i><a href="/wiki/The_Bridge_on_the_River_Kwai" title="The Bridge on the River Kwai">The Bridge on the River Kwai</a></i> (1958)</li>
+<li><i><a href="/wiki/Room_at_the_Top_(1959_film)" title="Room at the Top (1959 film)">Room at the Top</a></i> (1959)</li>
+<li><i><a href="/wiki/Ben-Hur_(1959_film)" title="Ben-Hur (1959 film)">Ben-Hur</a></i> (1960)</li>
+<li><i><a href="/wiki/The_Apartment" title="The Apartment">The Apartment</a></i> (1961)</li>
+<li><i><a href="/wiki/Ballad_of_a_Soldier" title="Ballad of a Soldier">Ballad of a Soldier</a></i> (1962)</li>
+<li><i><a href="/wiki/The_Hustler_(film)" title="The Hustler (film)">The Hustler</a></i> (1962)</li>
+<li><i><a href="/wiki/Lawrence_of_Arabia_(film)" title="Lawrence of Arabia (film)">Lawrence of Arabia</a></i> (1963)</li>
+<li><i><a href="/wiki/Tom_Jones_(film)" title="Tom Jones (film)">Tom Jones</a></i> (1964)</li>
+<li><i><a href="/wiki/Dr._Strangelove" title="Dr. Strangelove">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a></i> (1965)</li>
+<li><i><a href="/wiki/My_Fair_Lady_(film)" title="My Fair Lady (film)">My Fair Lady</a></i> (1966)</li>
+<li><i><a href="/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)" title="Who's Afraid of Virginia Woolf? (film)">Who's Afraid of Virginia Woolf?</a></i> (1967)</li>
+<li><i><a href="/wiki/A_Man_for_All_Seasons_(1966_film)" title="A Man for All Seasons (1966 film)">A Man for All Seasons</a></i> (1968)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #BDB76B;">Best Film<br />
+1969¨Cpresent</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/The_Graduate" title="The Graduate">The Graduate</a></i> (1969)</li>
+<li><i><a href="/wiki/Midnight_Cowboy" title="Midnight Cowboy">Midnight Cowboy</a></i> (1970)</li>
+<li><i><a href="/wiki/Butch_Cassidy_and_the_Sundance_Kid" title="Butch Cassidy and the Sundance Kid">Butch Cassidy and the Sundance Kid</a></i> (1971)</li>
+<li><i><a href="/wiki/Sunday_Bloody_Sunday_(film)" title="Sunday Bloody Sunday (film)">Sunday Bloody Sunday</a></i> (1972)</li>
+<li><i><a href="/wiki/Cabaret_(1972_film)" title="Cabaret (1972 film)">Cabaret</a></i> (1973)</li>
+<li><i><a href="/wiki/Day_for_Night_(film)" title="Day for Night (film)">Day for Night</a></i> (1974)</li>
+<li><i><a href="/wiki/Lacombe,_Lucien" title="Lacombe, Lucien">Lacombe, Lucien</a></i> (1975)</li>
+<li><i><a href="/wiki/Alice_Doesn%27t_Live_Here_Anymore" title="Alice Doesn't Live Here Anymore">Alice Doesn't Live Here Anymore</a></i> (1976)</li>
+<li><i><a href="/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)" title="One Flew Over the Cuckoo's Nest (film)">One Flew Over the Cuckoo's Nest</a></i> (1977)</li>
+<li><i><a href="/wiki/Annie_Hall" title="Annie Hall">Annie Hall</a></i> (1978)</li>
+<li><i><a href="/wiki/Julia_(1977_film)" title="Julia (1977 film)">Julia</a></i> (1979)</li>
+<li><i><a href="/wiki/Manhattan_(film)" title="Manhattan (film)">Manhattan</a></i> (1980)</li>
+<li><i><a href="/wiki/The_Elephant_Man_(film)" title="The Elephant Man (film)">The Elephant Man</a></i> (1981)</li>
+<li><i><a href="/wiki/Chariots_of_Fire" title="Chariots of Fire">Chariots of Fire</a></i> (1982)</li>
+<li><i><a href="/wiki/Gandhi_(film)" title="Gandhi (film)">Gandhi</a></i> (1983)</li>
+<li><i><a href="/wiki/Educating_Rita_(film)" title="Educating Rita (film)">Educating Rita</a></i> (1984)</li>
+<li><i><a href="/wiki/The_Killing_Fields_(film)" title="The Killing Fields (film)">The Killing Fields</a></i> (1985)</li>
+<li><i><a href="/wiki/The_Purple_Rose_of_Cairo" title="The Purple Rose of Cairo">The Purple Rose of Cairo</a></i> (1986)</li>
+<li><i><a href="/wiki/A_Room_with_a_View_(1986_film)" title="A Room with a View (1986 film)" class="mw-redirect">A Room with a View</a></i> (1987)</li>
+<li><i><a href="/wiki/Jean_de_Florette" title="Jean de Florette">Jean de Florette</a></i> (1988)</li>
+<li><i><a href="/wiki/The_Last_Emperor" title="The Last Emperor">The Last Emperor</a></i> (1989)</li>
+<li><i><a href="/wiki/Dead_Poets_Society" title="Dead Poets Society">Dead Poets Society</a></i> (1990)</li>
+<li><i><a href="/wiki/Goodfellas" title="Goodfellas">Goodfellas</a></i> (1991)</li>
+<li><i><a href="/wiki/The_Commitments_(film)" title="The Commitments (film)">The Commitments</a></i> (1992)</li>
+<li><i><a href="/wiki/Howards_End_(film)" title="Howards End (film)">Howards End</a></i> (1993)</li>
+<li><i><a href="/wiki/Schindler%27s_List" title="Schindler's List">Schindler's List</a></i> (1994)</li>
+<li><i><a href="/wiki/Four_Weddings_and_a_Funeral" title="Four Weddings and a Funeral">Four Weddings and a Funeral</a></i> (1995)</li>
+<li><i><a href="/wiki/Sense_and_Sensibility_(film)" title="Sense and Sensibility (film)">Sense and Sensibility</a></i> (1996)</li>
+<li><i><a href="/wiki/The_English_Patient_(film)" title="The English Patient (film)">The English Patient</a></i> (1997)</li>
+<li><i><a href="/wiki/The_Full_Monty" title="The Full Monty">The Full Monty</a></i> (1998)</li>
+<li><i><a href="/wiki/Shakespeare_in_Love" title="Shakespeare in Love">Shakespeare in Love</a></i> (1999)</li>
+<li><i><a href="/wiki/American_Beauty_(film)" title="American Beauty (film)">American Beauty</a></i> (2000)</li>
+<li><i><a href="/wiki/Gladiator_(2000_film)" title="Gladiator (2000 film)">Gladiator</a></i> (2001)</li>
+<li><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (2002)</li>
+<li><i><a href="/wiki/The_Pianist_(2002_film)" title="The Pianist (2002 film)">The Pianist</a></i> (2003)</li>
+<li><i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> (2004)</li>
+<li><i><a href="/wiki/The_Aviator_(2004_film)" title="The Aviator (2004 film)">The Aviator</a></i> (2005)</li>
+<li><i><a href="/wiki/Brokeback_Mountain" title="Brokeback Mountain">Brokeback Mountain</a></i> (2006)</li>
+<li><i><a href="/wiki/The_Queen_(film)" title="The Queen (film)">The Queen</a></i> (2007)</li>
+<li><i><a href="/wiki/Atonement_(film)" title="Atonement (film)">Atonement</a></i> (2008)</li>
+<li><i><a href="/wiki/Slumdog_Millionaire" title="Slumdog Millionaire">Slumdog Millionaire</a></i> (2009)</li>
+<li><i><a href="/wiki/The_Hurt_Locker" title="The Hurt Locker">The Hurt Locker</a></i> (2010)</li>
+<li><i><a href="/wiki/The_King%27s_Speech" title="The King's Speech">The King's Speech</a></i> (2011)</li>
+<li><i><a href="/wiki/The_Artist_(film)" title="The Artist (film)">The Artist</a></i> (2012)</li>
+<li><i><a href="/wiki/Argo_(2012_film)" title="Argo (2012 film)">Argo</a></i> (2013)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:La_Ronde_navbox" title="Template:La Ronde navbox"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:La_Ronde_navbox&amp;action=edit&amp;redlink=1" class="new" title="Template talk:La Ronde navbox (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:La_Ronde_navbox&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="/wiki/Arthur_Schnitzler" title="Arthur Schnitzler">Arthur Schnitzler</a>'s <i><a href="/wiki/La_Ronde_(play)" title="La Ronde (play)">La Ronde</a></i> (1897)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Film</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><strong class="selflink">La Ronde</strong></i> (1950)</li>
+<li><i><a href="/wiki/Circle_of_Love_(film)" title="Circle of Love (film)">Circle of Love</a></i> (1964)</li>
+<li><i><a href="/wiki/Choose_Me" title="Choose Me">Choose Me</a></i> (1984)</li>
+<li><i><a href="/wiki/Sexual_Life" title="Sexual Life">Sexual Life</a></i> (2005)</li>
+<li><i><a href="/wiki/360_(film)" title="360 (film)">360</a></i> (2011)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Stage</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Hello_Again_(musical)" title="Hello Again (musical)">Hello Again</a></i> (1994 musical)</li>
+<li><i><a href="/wiki/The_Blue_Room_(play)" title="The Blue Room (play)">The Blue Room</a></i> (1998 play)</li>
+<li><i><a href="/wiki/Seduction_(2004_play)" title="Seduction (2004 play)">Seduction</a></i> (2004 play)</li>
+<li><i><a href="/wiki/Fucking_Men" title="Fucking Men">Fucking Men</a></i> (2009 play)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" style="background: transparent;" role="presentation">
+<tr>
+<td><a href="/wiki/File:Francefilm.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/29px-Francefilm.svg.png" width="29" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/44px-Francefilm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/58px-Francefilm.svg.png 2x" /></a></td>
+<td><i>This article related to a French film of the 1950s is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit">expanding it</a>.</i>
+<div class="noprint plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1950s-France-film-stub" title="Template:1950s-France-film-stub"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1950s-France-film-stub" title="Template talk:1950s-France-film-stub"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1950s-France-film-stub&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.504 seconds
+Real time usage: 0.651 seconds
+Preprocessor visited node count: 865/1000000
+Preprocessor generated node count: 5791/1500000
+Post©\expand include size: 39899/2048000 bytes
+Template argument size: 1726/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 8/500
+Lua time usage: 0.046s
+Lua memory usage: 1.41 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1923722-0!*!0!!en!4!* and timestamp 20131023124003
+ -->
+<noscript><img src="//en.wikipedia.org/w/index.php?title=Special:CentralAutoLogin/start&amp;type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>								<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=La_Ronde_(1950_film)&amp;oldid=552997106">http://en.wikipedia.org/w/index.php?title=La_Ronde_(1950_film)&amp;oldid=552997106</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1950_films" title="Category:1950 films">1950 films</a></li><li><a href="/wiki/Category:French-language_films" title="Category:French-language films">French-language films</a></li><li><a href="/wiki/Category:1950s_drama_films" title="Category:1950s drama films">1950s drama films</a></li><li><a href="/wiki/Category:Anthology_films" title="Category:Anthology films">Anthology films</a></li><li><a href="/wiki/Category:Films_based_on_plays" title="Category:Films based on plays">Films based on plays</a></li><li><a href="/wiki/Category:Films_based_on_works_by_Arthur_Schnitzler" title="Category:Films based on works by Arthur Schnitzler">Films based on works by Arthur Schnitzler</a></li><li><a href="/wiki/Category:Films_directed_by_Max_Oph%C3%BCls" title="Category:Films directed by Max Oph¨¹ls">Films directed by Max Oph¨¹ls</a></li><li><a href="/wiki/Category:Films_set_in_the_1890s" title="Category:Films set in the 1890s">Films set in the 1890s</a></li><li><a href="/wiki/Category:French_films" title="Category:French films">French films</a></li><li><a href="/wiki/Category:French_drama_films" title="Category:French drama films">French drama films</a></li><li><a href="/wiki/Category:1950s_French_film_stubs" title="Category:1950s French film stubs">1950s French film stubs</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=La+Ronde+%281950+film%29&amp;returntoquery=curid%3D1923722&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=La+Ronde+%281950+film%29&amp;returntoquery=curid%3D1923722" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/La_Ronde_(1950_film)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:La_Ronde_(1950_film)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/La_Ronde_(1950_film)" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=edit"  title="You can edit this page. &#10;Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ¨C the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/La_Ronde_(1950_film)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/La_Ronde_(1950_film)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;oldid=552997106" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;action=info">Page information</a></li>
+			<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1196452" title="Link to connected data repository item">Data item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=La_Ronde_%281950_film%29&amp;id=552997106" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+	<h3 id='p-coll-print_export-label'>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=La+Ronde+%281950+film%29">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=La+Ronde+%281950+film%29&amp;oldid=552997106&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="/w/index.php?title=La_Ronde_(1950_film)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+	<h3 id='p-lang-label'>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Der_Reigen_(1950)" title="Der Reigen (1950) ¨C German" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/La_Ronde_(film,_1950)" title="La Ronde (film, 1950) ¨C French" lang="fr" hreflang="fr">Fran?ais</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Il_piacere_e_l%27amore_(film_1950)" title="Il piacere e l&amp;#039;amore (film 1950) ¨C Italian" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Filem_La_Ronde" title="Filem La Ronde ¨C Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/La_Ronde_(1950)" title="La Ronde (1950) ¨C Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E8%BC%AA%E8%88%9E_(1950%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)" title="Ý†Îè (1950Äê¤ÎÓ³»­) ¨C Japanese" lang="ja" hreflang="ja">ÈÕ±¾ÕZ</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/La_ronde_(1950)" title="La ronde (1950) ¨C Portuguese" lang="pt" hreflang="pt">Portugu¨ºs</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1950)" title="§¬§Ñ§â§å§ã§Ö§Ý§î (§æ§Ú§Ý§î§Þ, 1950) ¨C Russian" lang="ru" hreflang="ru">§²§å§ã§ã§Ü§Ú§Û</a></li>
+			<li class="uls-p-lang-dummy"><a href="#"></a></li>
+			<li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1196452#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 May 2013 at 05:29.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia? is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a class="external" href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/La_Ronde_(1950_film)" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf21/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.articleFeedbackv5.startup","ext.wikimediaEvents.ve","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1182 in 0.163 secs. -->
+	</body>
+</html>
